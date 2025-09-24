@@ -1,0 +1,884 @@
+version: "3.1"
+nlu:
+  - intent: greet
+    examples: |
+      - hey
+      - hello
+      - hi
+      - hello there
+      - good morning
+      - good evening
+      - moin
+      - hey there
+      - let's go
+      - hey dude
+      - goodmorning
+      - goodevening
+      - good afternoon
+      - yo
+      
+  - intent: goodbye
+    examples: |
+      - cu
+      - good by
+      - cee you later
+      - good night
+      - bye
+      - goodbye
+      - have a nice day
+      - see you around
+      - bye bye
+      - see you later
+      - tata
+  - intent: affirm
+    examples: |
+      - yes
+      - y
+      - indeed
+      - of course
+      - that sounds good
+      - correct
+  - intent: deny
+    examples: |
+      - no
+      - n
+      - never
+      - I don't think so
+      - don't like that
+      - no way
+      - not really
+  - intent: mood_great
+    examples: |
+      - perfect
+      - great
+      - amazing
+      - feeling like a king
+      - wonderful
+      - I am feeling very good
+      - I am great
+      - I am amazing
+      - I am going to save the world
+      - super stoked
+      - extremely good
+      - so so perfect
+      - so good
+      - so perfect
+      - fine
+      - happy
+
+      
+  - intent: mood_unhappy
+    examples: |
+      - my day was horrible
+      - I am sad
+      - I don't feel very well
+      - I am disappointed
+      - super sad
+      - I'm so sad
+      - sad
+      - very sad
+      - unhappy
+      - not good
+      - not very good
+      - extremly sad
+      - so saad
+      - so sad
+  - intent: bot_challenge
+    examples: |
+      - are you a bot?
+      - are you a human?
+      - am I talking to a bot?
+      - am I talking to a human?
+  - intent: location
+    examples: |
+      - what is the location of East West University?
+      - where is East West University located?
+      - can you tell me the location of East West University?
+      - where can I find East West University?
+      - address of East West University
+      - East West University address
+      - location of East West University
+      - East West University location
+      - where is East West University?
+      - where is East West University situated?
+      - can you give me the location of East West University?
+      - can you tell me where East West University is located?
+      - can you tell me where East West University is?
+      - where can I find East West University?
+      - what is the address of East West University?
+      - what is the address for East West University?
+      - East West University is located where?
+      - East West University is situated where?
+      - East West University is where?
+  - intent: departments
+    examples: |
+      - what are the departments of East West University
+      - list all EWU departments
+      - show me the EWU departments
+      - EWU faculties and departments
+      - tell me all departments in East West University
+      - tell me the departments of East West University
+      - which departments are there in East West University
+      - which departments are there at East West University
+  - intent: undergraduate_programs
+    examples: |
+      - what undergraduate programs are there at East West University
+      - which undergraduate programs are there at East West University
+      - list all undergraduate programs at East West University
+      - show me the undergraduate programs at East West University
+      - tell me about the undergraduate programs at East West University
+  - intent: tuition
+    examples: |
+      - what is the tuition fee of East West University
+      - how much is the tuition fee of East West University
+      - tell me the tuition fee of East West University
+      - what is the tuition fee for East West University
+      - ewu tuition fee
+      - East West University tuition fee
+      - tuition fee East West University
+      - tuition fee 
+  - intent: tuition_cse
+    examples: >
+      - what is the tuition fee of CSE department in East West University
+
+      - what is the tuition fee of Computer Science and Engineering department in East West University
+
+      - what is the tuition fee of Computer Science & Engineering department in East West University
+      - BSc in CSE department in East West University
+      - tuition fee CSE
+      - tuition fee Computer Science
+      - tuition fee Computer Engineering
+      - CSE tuition fee
+  - intent: tuition_eee
+    examples: >
+      - what is the tuition fee of EEE department in East West University
+
+      - what is the tuition fee of Electrical and Electronic Engineering department in East West University
+
+      - what is the tuition fee of Electrical & Electronic Engineering department in East West University
+      - BSc in EEE department in East West University
+      - tuition fee EEE
+      - tuition fee Electrical Engineering
+  - intent: tuition_ice
+    examples: >
+      - what is the tuition fee of ICE department in East West University
+
+      - what is the tuition fee of Information and Communications Engineering department in East West University
+
+      - what is the tuition fee of Information & Communications Engineering department in East West University
+      - BSc in ICE department in East West University
+      - tuition fee ICE
+      - tuition fee Information Engineering
+      - tuition fee Communications Engineering
+  - intent: tuition_geb
+    examples: >
+      - what is the tuition fee of GEB department in East West University
+
+      - what is the tuition fee of Genetic Engineering and Biotechnology department in East West University
+
+      - what is the tuition fee of Genetic Engineering & Biotechnology department in East West University
+      - BSc in GEB department in East West University
+      - tuition fee GEB
+      - tuition fee Genetic Engineering
+      - tuition fee Biotechnology
+
+
+  - intent: tuition_pharmacy
+    examples: |
+      - what is the tuition fee of Pharmacy department in East West University
+      - what is the tuition fee of Bachelor of Pharmacy department in East West University
+      - how much is the tuition fee of Pharmacy department in East West University
+      - how much is the tuition fee of Bachelor of Pharmacy department in East West University
+      - tuition fee Pharmacy
+      - Pharmacy tuition fee
+      - tuition fee B.Pharm
+      - B.Pharm tuition fee
+
+
+  - intent: tuition_civil
+    examples: |
+      - what is the tuition fee of Civil Engineering department in East West University
+      - what is the tuition fee of CE department in East West University
+      - how much is the tuition fee of Civil Engineering department in East West University
+      - how much is the tuition fee of CE department in East West University
+      - BSc in Civil Engineering department in East West University
+      - tuition fee Civil
+      - tuition fee Civil Engineering
+      - Civil tuition fee
+      - Civil Engineering tuition fee
+
+  - intent: tuition_math
+    examples: |
+      - what is the tuition fee of Mathematical and Physical Sciences department in East West University
+
+      - what is the tuition fee of Mathematical & Physical Sciences department in East West University
+
+      - what is the tuition fee of Math department in East West University
+
+      - BSc in Math department in East West University
+      - tuition fee Math
+      - tuition fee Mathematics
+      - Math tuition fee
+
+
+  - intent: tuition_english
+    examples: |
+      - what is the tuition fee of English department in East West University
+      - how much is the tuition fee of English department in East West University
+      - tution fee english
+      - eng tuition fee
+
+
+  - intent: tuition_law
+    examples: |
+      - what is the tuition fee of Law department in East West University         
+      - how much is the tuition fee of Law department in East West University
+      - tuition fee Law
+      - Law tuition fee
+
+  - intent: tuition_social_relations
+    examples: |
+      - what is the tuition fee of Social Relations department in East West University
+      - how much is the tuition fee of Social Relations department in East West University
+      - tuition fee Social Relations
+      - Social Relations tuition fee
+
+  - intent: tuition_information_studies
+    examples: |
+      - what is the tuition fee of Information Studies department in East West University
+      - how much is the tuition fee of Information Studies department in East West University
+      - tuition fee Information Studies
+      - Information Studies tuition fee
+      - tuition fee LIS
+      - LIS tuition fee
+
+  - intent: tuition_sociology
+    examples: |
+      - what is the tuition fee of Sociology department in East West University
+      - how much is the tuition fee of Sociology department in East West University
+      - tuition fee Sociology
+      - Sociology tuition fee
+
+  - intent: tuition_bba
+    examples: |
+      - what is the tuition fee of Business Administration department in East West University
+      - what is the tuition fee of BBA department in East West University
+      - how much is the tuition fee of Business Administration department in East West University
+      - how much is the tuition fee of BBA department in East West University
+      - tuition fee BBA
+      - BBA tuition fee
+
+
+  - intent: tuition_economics
+    examples: |
+      - what is the tuition fee of Economics department in East West University 
+      - how much is the tuition fee of Economics department in East West University
+      - tuition fee Economics
+      - Economics tuition fee
+      - eco tuition fee
+
+
+  - intent: tuition_data_science
+    examples: >
+      - what is the tuition fee of Data Science department in East West University 
+      - what is the tuition fee of Data Science and Analytics department in East West University
+      - what is the tuition fee of Data Science & Analytics department in East West University
+      - how much is the tuition fee of Data Science department in East West University
+      - how much is the tuition fee of Data Science and Analytics department in East West University
+      - how much is the tuition fee of Data Science & Analytics department in East West University
+      - tuition fee Data Science
+      - Data Science tuition fee
+      - tuition fee Data Science and Analytics
+      - Data Science and Analytics tuition fee
+      - dsa tuition fee
+      - data science tuition fee
+
+  - intent: tuition_pphs
+    examples: >
+      - what is the tuition fee of Public Health and Health Sciences department in East West University 
+
+      - what is the tuition fee of Public Health & Health Sciences department in East West University
+
+      - what is the tuition fee of PPHS department in East West University
+      - how much is the tuition fee of Public Health and Health Sciences department in East West University
+      - how much is the tuition fee of Public Health & Health Sciences department in East West University
+      - how much is the tuition fee of PPHS department in East West University
+      - tuition fee PPHS
+      - PPHS tuition fee
+      - tuition fee Public Health
+      - Public Health tuition fee
+
+
+  - intent: application_fee
+    examples: |
+      - what is the application fee of East West University
+      - how much is the application fee of East West University
+      - tell me the application fee of East West University
+      - what is the admission application fee of East West University
+      - how much is the admission application fee of East West University
+      - tell me the admission application fee of East West University
+  - intent: admission
+    examples: |
+      - what is the admission process of East West University
+      - how can I get admitted to East West University
+      - how can I apply for admission to East West University
+      - how can I apply for admission at East West University
+      - how can I apply for admission in East West University
+      - how can I get admission to East West University
+  - intent: scholarship
+    examples: |
+      - what are the scholarships available at East West University
+      - tell me about the scholarships at East West University
+      - tell me about scholarships at East West University
+      - which scholarships are available at East West University
+      - which scholarships are there at East West University
+      - which scholarships are offered at East West University
+      - which scholarships are provided at East West University
+      - which scholarships does East West University offer
+  - intent: facilities
+    examples: |
+      - what facilities are available at East West University
+      - what facilities does East West University have
+      - what facilities are there at East West University
+      - tell me about the facilities at East West University
+      - tell me about facilities at East West University
+      - which facilities are available at East West University
+      - which facilities are there at East West University
+      - which facilities does East West University offer
+  - intent: contact
+    examples: |
+      - how can I contact East West University    
+      - how can I get in touch with East West University
+      - how can I reach East West University
+  - intent: website
+    examples: |
+      - what is the website of East West University
+      - tell me the website of East West University
+      - give me the website of East West University
+      - East West University website
+  - intent: facebook
+    examples: |
+      - what is the facebook page of East West University
+      - tell me the facebook page of East West University
+      - give me the facebook page of East West University
+  - intent: undergraduate_programs
+    examples: |
+      - what undergraduate programs are there at East West University
+      - which undergraduate programs are there at East West University
+      - list all undergraduate programs at East West University
+      - show me the undergraduate programs at East West University
+      - tell me about the undergraduate programs at East West University
+  - intent: postgraduate_programs
+    examples: |
+      - what postgraduate programs are there at East West University
+      - which postgraduate programs are there at East West University 
+      - what graduate programs are there at East West University
+      - which graduate programs are there at East West University
+      - list all graduate programs at East West University
+      - show me the graduate programs at East West University
+  - intent: diploma_programs
+    examples: |
+      - what diploma programs are there at East West University
+      - which diploma programs are there at East West University 
+      - list all diploma programs at East West University
+      - show me the diploma programs at East West University
+  - intent: financial_aid
+    examples: >
+      - what financial aid options are available at East West University
+
+      - tell me about the financial aid options at East West University
+
+      - which financial aid options are there at East West University
+
+      - which financial aid options does East West University offer
+
+      - which financial aid options are provided at East West University
+
+      - which financial aid options are available for students at East West University
+
+      - which financial aid options are there for students at East West University
+
+      - which financial aid options does East West University offer for students
+
+      - which financial aid options are provided for students at East West University
+
+      - financial assistance at East West University
+
+      - what financial assistance options are available at East West University
+
+      - tell me about the financial assistance options at East West University
+  - intent: campus_life
+    examples: |
+      - what is campus life like at East West University
+      - tell me about campus life at East West University
+      - describe campus life at East West University
+  - intent: alumni
+    examples: |
+      - tell me about the alumni of East West University
+      - how successful are the alumni of East West University
+      - how successful are East West University alumni
+      - how successful are EWU alumni
+      - how successful are the alumni of EWU
+  - intent: events
+    examples: |
+      - what events are held at East West University
+      - what events are organized at East West University
+      - what events does East West University organize
+  - intent: news
+    examples: |
+      - what is the latest news about East West University  
+      - tell me the latest news about East West University
+  - intent: research
+    examples: |
+      - what research opportunities are there at East West University
+      - tell me about the research opportunities at East West University
+  - intent: admission_test
+    examples: |
+      - what is the admission test like at East West University
+      - tell me about the admission test at East West University
+      - describe the admission test at East West University
+      - when is the admission test at East West University
+      - when is the admission test for East West University
+      - when is the admission test for EWU
+      - when is the next admission test at East West University
+      - when is the next admission test for East West University
+      - admission test date at East West University
+      - last date of applying for admission test at East West University
+      - last date of applying for admission test for East West University
+      - last date of applying for admission test for EWU
+      - admission test date for East West University
+  - intent: admission_requirements
+    examples: |
+      - what are the admission requirements for East West University
+      - what are the admission requirements at East West University
+      - tell me about the admission requirements for East West University
+      - tell me about the admission requirements at East West University
+      - which admission requirements are there for East West University
+      - which admission requirements are there at East West University
+      - which admission requirements does East West University have
+      - which admission requirements does East West University offer
+      - what qualifications are required for admission to East West University
+  - intent: courses
+    examples: |
+      - what courses are there at East West University
+      - which courses are there at East West University
+      - list all courses at East West University
+      - show me the courses at East West University
+      - tell me about the courses at East West University
+      - what subjects are there at East West University
+      
+  - intent: courses_cse
+    examples: |
+      - what courses are there in CSE department at East West University
+      - which courses are there in CSE department at East West University
+      - list all courses in CSE department at East West University
+      - show me the courses in CSE department at East West University
+      - tell me about the courses in CSE department at East West University
+      - what subjects are there in CSE department at East West University
+
+  - intent: courses_eee
+    examples: |
+      - what courses are there in EEE department at East West University
+      - which courses are there in EEE department at East West University
+      - list all courses in EEE department at East West University
+      - show me the courses in EEE department at East West University
+      - tell me about the courses in EEE department at East West University
+  - intent: courses_ice
+    examples: >
+      - what courses are there in ICE department at East West University      
+
+      - which courses are there in ICE department at East West University
+
+      - list all courses in ICE department at East West University
+
+      - courses of Informations & Communications Engineering department at East West University
+
+      - show me the courses in ICE department at East West University
+  - intent: courses_geb
+    examples: |
+      - what courses are there in GEB department at East West University
+      - which courses are there in GEB department at East West University
+      - list all courses in GEB department at East West University
+      - show me the courses in GEB department at East West University
+  - intent: courses_pharmacy
+    examples: |
+      - what courses are there in Pharmacy department at East West University
+      - which courses are there in Pharmacy department at East West University
+      - list all courses in Pharmacy department at East West University
+      - show me the courses in Pharmacy department at East West University
+  - intent: courses_civil
+    examples: >
+      - what courses are there in Civil Engineering department at East West University
+
+      - which courses are there in Civil Engineering department at East West University
+
+      - list all courses in Civil Engineering department at East West University
+
+      - show me the courses in Civil Engineering department at East West University
+  - intent: courses_math
+    examples: >
+      - what courses are there in Mathematical and Physical Sciences department at East West University
+
+      - which courses are there in Mathematical and Physical Sciences department at East West University
+
+      - list all courses in Mathematical and Physical Sciences department at East West University
+
+      - show me the courses in Mathematical and Physical Sciences department at East West University
+
+      - what subjects are there in Mathematical and Physical Sciences department at East West University
+
+      - what subjects are there in Math department at East West University
+  - intent: courses_english
+    examples: |
+      - what courses are there in English department at East West University
+      - which courses are there in English department at East West University
+      - list all courses in English department at East West University
+      - show me the courses in English department at East West University
+  - intent: courses_law
+    examples: |
+      - what courses are there in Law department at East West University
+      - which courses are there in Law department at East West University
+      - list all courses in Law department at East West University
+      - show me the courses in Law department at East West University 
+  - intent: courses_social_relations
+    examples: |
+      - what courses are there in Social Relations department at East West University
+
+      - which courses are there in Social Relations department at East West University    
+
+      - list all courses in Social Relations department at East West University
+
+      - show me the courses in Social Relations department at East West University
+  - intent: courses_information_studies
+    examples: |
+      - what courses are there in Information Studies department at East  West University
+
+      - which courses are there in Information Studies department at East West University    
+
+      - list all courses in Information Studies department at East West University
+
+      - show me the courses in Information Studies department at East West University
+  - intent: courses_sociology
+    examples: |
+      - what courses are there in Sociology department at East West University
+      - which courses are there in Sociology department at East West University
+      - list all courses in Sociology department at East West University
+      - show me the courses in Sociology department at East West University
+  - intent: courses_business_administration
+    examples: |
+      - what courses are there in Business Administration department at East West University
+
+      - which courses are there in Business Administration department at East West University
+
+      - list all courses in Business Administration department at East West University
+
+      - show me the courses in Business Administration department at East West University
+  - intent: courses_economics
+    examples: >
+      - what courses are there in Economics department at East West University
+
+      - which courses are there in Economics department at East West University
+
+      - list all courses in Economics department at East West University
+
+      - show me the courses in Economics department at East West University
+
+      - tell me about the courses in Economics department at East West University
+  - intent: courses_data_science
+    examples: |
+      - what courses are there in Data Science and Analytics department at East West University
+
+      - which courses are there in Data Science department at East West University
+
+      - list all courses in Data Science department at East West University
+
+      - show me the courses in Data Science and Analytics department at East West University
+
+      - tell me about the courses in Data Science department at East West University
+  - intent: courses_pphs
+    examples: |
+      - what courses are there in Public Health and Health Sciences department at East West University
+
+      - which courses are there in Public Health and Health Sciences department at East West University
+
+      - list all courses in Public Health and Health Sciences department at East West University
+
+      - show me the courses in Public Health and Health Sciences department at East West University
+
+      - tell me about the courses in Public Health and Health Sciences department at East West University
+  - intent: courses_bba
+    examples: |
+      - what courses are there in BBA department at East West University
+      - which courses are there in BBA department at East West University
+      - list all courses in BBA department at East West University
+      - show me the courses in BBA department at East West University
+      - tell me about the courses in BBA department at East West University
+
+
+  - intent: mba_fee
+    examples: |
+      - Tell me about MBA tuition fees
+      - MBA fee structure
+      - What is the cost of MBA at EWU?
+      - How much is the MBA program?
+      - Fee details for MBA program
+  - intent: emba_fee
+    examples: |
+      - EMBA tuition fees
+      - Cost of EMBA program
+      - How much does EMBA at EWU cost?
+      - EMBA fee details
+      - Tell me about EMBA fees
+  - intent: mds_fee
+    examples: |
+      - MDS program fees
+      - How much is the MDS program?
+      - Tuition for MDS at EWU
+      - MDS fee structure
+      - Tell me the cost of MDS
+  - intent: mss_economics_fee
+    examples: |
+      - MSS in Economics tuition fees
+      - Fee for MSS in Economics
+      - Cost of MSS program
+      - How much is MSS in Economics?
+      - MSS Economics program fees
+  - intent: ma_english_fee
+    examples: |
+      - MA in English fees
+      - Tuition for MA English
+      - Cost of MA in English program
+      - Fee structure for MA English
+      - Tell me about MA English program fees
+  - intent: tesol_fee
+    examples: |
+      - MA TESOL tuition fees
+      - Cost of MA in TESOL
+      - Tuition fees for TESOL program
+      - How much is MA TESOL at EWU?
+      - Tell me the TESOL program fees
+  - intent: llm_fee
+    examples: |
+      - LL.M program fees
+      - Tuition for LLM
+      - How much is LL.M at EWU?
+      - Fee structure of LL.M
+      - Cost of LL.M program
+  - intent: mprhgd_fee
+    examples: |
+      - MPRHGD program fees
+      - Tuition for MPRHGD
+      - How much is MPRHGD at EWU?
+      - Fee details of MPRHGD program
+      - Cost of MPRHGD
+  - intent: ppdm_fee
+    examples: |
+      - PPDM tuition fees
+      - Fee for PPDM program
+      - How much is PPDM at EWU?
+      - PPDM cost details
+      - Tell me the tuition for PPDM
+  - intent: ds_analytics_fee
+    examples: |
+      - M.S. in Data Science & Analytics fees
+      - Tuition for Data Science program
+      - How much is M.S. in Data Science at EWU?
+      - Fee structure of Data Science & Analytics
+      - Cost of MS in Data Science
+  - intent: ms_cse_fee
+    examples: |
+      - MS in CSE fees
+      - Tuition for MS CSE
+      - How much is MS in CSE at EWU?
+      - Fee details for MS CSE program
+      - Cost of MS CSE
+      - MS in computer science and engineering fees
+      - Masters in computer science and engineering fees
+  - intent: mpharm_fee
+    examples: |
+      - M. Pharm tuition fees
+      - Fee for M. Pharm program
+      - How much is M. Pharm at EWU?
+      - Tuition for Master of Pharmacy
+      - Cost of M. Pharm program
+  - intent: pgded_fee
+    examples: |
+      - PGDED fees
+      - Tuition for PGDED program
+      - How much is PGDED at EWU?
+      - Fee details for PGDED
+      - Cost of PGDED program
+
+
+  - intent: ma_english_40_fee
+    examples: |
+      - MA in English 40 credit fees
+      - Tuition for MA English 40 credit
+      - How much is MA in English 40 credit at EWU?
+      - Fee structure for MA English 40 credit
+      - Tell me about MA English 40 credit program fees
+
+  - intent: ma_english_45_fee
+    examples: |
+      - MA in English 45 credit fees
+      - Tuition for MA English 45 credit
+      - How much is MA in English 45 credit at EWU?
+      - Fee structure for MA English 45 credit
+      - Tell me about MA English 45 credit program fees
+
+  - intent: ma_tesol_fee
+    examples: |
+      - MA in TESOL 36 credit fees
+      - Tuition for MA TESOL 36 credit
+      - How much is MA in TESOL 36 credit at EWU?
+      - Fee structure for MA TESOL 36 credit
+      - Tell me about MA TESOL 36 credit program fees
+
+  - intent: cse
+    examples: |
+      - How is the CSE department in EWU?
+      - Tell me about the Computer Science and Engineering department in East West University
+      - I want information on the Computer Science & Engineering department
+      - Can you give me details of the CSE department at EWU?
+
+  - intent: eee
+    examples: |
+      - How is the EEE department in EWU?
+      - Tell me about the Electrical and Electronic Engineering department in East West University
+      - I want information on the Electrical & Electronic Engineering department
+      - Can you give me details of the EEE department at EWU?
+
+  - intent: ice
+    examples: |
+      - How is the ICE department in EWU?
+      - Tell me about the Information and Communication Engineering department in East West University
+      - I want information on the ICE department
+      - Can you give me details of the ICE department at EWU?
+
+  - intent: math
+    examples: |
+      - How is the Mathematics department in EWU?
+      - Tell me about the Math department in East West University
+      - I want information on the Mathematics department
+      - Can you give me details of the Math department at EWU?
+
+  - intent: data_science
+    examples: |
+      - How is the Data Science department in EWU?
+      - Tell me about the Data Science & Analytics department in East West University
+      - I want information on the Data Science department
+      - Can you give me details of the Data Science & Analytics department at EWU?
+
+  - intent: sociology
+    examples: |
+      - How is the Sociology department in EWU?
+      - Tell me about the Sociology department in East West University
+      - I want information on the Sociology department
+      - Can you give me details of the Sociology department at EWU?
+
+  - intent: information_studies
+    examples: |
+      - How is the Information Studies department in EWU?
+      - Tell me about the Information Studies department in East West University
+      - I want information on the Information Studies department
+      - Can you give me details of the Information Studies department at EWU?
+
+  - intent: pphs
+    examples: |
+      - How is the Population & Public Health Sciences department in EWU?
+      - Tell me about the PPHS department in East West University
+      - I want information on the Population & Public Health Sciences department
+      - Can you give me details of the PPHS department at EWU?
+
+  - intent: economics
+    examples: |
+      - How is the Economics department in EWU?
+      - Tell me about the Economics department in East West University
+      - I want information on the Economics department
+      - Can you give me details of the Economics department at EWU?
+
+  - intent: civil
+    examples: |
+      - How is the Civil Engineering department in EWU?
+      - Tell me about the CE department in East West University
+      - I want information on the Civil department
+      - Can you give me details of the Civil Engineering department at EWU?
+
+  - intent: geb
+    examples: |
+      - How is the Genetic Engineering and Biotechnology department in EWU?
+      - Tell me about the GEB department in East West University
+      - I want information on the Genetic Engineering & Biotechnology department
+      - Can you give me details of the GEB department at EWU?
+
+  - intent: english
+    examples: |
+      - How is the English department in EWU?
+      - Tell me about the English department in East West University
+      - I want information on the English department
+      - Can you give me details of the English department at EWU?
+
+  - intent: pharmacy
+    examples: |
+      - How is the Pharmacy department in EWU?
+      - Tell me about the Bachelor of Pharmacy department in East West University
+      - I want information on the Pharmacy department
+      - Can you give me details of the B.Pharm department at EWU?
+
+  - intent: bba
+    examples: |
+      - How is the BBA department in EWU?
+      - Tell me about the Business Administration department in East West University
+      - I want information on the BBA department
+      - Can you give me details of the BBA department at EWU?
+
+  - intent: rules
+    examples: |
+      - what are the rules at East West University
+      - tell me about the rules at East West University
+      - which policies are there at East West University
+      - which policies are there in East West University
+      - which rules does East West University have
+      - which rules does East West University offer
+      - what regulations are there at East West University
+      - tell me about the regulations at East West University
+  
+  - intent: code_of_conduct
+    examples: |
+      - what is the code of conduct at East West University
+      - tell me about the code of conduct at East West University
+      - which code of conduct is there at East West University
+      - which code of conduct is there in East West University
+      - which code of conduct does East West University have
+      - which code of conduct does East West University offer
+      - what is the student code of conduct at East West University
+      - tell me about the student code of conduct at East West University
+
+  - intent: grading
+    examples: |
+      - how does the grading system work at East West University
+      - tell me about the grading system at East West University
+      - which grading system is there at East West University
+      - which grading system is there in East West University
+      - which grading system does East West University have
+      - which grading system does East West University offer
+      - what is the grading scale at East West University
+      - tell me about the grading scale at East West University
+
+  - intent: fallback
+    examples: |
+      - [UNK]
+      - [OOV]
+      - asdfghjkl
+      - qwertyuiop
+      - zxcvbnm
+      - 123456
+      - 987654
+      - !@#$%^&*
+      - ()_+
+      - {}|:
+      - "<>"
+      - ?/.,
+      - ;'[]\
+      - ~`
+      - -=

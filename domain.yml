@@ -1,0 +1,790 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - location
+  - departments
+  - tuition
+  - tuition_cse
+  - tuition_bba
+  - tuition_civil
+  - tuition_data_science
+  - tuition_economics
+  - tuition_eee
+  - tuition_english
+  - tuition_geb
+  - tuition_law
+  - tuition_pharmacy
+  - tuition_sociology
+  - tuition_ice
+  - tuition_information_studies
+  - tuition_math
+  - tuition_pphs
+  - tuition_social_relations 
+  - application_fee
+  - admission
+  - scholarship
+  - facilities
+  - contact
+  - website
+  - facebook
+  - undergraduate_programs
+  - postgraduate_programs
+  - diploma_programs
+  - financial_aid
+  - campus_life
+  - alumni
+  - events
+  - news
+  - research
+  - admission_test
+  - admission_requirements
+  - courses
+  - courses_bba
+  - courses_cse
+  - courses_eee
+  - courses_civil
+  - courses_geb
+  - courses_pharmacy
+  - courses_english
+  - courses_law
+  - courses_sociology
+  - courses_ice
+  - courses_information_studies
+  - courses_math
+  - courses_pphs
+  - courses_economics
+  - courses_data_science        
+  - courses_business_administration  
+  - courses_social_relations  
+  - code_of_conduct
+  - rules
+  - grading
+  - cse
+  - eee
+  - ice
+  - math
+  - data_science
+  - sociology
+  - information_studies
+  - pphs
+  - economics
+  - civil
+  - geb
+  - english
+  - pharmacy
+  - bba
+  - ds_analytics_fee
+  - emba_fee
+  - mba_fee
+  - mds_fee
+  - mss_economics_fee
+  - llm_fee
+  - ma_english_40_fee
+  - ma_english_45_fee
+  - mprhgd_fee
+  - ma_english_fee
+  - ma_tesol_fee
+  - tesol_fee                   
+  - mpharm_fee
+  - ms_cse_fee
+  - pgded_fee
+  - ppdm_fee              
+  - fallback
+
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.pinimg.com/736x/dc/c8/83/dcc8835ee2e73cfde9750a19f59a33ea.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_default:
+  - text: "I'm sorry, I didn't understand that. Could you please rephrase or ask something else?"
+
+  utter_location:
+  - text: "The address for East West University (EWU) is A/2, Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka-1212, Bangladesh. You can find the university's campus in Aftabnagar, within Jahurul Islam City. "
+
+  utter_departments:
+  - text: "Here are the departments at East West University (EWU):\n\n"
+  - text: "**Faculty of Science & Engineering:**\n- Computer Science & Engineering (CSE)\n- Electrical & Electronic Engineering (EEE)\n- Electronics & Communications Engineering (ECE)\n- Genetic Engineering & Biotechnology (GEB)\n- Pharmacy\n- Civil Engineering\n- Mathematical & Physical Sciences\n\n**Faculty of Liberal Arts & Social Sciences:**\n- English\n- Law\n- Social Relations\n- Information Studies\n- Sociology\n\n**Faculty of Business & Economics:**\n- Business Administration\n- Economics"
+
+  utter_tuition:
+  - text: |
+      **Tuition Fee (Per Credit)** 
+        - Faculty of Business & Economics → BBA: 6,000/=  
+        - Faculty of Business & Economics → BSS in Economics: 5,000/=  
+        - Faculty of Liberal Arts & Social Sciences → BA in English: 5,000/=  
+        - Faculty of Liberal Arts & Social Sciences → LL.B (Hon’s): 5,500/=  
+        - Faculty of Liberal Arts & Social Sciences → BSS in Sociology: 5,000/=  
+        - Faculty of Liberal Arts & Social Sciences → BSS in Information Studies: 5,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in ICE: 6,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in CSE: 6,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in EEE: 6,000/=  
+        - Faculty of Sciences & Engineering → B. Pharm.: 7,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in GEB: 6,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in Civil Engineering: 6,000/=  
+        - Faculty of Liberal Arts & Social Sciences → BSS in PPHS: 4,500/=  
+        - Faculty of Sciences & Engineering → B.Sc. (Hons.) in Mathematics: 3,000/=  
+        - Faculty of Sciences & Engineering → B.Sc. in Data Science & Analytics: 5,000/=  
+        
+        **Undergraduate Fee Summary (Grand Total)** 
+
+        Faculty of Business & Economics  
+        - BBA → 827,800/=  
+        - BSS in Economics → 730,800/=  
+
+        Faculty of Liberal Arts & Social Sciences  
+        - BA in English → 730,800/=  
+        - LL.B (Hon’s) → 776,300/=  
+        - BSS in Sociology → 724,800/=  
+        - BSS in Information Studies → 721,800/=  
+        - BSS in PPHS → 658,300/=  
+
+        Faculty of Sciences & Engineering  
+        - B.Sc. in ICE → 906,788/=  
+        - B.Sc. in CSE → 906,788/=  
+        - B.Sc. in EEE → 906,788/=  
+        - B. Pharm. → 1,154,800/=  
+        - B.Sc. in GEB → 906,788/=  
+        - B.Sc. in Civil Engineering → 936,788/=  
+        - B.Sc. (Hons.) in Mathematics → 519,788/=  
+        - B.Sc. in Data Science & Analytics → 755,788/=  
+
+        **Other Fees**  
+        - Application Form: Tk. 1,500/- (online processing fee extra)  
+        - Admission Fee: Tk. 20,000/- (non-refundable)  
+        - Lab Fees:  
+          * Tk. 3,333/- per semester (CSE, ICE, EEE, Data Science, GEB, Civil Engg., Math)  
+          * Tk. 2,000/- per semester (all other programs)  
+          * Tk. 5,000/- per semester (B. Pharm.)  
+          * Tk. 3,375/- per semester (LL.B)  
+        - Student Activity Fee:  
+          * Tk. 1,600/- per semester (LL.B & Pharmacy)  
+          * Tk. 1,066/- per semester (all other programs)  
+        - Document Verification Fee: Payable if applicable.  
+
+        *Fees are subject to change by university authority.*
+
+  utter_undergraduate_programs:
+    - text: |
+        East West University (EWU) offers the following Undergraduate Programs:
+
+        **Faculty of Business & Economics**
+        - BBA (Bachelor of Business Administration)  
+        - BSS in Economics  
+
+        **Faculty of Liberal Arts & Social Sciences**
+        - BA in English  
+        - LL.B (Honours)  
+        - BSS in Sociology  
+        - BSS in Information Studies  
+        - BSS in Population & Public Health Sciences  
+
+        **Faculty of Sciences & Engineering**
+        - B.Sc. in Computer Science & Engineering (CSE)  
+        - B.Sc. in Information & Communication Engineering (ICE)  
+        - B.Sc. in Electrical & Electronic Engineering (EEE)  
+        - B.Sc. in Civil Engineering (CE)  
+        - B.Sc. in Genetic Engineering & Biotechnology (GEB)  
+        - B.Sc. in Mathematics  
+        - B.Sc. in Data Science & Analytics  
+        - Bachelor of Pharmacy (B.Pharm)
+
+
+  utter_tuition_cse:
+  - text: "The tuition fee for the Computer Science & Engineering (CSE) program at East West University (EWU) is 6,000 BDT per credit. The total tuition fee for the entire program is approximately 906,788 BDT."
+
+  utter_tuition_bba:
+  - text: "The tuition fee for the Bachelor of Business Administration  (BBA) program at East West University (EWU) is 6,000 BDT per credit. The total tuition fee for the entire program is approximately 827,000 BDT."
+
+
+
+  utter_tuition_economics:
+    - text: "The tuition fee for the BSS in Economics program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 730,800."
+
+  utter_tuition_english:
+    - text: "The tuition fee for the BA in English program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 730,800."
+
+  utter_tuition_law:
+    - text: "The tuition fee for the LL.B (Hon’s) program at East West University (EWU) is BDT 5,500 per credit. The total tuition fee for the entire program is approximately BDT 776,300."
+
+  utter_tuition_sociology:
+    - text: "The tuition fee for the BSS in Sociology program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 724,800."
+
+  utter_tuition_information_studies:
+    - text: "The tuition fee for the BSS in Information Studies program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 721,800."
+
+  utter_tuition_ice:
+    - text: "The tuition fee for the B.Sc. in ICE program at East West University (EWU) is BDT 6,000 per credit. The total tuition fee for the entire program is approximately BDT 906,788."
+
+  utter_tuition_eee:
+    - text: "The tuition fee for the B.Sc. in EEE program at East West University (EWU) is BDT 6,000 per credit. The total tuition fee for the entire program is approximately BDT 906,788."
+
+  utter_tuition_pharmacy:
+    - text: "The tuition fee for the B. Pharm. program at East West University (EWU) is BDT 7,000 per credit. The total tuition fee for the entire program is approximately BDT 1,154,800."
+
+  utter_tuition_geb:
+    - text: "The tuition fee for the B.Sc. in GEB program at East West University (EWU) is BDT 6,000 per credit. The total tuition fee for the entire program is approximately BDT 906,788."
+
+  utter_tuition_civil:
+    - text: "The tuition fee for the B.Sc. in Civil Engineering program at East West University (EWU) is BDT 6,000 per credit. The total tuition fee for the entire program is approximately BDT 936,788."
+
+  utter_tuition_pphs:
+    - text: "The tuition fee for the BSS in PPHS program at East West University (EWU) is BDT 4,500 per credit. The total tuition fee for the entire program is approximately BDT 658,300."
+
+  utter_tuition_mathematics:
+    - text: "The tuition fee for the B.Sc. (Hons.) in Mathematics program at East West University (EWU) is BDT 3,000 per credit. The total tuition fee for the entire program is approximately BDT 519,788."
+
+  utter_tuition_dsa:
+    - text: "The tuition fee for the B.Sc. in Data Science and Analytics program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 755,788."
+  
+  utter_tuition_social_relations:
+    - text: "The tuition fee for the BSS in Social Relations program at East West University (EWU) is BDT 5,000 per credit. The total tuition fee for the entire program is approximately BDT 724,800."
+
+  
+  
+
+  utter_application_fee:
+  - text: "Application Form: Tk. 1,500/- (online processing fee extra)"
+
+  utter_admission:
+    - text: |
+        Instructions and Guidelines for Submitting EWU Online Admission Form:
+
+        1. Visit [EWU Website](http://www.ewubd.edu) or directly [admission.ewubd.edu](http://admission.ewubd.edu).
+        2. Click **Create New Applicant**, then select your program. (Note: Once selected, program cannot be changed).
+        3. Enter your Name, Mobile Number, and optionally Email. You will receive an **EWU Login ID** (e.g., 163354131). Note it down carefully.  
+           - You can also download/print the pay slip for payment.  
+           - The Login ID is sent to your email as well.
+        4. Pay the application fee **Tk 1,500/- (non-refundable)** either:  
+           - In cash at EWU Admission Office, OR  
+           - Online via **Bkash** (processing fee applies).
+        5. After payment, log in with your **EWU Login ID** and Mobile Number to access the form.
+        6. Fill the Online Admission Form carefully. Fields with * are mandatory. False/wrong info will cancel admission.
+        7. Upload required documents:  
+           - Recent passport size color photo (*.jpg, max 100Kb).  
+           - Scanned signature on white background (*.jpg, max 60Kb).
+        8. You may **Save**, **Preview**, or **Submit** the form. After submission, editing is not allowed.
+        9. After successful submission, you’ll see: *“Your form has been submitted successfully.”*  
+           - Download/print the **Admit Card** using your Login ID and Mobile Number. Admit Card is mandatory for Admission Test.
+        10. Bring your original **HSC/Equivalent registration card / A-Level statement of entry** to the test and admission.
+        11. Final admission decisions are made by the EWU Admission Committee.
+
+        EWU Admission Office: A/2 Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka.  
+        Phone: 55046678, 09666775577, 01755587224  
+        Email: admissions@ewubd.edu
+  
+  
+  utter_scholarships:
+    - text: |
+        East West University (EWU) provides generous scholarships and financial assistance worth over Tk. 11 Crores every year. More than 20% of regular students receive support in the form of merit-based scholarships and need-based financial aid.  
+
+        **Types of Scholarships:**
+        - Merit Scholarships (various categories)  
+        - Trustee’s Scholarships  
+
+        **Financial Assistance:**
+        - General financial aid (need-cum-merit based)  
+        - Family Concession (siblings/spouse)  
+        - Freedom Fighter’s Scholarship  
+        - The Medha Lalon Fund  
+        - Assistance for EWU Employees  
+
+        **Highlights:**  
+        - Candidates securing top scores in admission tests, GPA 5.00 in SSC & HSC, or A+ in O/A Levels are eligible for full or partial tuition waivers.  
+        - District Quota scholarships for meritorious poor students from each district.  
+        - Graduate students with CGPA 4.00 at EWU get full tuition waivers.  
+        - Foreign students receive a 50% tuition waiver.  
+        - Dean’s List and Medha Lalon Scholarships (Tk. 45,000–55,000) awarded annually.  
+        - Numerous named scholarships funded by donors, trustees, and banks.  
+
+        To apply, students must submit a prescribed form each semester.  
+        Scholarships are contingent upon maintaining minimum CGPA and following EWU’s Code of Conduct.  
+
+        For more information, contact the EWU Admission Office or visit [https://ewubd.edu/scholarships-financial-aid](https://ewubd.edu/scholarships-financial-aid).
+
+
+  utter_facilities:
+    - text: |
+        East West University (EWU) offers a wide range of academic, research, and support facilities for its students:
+
+        **Academic & Research Facilities**
+        - Specialized Laboratories: Electrical Circuits, Electronics, VLSI, Software Engineering, Digital Systems, Telecommunication, Physics, Civil Engineering, and Genetic Engineering.  
+        - University Library: Extensive academic resources.  
+        - Computer & Tutoring Centers: Open computer labs, modern classrooms, and tutoring support.  
+        - Seminar Room: EWUCRT Seminar Room for seminars, training, and meetings.  
+
+        **Support Services & Amenities**
+        - Information & Communication Services (ICS): Printing, audiovisual classrooms, IT support.  
+        - Medical Center: On-campus medical services with a modern ambulance.  
+        - Conference Facilities: Includes the Riaz H. Conference Room.  
+
+        **Other Facilities**
+        - Modern classrooms (traditional and computer-lab based).  
+        - Printing services for students and staff.  
+
+        These facilities ensure that EWU students enjoy both academic and recreational support while on campus.
+
+  utter_contact:
+    - text: |
+        **East West University (EWU) Contact Information**
+
+        Phone: 09666775577 (Ext. 234)  
+        Hotline: +8801755587224, +8801851933094  
+
+        Email: admissions@ewubd.edu | info@ewubd.edu  
+
+        Address: A/2 Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka-1212, Bangladesh  
+        [View on Google Maps](https://maps.app.goo.gl/7a2FJ7rAq2f2L4T28)
+
+
+  utter_website:   
+    - text: "The official website of East West University (EWU) is [www.ewubd.edu](http://www.ewubd.edu)."
+
+  utter_facebook:
+    - text: "You can find East West University (EWU) on Facebook at [https://www.facebook.com/myewu/](https://www.facebook.com/myewu/)."
+
+  utter_graduate_programs:
+    - text: |
+        **Graduate Programs**  
+
+        Faculty of Business & Economics  
+        - Master of Business Administration (MBA)  
+        - Master of Business Administration (Executive Program)  
+        - Master in Development Studies (MDS)  
+        - MSS in Economics  
+
+        Faculty of Sciences & Engineering  
+        - Master of Science in Data Science and Analytics  
+        - Master of Science in Computer Science and Engineering (MS in CSE)  
+        - M. Pharm in Clinical Pharmacy and Molecular Pharmacology  
+
+        Faculty of Liberal Arts & Social Sciences  
+        - MA in English (40 Credits)  
+        - MA in Teaching English to Speakers of Other Languages (TESOL)  
+        - MA in English (45 Credits)  
+        - Master of Population, Reproductive Health, Gender and Development (MPRHGD)  
+        - Master of Laws (LL.M.)  
+
+
+  utter_diploma_programs:
+    - text: |
+        **EWU Diploma Programs**  
+
+        1. **Post Graduate Diploma in Entrepreneurship Development (PGDED)**  
+        - Focus: Equips students with entrepreneurial knowledge and skills to start and manage innovative businesses.  
+        - Details: [PGDED Program](https://fbe.ewubd.edu/economics-department/post-graduate-diploma)
+
+        2. **Post Graduate Diploma in Population, Public Health and Disaster Management (PPDM)**  
+        - Focus: Provides knowledge on population studies, public health, and disaster management strategies for leadership roles.  
+        - Details: [PPDM Program](https://flass.ewubd.edu/social-relations-department/post-graduate)
+
+
+
+  utter_campus_life:
+    - text: |
+        **Campus Life at East West University (EWU)**  
+
+        EWU offers a vibrant campus life with a range of facilities and activities to support students academically and socially:  
+
+        **Academic & Research Facilities:**  
+        - Advanced laboratories for Engineering, Computer Science, Genetic Engineering, Physics, and Civil Engineering.  
+        - A well-stocked University Library.  
+        - Computer and Tutoring Centers for both traditional and lab-based learning.  
+        - Dedicated seminar rooms for workshops, meetings, and training sessions.  
+
+        **Support Services & Amenities:**  
+        - Information & Communication Services (ICS) providing printing, audiovisual classrooms, and IT support.  
+        - A Medical Center with modern ambulance services.  
+        - Conference facilities including the Riaz H. Conference Room.  
+
+        **Other Facilities:**  
+        - Modern classrooms, both traditional and computer-lab based.  
+        - Printing services available for students and staff.  
+
+        EWU ensures a well-rounded campus experience, combining academic excellence with personal development and community support.
+
+  utter_alumni:
+    - text: |
+        **EWU Alumni Network**  
+
+        East West University (EWU) has a strong and vibrant alumni community that has excelled in business, technology, public service, academia, and research.  
+
+        **Notable Alumni:**  
+        - **Tarique Rahman** – Entrepreneur & Tech Innovator  
+        - **Nusrat Jahan** – Research Scientist  
+        - **Shahriar Kabir** – Policy Analyst & Social Activist  
+        - **Farzana Chowdhury** – Corporate Executive  
+
+        Alumni actively engage with students through mentorship programs, seminars, and career guidance sessions. EWU organizes reunions, networking events, and professional workshops to keep the community connected. Many alumni also contribute back through scholarships and endowments.  
+
+        Learn more about EWU alumni and their achievements: [EWU Alumni Profiles](https://alumni.ewubd.edu/)
+
+  utter_ewu_events:
+    - text: |
+        **EWU Events & Activities**  
+
+        East West University (EWU) hosts a wide range of academic, cultural, and extracurricular events throughout the year, including:  
+        - Seminars, workshops, and guest lectures  
+        - Student club activities and competitions  
+        - Annual cultural festivals and sports events  
+        - Research presentations and conferences  
+
+        Students are encouraged to actively participate to develop skills, network, and engage with the EWU community.  
+
+        For detailed updates on upcoming events, visit: [EWU Events](https://ewubd.edu/events)
+
+  utter_ewu_news:
+    - text: |
+        **EWU News**  
+
+        Stay updated with the latest news, announcements, and achievements from East West University.  
+        You can find all news articles and updates here: [EWU News](https://ewubd.edu/news)
+
+  utter_research:
+    - text: |
+        **EWU Research Facilities**  
+
+        East West University provides excellent research facilities across its departments, including advanced laboratories, seminar rooms, and support services to foster academic research and innovation.  
+        Learn more about EWU’s research facilities here: [EWU Research Facilities](https://www.ewubd.edu/research-facilities)
+
+  
+  utter_admission_test:
+    - text: |
+        **EWU Undergraduate Admission Test – Fall 2025**  
+
+        **Application Deadlines & Admission Test Dates:**
+
+        | Program | Application Deadline | Date of Admission Test |
+        |---------|--------------------|-----------------------|
+        | Bachelor of Business Administration (BBA) | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | BSS in Economics | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | BA in English | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | LL.B (Hons) | May 14, 2025 | Saturday, 17 May 2025 at 10:00 AM |
+        | BSS in Sociology | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | BSS in Information Studies | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | BSS in Population and Public Health Sciences | Aug 27, 2025 | Saturday, 30 August 2025 at 10:00 AM |
+        | B.Sc. in CSE | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | B.Sc. in ICE | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | B.Sc. in EEE | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | Bachelor of Pharmacy | May 14, 2025 | Saturday, 17 May 2025 at 02:30 PM |
+        | B.Sc. in Genetic Engineering and Biotechnology | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | B.Sc. in Civil Engineering | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | B.Sc. (Hons) in Mathematics | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+        | B.Sc. in Data Science & Analytics | Aug 27, 2025 | Saturday, 30 August 2025 at 02:30 PM |
+
+        For more details about undergraduate admission, tuition fees, and online application, visit the [EWU Admission Page](https://www.ewubd.edu/admission).
+
+        **Contact Information:**  
+        📍 Address: A/2, Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka-1212, Bangladesh  
+        📞 Phone: 09666775577, Ext. - 234 | +8801755587224 | +8801851933094 (Hotline)  
+        📧 Email: [admissions@ewubd.edu](mailto:admissions@ewubd.edu), [info@ewubd.edu](mailto:info@ewubd.edu)
+
+
+  utter_admission_requirements:
+    - text: |
+        **Undergraduate Admission Requirements at East West University (EWU)**
+
+        **Programs Offered:**
+        - BBA (Bachelor of Business Administration)
+        - BSS in Economics
+        - BA in English
+        - LL.B (Bachelor of Laws)
+        - BSS in Sociology
+        - BSS in Information Studies
+        - BSS in Population & Public Health Sciences (PPHS)
+        - B.Sc. in CSE (Computer Science & Engineering)
+        - B.Sc. in ICE (Instrumentation & Control Engineering)
+        - B.Sc. in EEE (Electrical & Electronic Engineering)
+        - B.Sc. in CE (Civil Engineering)
+        - B.Sc. in GEB (Genetic Engineering & Biotechnology)
+        - B.Sc. in Mathematics
+        - B.Sc. in Data Science & Analytics
+        - Bachelor of Pharmacy (B.Pharm)
+
+        **General Eligibility (Except B.Pharm):**
+        1. Minimum GPA of 3.00 in both SSC and HSC examinations (GPA 2.40 for Diploma in Engineering under Bangladesh Technical Education Board), OR
+        2. Passed University of London/Cambridge GCE ‘O’ Level in at least 5 subjects and ‘A’ Level in at least 2 subjects with at least 4B’s and 3C’s, OR
+        3. American High School Diploma (GED not accepted)  
+        **AND** an acceptable EWU Admission Test score.
+
+        **Specific Program Requirements:**
+        - **Science & Engineering Programs (CSE, ICE, EEE, CE, GEB, Mathematics, Data Science & Analytics):**
+          - Required HSC subjects: Mathematics, Physics (and Chemistry/Biology depending on program)
+          - Required A-Level subjects: Mathematics, Physics (and Chemistry/Biology depending on program)
+        - **B.Pharm:**  
+          - SSC/HSC in Science group with minimum aggregate GPA 8.0/10 and GPA ≥3.50 in Chemistry & Biology, GPA ≥3.0 in Physics & Math.  
+          - Candidates failing Math must take an extra 3-credit Math course.  
+          - Foreign students must have 12 years of schooling and PCB equivalence. Admission based on competitive written (and oral) test.
+
+        **Other Notes:**
+        - Children of Freedom Fighters require total GPA of 5.00 in SSC and HSC.  
+        - Admission Test Waiver: SAT ≥1000 (critical reading, math, writing); for Science & Engineering, minimum CGPA 3.5 in Math & Physics in HSC/A-Level required.  
+        - Foreign students with 12 years of schooling and SAT ≥1100 may get admission without taking EWU Admission Test.  
+
+        **Admission Selection Criteria:**
+        - 75% weight: Admission Test score  
+        - 10% weight: SSC/O-Level results  
+        - 15% weight: HSC/A-Level results  
+
+        For B.Pharm, online pre-registration with Pharmacy Council of Bangladesh (PCB) is required within the first three months of the first semester.
+
+  utter_rules:
+    - text: |
+        **East West University (EWU) Policies & Regulations**
+
+        **Academic Integrity & Discipline**
+        - **Student Ethics & Academic Discipline**: Students are expected to uphold discipline, honesty, punctuality, and respect for others' rights. Violations disrupt the academic environment and undermine the university's educational efforts. :contentReference[oaicite:1]{index=1}
+        - **Disciplinary Policy**: Misconduct includes contravening university policies or negatively impacting its goals. The Disciplinary Committee, comprising members like the Vice Chancellor and Deans, addresses such issues. :contentReference[oaicite:2]{index=2}
+        - **Plagiarism Policy**: EWU maintains high academic integrity standards. Plagiarism, such as using another's work without proper acknowledgment, is prohibited. :contentReference[oaicite:3]{index=3}
+
+        **Academic Grading & Evaluation**
+        - **Grading System**: EWU employs a five-letter grading scale:
+          - A+: 80% and above – 4.00 GPA
+          - A: 75% to less than 80% – 3.75 GPA
+          - A-: 70% to less than 75% – 3.50 GPA
+          - B+: 65% to less than 70% – 3.25 GPA
+          - B: 60% to less than 65% – 3.00 GPA
+          - B-: 55% to less than 60% – 2.75 GPA
+          - C+: 50% to less than 55% – 2.50 GPA
+          - C: 45% to less than 50% – 2.25 GPA
+          - D: 40% to less than 45% – 2.00 GPA
+          - F: Below 40% – 0.00 GPA :contentReference[oaicite:4]{index=4}
+
+        **Ethics & Compliance Policies**
+        - **Equity, Diversity, and Inclusion Policy**: EWU is committed to fostering a diverse, equitable, and inclusive community where everyone is valued and supported. :contentReference[oaicite:5]{index=5}
+        - **Anti-Bribery and Anti-Corruption Policy**: EWU upholds a zero-tolerance approach to bribery and corruption, prohibiting any form of direct or indirect bribery. :contentReference[oaicite:6]{index=6}
+        - **Artificial Intelligence Policy**: This policy provides guidelines for the use of AI-related tools in teaching, research, and administration, ensuring compliance and preventing misuse. :contentReference[oaicite:7]{index=7}
+
+        **Sustainability & Procurement**
+        - **Sustainable Procurement Policy**: EWU ensures the procurement of sustainable goods and services at competitive prices, promoting transparency and accountability. :contentReference[oaicite:8]{index=8}
+
+        For detailed information on each policy, please visit [EWU Policies](https://www.ewubd.edu/ewu-policies).
+
+
+  utter_grading:
+    - text: |
+        **East West University (EWU) Grading System & Academic Policies**
+
+        **Grading Scale:**
+        EWU employs a five-letter grading system with corresponding grade points:
+
+        - **A+**: 80% and above – 4.00 GPA
+        - **A**: 75% to less than 80% – 3.75 GPA
+        - **A-**: 70% to less than 75% – 3.50 GPA
+        - **B+**: 65% to less than 70% – 3.25 GPA
+        - **B**: 60% to less than 65% – 3.00 GPA
+        - **B-**: 55% to less than 60% – 2.75 GPA
+        - **C+**: 50% to less than 55% – 2.50 GPA
+        - **C**: 45% to less than 50% – 2.25 GPA
+        - **D**: 40% to less than 45% – 2.00 GPA
+        - **F**: Below 40% – 0.00 GPA
+
+        **Additional Grades:**
+        - **F***: Failure – 0.00 GPA (not counted in CGPA)
+        - **U***: Unsatisfactory – 0.00 GPA (not counted in CGPA)
+        - **I**: Incomplete – 0.00 GPA (not counted in CGPA)
+        - **P***: Pass – 0.00 GPA (not counted in CGPA)
+        - **R**: Repeat/Retake – 0.00 GPA (not counted in CGPA)
+        - **S***: Satisfactory – 0.00 GPA (not counted in CGPA)
+        - **W**: Withdrawal – 0.00 GPA (not counted in CGPA)
+
+        *Note: Grades marked with * are not included in CGPA calculations and do not contribute towards graduation requirements.*
+
+        **Cumulative Grade Point Average (CGPA):**
+        CGPA is calculated by dividing the total grade points earned by the total credits attempted. Only grades A+, A, A-, B+, B, B-, C+, C, D, and F are considered in CGPA calculation. Repeated courses are counted based on the most recent grade obtained.
+
+        **Academic Standing:**
+        - **Probation**: Students with a CGPA between 1.00 and 2.25 are placed on probation for the next two semesters. Failure to raise CGPA to at least 2.25 after the probation period will lead to dismissal.
+        - **Dismissal**: Students with a CGPA below 1.00 after any semester will be automatically dismissed.
+        - **Remedial Courses**: Students failing in English may be required to take remedial courses. Failure to pass remedial courses within two attempts will result in probation.
+
+        **Grade Reports:**
+        Grade reports are prepared by the Office of the Controller of Examinations and mailed to guardians after each semester. Students are responsible for their academic progress and should contact their academic advisors if performance is unsatisfactory.
+
+        **Re-Scrutiny of Final Examination Scripts:**
+        - Re-evaluation is not allowed; only re-scrutiny for errors or omissions is permitted.
+        - A security deposit of Tk.200 is charged per script. If an error is found, the amount is refunded.
+        - Any grade changes must be processed within seven days of the next semester.
+
+        For detailed information, please visit [EWU Grades, Rules & Regulations](https://www.ewubd.edu/grades-rules-and-regulations).
+
+
+  utter_cse:
+    - text: "B.Sc. in Computer Science & Engineering (CSE) – Covers programming, algorithms, AI, and software development. [More Info](https://fse.ewubd.edu/computer-science-engineering)"
+
+  utter_eee:
+    - text: "B.Sc. in Electrical & Electronic Engineering (EEE) – Covers circuits, electronics, and electrical systems. [More Info](https://fse.ewubd.edu/electrical-electronic-engineering)"
+
+  utter_ice:
+    - text: "B.Sc. in Industrial & Civil Engineering (ICE) – Focuses on civil, industrial, and structural engineering concepts. [More Info](https://fse.ewubd.edu/electronics-communications-engineering/undergraduate-programs)"
+
+  utter_math:
+    - text: "B.Sc. in Mathematics – Emphasizes pure and applied mathematics, problem solving, and analytics. [More Info](https://fse.ewubd.edu/mathematical-physical-science)"
+
+  utter_data_science:
+    - text: "B.Sc. in Data Science & Analytics – Focuses on data analysis, statistics, and machine learning. [More Info](https://fse.ewubd.edu/mathematical-physical-science/bsc-data-science-and-analytics)"
+
+  utter_sociology:
+    - text: "BSS in Sociology – Focuses on society, culture, and social research methods. [More Info](https://flass.ewubd.edu/sociology-department)"
+
+  utter_information_studies:
+    - text: "BSS in Information Studies – Covers information management, library science, and digital literacy. [More Info](https://flass.ewubd.edu/information-studies-library-management)"
+
+  utter_pphs:
+    - text: "BSS in Population & Public Health Sciences (PPHS) – Prepares students in public health, epidemiology, and health policy. [More Info](https://flass.ewubd.edu/social-relations-department/bss-population-and-public-health-sciences-pphs)"
+
+  utter_economics:
+    - text: "BSS in Economics – Prepares students in economic theory, policy, and data analysis. [More Info](https://fbe.ewubd.edu/economics-department)"
+
+  utter_civil:
+    - text: "B.Sc. in Civil Engineering (CE) – Focuses on construction, structural engineering, and infrastructure planning. [More Info](https://fse.ewubd.edu/civil-engineering)"
+
+  utter_geb:
+    - text: "B.Sc. in Genetic Engineering & Biotechnology (GEB) – Covers genetics, biotechnology, and molecular biology. [More Info](https://fse.ewubd.edu/genetic-engineering-biotechnology)"
+
+  utter_english:
+    - text: "BA in English – Develops skills in literature, communication, and critical thinking. [More Info](https://flass.ewubd.edu/english-department)"
+
+  utter_pharmacy:
+    - text: "Bachelor of Pharmacy (B.Pharm) – Prepares students in pharmacy, drug formulation, and healthcare sciences. [More Info](https://fse.ewubd.edu/pharmacy-department)"
+
+  utter_bba:
+    - text: "BBA (Bachelor of Business Administration) – Focuses on management, finance, and business strategy. [More Info](https://fbe.ewubd.edu/business-administration)"
+
+  utter_code_of_conduct:
+    - text: |
+        **East West University Code of Conduct**
+
+        East West University (EWU) upholds high standards of ethics and discipline to maintain a conducive academic environment. Students are expected to:
+
+        - **Academic Integrity**: Avoid cheating, plagiarism, and falsification of records.
+        - **Social Conduct**: Refrain from abusive behavior, harassment, or violence.
+        - **Property Respect**: Protect university property from damage or misuse.
+        - **Health & Safety**: Comply with health regulations and avoid substance abuse.
+        - **Lawful Authority**: Follow lawful instructions from university officials.
+
+        Violations may lead to disciplinary actions as per the university's policies.
+
+        For detailed information, please refer to the [Student Ethics & Academic Discipline](https://www.ewubd.edu/student-rules-regulation) page.
+
+
+  utter_courses_list_cse:
+    - text: "The Department of Computer Science & Engineering (CSE) offers undergraduate courses such as Programming, Data Structures, Algorithms, Databases, Software Engineering, AI, Machine Learning, and Networking. More info: https://fse.ewubd.edu/computer-science-engineering/course-catalog"
+
+  utter_courses_list_eee:
+    - text: "The Department of Electrical & Electronic Engineering (EEE) offers courses like Circuit Analysis, Electronics, VLSI Design, Control Systems, Power Systems, and Renewable Energy. More info: https://fse.ewubd.edu/electrical-electronic-engineering/core-courses"
+
+  utter_courses_list_law:
+    - text: "The Department of Law offers courses in Constitutional Law, Criminal Law, Contract Law, International Law, Human Rights Law, and Environmental Law. More info: https://flass.ewubd.edu/law-department/course-catalog"
+
+  utter_courses_list_ice:
+    - text: "The Department of Industrial & Communication Engineering (ICE) provides courses including Digital Systems, Telecommunication, Signal Processing, Microprocessors, and Control Engineering. More info: https://fse.ewubd.edu/electronics-communications-engineering/course-catalog"
+
+  utter_courses_list_math:
+    - text: "The Department of Mathematics offers courses such as Calculus, Algebra, Probability & Statistics, Discrete Mathematics, Numerical Analysis, and Mathematical Modelling. More info: https://fse.ewubd.edu/mathematical-physical-science/course-catalog"
+
+  utter_courses_list_data_science:
+    - text: "The Department of Data Science & Analytics offers courses in Data Analysis, Machine Learning, Big Data, Data Mining, Python Programming, and Statistical Modelling. More info: https://fse.ewubd.edu/mathematical-physical-science/bsc-data-science-and-analytics"
+
+  utter_courses_list_sociology:
+    - text: "The Department of Sociology offers courses in Social Theory, Research Methods, Development Studies, Gender Studies, and Urban Sociology. More info: https://flass.ewubd.edu/sociology-department/course-catalog"
+
+  utter_courses_list_information_studies:
+    - text: "The Department of Information Studies provides courses in Information Management, Database Systems, Knowledge Management, and Digital Libraries. More info: https://flass.ewubd.edu/information-studies-library-management/course-catalog"
+
+  utter_courses_list_pphs:
+    - text: "The Department of Population & Public Health Sciences (PPHS) offers courses in Epidemiology, Biostatistics, Environmental Health, Global Health, and Health Policy. More info: https://flass.ewubd.edu/social-relations-department/bss-population-and-public-health-sciences-pphs"
+
+  utter_courses_list_economics:
+    - text: "The Department of Economics provides courses in Microeconomics, Macroeconomics, Development Economics, Econometrics, and International Trade. More info: https://fbe.ewubd.edu/economics-department/course-catalog"
+
+  utter_courses_list_civil:
+    - text: "The Department of Civil Engineering offers courses such as Structural Engineering, Fluid Mechanics, Geotechnical Engineering, Construction Management, and Environmental Engineering. More info: https://fse.ewubd.edu/civil-engineering/course-catalog"
+
+  utter_courses_list_geb:
+    - text: "The Department of Genetic Engineering & Biotechnology (GEB) provides courses including Molecular Biology, Genetics, Biotechnology Techniques, Bioinformatics, and Cell Biology. More info: https://fse.ewubd.edu/genetic-engineering-biotechnology/course-catalog"
+
+  utter_courses_list_english:
+    - text: "The Department of English offers courses in Literature, Linguistics, Academic Writing, Critical Theory, and Creative Writing. More info: https://flass.ewubd.edu/english-department/course-catalog"
+
+  utter_courses_list_pharmacy:
+    - text: "The Department of Pharmacy provides courses such as Pharmaceutics, Pharmacology, Medicinal Chemistry, Pharmacognosy, and Clinical Pharmacy. More info: https://fse.ewubd.edu/pharmacy-department/course-catalog"
+
+  utter_courses_list_bba:
+    - text: "The Department of Business Administration (BBA) offers courses in Accounting, Finance, Marketing, Management, Economics, and Business Analytics. More info: https://fbe.ewubd.edu/business-administration/course-catalog"
+
+  utter_ms_mba:
+    - text: "The MBA program at EWU (Faculty of Business and Economics) has 60 credits. Tuition: 360,000/=, Library, Lab & Activities Fees: 12,060/=, Admission Fee: 20,000/=. Grand Total: 392,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_emba:
+    - text: "The EMBA program at EWU (Faculty of Business and Economics) has 42 credits. Tuition: 252,000/=, Library, Lab & Activities Fees: 12,060/=, Admission Fee: 20,000/=. Grand Total: 284,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_mds:
+    - text: "The MDS program at EWU (Faculty of Business and Economics) has 40 credits. Tuition: 200,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 229,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_mss_economics:
+    - text: "The MSS in Economics program at EWU (Faculty of Business and Economics) has 40 credits. Tuition: 200,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 229,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_ma_english:
+    - text: "The MA in English program at EWU (Faculty of Liberal Arts and Social Sciences) has 40–45 credits. Tuition: 180,000/=–202,500/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 209,060/=–231,560/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_tesol:
+    - text: "The MA in TESOL program at EWU (Faculty of Liberal Arts and Social Sciences) has 40–48 credits. Tuition: 180,000/=–216,000/=; Library, Lab & Activities Fees: 9,060/=; Admission Fee: 20,000/=. Grand Total: 209,060/=–245,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_llm:
+    - text: "The LL.M program at EWU (Faculty of Liberal Arts and Social Sciences) has 40 credits. Tuition: 180,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 209,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_mprhgd:
+    - text: "The MPRHGD program at EWU (Faculty of Liberal Arts and Social Sciences) has 48 credits. Tuition: 120,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 149,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_ppdm:
+    - text: "The PPDM program at EWU (Faculty of Liberal Arts and Social Sciences) has 21 credits. Tuition: 58,800/=, Library, Lab & Activities Fees: 3,020/=, Admission Fee: 20,000/=. Grand Total: 81,820/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_ds_analytics:
+    - text: "The M.S. in Data Science & Analytics at EWU (Faculty of Sciences and Engineering) has 40 credits. Tuition: 200,000/=, Library, Lab & Activities Fees: 12,060/=, Admission Fee: 20,000/=. Grand Total: 232,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_ms_cse:
+    - text: "The MS in CSE program at EWU (Faculty of Sciences and Engineering) has 40 credits. Tuition: 240,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 269,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_mpharm:
+    - text: "The M. Pharm. program at EWU (Faculty of Sciences and Engineering) has 40 credits. Tuition: 200,000/=, Library, Lab & Activities Fees: 9,045/=, Admission Fee: 20,000/=. Grand Total: 229,045/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+  utter_ms_pgded:
+    - text: "The PGDED program at EWU (Faculty of Business and Economics) has 40 credits. Tuition: 96,000/=, Library, Lab & Activities Fees: 9,060/=, Admission Fee: 20,000/=. Grand Total: 125,060/=. More info: https://www.ewubd.edu/graduate-programs-tuition-fees"
+
+
+  utter_tesol:
+    - text: |
+        **MA in TESOL (Teaching English to Speakers of Other Languages)**  
+        - **Eligibility:** Minimum GPA 2.50 in SSC & HSC (or equivalent).  
+          BA (Hons.) in English / BA/B.Sc/B.Com (with teaching experience) also accepted.  
+        - **Program Duration:** 40–48 credits.  
+        - **Tuition Fee:** Tk. 4,500 per credit  
+          (40 credits ≈ Tk. 1,80,000).  
+        - **Other Fees:** Tk. 20,000 admission + Tk. 9,060 lab & activities.  
+        - **Apply Online:** [Visit Graduate Admissions Page](https://www.ewubd.edu/graduate-admission)
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

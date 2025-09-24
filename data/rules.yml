@@ -1,0 +1,493 @@
+version: "3.1"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: Respond to greetings
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Respond when user affirms
+  steps:
+  - intent: affirm
+  - action: utter_happy
+
+- rule: Respond when user denies (general)
+  condition:
+  - active_loop: null
+  steps:
+  - intent: deny
+  - action: utter_default
+
+- rule: Respond to great mood
+  steps:
+  - intent: mood_great
+  - action: utter_happy
+
+- rule: Respond to unhappy mood
+  steps:
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+
+# Location and Contact Information
+- rule: Provide EWU location
+  steps:
+  - intent: location
+  - action: utter_location
+
+- rule: Provide contact information
+  steps:
+  - intent: contact
+  - action: utter_contact
+
+- rule: Provide website information
+  steps:
+  - intent: website
+  - action: utter_website
+
+- rule: Provide facebook information
+  steps:
+  - intent: facebook
+  - action: utter_facebook
+
+# Academic Information
+- rule: List departments
+  steps:
+  - intent: departments
+  - action: utter_departments
+
+- rule: List undergraduate programs
+  steps:
+  - intent: undergraduate_programs
+  - action: utter_undergraduate_programs
+
+- rule: List postgraduate programs
+  steps:
+  - intent: postgraduate_programs
+  - action: utter_graduate_programs
+
+- rule: List diploma programs
+  steps:
+  - intent: diploma_programs
+  - action: utter_diploma_programs
+
+- rule: General tuition information
+  steps:
+  - intent: tuition
+  - action: utter_tuition
+
+- rule: Application fee information
+  steps:
+  - intent: application_fee
+  - action: utter_application_fee
+
+- rule: CSE tuition fee
+  steps:
+  - intent: tuition_cse
+  - action: utter_tuition_cse
+
+- rule: BBA tuition fee
+  steps:
+  - intent: tuition_bba
+  - action: utter_tuition_bba
+
+- rule: Economics tuition fee
+  steps:
+  - intent: tuition_economics
+  - action: utter_tuition_economics
+
+- rule: English tuition fee
+  steps:
+  - intent: tuition_english
+  - action: utter_tuition_english
+
+- rule: Law tuition fee
+  steps:
+  - intent: tuition_law
+  - action: utter_tuition_law
+
+- rule: Sociology tuition fee
+  steps:
+  - intent: tuition_sociology
+  - action: utter_tuition_sociology
+
+- rule: Information Studies tuition fee
+  steps:
+  - intent: tuition_information_studies
+  - action: utter_tuition_information_studies
+
+- rule: ICE tuition fee
+  steps:
+  - intent: tuition_ice
+  - action: utter_tuition_ice
+
+- rule: EEE tuition fee
+  steps:
+  - intent: tuition_eee
+  - action: utter_tuition_eee
+
+- rule: Pharmacy tuition fee
+  steps:
+  - intent: tuition_pharmacy
+  - action: utter_tuition_pharmacy
+
+- rule: GEB tuition fee
+  steps:
+  - intent: tuition_geb
+  - action: utter_tuition_geb
+
+- rule: Civil Engineering tuition fee
+  steps:
+  - intent: tuition_civil
+  - action: utter_tuition_civil
+
+- rule: PPHS tuition fee
+  steps:
+  - intent: tuition_pphs
+  - action: utter_tuition_pphs
+
+- rule: Mathematics tuition fee
+  steps:
+  - intent: tuition_math
+  - action: utter_tuition_mathematics
+
+- rule: Data Science tuition fee
+  steps:
+  - intent: tuition_data_science
+  - action: utter_tuition_dsa
+
+- rule: Social Relations tuition fee
+  steps:
+  - intent: tuition_social_relations
+  - action: utter_tuition_social_relations
+
+- rule: MBA fee information
+  steps:
+  - intent: mba_fee
+  - action: utter_ms_mba
+
+- rule: EMBA fee information
+  steps:
+  - intent: emba_fee
+  - action: utter_ms_emba
+
+- rule: MDS fee information
+  steps:
+  - intent: mds_fee
+  - action: utter_ms_mds
+
+- rule: MSS Economics fee information
+  steps:
+  - intent: mss_economics_fee
+  - action: utter_ms_mss_economics
+
+- rule: MA English fee information
+  steps:
+  - intent: ma_english_fee
+  - action: utter_ms_ma_english
+
+- rule: MA TESOL fee information
+  steps:
+  - intent: ma_tesol_fee
+  - action: utter_ms_tesol
+
+- rule: MA ma_english_40_fee
+  steps:
+  - intent: ma_english_40_fee
+  - action: utter_ms_ma_english
+
+- rule: MA English 45 fee information
+  steps:
+  - intent: ma_english_45_fee
+  - action: utter_ms_ma_english
+
+
+- rule: TESOL fee information (alternative intent)
+  steps:
+  - intent: tesol_fee
+  - action: utter_tesol
+
+- rule: LLM fee information
+  steps:
+  - intent: llm_fee
+  - action: utter_ms_llm
+
+- rule: MPRHGD fee information
+  steps:
+  - intent: mprhgd_fee
+  - action: utter_ms_mprhgd
+
+- rule: Data Science Analytics fee information
+  steps:
+  - intent: ds_analytics_fee
+  - action: utter_ms_ds_analytics
+
+- rule: MS CSE fee information
+  steps:
+  - intent: ms_cse_fee
+  - action: utter_ms_ms_cse
+
+- rule: M Pharm fee information
+  steps:
+  - intent: mpharm_fee
+  - action: utter_ms_mpharm
+
+- rule: PGDED fee information
+  steps:
+  - intent: pgded_fee
+  - action: utter_ms_pgded
+
+- rule: PPDM fee information
+  steps:
+  - intent: ppdm_fee
+  - action: utter_ms_ppdm
+
+- rule: Admission process information
+  steps:
+  - intent: admission
+  - action: utter_admission
+
+- rule: Scholarship information
+  steps:
+  - intent: scholarship
+  - action: utter_scholarships
+
+- rule: Financial aid information
+  steps:
+  - intent: financial_aid
+  - action: utter_scholarships
+
+- rule: Facilities information
+  steps:
+  - intent: facilities
+  - action: utter_facilities
+
+- rule: Campus life information
+  steps:
+  - intent: campus_life
+  - action: utter_campus_life
+
+- rule: Alumni information
+  steps:
+  - intent: alumni
+  - action: utter_alumni
+
+- rule: Events information
+  steps:
+  - intent: events
+  - action: utter_ewu_events
+
+- rule: News information
+  steps:
+  - intent: news
+  - action: utter_ewu_news
+
+- rule: Research information
+  steps:
+  - intent: research
+  - action: utter_research
+
+- rule: Admission test information
+  steps:
+  - intent: admission_test
+  - action: utter_admission_test
+
+- rule: Admission requirements information
+  steps:
+  - intent: admission_requirements
+  - action: utter_admission_requirements
+
+
+- rule: Rules and regulations information
+  steps:
+  - intent: rules
+  - action: utter_rules
+
+- rule: Code of conduct information
+  steps:
+  - intent: code_of_conduct
+  - action: utter_code_of_conduct
+
+- rule: Grading system information
+  steps:
+  - intent: grading
+  - action: utter_grading
+
+
+- rule: CSE department information
+  steps:
+  - intent: cse
+  - action: utter_cse
+
+- rule: EEE department information
+  steps:
+  - intent: eee
+  - action: utter_eee
+
+- rule: ICE department information
+  steps:
+  - intent: ice
+  - action: utter_ice
+
+- rule: Mathematics department information
+  steps:
+  - intent: math
+  - action: utter_math
+
+- rule: Data Science department information
+  steps:
+  - intent: data_science
+  - action: utter_data_science
+
+- rule: Sociology department information
+  steps:
+  - intent: sociology
+  - action: utter_sociology
+
+- rule: Information Studies department information
+  steps:
+  - intent: information_studies
+  - action: utter_information_studies
+
+- rule: PPHS department information
+  steps:
+  - intent: pphs
+  - action: utter_pphs
+
+- rule: Economics department information
+  steps:
+  - intent: economics
+  - action: utter_economics
+
+- rule: Civil Engineering department information
+  steps:
+  - intent: civil
+  - action: utter_civil
+
+- rule: GEB department information
+  steps:
+  - intent: geb
+  - action: utter_geb
+
+- rule: English department information
+  steps:
+  - intent: english
+  - action: utter_english
+
+- rule: Pharmacy department information
+  steps:
+  - intent: pharmacy
+  - action: utter_pharmacy
+
+- rule: BBA department information
+  steps:
+  - intent: bba
+  - action: utter_bba
+
+# Course Information
+- rule: General courses information
+  steps:
+  - intent: courses
+  - action: utter_default
+
+- rule: CSE courses information
+  steps:
+  - intent: courses_cse
+  - action: utter_courses_list_cse
+
+- rule: EEE courses information
+  steps:
+  - intent: courses_eee
+  - action: utter_courses_list_eee
+
+- rule: ICE courses information
+  steps:
+  - intent: courses_ice
+  - action: utter_courses_list_ice
+
+- rule: Mathematics courses information
+  steps:
+  - intent: courses_math
+  - action: utter_courses_list_math
+
+- rule: Data Science courses information
+  steps:
+  - intent: courses_data_science
+  - action: utter_courses_list_data_science
+
+- rule: Sociology courses information
+  steps:
+  - intent: courses_sociology
+  - action: utter_courses_list_sociology
+
+- rule: Information Studies courses information
+  steps:
+  - intent: courses_information_studies
+  - action: utter_courses_list_information_studies
+
+- rule: PPHS courses information
+  steps:
+  - intent: courses_pphs
+  - action: utter_courses_list_pphs
+
+- rule: Economics courses information
+  steps:
+  - intent: courses_economics
+  - action: utter_courses_list_economics
+
+- rule: Civil Engineering courses information
+  steps:
+  - intent: courses_civil
+  - action: utter_courses_list_civil
+
+- rule: GEB courses information
+  steps:
+  - intent: courses_geb
+  - action: utter_courses_list_geb
+
+- rule: English courses information
+  steps:
+  - intent: courses_english
+  - action: utter_courses_list_english
+
+- rule: Pharmacy courses information
+  steps:
+  - intent: courses_pharmacy
+  - action: utter_courses_list_pharmacy
+
+- rule: BBA courses information
+  steps:
+  - intent: courses_bba
+  - action: utter_courses_list_bba
+
+- rule: Business Administration courses information
+  steps:
+  - intent: courses_business_administration
+  - action: utter_courses_list_bba
+
+- rule: Law courses information
+  steps:
+  - intent: courses_law
+  - action: utter_courses_list_law
+
+- rule: Social Relations courses information
+  steps:
+  - intent: courses_social_relations
+  - action: utter_courses_list_sociology
+
+# Fallback rule
+- rule: Handle unknown intents
+  steps:
+  - intent: fallback
+  - action: utter_default
