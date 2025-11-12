@@ -10,7 +10,7 @@ from rasa_sdk.events import UserUtteranceReverted
 # HELPER FUNCTIONS TO LOAD ALL DATA
 # ========================================
 
-BASE_URL = "https://raw.githubusercontent.com/Atkiya/RasaChatbot/main/all_data_files/"
+BASE_URL = "https://raw.githubusercontent.com/Atkiya/RasaChatbot/main/"
 
 def load_from_github(filename):
     try:
