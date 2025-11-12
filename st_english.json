@@ -1,0 +1,1022 @@
+[
+  {
+    "instruction": "What is the name of the course ENG099?",
+    "context": "",
+    "response": "The course ENG099 is titled 'Remedial English'."
+  },
+  {
+    "instruction": "How many credits is Remedial English (ENG099)?",
+    "context": "",
+    "response": "The course Remedial English (ENG099) is worth 0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Remedial English (ENG099)?",
+    "context": "",
+    "response": "The prerequisites for Remedial English (ENG099) are: None."
+  },
+  {
+    "instruction": "Which category does Remedial English (ENG099) belong to?",
+    "context": "",
+    "response": "Remedial English (ENG099) falls under the 'Remedial' category."
+  },
+  {
+    "instruction": "Can you describe the course Remedial English (ENG099)?",
+    "context": "",
+    "response": "Remedial English is an intensive course for students who need to improve their academic English. Writing lessons will focus on identifying students’ mistakes commonly made in writing and show how to correct them. This will be a helpful revision course in grammar too. Students will improve their ability to write clear sentences using varied structures, and will practice linking these together into more complex sequences and paragraphs. Besides, specific lessons will be dedicated to improving students’ reading skills and the fluency of their spoken English."
+  },
+  {
+    "instruction": "What is the name of the course ENG100?",
+    "context": "",
+    "response": "The course ENG100 is titled 'Improving Oral Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "The course Improving Oral Communication Skills (ENG100) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "The prerequisites for Improving Oral Communication Skills (ENG100) are: None."
+  },
+  {
+    "instruction": "Which category does Improving Oral Communication Skills (ENG100) belong to?",
+    "context": "",
+    "response": "Improving Oral Communication Skills (ENG100) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "In these classes, students develop their ability to speak with greater confidence, particularly in academic situations. Also, the course is designed to help students to improve their ability to listen to lectures in English. It is useful for students who need to give presentations as part of their course. It looks at common areas of difficulty such as structuring a presentation, designing effective visual materials and questioning techniques. Besides, it will train students for extempore talk, debating, and facing and taking interviews along with a number of notions and functions of essential oral communication skills"
+  },
+  {
+    "instruction": "What is the name of the course ENG101?",
+    "context": "",
+    "response": "The course ENG101 is titled 'Basic English'."
+  },
+  {
+    "instruction": "How many credits is Basic English (ENG101)?",
+    "context": "",
+    "response": "The course Basic English (ENG101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Basic English (ENG101)?",
+    "context": "",
+    "response": "The prerequisites for Basic English (ENG101) are: ENG099."
+  },
+  {
+    "instruction": "Which category does Basic English (ENG101) belong to?",
+    "context": "",
+    "response": "Basic English (ENG101) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Basic English (ENG101)?",
+    "context": "",
+    "response": "This course is designed students to provide the opportunity for understanding and improving all four skills in English with special emphasis on reading and writing. Lessons are balanced in this way: Grammar and vocabulary lessons to improve the students’ accuracy in real-life settings; speaking and listening lessons to improve their confidence, fluency and presentation skills; and reading and critical thinking lessons to provide integrated language practice involving diverse topical issues. Overall, students’ capacity to organize and present ideas in English is developed."
+  },
+  {
+    "instruction": "What is the name of the course ENG102?",
+    "context": "",
+    "response": "The course ENG102 is titled 'Composition and Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Composition and Communication Skills (ENG102)?",
+    "context": "",
+    "response": "The course Composition and Communication Skills (ENG102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Composition and Communication Skills (ENG102)?",
+    "context": "",
+    "response": "The prerequisites for Composition and Communication Skills (ENG102) are: ENG101."
+  },
+  {
+    "instruction": "Which category does Composition and Communication Skills (ENG102) belong to?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG102) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Composition and Communication Skills (ENG102)?",
+    "context": "",
+    "response": "In this composition course, students will study the principles of writing and analyzing non-fiction prose, focusing on argument and academic research strategies. As students, one should be able to write a literate and well-argued essay and should be able to read a literary text with some understanding and sensitivity. For practical purposes, this means that students should be able to write an effectively organized and substantial essay that is generally grammatically and syntactically sound, and acquire the capacity to identify and discuss prose features. In English 102, students will acquire and polish the tools fundamental to effective writing and reading that will help them participate successfully in the discourse systems of the university and beyond."
+  },
+  {
+    "instruction": "What is the name of the course ENG145?",
+    "context": "",
+    "response": "The course ENG145 is titled 'Introduction to Linguistics'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Linguistics (ENG145)?",
+    "context": "",
+    "response": "The course Introduction to Linguistics (ENG145) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Linguistics (ENG145)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Linguistics (ENG145) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Linguistics (ENG145) belong to?",
+    "context": "",
+    "response": "Introduction to Linguistics (ENG145) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Introduction to Linguistics (ENG145)?",
+    "context": "",
+    "response": "The aim of this course is to familiarize students with some basic concepts of linguistics. The course components are aspects of human language, phonetics and phonology, morphology, syntax, semantics, language and society, language change, brain and language etc"
+  },
+  {
+    "instruction": "What is the name of the course ENG154?",
+    "context": "",
+    "response": "The course ENG154 is titled 'English Phonetics and Phonology'."
+  },
+  {
+    "instruction": "How many credits is English Phonetics and Phonology (ENG154)?",
+    "context": "",
+    "response": "The course English Phonetics and Phonology (ENG154) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for English Phonetics and Phonology (ENG154)?",
+    "context": "",
+    "response": "The prerequisites for English Phonetics and Phonology (ENG154) are: ENG145."
+  },
+  {
+    "instruction": "Which category does English Phonetics and Phonology (ENG154) belong to?",
+    "context": "",
+    "response": "English Phonetics and Phonology (ENG154) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course English Phonetics and Phonology (ENG154)?",
+    "context": "",
+    "response": "The course introduces central themes relating to sound patterns and pronunciation in languages. Students have the opportunity to acquire knowledge and understanding of the production of sounds, and to acquire the skills necessary to describe, define and transcribe consonants, vowels and certain prosodic features such as stress and rhythm. The course includes the study of variation in sound patterns, such as those which are characteristics of various accents of English. Students are also introduced to the distribution of sounds in languages and to fundamental concepts and analytical techniques related to contrast and meaning in sound structures."
+  },
+  {
+    "instruction": "What is the name of the course ENG155?",
+    "context": "",
+    "response": "The course ENG155 is titled 'Improving Reading and Writing Skills'."
+  },
+  {
+    "instruction": "How many credits is Improving Reading and Writing Skills (ENG155)?",
+    "context": "",
+    "response": "The course Improving Reading and Writing Skills (ENG155) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Improving Reading and Writing Skills (ENG155)?",
+    "context": "",
+    "response": "The prerequisites for Improving Reading and Writing Skills (ENG155) are: ENG102."
+  },
+  {
+    "instruction": "Which category does Improving Reading and Writing Skills (ENG155) belong to?",
+    "context": "",
+    "response": "Improving Reading and Writing Skills (ENG155) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Improving Reading and Writing Skills (ENG155)?",
+    "context": "",
+    "response": "All students need to be able to meet the linguistic demands of a course of study – and this need is critical if they are studying in a second or foreign language. This course focuses on the central problem of written and oral communication in academic contexts, and gives students an opportunity to develop their understanding of the language and teaching issues that are central to studying in English. The course draws on a range of practical insights and tips on preparing for academic demands of different English literature and linguistics courses, test-taking strategies, time management, and guidelines for preparing long assignments."
+  },
+  {
+    "instruction": "What is the name of the course ENG191?",
+    "context": "",
+    "response": "The course ENG191 is titled 'Introduction to Literature: Fiction and Non-Fiction Prose'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Literature: Fiction and Non-Fiction Prose (ENG191)?",
+    "context": "",
+    "response": "The course Introduction to Literature: Fiction and Non-Fiction Prose (ENG191) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Literature: Fiction and Non-Fiction Prose (ENG191)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Literature: Fiction and Non-Fiction Prose (ENG191) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Literature: Fiction and Non-Fiction Prose (ENG191) belong to?",
+    "context": "",
+    "response": "Introduction to Literature: Fiction and Non-Fiction Prose (ENG191) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Introduction to Literature: Fiction and Non-Fiction Prose (ENG191)?",
+    "context": "",
+    "response": "This course introduces students to the major genres of literature such as short and long fiction and non-fiction prose with a view to introducing students to the forms and styles of these genres of literature."
+  },
+  {
+    "instruction": "What is the name of the course ENG192?",
+    "context": "",
+    "response": "The course ENG192 is titled 'Introduction to Literature: Poetry and Drama'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Literature: Poetry and Drama (ENG192)?",
+    "context": "",
+    "response": "The course Introduction to Literature: Poetry and Drama (ENG192) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Literature: Poetry and Drama (ENG192)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Literature: Poetry and Drama (ENG192) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Literature: Poetry and Drama (ENG192) belong to?",
+    "context": "",
+    "response": "Introduction to Literature: Poetry and Drama (ENG192) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Introduction to Literature: Poetry and Drama (ENG192)?",
+    "context": "",
+    "response": "This course aims at familiarizing students with two major genres of literature: Poetry and Drama. It covers different elements/aspects of poetry and drama such as language use in poetry, differences between prose and poetry, poetic diction, figures of speech, sound effects in poetry, different types of drama (tragedy, comedy, tragi-comedy, history, melodrama etc), elements of drama ( dialogue, action, conflict, dramatic irony, plot construction etc)."
+  },
+  {
+    "instruction": "What is the name of the course ENG200?",
+    "context": "",
+    "response": "The course ENG200 is titled 'Advanced Verbal Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Advanced Verbal Communication Skills (ENG200)?",
+    "context": "",
+    "response": "The course Advanced Verbal Communication Skills (ENG200) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Advanced Verbal Communication Skills (ENG200)?",
+    "context": "",
+    "response": "The prerequisites for Advanced Verbal Communication Skills (ENG200) are: None."
+  },
+  {
+    "instruction": "Which category does Advanced Verbal Communication Skills (ENG200) belong to?",
+    "context": "",
+    "response": "Advanced Verbal Communication Skills (ENG200) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Advanced Verbal Communication Skills (ENG200)?",
+    "context": "",
+    "response": "The ability to deliver effective speeches and presentations is a critical factor in job advancement and success. Preparation, including adopting different oral communication strategies, audience analysis and adaptation, enhances the effectiveness of speaking in public. In this course, students will learn how to develop and deliver messages and how to use supporting materials. Students will also learn how to lessen anxiety and leave a lasting impression on audiences, whether large or small."
+  },
+  {
+    "instruction": "What is the name of the course ENG201?",
+    "context": "",
+    "response": "The course ENG201 is titled 'Theories of Writing'."
+  },
+  {
+    "instruction": "How many credits is Theories of Writing (ENG201)?",
+    "context": "",
+    "response": "The course Theories of Writing (ENG201) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Theories of Writing (ENG201)?",
+    "context": "",
+    "response": "The prerequisites for Theories of Writing (ENG201) are: ENG155."
+  },
+  {
+    "instruction": "Which category does Theories of Writing (ENG201) belong to?",
+    "context": "",
+    "response": "Theories of Writing (ENG201) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Theories of Writing (ENG201)?",
+    "context": "",
+    "response": "The course familiarizes students with current theories of writing. It offers a perspective on the writing profession’s theoretical evolution from process to cohesion to cognition to social construction. Students will be asked to apply the theories learnt to their own writing practices."
+  },
+  {
+    "instruction": "What is the name of the course ENG205?",
+    "context": "",
+    "response": "The course ENG205 is titled 'History of the English Language'."
+  },
+  {
+    "instruction": "How many credits is History of the English Language (ENG205)?",
+    "context": "",
+    "response": "The course History of the English Language (ENG205) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for History of the English Language (ENG205)?",
+    "context": "",
+    "response": "The prerequisites for History of the English Language (ENG205) are: ENG145."
+  },
+  {
+    "instruction": "Which category does History of the English Language (ENG205) belong to?",
+    "context": "",
+    "response": "History of the English Language (ENG205) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course History of the English Language (ENG205)?",
+    "context": "",
+    "response": "The purpose of this course is to introduce students to major developments in English language. It includes salient features of Old, Middle and Modern English. It also incorporates a comparison between British and American English, as well as a comparison among some non-native varieties of English such as Indian and African ones."
+  },
+  {
+    "instruction": "What is the name of the course ENG207?",
+    "context": "",
+    "response": "The course ENG207 is titled 'Psycholinguistics'."
+  },
+  {
+    "instruction": "How many credits is Psycholinguistics (ENG207)?",
+    "context": "",
+    "response": "The course Psycholinguistics (ENG207) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Psycholinguistics (ENG207)?",
+    "context": "",
+    "response": "The prerequisites for Psycholinguistics (ENG207) are: ENG145."
+  },
+  {
+    "instruction": "Which category does Psycholinguistics (ENG207) belong to?",
+    "context": "",
+    "response": "Psycholinguistics (ENG207) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Psycholinguistics (ENG207)?",
+    "context": "",
+    "response": "This course emphasizes on the psychological aspects of language learning. It incorporates Child Language Acquisition, Sound System, Phonology, Syntax, Semantics, Interlanguage Theory, Universal Grammar Theory and Cognitive Theory."
+  },
+  {
+    "instruction": "What is the name of the course ENG208?",
+    "context": "",
+    "response": "The course ENG208 is titled 'Sociolinguistics'."
+  },
+  {
+    "instruction": "How many credits is Sociolinguistics (ENG208)?",
+    "context": "",
+    "response": "The course Sociolinguistics (ENG208) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Sociolinguistics (ENG208)?",
+    "context": "",
+    "response": "The prerequisites for Sociolinguistics (ENG208) are: ENG145."
+  },
+  {
+    "instruction": "Which category does Sociolinguistics (ENG208) belong to?",
+    "context": "",
+    "response": "Sociolinguistics (ENG208) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Sociolinguistics (ENG208)?",
+    "context": "",
+    "response": "This course aims to investigate some of the ways in which linguistic and social variables interact in speech communities. We will examine both multilingual and monolingual speech communities. We consider language as a resource to convey cultural and personal identity, and what it reveals of language attitudes and social structure — and therefore of status and inequality in areas such as social class, gender, age, and ethnicity. We see how social identity illuminates variation in language, and learn about such topics as regional and social dialects, code-switching and bilingualism, pidgin and creole languages, rules of discourse, language rights, and speech in public arenas."
+  },
+  {
+    "instruction": "What is the name of the course ENG209?",
+    "context": "",
+    "response": "The course ENG209 is titled 'Political and Social History of England'."
+  },
+  {
+    "instruction": "How many credits is Political and Social History of England (ENG209)?",
+    "context": "",
+    "response": "The course Political and Social History of England (ENG209) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Political and Social History of England (ENG209)?",
+    "context": "",
+    "response": "The prerequisites for Political and Social History of England (ENG209) are: None."
+  },
+  {
+    "instruction": "Which category does Political and Social History of England (ENG209) belong to?",
+    "context": "",
+    "response": "Political and Social History of England (ENG209) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Political and Social History of England (ENG209)?",
+    "context": "",
+    "response": "This course introduces students to the major social and political events of England and also of Europe from the Tudor period to the end of 20th Century and the different literary movements during these periods."
+  },
+  {
+    "instruction": "What is the name of the course ENG211?",
+    "context": "",
+    "response": "The course ENG211 is titled 'Representations of Women in Literature'."
+  },
+  {
+    "instruction": "How many credits is Representations of Women in Literature (ENG211)?",
+    "context": "",
+    "response": "The course Representations of Women in Literature (ENG211) is worth 0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Representations of Women in Literature (ENG211)?",
+    "context": "",
+    "response": "The prerequisites for Representations of Women in Literature (ENG211) are: None."
+  },
+  {
+    "instruction": "Which category does Representations of Women in Literature (ENG211) belong to?",
+    "context": "",
+    "response": "Representations of Women in Literature (ENG211) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Representations of Women in Literature (ENG211)?",
+    "context": "",
+    "response": "The course examines representations of women in canonical literary works by men and women in the light of major issues raised by current feminist criticism. By the end of the semester students will be able to interpret texts using feminist terminology and judge them from a variety of feminist theoretical frameworks."
+  },
+  {
+    "instruction": "What is the name of the course ENG213?",
+    "context": "",
+    "response": "The course ENG213 is titled 'English Satire'."
+  },
+  {
+    "instruction": "How many credits is English Satire (ENG213)?",
+    "context": "",
+    "response": "The course English Satire (ENG213) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for English Satire (ENG213)?",
+    "context": "",
+    "response": "The prerequisites for English Satire (ENG213) are: None."
+  },
+  {
+    "instruction": "Which category does English Satire (ENG213) belong to?",
+    "context": "",
+    "response": "English Satire (ENG213) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course English Satire (ENG213)?",
+    "context": "",
+    "response": "The purpose of this course is to familiarize students with famous Satires in English. Texts include : a) Dryden McFlecknoe b) Swift Gulliver’s Travels A Battle of the Books c) Addison “Sir Roger at Church” Sir Roger at the Assizes” d) Pope Epistle to Dr. Arbuthnot e) Byron Don Juan, Bk, 1 f) Orwell Animal Farm"
+  },
+  {
+    "instruction": "What is the name of the course ENG222?",
+    "context": "",
+    "response": "The course ENG222 is titled 'Introduction to Bangla Literature'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Bangla Literature (ENG222)?",
+    "context": "",
+    "response": "The course Introduction to Bangla Literature (ENG222) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Bangla Literature (ENG222)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Bangla Literature (ENG222) are: ENG101."
+  },
+  {
+    "instruction": "Which category does Introduction to Bangla Literature (ENG222) belong to?",
+    "context": "",
+    "response": "Introduction to Bangla Literature (ENG222) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course ENG226?",
+    "context": "",
+    "response": "The course ENG226 is titled 'Business and Professional Writing'."
+  },
+  {
+    "instruction": "How many credits is Business and Professional Writing (ENG226)?",
+    "context": "",
+    "response": "The course Business and Professional Writing (ENG226) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Business and Professional Writing (ENG226)?",
+    "context": "",
+    "response": "The prerequisites for Business and Professional Writing (ENG226) are: ENG102."
+  },
+  {
+    "instruction": "Which category does Business and Professional Writing (ENG226) belong to?",
+    "context": "",
+    "response": "Business and Professional Writing (ENG226) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Business and Professional Writing (ENG226)?",
+    "context": "",
+    "response": "The course is designed to provide students of English with the language and personal skills to help them interact effectively with colleagues in the workplace. It provides information on writing CVs, reports, memos, faxes, meeting minutes, publicity material and proposals. In addition, the course will enable students to understand interviews, discussions, telephone conversations and recorded messages (Listening skills), read business documents to understand their gist and to extract specific information (Reading skills), write effective reports, proposals and email, describe information presented in diagrammatic form (Writing skills), discuss business problems and negotiate agreement, and prepare and deliver a short presentation (Speaking skills)."
+  },
+  {
+    "instruction": "What is the name of the course ENG230?",
+    "context": "",
+    "response": "The course ENG230 is titled 'Nineteenth Century Novel'."
+  },
+  {
+    "instruction": "How many credits is Nineteenth Century Novel (ENG230)?",
+    "context": "",
+    "response": "The course Nineteenth Century Novel (ENG230) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Nineteenth Century Novel (ENG230)?",
+    "context": "",
+    "response": "The prerequisites for Nineteenth Century Novel (ENG230) are: ENG191."
+  },
+  {
+    "instruction": "Which category does Nineteenth Century Novel (ENG230) belong to?",
+    "context": "",
+    "response": "Nineteenth Century Novel (ENG230) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Nineteenth Century Novel (ENG230)?",
+    "context": "",
+    "response": "This course includes the major novelists of the period and their representative works. The course usually starts with Jane Austen and then moves chronogically through the century, exploring and examining the nature and development of fiction through representative works of Emily Bronte, Charles Dickens, George Eliot, and Thomas Hardy. Students read the novels closely and discuss the issues raised by them."
+  },
+  {
+    "instruction": "What is the name of the course ENG235?",
+    "context": "",
+    "response": "The course ENG235 is titled 'Teaching Language through Literature'."
+  },
+  {
+    "instruction": "How many credits is Teaching Language through Literature (ENG235)?",
+    "context": "",
+    "response": "The course Teaching Language through Literature (ENG235) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Teaching Language through Literature (ENG235)?",
+    "context": "",
+    "response": "The prerequisites for Teaching Language through Literature (ENG235) are: ENG306."
+  },
+  {
+    "instruction": "Which category does Teaching Language through Literature (ENG235) belong to?",
+    "context": "",
+    "response": "Teaching Language through Literature (ENG235) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Teaching Language through Literature (ENG235)?",
+    "context": "",
+    "response": "The purpose of this course is to familiarize students with some techniques of using literature for language skills training. The course will discuss some of the ideas both for and against the use of literature in language teaching, and consider how literature might prove an effective tool for training listening, speaking, reading and writing skills of English."
+  },
+  {
+    "instruction": "What is the name of the course ENG245?",
+    "context": "",
+    "response": "The course ENG245 is titled 'Romantic Poetry'."
+  },
+  {
+    "instruction": "How many credits is Romantic Poetry (ENG245)?",
+    "context": "",
+    "response": "The course Romantic Poetry (ENG245) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Romantic Poetry (ENG245)?",
+    "context": "",
+    "response": "The prerequisites for Romantic Poetry (ENG245) are: ENG192."
+  },
+  {
+    "instruction": "Which category does Romantic Poetry (ENG245) belong to?",
+    "context": "",
+    "response": "Romantic Poetry (ENG245) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Romantic Poetry (ENG245)?",
+    "context": "",
+    "response": "This course is designed to provide students with an overview of the poetry of the Romantic period in English Literature. The course includes the major poets of this period. It examines Romanticism as a literary movement and then relates each individual poet to this movement. The focus will be on close reading of the poems. At the end of the semester students are expected to be able to independently examine and judge individual poems of the Romantic period."
+  },
+  {
+    "instruction": "What is the name of the course ENG255?",
+    "context": "",
+    "response": "The course ENG255 is titled 'Second Language Acquisition (SLA)'."
+  },
+  {
+    "instruction": "How many credits is Second Language Acquisition (SLA) (ENG255)?",
+    "context": "",
+    "response": "The course Second Language Acquisition (SLA) (ENG255) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Second Language Acquisition (SLA) (ENG255)?",
+    "context": "",
+    "response": "The prerequisites for Second Language Acquisition (SLA) (ENG255) are: ENG145, ENG207."
+  },
+  {
+    "instruction": "Which category does Second Language Acquisition (SLA) (ENG255) belong to?",
+    "context": "",
+    "response": "Second Language Acquisition (SLA) (ENG255) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Second Language Acquisition (SLA) (ENG255)?",
+    "context": "",
+    "response": "The aim of the course is to look at some major areas related to second language acquisition or learning-mainly from an applied linguistic perspective. It covers the areas in breadth rather than in depth. By the end of the course, student should become familiar with the major theories relating to second language acquisition and gain an understanding of the complex relationship between theory and practice in language education."
+  },
+  {
+    "instruction": "What is the name of the course ENG301?",
+    "context": "",
+    "response": "The course ENG301 is titled 'Elizabethan and Restoration Drama'."
+  },
+  {
+    "instruction": "How many credits is Elizabethan and Restoration Drama (ENG301)?",
+    "context": "",
+    "response": "The course Elizabethan and Restoration Drama (ENG301) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Elizabethan and Restoration Drama (ENG301)?",
+    "context": "",
+    "response": "The prerequisites for Elizabethan and Restoration Drama (ENG301) are: ENG191, ENG192."
+  },
+  {
+    "instruction": "Which category does Elizabethan and Restoration Drama (ENG301) belong to?",
+    "context": "",
+    "response": "Elizabethan and Restoration Drama (ENG301) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Elizabethan and Restoration Drama (ENG301)?",
+    "context": "",
+    "response": "In the course students will not only read plays from the two periods but will gain a perspective on the historical, religious and political backgrounds of these periods of English history also. Texts include selections from Thomas Kyd, Christopher Marlowe, William Shakespeare, Ben Jonson, and William Congreve."
+  },
+  {
+    "instruction": "What is the name of the course ENG303?",
+    "context": "",
+    "response": "The course ENG303 is titled 'Syllabus and Material Design'."
+  },
+  {
+    "instruction": "How many credits is Syllabus and Material Design (ENG303)?",
+    "context": "",
+    "response": "The course Syllabus and Material Design (ENG303) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Syllabus and Material Design (ENG303)?",
+    "context": "",
+    "response": "The prerequisites for Syllabus and Material Design (ENG303) are: ENG306."
+  },
+  {
+    "instruction": "Which category does Syllabus and Material Design (ENG303) belong to?",
+    "context": "",
+    "response": "Syllabus and Material Design (ENG303) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Syllabus and Material Design (ENG303)?",
+    "context": "",
+    "response": "The purpose of this course is to introduce students to different types of syllabuses such as grammatical syllabus, structural syllabus, notional-functional syllabus, and communicative syllabus. It considers some of the fundamental considerations of syllabus design such as needs analysis, setting of goals, defining objectives, deciding about pedagogic approaches, selecting, grading and sequencing of items, and recommending testing procedures. The course also focuses on the basic considerations in selecting, adopting, and designing materials. Some of the checklists will be consulted for evaluation and a unit of material will be evaluated. The course will also include lesson planning and task design."
+  },
+  {
+    "instruction": "What is the name of the course ENG305?",
+    "context": "",
+    "response": "The course ENG305 is titled 'Linguistic Theories'."
+  },
+  {
+    "instruction": "How many credits is Linguistic Theories (ENG305)?",
+    "context": "",
+    "response": "The course Linguistic Theories (ENG305) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Linguistic Theories (ENG305)?",
+    "context": "",
+    "response": "The prerequisites for Linguistic Theories (ENG305) are: ENG145, ENG154."
+  },
+  {
+    "instruction": "Which category does Linguistic Theories (ENG305) belong to?",
+    "context": "",
+    "response": "Linguistic Theories (ENG305) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Linguistic Theories (ENG305)?",
+    "context": "",
+    "response": "The course discusses the historical developments of Linguistics as a discipline. It incorporates the theories of Saussure, the descriptivists, the Sapir Whorf hypothesis, functional Linguistics of Prague School, Noam Chomsky and generative grammar and London school."
+  },
+  {
+    "instruction": "What is the name of the course ENG306?",
+    "context": "",
+    "response": "The course ENG306 is titled 'Methodology of Language Teaching'."
+  },
+  {
+    "instruction": "How many credits is Methodology of Language Teaching (ENG306)?",
+    "context": "",
+    "response": "The course Methodology of Language Teaching (ENG306) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Methodology of Language Teaching (ENG306)?",
+    "context": "",
+    "response": "The prerequisites for Methodology of Language Teaching (ENG306) are: ENG145."
+  },
+  {
+    "instruction": "Which category does Methodology of Language Teaching (ENG306) belong to?",
+    "context": "",
+    "response": "Methodology of Language Teaching (ENG306) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Methodology of Language Teaching (ENG306)?",
+    "context": "",
+    "response": "This course critically reviews different methodologies and their implementation in international English Language Teaching environments. We will consider how different methodologies have emerged out of theories of language learning and language acquisition and examine to what extent they are relevant to different pedagogic cultures."
+  },
+  {
+    "instruction": "What is the name of the course ENG307?",
+    "context": "",
+    "response": "The course ENG307 is titled 'Academic Writing'."
+  },
+  {
+    "instruction": "How many credits is Academic Writing (ENG307)?",
+    "context": "",
+    "response": "The course Academic Writing (ENG307) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Academic Writing (ENG307)?",
+    "context": "",
+    "response": "The prerequisites for Academic Writing (ENG307) are: ENG155, ENG309."
+  },
+  {
+    "instruction": "Which category does Academic Writing (ENG307) belong to?",
+    "context": "",
+    "response": "Academic Writing (ENG307) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Academic Writing (ENG307)?",
+    "context": "",
+    "response": "This course is designed to help and guide students to write well-developed academic papers for their courses following the processes and conventions of academia. Practice of critical reading and critical thinking will be emphasized. Students will learn how to write a sound academic paper with a good introduction and conclusion through the process of paraphrasing, incorporating and synthesizing ideas, and selecting and using quotations from various primary and secondary sources of their readings. Building self-confidence as an original thinker and avoiding plagiarism will be also a component part of the course. It will acquaint students with current APA and MLA citation practices."
+  },
+  {
+    "instruction": "What is the name of the course ENG309?",
+    "context": "",
+    "response": "The course ENG309 is titled 'Advanced Reading and Writing'."
+  },
+  {
+    "instruction": "How many credits is Advanced Reading and Writing (ENG309)?",
+    "context": "",
+    "response": "The course Advanced Reading and Writing (ENG309) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Advanced Reading and Writing (ENG309)?",
+    "context": "",
+    "response": "The prerequisites for Advanced Reading and Writing (ENG309) are: ENG155."
+  },
+  {
+    "instruction": "Which category does Advanced Reading and Writing (ENG309) belong to?",
+    "context": "",
+    "response": "Advanced Reading and Writing (ENG309) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Advanced Reading and Writing (ENG309)?",
+    "context": "",
+    "response": "Students will be required to study selected literary pieces in order to develop an awareness of the linguistic devices an author employs and the effects they produce. They will explore different rhetorical modes including narration, description, process, comparison/contrast, classification, cause and effect. The course will also focus on word choice, sentence variety and organization of ideas. Reading will cover such areas as critical reading, finding explicit and implicit relationships between elements of texts, identifying author’s attitude and feelings, mood and tone, recognizing bias, and interpreting and critically evaluating texts. Writing will focus on styles of writing, introducing point of view, using the writer’s tone, conventions of referencing and quoting."
+  },
+  {
+    "instruction": "What is the name of the course ENG310?",
+    "context": "",
+    "response": "The course ENG310 is titled 'Shakespeare'."
+  },
+  {
+    "instruction": "How many credits is Shakespeare (ENG310)?",
+    "context": "",
+    "response": "The course Shakespeare (ENG310) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Shakespeare (ENG310)?",
+    "context": "",
+    "response": "The prerequisites for Shakespeare (ENG310) are: ENG301."
+  },
+  {
+    "instruction": "Which category does Shakespeare (ENG310) belong to?",
+    "context": "",
+    "response": "Shakespeare (ENG310) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Shakespeare (ENG310)?",
+    "context": "",
+    "response": "The course aims to familiarize students with Shakespeare’s craft, technique, use of language and with the rudiments of Shakespearean stage structure through the reading of Shakespearean plays and poetry. Texts to be studied include Shakespearean tragedy, comedy, history plays, the problem plays and selected sonnets."
+  },
+  {
+    "instruction": "What is the name of the course ENG313?",
+    "context": "",
+    "response": "The course ENG313 is titled 'English for the Media'."
+  },
+  {
+    "instruction": "How many credits is English for the Media (ENG313)?",
+    "context": "",
+    "response": "The course English for the Media (ENG313) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for English for the Media (ENG313)?",
+    "context": "",
+    "response": "The prerequisites for English for the Media (ENG313) are: ENG102."
+  },
+  {
+    "instruction": "Which category does English for the Media (ENG313) belong to?",
+    "context": "",
+    "response": "English for the Media (ENG313) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course English for the Media (ENG313)?",
+    "context": "",
+    "response": "This course seeks to train students in journalistic writings such as short news reports with interesting captions/headings, subtitling, translating reports obtained from foreign news agencies, preparing long reports for the press or electronic media, writing special features for the media, and editing. It will focus on both objective reporting or distancing the self from the report and subjective reporting or taking a position while reporting. The course will train students to take active parts in press briefing/conferences and prepare reports on the briefings, interview persons, conduct surveys and prepare reports for the media. The course will give training in the art of news-casting with emphasis on pronunciation, stress, intonation, confidence, and naturalness."
+  },
+  {
+    "instruction": "What is the name of the course ENG315?",
+    "context": "",
+    "response": "The course ENG315 is titled 'Seventeenth and Eighteenth Century Poetry'."
+  },
+  {
+    "instruction": "How many credits is Seventeenth and Eighteenth Century Poetry (ENG315)?",
+    "context": "",
+    "response": "The course Seventeenth and Eighteenth Century Poetry (ENG315) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Seventeenth and Eighteenth Century Poetry (ENG315)?",
+    "context": "",
+    "response": "The prerequisites for Seventeenth and Eighteenth Century Poetry (ENG315) are: ENG192."
+  },
+  {
+    "instruction": "Which category does Seventeenth and Eighteenth Century Poetry (ENG315) belong to?",
+    "context": "",
+    "response": "Seventeenth and Eighteenth Century Poetry (ENG315) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Seventeenth and Eighteenth Century Poetry (ENG315)?",
+    "context": "",
+    "response": "This course will survey the major poets of the 17th and 18th century in English literature and will discuss the salient aspects of metaphysical and neo-classical poetry as well as Milton’s poetics. The poets who will be studied in detail include Donne, Marvell, Herbert, Dryden, Pope and Gray."
+  },
+  {
+    "instruction": "What is the name of the course ENG316?",
+    "context": "",
+    "response": "The course ENG316 is titled 'English for Specific Purposes'."
+  },
+  {
+    "instruction": "How many credits is English for Specific Purposes (ENG316)?",
+    "context": "",
+    "response": "The course English for Specific Purposes (ENG316) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for English for Specific Purposes (ENG316)?",
+    "context": "",
+    "response": "The prerequisites for English for Specific Purposes (ENG316) are: ENG303, ENG306."
+  },
+  {
+    "instruction": "Which category does English for Specific Purposes (ENG316) belong to?",
+    "context": "",
+    "response": "English for Specific Purposes (ENG316) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course English for Specific Purposes (ENG316)?",
+    "context": "",
+    "response": "This module aims to introduce students to the history, distinguishing features, theoretical foundations and methodological innovations of TESP: the teaching of English for Specific Purposes. It also aims at introducing students to the ideas of English for specific purposes such as English for academic or professional purposes, Engineering, or English for Business."
+  },
+  {
+    "instruction": "What is the name of the course ENG319?",
+    "context": "",
+    "response": "The course ENG319 is titled 'Translation Studies'."
+  },
+  {
+    "instruction": "How many credits is Translation Studies (ENG319)?",
+    "context": "",
+    "response": "The course Translation Studies (ENG319) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Translation Studies (ENG319)?",
+    "context": "",
+    "response": "The prerequisites for Translation Studies (ENG319) are: ENG155, ENG309."
+  },
+  {
+    "instruction": "Which category does Translation Studies (ENG319) belong to?",
+    "context": "",
+    "response": "Translation Studies (ENG319) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Translation Studies (ENG319)?",
+    "context": "",
+    "response": "The aim of this course is to train students in the art of translation to meet the growing need of translators. It covers recent theoretical developments in the art of translation, and focuses on the use of theoretical insight in the practice of translating literary and non-literary texts from English to Bangla and vice-versa. Students will examine some works of translation and compare translations with original works. They will be required to translate some short stories, poems, or parts of some longer literary and non-literary texts from English to Bangla and vice-versa."
+  },
+  {
+    "instruction": "What is the name of the course ENG320?",
+    "context": "",
+    "response": "The course ENG320 is titled 'Victorian Prose and Poetry'."
+  },
+  {
+    "instruction": "How many credits is Victorian Prose and Poetry (ENG320)?",
+    "context": "",
+    "response": "The course Victorian Prose and Poetry (ENG320) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Victorian Prose and Poetry (ENG320)?",
+    "context": "",
+    "response": "The prerequisites for Victorian Prose and Poetry (ENG320) are: ENG191, ENG2456."
+  },
+  {
+    "instruction": "Which category does Victorian Prose and Poetry (ENG320) belong to?",
+    "context": "",
+    "response": "Victorian Prose and Poetry (ENG320) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Victorian Prose and Poetry (ENG320)?",
+    "context": "",
+    "response": "This course introduces students to some major Victorian poets and prose writers. It focuses mainly on close analysis of prescribed texts, but it also grapples with the issue of the relation of each poet and writer to his or her Romantic predecessors and to the spirit of the age."
+  },
+  {
+    "instruction": "What is the name of the course ENG330?",
+    "context": "",
+    "response": "The course ENG330 is titled 'English Prose from Bacon to Lamb'."
+  },
+  {
+    "instruction": "How many credits is English Prose from Bacon to Lamb (ENG330)?",
+    "context": "",
+    "response": "The course English Prose from Bacon to Lamb (ENG330) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for English Prose from Bacon to Lamb (ENG330)?",
+    "context": "",
+    "response": "The prerequisites for English Prose from Bacon to Lamb (ENG330) are: ENG191, ENG192."
+  },
+  {
+    "instruction": "Which category does English Prose from Bacon to Lamb (ENG330) belong to?",
+    "context": "",
+    "response": "English Prose from Bacon to Lamb (ENG330) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course English Prose from Bacon to Lamb (ENG330)?",
+    "context": "",
+    "response": "The course consists of prose writings from the Elizabethan to the Nineteenth Century. It includes selected writings of Bacon, Addison and Steele, Swift, Boswell and Lamb"
+  },
+  {
+    "instruction": "What is the name of the course ENG402?",
+    "context": "",
+    "response": "The course ENG402 is titled 'Pragmatics and Discourse Analysis'."
+  },
+  {
+    "instruction": "How many credits is Pragmatics and Discourse Analysis (ENG402)?",
+    "context": "",
+    "response": "The course Pragmatics and Discourse Analysis (ENG402) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Pragmatics and Discourse Analysis (ENG402)?",
+    "context": "",
+    "response": "The prerequisites for Pragmatics and Discourse Analysis (ENG402) are: ENG145, ENG154."
+  },
+  {
+    "instruction": "Which category does Pragmatics and Discourse Analysis (ENG402) belong to?",
+    "context": "",
+    "response": "Pragmatics and Discourse Analysis (ENG402) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Pragmatics and Discourse Analysis (ENG402)?",
+    "context": "",
+    "response": "This course introduces students to speech act theory, conversational maxims, relevance and implicature, communicative events, modality, cohesion, coherence, frames, presupposition and the pragmatics of politeness, topic change, turn taking, interruptions, conversation structure, clarification, repair, face saving and solidarity. It will also focus on spoken and written discourse analysis, contrastive pragmatics, anthropological perspective and cross-cultural communication. By the end of the course it is expected that students will be able to critically analyze spoken interaction and to evaluate written texts with particular reference to context, cohesive ties, topic framework, illocution and inference."
+  },
+  {
+    "instruction": "What is the name of the course ENG340?",
+    "context": "",
+    "response": "The course ENG340 is titled 'Eighteenth Century Fiction'."
+  },
+  {
+    "instruction": "How many credits is Eighteenth Century Fiction (ENG340)?",
+    "context": "",
+    "response": "The course Eighteenth Century Fiction (ENG340) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Eighteenth Century Fiction (ENG340)?",
+    "context": "",
+    "response": "The prerequisites for Eighteenth Century Fiction (ENG340) are: ENG192."
+  },
+  {
+    "instruction": "Which category does Eighteenth Century Fiction (ENG340) belong to?",
+    "context": "",
+    "response": "Eighteenth Century Fiction (ENG340) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Eighteenth Century Fiction (ENG340)?",
+    "context": "",
+    "response": "Students will focus on the rise of the novel and discuss the major works of prose fiction of the period. The texts to be studied include Robinson Crusoe, Gulliver’s Travels, Joseph Andrews, Tom Jones and Rasselas"
+  },
+  {
+    "instruction": "What is the name of the course ENG440?",
+    "context": "",
+    "response": "The course ENG440 is titled 'Literary Theory'."
+  },
+  {
+    "instruction": "How many credits is Literary Theory (ENG440)?",
+    "context": "",
+    "response": "The course Literary Theory (ENG440) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Literary Theory (ENG440)?",
+    "context": "",
+    "response": "The prerequisites for Literary Theory (ENG440) are: Completion of at least 10 literature courses."
+  },
+  {
+    "instruction": "Which category does Literary Theory (ENG440) belong to?",
+    "context": "",
+    "response": "Literary Theory (ENG440) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Literary Theory (ENG440)?",
+    "context": "",
+    "response": "The aim of this course is to familiarize students with different literary theories. The course includes selected works of Freud, Cleanth Brooks, E M Froster, M H Abrams, R Barthes, William Wordsworth, Fish, Said, and Kora Kaplan"
+  },
+  {
+    "instruction": "What is the name of the course ENG507?",
+    "context": "",
+    "response": "The course ENG507 is titled 'Research Methods in (a) English Literature (b) ELT (40 to 50 pages)'."
+  },
+  {
+    "instruction": "How many credits is Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507)?",
+    "context": "",
+    "response": "The course Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507)?",
+    "context": "",
+    "response": "The prerequisites for Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507) are: None."
+  },
+  {
+    "instruction": "Which category does Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507) belong to?",
+    "context": "",
+    "response": "Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "Can you describe the course Research Methods in (a) English Literature (b) ELT (40 to 50 pages) (ENG507)?",
+    "context": "",
+    "response": "The course aims at introducing students to the approaches and methods of research in linguistics, ELT/Applied Linguistics and literature. It will examine some research papers, articles and dissertation, and find out the approaches and methods employed in those studies. It will cover the different steps such as selecting the title, doing literature review, writing an outline, drafting, editing, data collection, data analysis, presenting results, using reference tools, documentation, and searching the internet."
+  },
+  {
+    "instruction": "What is the name of the course ENG522?",
+    "context": "",
+    "response": "The course ENG522 is titled 'Modernism to Postmodernism'."
+  },
+  {
+    "instruction": "How many credits is Modernism to Postmodernism (ENG522)?",
+    "context": "",
+    "response": "The course Modernism to Postmodernism (ENG522) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Modernism to Postmodernism (ENG522)?",
+    "context": "",
+    "response": "The prerequisites for Modernism to Postmodernism (ENG522) are: None."
+  },
+  {
+    "instruction": "Which category does Modernism to Postmodernism (ENG522) belong to?",
+    "context": "",
+    "response": "Modernism to Postmodernism (ENG522) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "Can you describe the course Modernism to Postmodernism (ENG522)?",
+    "context": "",
+    "response": "This course is an introduction to the philosophical ideas that have shaped the practice of contemporary art, criticism, and cultural studies in the west. We begin with an examination of some historical problems that have arisen in thinking about art. Then we survey the various systems that constitute Modernist cultural “ theory”, including formalism, phenomenology, Marxism, Structuralism, semiotics and psychoanalysis. These modernist theories are compared to poststructuralist and feminist views of art production and reception. The overall objective of this study is to provide the necessary background for understanding and evaluating theories of contemporary culture. The literary works that will be studied are: Jessica Hagedorn: Dogeaters, or Danger and Beauty, or The Gangster of Love Gabriel Garcia Marquez: One Hundred Years of Solitude or Strange Pilgrims or The Chronicle of Death Foretold Toni Morrison: Paradise Richard Powers: Prisoner’s Dilemma , or Operation Wandering Soul Paul Auster: Blue in the Face,,or Leviathan William Gibson: Virtual Light, or Monalisa Thomas Pynnchon: The Crying of Lot 49"
+  }
+]

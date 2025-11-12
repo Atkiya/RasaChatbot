@@ -1,0 +1,977 @@
+[
+  {
+    "instruction": "What is the name of the course INF101?",
+    "context": "",
+    "response": "The course INF101 is titled 'Introduction to Information Studies'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Information Studies (INF101)?",
+    "context": "",
+    "response": "The course Introduction to Information Studies (INF101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Information Studies (INF101)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Information Studies (INF101) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Information Studies (INF101) belong to?",
+    "context": "",
+    "response": "Introduction to Information Studies (INF101) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Introduction to Information Studies (INF101)?",
+    "context": "",
+    "response": "Defining data, information and knowledge, characteristics of information and knowledge, varieties of information, human information needs, human information needs, information models and theories, economics of information. Information and knowledge management, information management process, information processing, information access models, controlled vocabularies and natural language as information access tools. Information Science: Concepts and scope of information science, information, definition, types, qualities or properties, parameters, role of information in the society, barriers to use of information. Evolution and development of information science. Information 2.0, overview of the digital information landscape, implications of the technological changes for the information industry, internet as a driver of change, big data. Information processing and storage: concepts, information creation process, methods of information processing, batch-processing systems, real-time processing systems, cognitive model of information processing, process of documentation. Tools for organizing knowledge, role of standards in information environments, various documentation standards, metadata protocols – Machine Readable Catalogue (MARC), Common Communication Format (CCF), ISBN, Dublin Core, etc. digital object identifiers, system contexts for knowledge organization. Introduction to information sources and services, various printed tools for exploring information resources and their use, human information services for users including Current Awareness Service (CAS), Selective Dissemination Service (SDI), routings of periodicals, reference services etc. Information technology, components of a computer system-hardware and software, information management software tools, digital ready reference apparatus such as dictionaries, encyclopedias, almanacs, atlases, catalogues, computer databases etc."
+  },
+  {
+    "instruction": "What is the name of the course INF102?",
+    "context": "",
+    "response": "The course INF102 is titled 'New Technologies and Current Trends in Information Science'."
+  },
+  {
+    "instruction": "How many credits is New Technologies and Current Trends in Information Science (INF102)?",
+    "context": "",
+    "response": "The course New Technologies and Current Trends in Information Science (INF102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for New Technologies and Current Trends in Information Science (INF102)?",
+    "context": "",
+    "response": "The prerequisites for New Technologies and Current Trends in Information Science (INF102) are: None."
+  },
+  {
+    "instruction": "Which category does New Technologies and Current Trends in Information Science (INF102) belong to?",
+    "context": "",
+    "response": "New Technologies and Current Trends in Information Science (INF102) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course New Technologies and Current Trends in Information Science (INF102)?",
+    "context": "",
+    "response": "Use and applications of ICT in different fields of information institutions in Bangladesh, impact of ICT in information systems, current trends and existing situation, problems and prospects of using ICT in Bangladesh. Electronic resources. Characteristics, types and formats of e-resources. Implementation of e-resources in information institutions. Electronic journal, conceptual issues, categorization of e-journals, necessity of e-journals in Bangladesh, comparison between print journals and electronic journals, merits and demerits of e-journals, barriers of e-journals subscription in Bangladesh and the measures to overcome the barriers. Classification of software’s for information institution and introduction of some application software used for the information center in Bangladesh. Integrated Library System (ILS) software, classification, features, open source and proprietary software. Institutional repository software, integrated system. Federated search system, necessity, functions and discussion about some software. Remote access software, concept, functions, importance and comparison about some remote access software and service, MyAthens, EZproxy, etc. Practical applications of office application software in information institution, open office, and Microsoft office package etc. Concept, function, procedure, need assessment and elements of Radio-frequency Identification (RFID) technology, consideration for implementation of RFID system in information institutions. Information superhighway, definition, components, user groups, importance, advantages and disadvantages of information superhighway. Worldwide web, internet, web browser, web pages, website. Web Technology, languages for web development, Content Management System (CMS). Modern technology trends of information institutions across the world."
+  },
+  {
+    "instruction": "What is the name of the course INF103?",
+    "context": "",
+    "response": "The course INF103 is titled 'Information and Society'."
+  },
+  {
+    "instruction": "How many credits is Information and Society (INF103)?",
+    "context": "",
+    "response": "The course Information and Society (INF103) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information and Society (INF103)?",
+    "context": "",
+    "response": "The prerequisites for Information and Society (INF103) are: None."
+  },
+  {
+    "instruction": "Which category does Information and Society (INF103) belong to?",
+    "context": "",
+    "response": "Information and Society (INF103) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information and Society (INF103)?",
+    "context": "",
+    "response": "Transformation of data into information, parameters of information, use of information in daily life, application of information in social activities. Evolution of society; development of the concepts of culture, civilization, society etc.; Models of society; elements of society; structural context of socialization etc. Basic understanding of social organizations and institutions, various social institutions, functions and scopes of social institutions, elements and boundaries of social systems etc. Basics of information institutions, different types of information institutions, purpose and functions of information institutions, human information institution as social institutions, socio-political-economic background of establishing information institutions. Information institution as a social, cultural and democratic institution, relationship of information institution with other social institutions, changing role of information institutions in the society. Definition and meaning of information society, factors determining the arrival of information society, history of information society, Theories of information society, components of information society, information economy, impact of information society on information profession. Evolution of Information and Communication Technologies (ICTs), role of Information and Communication Technology (ICT) in development, information sharing and dissemination in technological environment. Elements of information communication, Information institutions as a center of social communication, communication process in developed countries and its application in developing societies including Bangladesh, user-information professional communication. Concept of algorithm, how algorithm affects our daily lives, social algorithm, algorithm culture, governing algorithm."
+  },
+  {
+    "instruction": "What is the name of the course INF104?",
+    "context": "",
+    "response": "The course INF104 is titled 'Information Literacy'."
+  },
+  {
+    "instruction": "How many credits is Information Literacy (INF104)?",
+    "context": "",
+    "response": "The course Information Literacy (INF104) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Literacy (INF104)?",
+    "context": "",
+    "response": "The prerequisites for Information Literacy (INF104) are: None."
+  },
+  {
+    "instruction": "Which category does Information Literacy (INF104) belong to?",
+    "context": "",
+    "response": "Information Literacy (INF104) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Literacy (INF104)?",
+    "context": "",
+    "response": "Introduction to information literacy: Evolution, nature, characteristics of information literacy, significance of information literacy in information society. Different dimensions of information literacy: tool literacy, resource literacy, social-structural literacy, research literacy, publishing literacy, critical literacy. Information literacy models: Big6, PLUS information skill model, seven faces of information literacy, seven pillars of information literacy. Media Information Literacy: Definition, objectives, functions, skills. Infodemic. Combatting misinformation, disinformation and fake news. Digital Literacy: Scope, evolution, features, skills, components. Information literacy guideline of IFLA. Information literacy assessment. National and international perspective of information literacy. Information literacy practices in Bangladesh."
+  },
+  {
+    "instruction": "What is the name of the course INF105?",
+    "context": "",
+    "response": "The course INF105 is titled 'Community Informatics'."
+  },
+  {
+    "instruction": "How many credits is Community Informatics (INF105)?",
+    "context": "",
+    "response": "The course Community Informatics (INF105) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Community Informatics (INF105)?",
+    "context": "",
+    "response": "The prerequisites for Community Informatics (INF105) are: None."
+  },
+  {
+    "instruction": "Which category does Community Informatics (INF105) belong to?",
+    "context": "",
+    "response": "Community Informatics (INF105) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Community Informatics (INF105)?",
+    "context": "",
+    "response": "Concept of community, understanding informatics, conceptualize community informatics (CI), define a variety of terms of particular interest in community informatics, the practice of Community Informatics and the conceptual and theoretical frameworks behind it, the concept of “community” both in the broader usage and in the specific use in a CI context, the roles and influences of community practice, community networking and information systems as the basis for community informatics. Identify Information and Communications technology (ICTs) of particular interest to communities, applications of these technologies of particular interest to communities, role of CI in information society, the role of ICTs in cultural heritage and maintenance, and community development using ICTs. Describe and critically evaluate research methods of particular interest to CI, discuss the relationship between research and practice in CI, role of evaluation in CI research. Role and functioning of CI in physical and virtual community, role of social software in supporting virtual community, characteristics of social network and online communities. Communities of practice, definition of community of practice, examples of communities of practice, process of designing a community of practice, compare and contrast communities of practice with other types of communities covered in class. Concept of digital divide, different approaches to digital divide, Concept of access to information, access rainbow, definition of ICT4D and explore concepts related to ICT4D (e.g. the Digital Divide), examples of ICT4D projects that are related to community and community informatics, role of community in ICT4D and development in general. Role of CI in economic and social development for developing and less developed countries, CI in community services i.e. health, education, and environment management. Steps involved in designing and implementing a CI system, examine CI systems from the perspectives of design, deployment, implementation and sustainability, CI model for an integrated service delivery system, features of CI application. Mobile community informatics, reflect upon the implications of location-based services in community informatics applications, apply the concepts learned through the brainstorming and design of a mobile community informatics application. CI practices in Bangladesh, concepts of community innovation & engagement, understanding of community innovation & engagement by traveling to a local community innovation center."
+  },
+  {
+    "instruction": "What is the name of the course INF106?",
+    "context": "",
+    "response": "The course INF106 is titled 'Bibliography, Reference and Citation'."
+  },
+  {
+    "instruction": "How many credits is Bibliography, Reference and Citation (INF106)?",
+    "context": "",
+    "response": "The course Bibliography, Reference and Citation (INF106) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Bibliography, Reference and Citation (INF106)?",
+    "context": "",
+    "response": "The prerequisites for Bibliography, Reference and Citation (INF106) are: None."
+  },
+  {
+    "instruction": "Which category does Bibliography, Reference and Citation (INF106) belong to?",
+    "context": "",
+    "response": "Bibliography, Reference and Citation (INF106) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Bibliography, Reference and Citation (INF106)?",
+    "context": "",
+    "response": "Introduction to bibliographic information sources, definition, origin, function and importance of bibliography, human bibliography, Bibliography vs catalogue, types and kinds, merits and demerits of classified and dictionary catalogues, bibliographical elements/information in manual and automated catalogues. Compilation of bibliographies, different methods of compilation, arrangement of entries, style etc. Evaluation of Bibliography: Authority, scope, items and entries of information, special features, format and limitations. Bibliographic description: Minimum standard entry, short standard entry, full entry with examples. ISBN: Different Parts of ISBN, Calculation of Check digit. Bibliographic services in various subjects; Bibliographic services of different countries. Definition, Importance, functions of Reference in a research work, Procedure of compiling References. Definition, objective, scope of Citation, Reference and Citation, online bibliographic citation tools. Different Styles of Reference, American Psychological Association (APA), Harvard, Modern Language Association (MLA), Chicago. Use of Reference Management software for Reference and Citation Management, Endnote, Mendeley, etc."
+  },
+  {
+    "instruction": "What is the name of the course INF107?",
+    "context": "",
+    "response": "The course INF107 is titled 'Organization of Information'."
+  },
+  {
+    "instruction": "How many credits is Organization of Information (INF107)?",
+    "context": "",
+    "response": "The course Organization of Information (INF107) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Organization of Information (INF107)?",
+    "context": "",
+    "response": "The prerequisites for Organization of Information (INF107) are: None."
+  },
+  {
+    "instruction": "Which category does Organization of Information (INF107) belong to?",
+    "context": "",
+    "response": "Organization of Information (INF107) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Organization of Information (INF107)?",
+    "context": "",
+    "response": "Bibliographical/technical reading of documents, reasons, purposes, process of doing it, technical reading of web information. Basic concepts of catalogue and cataloguing, purpose, functions of catalogue, characteristics of an ideal catalogue, outer or physical forms, comparative studies, inner forms, types and kinds, merits and demerits of classified and dictionary catalogues, bibliographical elements/information in manual and automated catalogues. Introduction to Subject headings Sears List, functions, requirements, and use in catalogue, bibliography, index, etc., steps to subject determination, principles of subject determination, choice, kinds and types. Basic elements of automated cataloguing, MARC format, variable data fields, tags of USMARC 3 format, development of Online Public Access Catalogue (OPAC). Introduction to Dewey Decimal Classification (DDC) and Library of Congress Classification (LC) schemes, main classes / 1st and 2nd summary, tables, formation of area notation, Standard subdivisions and floor plan, form classes / subdivisions in language and literature, Hierarchical structure, Mnemonic values in DDC, Main classes / structure / synoptically outlines of LC, merits, demerits. Purpose, usefulness and functions of classification. Principles of classifying books, analysis of Merrill’s principles. Notation, definition, functions, usefulness and criteria of good notation. The index: Types of index, use of specific and relative indexes. Introduction to the concept of Resource Description and Access (RDA) and Functional Requirements for Bibliographic Records (FRBR). Organizing geographic data and information, organization of visual images etc. Introduction with the concept of big data, evolution of the concept of big data, three V’s of big data, benefits of big data, big data practices and challenges."
+  },
+  {
+    "instruction": "What is the name of the course INF108?",
+    "context": "",
+    "response": "The course INF108 is titled 'Information Users and their Needs'."
+  },
+  {
+    "instruction": "How many credits is Information Users and their Needs (INF108)?",
+    "context": "",
+    "response": "The course Information Users and their Needs (INF108) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Users and their Needs (INF108)?",
+    "context": "",
+    "response": "The prerequisites for Information Users and their Needs (INF108) are: None."
+  },
+  {
+    "instruction": "Which category does Information Users and their Needs (INF108) belong to?",
+    "context": "",
+    "response": "Information Users and their Needs (INF108) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Users and their Needs (INF108)?",
+    "context": "",
+    "response": "Information Users: Identification of Users, Concept of Need, Want, Demand & Requirement, Users Categories: Planners, Policy Makers, Managers, R&D Personnel, People at Grass Root, Information Seeking Behavior of Different User Groups. Use of Information: Use of Information in Management activities, Use of Information in Decision Making, Use of Information in Research and Development (R & D), Role of Information in Raising the Standards & Quality of Life. User Studies: Scope and Content of User Studies, Studies by Types of Libraries: Different User Groups, Different Disciplines, Critical Review of Some Large Scale User Studies. Methodology of User Studies: Qualitative & Quantitative Paradigm, Data Collection Methods. Other Specific Technique – Scenario Analysis, Interaction Analysis, Delphi Method and Repertory Grids, Evaluation of User Survey. User Education and Information Literacy: Concept & Importance of Information Literacy, Health Information Literacy, Media and Information literacy, Digital Literacy etc. User Satisfaction: Measurement of User Satisfaction, Suggestion collection, Development of User service based on User Suggestion and Feedback. Models of information-seeking behaviors."
+  },
+  {
+    "instruction": "What is the name of the course INF109?",
+    "context": "",
+    "response": "The course INF109 is titled 'Information Networking and Resource Sharing'."
+  },
+  {
+    "instruction": "How many credits is Information Networking and Resource Sharing (INF109)?",
+    "context": "",
+    "response": "The course Information Networking and Resource Sharing (INF109) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Networking and Resource Sharing (INF109)?",
+    "context": "",
+    "response": "The prerequisites for Information Networking and Resource Sharing (INF109) are: None."
+  },
+  {
+    "instruction": "Which category does Information Networking and Resource Sharing (INF109) belong to?",
+    "context": "",
+    "response": "Information Networking and Resource Sharing (INF109) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Networking and Resource Sharing (INF109)?",
+    "context": "",
+    "response": "Definition, origin, objectives and fields of cooperation, information networking and resource sharing, influencing and reducing factors and barriers to information networking and resource sharing, basic agreements of resource sharing. Information networking and resource sharing processes, functions and activities of information resource sharing, components of information networking, rationale of establishment of information network in information institution. Types of network and their configurations, local area network (LAN) and wide area network (WAN), network protocols, different programs / models of information networking and resource sharing, logical tools and technologies for information networking, factors to be considered for establishing library and information network. Application and use of internet in information networking, tools for internet, process of digitization of library materials for automated information networking, use of multimedia in information networking and resource sharing. Technical aspects, hardware and software requirements for information networking, manpower needs for information networking and resource sharing with their job description, user needs. Financial, and functional management issues in information networking and resource sharing, reasons for automated information network, national, regional and international information networks and resource sharing activities, existing situation, problems and prospects of library and information networking in Bangladesh, preparation of a model plan for information network. Consortia formation, licensing and management for subscribing of electronic resources."
+  },
+  {
+    "instruction": "What is the name of the course INF201?",
+    "context": "",
+    "response": "The course INF201 is titled 'Information Sources and Services'."
+  },
+  {
+    "instruction": "How many credits is Information Sources and Services (INF201)?",
+    "context": "",
+    "response": "The course Information Sources and Services (INF201) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Sources and Services (INF201)?",
+    "context": "",
+    "response": "The prerequisites for Information Sources and Services (INF201) are: None."
+  },
+  {
+    "instruction": "Which category does Information Sources and Services (INF201) belong to?",
+    "context": "",
+    "response": "Information Sources and Services (INF201) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Sources and Services (INF201)?",
+    "context": "",
+    "response": "Sources of information, documentary and non-documentary, primary, secondary, tertiary and mixed group of sources, human, reference materials, encyclopedias, dictionaries, almanacs, handbooks, manuals, gazetteers, biographical sources, etc. Information sources in different disciplines, science and technology, humanities, social sciences, business, health sciences, government publications, and their evaluation. Sources of information in networked society, types of online access information sources by content, file, format, costing, and access method etc., problems of internet based information sources. Meaning of information and reference service, objectives and scope, distinction between information and reference service, referral service and document delivery service. Kinds of information services and delivery techniques reference questions-types and representative sources of information, question handling techniques. Information services, nature of information services, distinction from reference and other services, techniques of providing information services, technology based information services, access to remote information sources and retrieval techniques, electronic document delivery, recent trends of information and reference services in different types of information institutions in developed world. Definition, origin, functions and importance of bibliography, types of bibliographies, compilation of bibliographies, different methods of compilation, arrangement of entries, style etc. Bibliographic control, nature, importance and scope, tools of bibliographic control and their utilities, national bibliographies, trade bibliographies, information systems, remote digital databases, library catalogues, universal bibliographies, bibliography of bibliographies, bibliographic control efforts such as University of British Columbia (UBC), Universal Availability of Publications (UAP) of IFLA, United Nations International Scientific Information System (UNISIST), General Information Program (PGI) , United Nations Educational, Scientific and Cultural Organization (UNESCO), role of national bibliographic centers in bibliographic control in developed countries, bibliographic control efforts in Bangladesh existing situation, problems and prospects. E-information concept, sources, benefits, ICT based information services, concepts, types, importance, electronic mail, electronic publishing, internet, WWW (World Wide Web). 21st skills required for identifying information sources and providing information services i.e. technical skills, time management skills, communication and presentation skills, user service, assessment skills, knowledge of policies, procedures, issues and standards, Digital rights management, Knowledge management skills etc. Quality in information and reference service, technical, cultural, ethical and legal aspects of information services, effective search strategies and critical evaluation of information and reference services."
+  },
+  {
+    "instruction": "What is the name of the course INF202?",
+    "context": "",
+    "response": "The course INF202 is titled 'Information Resources Development'."
+  },
+  {
+    "instruction": "How many credits is Information Resources Development (INF202)?",
+    "context": "",
+    "response": "The course Information Resources Development (INF202) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Resources Development (INF202)?",
+    "context": "",
+    "response": "The prerequisites for Information Resources Development (INF202) are: None."
+  },
+  {
+    "instruction": "Which category does Information Resources Development (INF202) belong to?",
+    "context": "",
+    "response": "Information Resources Development (INF202) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Resources Development (INF202)?",
+    "context": "",
+    "response": "Basic concept of resource development. Information as a resource. Relations of Ranganathan’s Five laws to resource development. Resource selection, overview, resource selection principles and policies. Practice of resource selection in information institution. Information resources aims and objectives. Acquisition policy, book ordering and subsequent activities. Role of book selector, qualities of a good book selector. Information resource building and theories, selection principles advocated by: Drury, Dewey, Haines, Ranganathan, McColvin, Spiller, John Bonk and Magrill and others. Evaluation and selection, an overview, selection of books, fiction and non-fiction books, and their evaluation criteria. Comparative analysis between resource selection and evaluation. Selection of reference books, periodicals, pamphlets, newspapers, Govt. publications, poster, report literature etc. Selection of audio and visual materials, graphic materials, and microform materials, selection of multimedia and electronic resources. Role of book reviews, written and oral reviews, role of bibliographies, national and trade bibliographies and indexing and abstracting journals. Copyright Law, overview, need and functions, Bangladesh Copyright Law of 2000. Weeding information materials, overview, criteria of weeding in different information institutions. Censorship, overview, library bill of rights American Library Abscission (ALA), IFLA principles, and article 19 (UN). Book Selection tools: Bangladeshi aids and guides, Boi, Bangladesh National Bibliography, Bangladesh books in print, Publishers’ lists, and catalogues, Major international aids and guides, British National Bibliography (BNB), Cumulative Book Index (CBI), Publishers Weekly, PTLA, LC catalogue, BNB, INB, Books in print. Collection evaluation, overview, evaluation criteria by Stone, and Evans, Other methods of collection evaluation. Definition, importance, scope and trends of Intellectual Property Right (IPR) and plagiarism."
+  },
+  {
+    "instruction": "What is the name of the course INF203?",
+    "context": "",
+    "response": "The course INF203 is titled 'Management of Information Institutions'."
+  },
+  {
+    "instruction": "How many credits is Management of Information Institutions (INF203)?",
+    "context": "",
+    "response": "The course Management of Information Institutions (INF203) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Management of Information Institutions (INF203)?",
+    "context": "",
+    "response": "The prerequisites for Management of Information Institutions (INF203) are: None."
+  },
+  {
+    "instruction": "Which category does Management of Information Institutions (INF203) belong to?",
+    "context": "",
+    "response": "Management of Information Institutions (INF203) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Management of Information Institutions (INF203)?",
+    "context": "",
+    "response": "Introduction to organization, management and administration: Differences in organization, management and administration, Fayol’s classical school: Adoption of Fayol’s principles of library, system school: theories of Fayol, Max Weber, Urwick, Luther, Gulick: POSDCORB, Management by Objectives (MBO): Peter Drucker, G. Odiorne. Organization: concepts, different patterns of organizational structure, line organization, staff organization, line and staff organization and functional organization etc. Different types of information institutions and their functions: Differences in the site, objectives, size, resource, staff, clientele, and management in information institutions. Internal organization, operations and services of information institution: Acquisition, technical services and readers services, reference services and charging system: manual and online, Executive committee: definition, types, functions and responsibilities, policies rules and regulations, annual report, statistics, weeding of information institution. Human Resource Management (HRM): Factors for ideal management: staff strength, principles and standards for selection and appointment, staff management, staff relations, working conditions. Salaries, job description. Financial management: Sources of income and heads of expenditure, Budget and budgeting, preparation of budget, Relationship between budgeting and reporting. Risk Management: nature and types of risks, objectives of risk management, scope of risk management, methods of handling risks in information institution. Planning of information institutions: Pre-requisites, rules, planning architecture and design in Bangladesh, Space organization and floor plan, Elements of planning. Principles of planning: Site selection, Interior and exterior, Open access vs. closed access, Furniture, equipment, heating air-conditioning."
+  },
+  {
+    "instruction": "What is the name of the course INF204?",
+    "context": "",
+    "response": "The course INF204 is titled 'Records and Archives Management'."
+  },
+  {
+    "instruction": "How many credits is Records and Archives Management (INF204)?",
+    "context": "",
+    "response": "The course Records and Archives Management (INF204) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Records and Archives Management (INF204)?",
+    "context": "",
+    "response": "The prerequisites for Records and Archives Management (INF204) are: None."
+  },
+  {
+    "instruction": "Which category does Records and Archives Management (INF204) belong to?",
+    "context": "",
+    "response": "Records and Archives Management (INF204) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Records and Archives Management (INF204)?",
+    "context": "",
+    "response": "Introductory statistics, meaning and functions of statistics, scope and limitations of statistical use, importance and applications of statistics in information studies. Basic statistics, frequency distribution, measures of central tendency-arithmetic mean, median, mode, measures of dispersion-range, quartile deviation, mean deviation, standard deviation, Correlation and it’s types-positive and negative, simple, partial and multiple, linear and non-linear correlation, Regression analysis, simple and multivariate regression. Inferential statistics, concept, difference between descriptive and inferential statistics, Parametric and non-parametric tests. Sampling, techniques of sampling-random sampling: simple systematic, stratified, cluster, multiphase and purposive or judgmental sampling: probability and its formula. Information and collateral areas: Meaning, definition, scope and importance in library research, Comparative study of bibliometrics, librametrics, scientometrics, informatics, Application of bibliometrics in library research, Bibliometrics and other indicators, citation studies, Mathematical bibliometrics. Descriptive Statistics: Types of diagrams and construction techniques-bar diagram, histogram, frequency polygon, frequency curve, pie chart, Data presentation: general rules for constructing diagrams. Application of software packages in data analysis and presentation, Introduction to SPSS (Statistical Package for Social Sciences), introduction to R and AMOS."
+  },
+  {
+    "instruction": "What is the name of the course INF205?",
+    "context": "",
+    "response": "The course INF205 is titled 'Information Marketing and Advocacy'."
+  },
+  {
+    "instruction": "How many credits is Information Marketing and Advocacy (INF205)?",
+    "context": "",
+    "response": "The course Information Marketing and Advocacy (INF205) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Marketing and Advocacy (INF205)?",
+    "context": "",
+    "response": "The prerequisites for Information Marketing and Advocacy (INF205) are: None."
+  },
+  {
+    "instruction": "Which category does Information Marketing and Advocacy (INF205) belong to?",
+    "context": "",
+    "response": "Information Marketing and Advocacy (INF205) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Marketing and Advocacy (INF205)?",
+    "context": "",
+    "response": "Information product, products and services, product classifications, individual product decisions, information as a product, concept of fee based information services, awareness and promotion of information products and services; designing information products and services for users, current trends in Bangladesh. Marketing concept, marketing defined, key purposes of marketing, organizational orientations towards marketing, factors affecting achievement of organization /library objectives, barriers to marketing, marketing management, developing marketing programs for libraries, marketing approach, marketing and the quality revolution, market, what can be marketed, market planning and implementation. Developing marketing plan: What is marketing plan, benefits of a marketing plan, how to develop a marketing plan, marketing audit, strategic direction for information center, implementation and control, marketing mix, four Ps and four Cs, creating the marketing mix. Market segmentation: Characteristics of segmentation, levels of segmentation, and methods of segmentation, and requirements for effective segmentation.Marketing communications: Communication process, steps in developing effective communication. Direct and online information marketing: Direct marketing, benefits and growth of direct marketing, forms of direct marketing, online marketing of information products in service, conducting online marketing, challenges of online marketing, new roles of libraries and information professionals. Marketing research and information systems: Assessing information needs, developing and distributing information. Marketing research: defining the problems and research objectives, preparing the research brief, developing the research plan. Reprography: Conceptual issues, types of reproduction, different methods and process of reprography, reprographic technologies, planning for a reprographic unit. Advertising, promotion and public relations: Setting advertising objectives, developing advertising strategy, other advertising considerations, public relations planning, AIDA- a communication model, professional cooperation and promotion. Advocacy & public relations: Definition, importance, role of advocacy in better library marketing; Marketing vs. public relations vs. advocacy; Advocacy planning: step-by-step guide, planning cycle, campaign; Brand advocacy: who are the advocates of Information institutions, toolkit, developing action plan, building advocacy network; public relations: definition, public relations in information institutions, role of public relations in marketing of information services, model of PR: AIDA;"
+  },
+  {
+    "instruction": "What is the name of the course INF206?",
+    "context": "",
+    "response": "The course INF206 is titled 'Indexing and Abstracting'."
+  },
+  {
+    "instruction": "How many credits is Indexing and Abstracting (INF206)?",
+    "context": "",
+    "response": "The course Indexing and Abstracting (INF206) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Indexing and Abstracting (INF206)?",
+    "context": "",
+    "response": "The prerequisites for Indexing and Abstracting (INF206) are: None."
+  },
+  {
+    "instruction": "Which category does Indexing and Abstracting (INF206) belong to?",
+    "context": "",
+    "response": "Indexing and Abstracting (INF206) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Indexing and Abstracting (INF206)?",
+    "context": "",
+    "response": "Definition of index, origin and development, importance, types of indexes: author index, alphabetic subject index, classified, cumulative and collective subject index. Indexing methods, steps in indexing, level of indexing, indexing aids, rules, manuals, syntax, subject determination, different techniques, citation indexing, pre-coordinating indexing, post-coordinating indexing, chain indexing, POPSI, PRECIS, KWIC, KWOC, KWAC etc., rules for arranging index entries, tools for indexer. Concept of periodical indexing, principles, techniques and arrangement, book indexing, principles, techniques, entry heading, subheading, style and layout, newspaper indexing, indexing non book materials – music, sound recordings, films etc. computer based indexing systems, statistical methods, syntactic method, semantic method. Indexing language, free language and controlled vocabulary indexing, thesaurus-indexing terms and their relations, thesaurus construction and evaluation. Index evaluation, different methodologies, recall, precision, ratios and devices, cost analysis. Concept of abstracting, definition of abstract, importance, abstracts vs. bibliographies, index vs. abstracts, abstracts vs. annotations, types of abstracts, quality of a good abstract. Methods and procedures of abstracting, international standard for abstracting, evaluation of abstracts, online abstracting system. Recent trends in indexing and abstracting, existing situation, problems and prospects of indexing and abstracting services in Bangladesh. Indexing and abstracting practical"
+  },
+  {
+    "instruction": "What is the name of the course INF207?",
+    "context": "",
+    "response": "The course INF207 is titled 'Automation of Information Institutions'."
+  },
+  {
+    "instruction": "How many credits is Automation of Information Institutions (INF207)?",
+    "context": "",
+    "response": "The course Automation of Information Institutions (INF207) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Automation of Information Institutions (INF207)?",
+    "context": "",
+    "response": "The prerequisites for Automation of Information Institutions (INF207) are: None."
+  },
+  {
+    "instruction": "Which category does Automation of Information Institutions (INF207) belong to?",
+    "context": "",
+    "response": "Automation of Information Institutions (INF207) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Automation of Information Institutions (INF207)?",
+    "context": "",
+    "response": "Basics and operational concepts of information and communication technologies, introduction to automation, historical background and present context. Introduction to the basic functions of an information institution, factors that influence automation, need for automation, barriers to automation, levels of automation, basic components of an automated system, automation activities and functions. Integrated Library systems: major modules of an integrated system. Automated acquisition, major components of an automated acquisition system, employment circulation, major components of an automated circulation system, automated reservation systems. Automated cataloguing concepts, Online Public Access Cataloguing (OPAC) and its use, major components of cataloguing system, necessary filers of cataloguing system, online computer library center (OCLC) and its services. Automated serials control module and its subsystems, major files of automated serials control subsystems, shared library automation systems and their implications, inter library cooperation in an automated atmosphere, management issues in automation, human resource development in automation. Online searching service, access to in-house databases and retrieval issues, CD-ROM search, access through online web pages, web sites and remote CD-ROM databases, management of electronic resources, application of IT in different services: CAS, SDI, information storage and retrieval issues. Database and record format, text markup and metadata, database structure, MARC record format, common communications format, Z39.50. Hardware and software considerations for automation of information institutions, selection of software, in house software development versus ready-made software, cost benefit analysis, request for proposal (RFP) and selection of vendors. Online library automation systems marketplace, front-end and back-end software used in library automation, major software packages available for libraries, components of web-based library automation. Current trends in automation of information institution in Bangladesh and abroad, case studies of selected information centers, internet and its various services, essential features of a information institutions website, open-source software packages for information institutions."
+  },
+  {
+    "instruction": "What is the name of the course INF208?",
+    "context": "",
+    "response": "The course INF208 is titled 'Statistical Foundations in the Information Studies'."
+  },
+  {
+    "instruction": "How many credits is Statistical Foundations in the Information Studies (INF208)?",
+    "context": "",
+    "response": "The course Statistical Foundations in the Information Studies (INF208) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Statistical Foundations in the Information Studies (INF208)?",
+    "context": "",
+    "response": "The prerequisites for Statistical Foundations in the Information Studies (INF208) are: None."
+  },
+  {
+    "instruction": "Which category does Statistical Foundations in the Information Studies (INF208) belong to?",
+    "context": "",
+    "response": "Statistical Foundations in the Information Studies (INF208) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Statistical Foundations in the Information Studies (INF208)?",
+    "context": "",
+    "response": "Introductory statistics, meaning and functions of statistics, scope and limitations of statistical use, importance and applications of statistics in information studies. Basic statistics, frequency distribution, measures of central tendency-arithmetic mean, median, mode, measures of dispersion-range, quartile deviation, mean deviation, standard deviation, Correlation and it’s types-positive and negative, simple, partial and multiple, linear and non-linear correlation, Regression analysis, simple and multivariate regression. Inferential statistics, concept, difference between descriptive and inferential statistics, Parametric and non-parametric tests. Sampling, techniques of sampling-random sampling: simple systematic, stratified, cluster, multiphase and purposive or judgmental sampling: probability and its formula. Information and collateral areas: Meaning, definition, scope and importance in library research, Comparative study of bibliometrics, librametrics, scientometrics, informatics, Application of bibliometrics in library research, Bibliometrics and other indicators, citation studies, Mathematical bibliometrics. Descriptive Statistics: Types of diagrams and construction techniques-bar diagram, histogram, frequency polygon, frequency curve, pie chart, Data presentation: general rules for constructing diagrams. Application of software packages in data analysis and presentation, Introduction to SPSS (Statistical Package for Social Sciences), introduction to R and AMOS."
+  },
+  {
+    "instruction": "What is the name of the course INF209?",
+    "context": "",
+    "response": "The course INF209 is titled 'Writing, Editing and Publishing'."
+  },
+  {
+    "instruction": "How many credits is Writing, Editing and Publishing (INF209)?",
+    "context": "",
+    "response": "The course Writing, Editing and Publishing (INF209) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Writing, Editing and Publishing (INF209)?",
+    "context": "",
+    "response": "The prerequisites for Writing, Editing and Publishing (INF209) are: None."
+  },
+  {
+    "instruction": "Which category does Writing, Editing and Publishing (INF209) belong to?",
+    "context": "",
+    "response": "Writing, Editing and Publishing (INF209) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Writing, Editing and Publishing (INF209)?",
+    "context": "",
+    "response": "Writing types, models of writing process, reading and comprehending topic and theme to be expressed, note taking and arranging notes; determining and shaping purpose and audiences. Setting up audience, special considerations for argument and persuasion, deciding what to say. Form and arrangement, Collection and organization of data and structure of writing. Building paragraph, revising a paragraph, shaping sentence, achieving sentence maturity, order of sentences. Using words effectively, style for quotations, footnotes, references and bibliographies. Rules for punctuation, illustration, notes and footnotes citing public documents. Critical writing, approaching, developing arguments, mode of arguments; techniques of writing short communications, technical article, review article, technical report, popular articles, monographs, dissertations, house bulleting, extension literature, manuscripts preparation. Editing concepts, responsibilities, qualifications, functions and basic skills of an editor. Editorial processes, evaluation processes, author-referee relationship in quality control, manuscript preparation and production. Editorial tools: dictionaries, style manuals, standard specification etc. Publishing, different parts of a book, steps in book publishing, securing and selecting manuscripts type setting criteria of good type setting. Composition: hand composition, hot metal composition, film composition, computer setting, proof reading and copy editing: proof reading marks and its use, spelling, layout and design of physical books, printing, binding, methods of printing: electronic type writers, printing press, Xerox etc. printing in color, set up duplicate printing plate. Binding: binding tools, process, different types of binding, rebinding old books, technology based binding systems. Desk top publishing, recent trends in publishing, problems of publishing in developing countries especially in Bangladesh. Publishing ethics."
+  },
+  {
+    "instruction": "What is the name of the course INF210?",
+    "context": "",
+    "response": "The course INF210 is titled 'Comparative Study of Information Systems'."
+  },
+  {
+    "instruction": "How many credits is Comparative Study of Information Systems (INF210)?",
+    "context": "",
+    "response": "The course Comparative Study of Information Systems (INF210) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Comparative Study of Information Systems (INF210)?",
+    "context": "",
+    "response": "The prerequisites for Comparative Study of Information Systems (INF210) are: None."
+  },
+  {
+    "instruction": "Which category does Comparative Study of Information Systems (INF210) belong to?",
+    "context": "",
+    "response": "Comparative Study of Information Systems (INF210) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Comparative Study of Information Systems (INF210)?",
+    "context": "",
+    "response": "Definition and overview of comparative study, international perspective, methods and aspects of comparative study. Outline of basic data about a foreign information system, factors affecting the growth and development of information system in the developed and developing countries. Information systems and pattern of information profession in modern times with special reference to USA, UK, Russia, India, Pakistan and Bangladesh: Information institutions and media centers, information centers. Problems and prospects of information systems and information profession in developing countries especially in Bangladesh. Role of national and international organizations, professional and non-professional associations for the development and non-professional associations for the development of information systems and services both in developed and developing countries. Information education in the continents of America, Europe and Asia with reference to Bangladesh. Collaboration and co-operation of information institution, levels of co-operation, areas of co-operation in information institution. Initiative of collaboration and cooperation of information institution in Bangladesh. Use of new information technologies in information systems in USA, UK, Japan, India, Bangladesh. legislation and policies of information institution (a) Rationale (b) Principles of legislation, growth of legislation in UK, USA, Scandinavian countries, India and Bangladesh. Curriculum development in reference to USA, UK, Canada and Australia. Comparative analysis of curriculum development of Bangladesh with USA, UK, Canada and Australia. Bibliographical guide to information centers, professional training and information sources throughout the world."
+  },
+  {
+    "instruction": "What is the name of the course INF211?",
+    "context": "",
+    "response": "The course INF211 is titled 'Leadership and Ethics of Information Professionals'."
+  },
+  {
+    "instruction": "How many credits is Leadership and Ethics of Information Professionals (INF211)?",
+    "context": "",
+    "response": "The course Leadership and Ethics of Information Professionals (INF211) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Leadership and Ethics of Information Professionals (INF211)?",
+    "context": "",
+    "response": "The prerequisites for Leadership and Ethics of Information Professionals (INF211) are: None."
+  },
+  {
+    "instruction": "Which category does Leadership and Ethics of Information Professionals (INF211) belong to?",
+    "context": "",
+    "response": "Leadership and Ethics of Information Professionals (INF211) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Leadership and Ethics of Information Professionals (INF211)?",
+    "context": "",
+    "response": "Concept of leadership, why leadership, relationship between leadership and management, 21st century leadership, leadership and change, leadership and information institutions, challenges of leadership in information services, self-leadership and management. Personality and leadership, leadership traits, leadership styles, communication and impression management, emotional intelligence. Context and contingency theories in leadership, transformational and transactional leadership, leadership practices and experiences. Change and its process, people and change, change leadership, change agents, the concept of innovation, innovation vs. change. The concept of leading people, challenge of leading people, relationship building, understating and leading individuals, motivation and morale, the concept of coaching, and mentoring, facilitating, creating and leading teams. Introduction to strategy and leadership, Strategic focus and direction, shaping values and culture, leading corporate reputation. The concept of leadership development, understanding how we learn, models and theories of leadership development, leadership development programs and institutes for information professionals, leadership development for individuals, the concept of learning organization. Introduction to influential leadership, leadership and influence, the information professional’s value beyond library, working with politics and power, 21st century leadership skills. Professional Ethics for Information Professionals. IFLA Guidelines for information ethics. ALA code of professional ethics for information professionals"
+  },
+  {
+    "instruction": "What is the name of the course INF301?",
+    "context": "",
+    "response": "The course INF301 is titled 'Information Architecture'."
+  },
+  {
+    "instruction": "How many credits is Information Architecture (INF301)?",
+    "context": "",
+    "response": "The course Information Architecture (INF301) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Architecture (INF301)?",
+    "context": "",
+    "response": "The prerequisites for Information Architecture (INF301) are: None."
+  },
+  {
+    "instruction": "Which category does Information Architecture (INF301) belong to?",
+    "context": "",
+    "response": "Information Architecture (INF301) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Architecture (INF301)?",
+    "context": "",
+    "response": "Principles of Information Architecture; Organization and Navigation. Metadata and Taxonomies: Rules for creating, organizing and maintaining taxonomies; Case studies and presentation. Creation, identification and organization of web-based user interfaces; Principles of web usability; Usability testing; Basic principles of user-centered design. Web standards for representing data and knowledge including XML and the Semantic Web languages RDF and OWL. Development and management of Information repositories. Folksonomies and Crowdsourcing; Case studies and presentation. Internet and web information architecture; Future of web information architecture."
+  },
+  {
+    "instruction": "What is the name of the course INF302?",
+    "context": "",
+    "response": "The course INF302 is titled 'Analysis and design of Information System'."
+  },
+  {
+    "instruction": "How many credits is Analysis and design of Information System (INF302)?",
+    "context": "",
+    "response": "The course Analysis and design of Information System (INF302) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Analysis and design of Information System (INF302)?",
+    "context": "",
+    "response": "The prerequisites for Analysis and design of Information System (INF302) are: None."
+  },
+  {
+    "instruction": "Which category does Analysis and design of Information System (INF302) belong to?",
+    "context": "",
+    "response": "Analysis and design of Information System (INF302) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Analysis and design of Information System (INF302)?",
+    "context": "",
+    "response": "Basic concepts: Introduction to systems and information systems, system elements, different types of information systems, introduction to system development models- waterfall, incremental, transformation and spiral model. Systems Development Life Cycle (SDLC): Introduction to SDLC and its functional steps, planning for system study, understanding existing systems, exploring the limitations, and defining objectives, searching alternative and solutions and feasibility study. Analysis: System anatomy, identify the new system requirements, object modeling, dynamic modeling and functional modeling, risk analysis, developing test criteria and plans. Design: Design methodologies, design process, different aspects design of library and information systems- input/output design, form/interface design, database design, control design, network and communication subsystem design, procedural design, security design, developing implementation plan and maintenance manual, integrating subsystems. System testing and implementation: Testing programs, installation of necessary equipment, recruitment and training of personnel, implementation plan, systems conversion, post implementation review. Evaluation and maintenance: Concept and scope of evaluation in library and information systems, approaches to evaluation, performance measurement, evaluation of systems security and data integrity. Measuring effectiveness of information retrieval systems, analysis of users satisfaction, cost-effectiveness analysis. Project management and professional aspects: Introduction to project management and SDLC project planning, the role, essential qualifications and standard of behavior of system analyst, information engineering, ethics in SDLC and other professional issues."
+  },
+  {
+    "instruction": "What is the name of the course INF303?",
+    "context": "",
+    "response": "The course INF303 is titled 'Research Methodology'."
+  },
+  {
+    "instruction": "How many credits is Research Methodology (INF303)?",
+    "context": "",
+    "response": "The course Research Methodology (INF303) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Research Methodology (INF303)?",
+    "context": "",
+    "response": "The prerequisites for Research Methodology (INF303) are: None."
+  },
+  {
+    "instruction": "Which category does Research Methodology (INF303) belong to?",
+    "context": "",
+    "response": "Research Methodology (INF303) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Research Methodology (INF303)?",
+    "context": "",
+    "response": "Concept of research, historical growth and development of research, its objectives, types and significance. Research paradigm: positivist, interpretative, action research model, research processes, criteria of good research, qualities and ethics of research, area of research in library and information science, different methods of research. Concept of research problem, characteristics of research problem, sources of information, personal experience, literature review, theories, paradigm, selection of research problems, techniques involved in defining a problem, different steps involved in writing a research proposal. The concept of research question and hypothesis, hypothesis types, formulation of hypothesis, testing of hypothesis. Research design (RD) meaning, need, features of good design, concepts relating to RD, different types of RD, basic principles of experimental design. Methods of research, survey, case study, historical documentary-characteristics, advantages, limitations and techniques, collection of primary data, observation methods, interview method, questionnaire method, other method, their advantages and disadvantages, designing questionnaire and structured interview. Sampling concepts, characteristics, requirements of a good sample, types of sampling-random and purposive sampling, systematic sampling, cluster, multiphase sampling, and sampling errors. Data collection techniques, questionnaire-mailed, structured, non-structured, close ended and open-ended questionnaire, interview-structured and non-structured, observation – structured, non-structured and participatory, selection of appropriate method in terms of research problems, understanding sources and note taking. Data processing and analysis, editing-central editing, field editing, coding and decoding, coding, tabulation, application of statistics and statistical package in data processing. Report writing and evaluation, characteristics of a good research report, designing framework of a research report, rafting report, reviewing and editing, rules for using quotations, footnotes, references and bibliographies, techniques and criteria for evaluation of a report."
+  },
+  {
+    "instruction": "What is the name of the course INF304?",
+    "context": "",
+    "response": "The course INF304 is titled 'Information Security'."
+  },
+  {
+    "instruction": "How many credits is Information Security (INF304)?",
+    "context": "",
+    "response": "The course Information Security (INF304) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Information Security (INF304)?",
+    "context": "",
+    "response": "The prerequisites for Information Security (INF304) are: None."
+  },
+  {
+    "instruction": "Which category does Information Security (INF304) belong to?",
+    "context": "",
+    "response": "Information Security (INF304) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Information Security (INF304)?",
+    "context": "",
+    "response": "Introduction to information security and human aspects, overview, definitions, information security management. Key concepts of information security, characteristics, System Development Life Cycle (SDLC). The need for security, threats to information security, intellectual property. Legal, ethical, and professional issues in information security, law and ethics in information security, organizational liability and the need for counsel, international laws and legal bodies. Planning for security, information security policies, standards, and practices, strategic plans for information security, information security governance, information security management system (isms), information security evaluation. Information security for server systems, attacks to server systems connected to the internet and counter measures, attacks to web servers and counter measure, denial of service attack, attacks to network systems. Information security risk management, risk management process, identifying information assets, identifying security risk and evaluation, risk treatment. Information security and cryptography, requirements for secure communication, definition and types of cryptography, common key cryptography. Data integrity and digital signature, integrity of data, hash function, digital signature. Implementing information security, information security project management, developing the project plan, the need for project management, technical aspects of implementation, information systems security certification and accreditation. Information security maintenance, principles of information security, security management maintenance models."
+  },
+  {
+    "instruction": "What is the name of the course INF305?",
+    "context": "",
+    "response": "The course INF305 is titled 'Organization of Knowledge (Classification Theory)'."
+  },
+  {
+    "instruction": "How many credits is Organization of Knowledge (Classification Theory) (INF305)?",
+    "context": "",
+    "response": "The course Organization of Knowledge (Classification Theory) (INF305) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Organization of Knowledge (Classification Theory) (INF305)?",
+    "context": "",
+    "response": "The prerequisites for Organization of Knowledge (Classification Theory) (INF305) are: None."
+  },
+  {
+    "instruction": "Which category does Organization of Knowledge (Classification Theory) (INF305) belong to?",
+    "context": "",
+    "response": "Organization of Knowledge (Classification Theory) (INF305) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Organization of Knowledge (Classification Theory) (INF305)?",
+    "context": "",
+    "response": "The theory of classification: natural and artificial classification, terms and predicable, formal rules of divisions and canons of classification, knowledge classification and book classification, criteria of good classification, construction of schedules. Special features of book classification: Generalia class, standard subdivisions, form class, notation, auxiliaries of notation, index: analysis and use. Major schemes of classification: Dewey decimal classification, Universal Decimal Classification, Library of Congress Classification, Colon Classification, Bibliographical Classification. Analysis and applications of Universal Decimal Classification (UDC): Special features, differences with DDC, main subject structure, notational systems: hospitality, mnemonics, common and special auxiliaries. Conceptual framework of DDC, Auxiliary tables of DDC. Practical classification work applying DDC. Overview of LC classification scheme. History, development and structure of LC classification scheme. Comparison of LC classification with DDC."
+  },
+  {
+    "instruction": "What is the name of the course INF306?",
+    "context": "",
+    "response": "The course INF306 is titled 'Organization of Knowledge (Cataloguing Theory)'."
+  },
+  {
+    "instruction": "How many credits is Organization of Knowledge (Cataloguing Theory) (INF306)?",
+    "context": "",
+    "response": "The course Organization of Knowledge (Cataloguing Theory) (INF306) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Organization of Knowledge (Cataloguing Theory) (INF306)?",
+    "context": "",
+    "response": "The prerequisites for Organization of Knowledge (Cataloguing Theory) (INF306) are: None."
+  },
+  {
+    "instruction": "Which category does Organization of Knowledge (Cataloguing Theory) (INF306) belong to?",
+    "context": "",
+    "response": "Organization of Knowledge (Cataloguing Theory) (INF306) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Organization of Knowledge (Cataloguing Theory) (INF306)?",
+    "context": "",
+    "response": "Utility of bibliographic reading of print media. Use of sears list of subject headings, directions to follow, construction of subject headings adopting various subdivisions. Comparative analysis of catalogues: Online / OPAC vs. card, microfiche, printed catalogues, classified vs. dictionary catalogue, construction, appropriateness of classified and dictionary catalogues to different types of libraries, catalogue vs. bibliography, entry patterns, methods, differences, Shelf list vs. public catalogues, accession register, Union catalogues. Computerized cataloguing: Peripherals / hardware, software involved in integrated automated online catalogue, Reasons for development of automated system / superiority of automated processing system over traditional system. MARC: Machine readable cataloguing format, MARC derivative products. Utilities of OPAC, Integrated online library automation systems (IOLAS). Resource Description and Access (RDA). Dublin Core."
+  },
+  {
+    "instruction": "What is the name of the course INF307?",
+    "context": "",
+    "response": "The course INF307 is titled 'Organization of Knowledge (Classification Practical)'."
+  },
+  {
+    "instruction": "How many credits is Organization of Knowledge (Classification Practical) (INF307)?",
+    "context": "",
+    "response": "The course Organization of Knowledge (Classification Practical) (INF307) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Organization of Knowledge (Classification Practical) (INF307)?",
+    "context": "",
+    "response": "The prerequisites for Organization of Knowledge (Classification Practical) (INF307) are: None."
+  },
+  {
+    "instruction": "Which category does Organization of Knowledge (Classification Practical) (INF307) belong to?",
+    "context": "",
+    "response": "Organization of Knowledge (Classification Practical) (INF307) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Organization of Knowledge (Classification Practical) (INF307)?",
+    "context": "",
+    "response": "Number Building Process using Auxiliary Tables of DDC 23rd Edition. Table - 1. Standard Subdivisions Table – 2. Geographic Areas, Historical Periods, Persons Table – 3. Subdivisions for the Arts, for Individual Literatures, for Specific Literary Forms Table – 4. Subdivisions of Individual Languages and Language Families Table – 5. Ethnic and National Groups Table – 6. Languages. Number Building Process using DDC Main Classes. Number Building Process using UDC Common and Special Auxiliaries. Number Analysis in DDC Scheme. Number Analysis in UDC Scheme."
+  },
+  {
+    "instruction": "What is the name of the course INF308?",
+    "context": "",
+    "response": "The course INF308 is titled 'Organization of Knowledge (Cataloguing Practical)'."
+  },
+  {
+    "instruction": "How many credits is Organization of Knowledge (Cataloguing Practical) (INF308)?",
+    "context": "",
+    "response": "The course Organization of Knowledge (Cataloguing Practical) (INF308) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Organization of Knowledge (Cataloguing Practical) (INF308)?",
+    "context": "",
+    "response": "The prerequisites for Organization of Knowledge (Cataloguing Practical) (INF308) are: None."
+  },
+  {
+    "instruction": "Which category does Organization of Knowledge (Cataloguing Practical) (INF308) belong to?",
+    "context": "",
+    "response": "Organization of Knowledge (Cataloguing Practical) (INF308) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Organization of Knowledge (Cataloguing Practical) (INF308)?",
+    "context": "",
+    "response": "Manual and automated practical cataloguing using AACR2, MARC21, RDA and Dublin Core. 1. Single author. 2. Double authors. 3. Triple authors. 4. More than three authors. 5. Shelf list entry. 6. Title as main entry. 7. Encyclopedias and dictionaries. 8. Compiled and edited works. 9. Entry for work revised by different author. 10. Added entries. 11. Index entries, filing in classified and dictionary catalogues."
+  },
+  {
+    "instruction": "What is the name of the course INF309?",
+    "context": "",
+    "response": "The course INF309 is titled 'Documentation and Communication'."
+  },
+  {
+    "instruction": "How many credits is Documentation and Communication (INF309)?",
+    "context": "",
+    "response": "The course Documentation and Communication (INF309) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Documentation and Communication (INF309)?",
+    "context": "",
+    "response": "The prerequisites for Documentation and Communication (INF309) are: None."
+  },
+  {
+    "instruction": "Which category does Documentation and Communication (INF309) belong to?",
+    "context": "",
+    "response": "Documentation and Communication (INF309) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Documentation and Communication (INF309)?",
+    "context": "",
+    "response": "Information Retrieval (IR) and Online Searching: Concepts, functions and activities, components of online IR, process or steps to online searching, techniques of online searching, basic searching techniques, advanced searching techniques, guidelines for better searching, process of searching an article and databases, role of internet technologies in information retrieval, thesaurus construction. Information Dissemination Service: Concepts, types, purposes, methods of disseminating current information, criteria for assessment of current information, current awareness service (CAS), definition, purpose, characteristics, types and channels, selective dissemination of information (SDI) service. Online Methods of Information Dissemination: Online SDI service, EDDS (Electronic Document Delivery Systems), EDI (Electronic Data Interchange), EFT (Electronic Fund Transfer), content management systems. Information Consolidation: Information consolidation: concepts, objectives, process, user benefits and user studies, packaging and re-packaging of information: concepts, functions, process of re-packaging information, guidelines for preparing: an accession list, a bibliography, a directory, writing an abstract, literature review, case study, handbooks or manuals, packages of materials, translation of materials, newsletters and news sheets, an audio-visual materials. Creative Presentation of Information: Multimedia: definition, features, types, components, advantages, process of multimedia creation, applications of multimedia in information services. Information Communication Technology (ICT): Communication of information: concepts, model, and role of information institutions in the process of communicating information, data or information communication: concepts, model, channels or media of communication, telecommunication: concepts, components, functions, types, telecommunication infrastructure: transmission line"
+  },
+  {
+    "instruction": "What is the name of the course INF310?",
+    "context": "",
+    "response": "The course INF310 is titled 'Research Data Management'."
+  },
+  {
+    "instruction": "How many credits is Research Data Management (INF310)?",
+    "context": "",
+    "response": "The course Research Data Management (INF310) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Research Data Management (INF310)?",
+    "context": "",
+    "response": "The prerequisites for Research Data Management (INF310) are: None."
+  },
+  {
+    "instruction": "Which category does Research Data Management (INF310) belong to?",
+    "context": "",
+    "response": "Research Data Management (INF310) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Research Data Management (INF310)?",
+    "context": "",
+    "response": "Introduction to Research Data Management (RDM), information, data, text, document, basics of research data management, nature and characteristics, role of data in research. Data Lifecycle, Data-driven scholarship and statistics, Data lifecycle & collaboration. Research data repository, definitions, research data repository lifecycle, research data repository software’s, information institution as a research data repository. Roles and education of information and data professionals, roles information and data professionals in information institution, research data management education. Data literacy, education for data literacy, similarities and convergences in the pedagogical approaches to the education for literacies. Data Protection, Rights and Access. Legal, policy, and ethical frameworks for responsible data stewardship, public policy for research data. Data sharing & reuse; data archiving, plans for archiving data, samples, and other research products, and for preservation of access to them. Data management and curation in data centers, information institutions and archives. Data storage, backup and security. Significance and methods of data storage, backup and security, approach to create a data storage, backup, and security plan for a project"
+  },
+  {
+    "instruction": "What is the name of the course INF401?",
+    "context": "",
+    "response": "The course INF401 is titled 'Server Administration (Linux)'."
+  },
+  {
+    "instruction": "How many credits is Server Administration (Linux) (INF401)?",
+    "context": "",
+    "response": "The course Server Administration (Linux) (INF401) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Server Administration (Linux) (INF401)?",
+    "context": "",
+    "response": "The prerequisites for Server Administration (Linux) (INF401) are: None."
+  },
+  {
+    "instruction": "Which category does Server Administration (Linux) (INF401) belong to?",
+    "context": "",
+    "response": "Server Administration (Linux) (INF401) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Server Administration (Linux) (INF401)?",
+    "context": "",
+    "response": "Operating System Overview, Operating System objectives and functions, The evolution of Linux, Modern UNIX Systems, Distributions of Linux, server and desktop version. Debian vs Redhat Linux, Installation details of Linux, Logging on the System, Touring Utilities and System Features. File Management: overview, file organization and access, File Directories, File Sharing, Record Blocking, Secondary Storage Management, Linux Virtual File System. Mastering the Visual Editor, Creating and Changing Directories, specifying Instructions to the Shell. User management: setting and using Permissions, Controlling User Processes. Accessing and Exploring Graphical Desktops, Maintaining and Administering a Linux System. Web server, File server, File Transfer Protocol (FTP) Server. Apache and MySQL administration. I/O Management and Disk Scheduling: I/O Devices, Organization of the I/O Function, I/O Buffering, Disk Scheduling, Disk Cache, Linux I/O."
+  },
+  {
+    "instruction": "What is the name of the course INF402?",
+    "context": "",
+    "response": "The course INF402 is titled 'Content Management Systems (CMS)'."
+  },
+  {
+    "instruction": "How many credits is Content Management Systems (CMS) (INF402)?",
+    "context": "",
+    "response": "The course Content Management Systems (CMS) (INF402) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Content Management Systems (CMS) (INF402)?",
+    "context": "",
+    "response": "The prerequisites for Content Management Systems (CMS) (INF402) are: None."
+  },
+  {
+    "instruction": "Which category does Content Management Systems (CMS) (INF402) belong to?",
+    "context": "",
+    "response": "Content Management Systems (CMS) (INF402) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Content Management Systems (CMS) (INF402)?",
+    "context": "",
+    "response": "Introduction, benefits of CMS, purchasing and configuring a domain name and web hosting exploring CMS terminology, including open source, PHP, MySQL, server-side, client-side, static HTML website, how CMS web pages are generated, website strategy. Relationship with other information systems, document management, records management, digital asset management. Principles of CMS, CMS Architecture, system and data integration in CMS. Applications, CMS and Community Information Systems. Roles of other related technologies, Extended Markup Language (XML), DBMS, Portals, Data Mining, Agent technologies, Personalization. Introduction to Joomla, installing Joomla, exploring the admin interface, content creation using the CAM model, content customization: images, video, audio, tags, formats, etc., adding and displaying menus, linking menus to articles and other features, custom templates, user management and permissions. Introduction to WordPress, installing WordPress, exploring the admin interface, content creation: Posts vs. pages, content customization: images, video, audio, tags, formats, etc., theming, modification. Installing Drupal, exploring the admin interface, content creation: nodes, basic content, site information, content customization: images, video, audio, tags, formats, etc., Drupal functionality. Comparison and evaluation of CMS. Project: CMS in Library environment."
+  },
+  {
+    "instruction": "What is the name of the course INF403?",
+    "context": "",
+    "response": "The course INF403 is titled 'Database Design and Applications in Information Institutions'."
+  },
+  {
+    "instruction": "How many credits is Database Design and Applications in Information Institutions (INF403)?",
+    "context": "",
+    "response": "The course Database Design and Applications in Information Institutions (INF403) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Database Design and Applications in Information Institutions (INF403)?",
+    "context": "",
+    "response": "The prerequisites for Database Design and Applications in Information Institutions (INF403) are: None."
+  },
+  {
+    "instruction": "Which category does Database Design and Applications in Information Institutions (INF403) belong to?",
+    "context": "",
+    "response": "Database Design and Applications in Information Institutions (INF403) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Database Design and Applications in Information Institutions (INF403)?",
+    "context": "",
+    "response": "Basic concepts, introduction to database and database management systems (DBMS), purpose of database systems, introduction to database administration (DBA), basic components of DBMS and its system structure. Data modeling, concepts, entity relationship (ER) model, object oriented data model, relational data model, network data model and hierarchical data models. RDBMS, Ffeatures, structure of relational databases, data structure of RDBMS, keys and other integrity constraints, database design process, conceptual design, normalization and decomposition. Relational algebra and calculas introduction, selection and projection, set operations, renaming, joins, division, syntax, semantics, operators, grouping and ungrouping, relational comparison, tuple relational calculus, Domain relational Calculus, calculus vs. algebra, computational capabilities. Storage structure and physical organization of records, overviews of physical storage media, data storage formats on disk- track format, record format, file organization and addressing methods, data indexing and different type of indexing techniques, hashing and different type of hash functions. Management, transaction processing and concurrency control, buffer management, system failure and recovery. Introduction to SQL, data definition, aggregate function, null values, nested sub queries, joined relations, triggers. Database applications in library and information systems, necessary data items and data structure in library management, different type of transaction processing in library operations, searching metadata and free text searching. Introduction to some database software and selection criteria of DBMS packages for libraries, recent trends, existing conditions, problems and prospects of database management in Bangladesh. Project: creating database using DBMS package."
+  },
+  {
+    "instruction": "What is the name of the course INF404?",
+    "context": "",
+    "response": "The course INF404 is titled 'Integrated Library System Development'."
+  },
+  {
+    "instruction": "How many credits is Integrated Library System Development (INF404)?",
+    "context": "",
+    "response": "The course Integrated Library System Development (INF404) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Integrated Library System Development (INF404)?",
+    "context": "",
+    "response": "The prerequisites for Integrated Library System Development (INF404) are: None."
+  },
+  {
+    "instruction": "Which category does Integrated Library System Development (INF404) belong to?",
+    "context": "",
+    "response": "Integrated Library System Development (INF404) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Integrated Library System Development (INF404)?",
+    "context": "",
+    "response": "Project design: Need assessment, planning, hardware and software requirement for ILS development, comparison of software and selection, manpower requirement, time duration, budgeting, evaluation method, training need. Procurement: Hardware, software, network equipment, IP and internet connectivity, electricity supply. Setup and configuration: Server configuration with Linux for library software, software Installation (koha, Dspace, Greenstone Digital Library Software (GSDL), Vufind, Drupal, software configuration, RFID setup and integration with Integrated Library System (ILS) software. Testing and running: Running on test basis, evaluation, configuration based on evaluation report, running the entire system. Staff Training: Server maintenance, ILS maintenance, configuring ILS, running the entire system"
+  },
+  {
+    "instruction": "What is the name of the course INF405?",
+    "context": "",
+    "response": "The course INF405 is titled 'Introduction to Human-Computer Interaction'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Human-Computer Interaction (INF405)?",
+    "context": "",
+    "response": "The course Introduction to Human-Computer Interaction (INF405) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Human-Computer Interaction (INF405)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Human-Computer Interaction (INF405) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Human-Computer Interaction (INF405) belong to?",
+    "context": "",
+    "response": "Introduction to Human-Computer Interaction (INF405) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Introduction to Human-Computer Interaction (INF405)?",
+    "context": "",
+    "response": "Concept of Human-Computer Interaction (HCI), difference between good and poor interaction design, what interaction design is and how it relates to human-computer interaction and other fields, what is involved in the process of interaction design, the different forms of guidance used in interaction design, etc. Interaction design, communication and collaboration, the main kinds of social mechanisms used by people to communicate and collaborate, the range of collaborative systems developed to support this kind of social behavior, how field studies and socially based theories can inform the design of collaborative systems, etc. What cognition and affection is and why it is important for interaction design, the main ways cognition and affection has been applied to interaction design, a number of examples in which cognitive research has led to the design of more effective interactive products, mental models, conceptual frameworks that are useful for interaction design, etc. The computer and human-computer interaction, various devices and implementation beds as well as technological constraints and opportunities, the problem space, how to conceptualize interaction, the pros and cons of using interface metaphors as conceptual models, the relationship between conceptual design and physical design, etc. Concept of web interfaces, introduction of the notion of a paradigm and set the scene for how the various interfaces have developed in interaction design, overview of the many different kinds of interfaces, highlight of the main design and research issues for each of the different interfaces, considerations which interface is best for a given application or activity, etc. Introduction to interactive system design, what ‘doing’ interaction design involves, some advantages of involving users in development, the main principles of a user-centered approach, etc. Data gathering and requirements analysis with focus in HCI aspects, how to plan, run and analyze successful data gathering schemes based on previous knowledge, tools and methods as interviews, questionnaires, observations, etc. Interfaces design and prototyping, prototyping and different types of prototyping activities with regards to systems interfaces design, production of simple prototypes from the models developed during the requirements activity, production of a conceptual model for a product, use of scenarios and prototypes in design, a range of tool support available for interaction design, etc. Usability testing & analytic evaluation, usability testing through examples, the basics of experimental design, the methods used in usability testing, the role of field studies in evaluation, the important concepts associated with inspection methods, heuristic evaluation to evaluate different types of interactive products, heuristic evaluation and various kinds of walkthrough, how to perform predictive technique, and when to use them, the advantages and disadvantages of using analytical evaluation, etc. Evaluation, the conceptual, practical, and ethical issues involved in evaluation, observation, interviews, and questionnaires in evaluation, the key concepts and terms used in evaluation, the three main evaluation approaches and key evaluation methods within the context of real evaluation studies, how the approaches and methods are used for different purposes at different stages of the design process, the practical challenges that evaluators have to consider when doing evaluation, etc."
+  },
+  {
+    "instruction": "What is the name of the course INF406?",
+    "context": "",
+    "response": "The course INF406 is titled 'Web Technology and Web-based Information Services'."
+  },
+  {
+    "instruction": "How many credits is Web Technology and Web-based Information Services (INF406)?",
+    "context": "",
+    "response": "The course Web Technology and Web-based Information Services (INF406) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Web Technology and Web-based Information Services (INF406)?",
+    "context": "",
+    "response": "The prerequisites for Web Technology and Web-based Information Services (INF406) are: None."
+  },
+  {
+    "instruction": "Which category does Web Technology and Web-based Information Services (INF406) belong to?",
+    "context": "",
+    "response": "Web Technology and Web-based Information Services (INF406) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Web Technology and Web-based Information Services (INF406)?",
+    "context": "",
+    "response": "Introduction to WWW, protocols and programs, secure connections, application and development tools, the web, browser, what is server, choices, web servers, Logging users, dynamic IP. Introduction to web design, web site design principles, planning the site and navigation. Introduction to HTML, the development process, HTML tags and simple HTML forms, web site structure, HTML elements: Heading, Attribute, style, image, block, layout, table, lists, etc. Introduction to XML, DHTML, XHTML, HTML5, Meta tags, Character entities, frames and frame sets, inside browser. CSS introductions, syntax, selectors, background, text, font, links, list, layout, align, DIV etc. TCP/IP, FTP, SSHD. Web Server installation, configuration with Apache. Introductions, importance and functions of Java script, basic learning by example, Client-side scripting, how to develop Javascript, simple Javascript, variables, functions, conditions, loops and repetition. PHP introductions, Syntax, variables, data type, loops, functions, form handling, validation, database connection etc. Relevant W3 Standards and Protocols."
+  },
+  {
+    "instruction": "What is the name of the course INF407?",
+    "context": "",
+    "response": "The course INF407 is titled 'Computer Hardware Maintenance and Troubleshooting'."
+  },
+  {
+    "instruction": "How many credits is Computer Hardware Maintenance and Troubleshooting (INF407)?",
+    "context": "",
+    "response": "The course Computer Hardware Maintenance and Troubleshooting (INF407) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Computer Hardware Maintenance and Troubleshooting (INF407)?",
+    "context": "",
+    "response": "The prerequisites for Computer Hardware Maintenance and Troubleshooting (INF407) are: None."
+  },
+  {
+    "instruction": "Which category does Computer Hardware Maintenance and Troubleshooting (INF407) belong to?",
+    "context": "",
+    "response": "Computer Hardware Maintenance and Troubleshooting (INF407) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Computer Hardware Maintenance and Troubleshooting (INF407)?",
+    "context": "",
+    "response": "PC Hardware, hardware used for input and output, hardware inside the computer case or system box, components (fan, Central Processing (CPU), CPU socket) used primarily for processing, temporary (primary) storage devices, permanent (secondary) storage devices, interface (expansion) cards. Number systems and codes, decimal, binary, octal and hexadecimal number system, conversion of numbers-binary to decimal, decimal to binary, hexadecimal to decimal and hexadecimal to binary conversion. Troubleshooting common PC problems, their causes and solutions: General troubleshooting rules, steps to troubleshooting success, common problems- and solutions and troubleshooting trips for emergency. Microprocessor, control unit, its organs and organization, arithmetic-logic and its components and organization, registers, counter, decoder, encoder, feature summary of 80296, 80386 and Pentium processor, computer memories and their organization. Understanding and managing computer memory: Physical memory and memory address, flash memory, main memory: SIMM and DIMM, ROM and RAM on the system board, main memory vs. cache memory, varieties of SRAM memory, conventional memory, expanded memory, virtual memory etc. Purchasing a PC or building your own PC, selecting a personal computer to meet your needs, purchasing a brand PC vs. a Clone PC, selecting software and hardware, building a personal computer step by step, overview of the assembling and disassembling process. Installation and preventive maintenance, pre-install planning, install practices, guidelines for developing a PC preventive maintenance plan, memory upgrade, installation of hardware and software. Computer viruses and environmental hazards that may affect the PC, computer virus, types of computer virus, Techniques of attack, symptoms of computer virus, anti-virus software, tips for protecting the PC against virus and other infestations. Understanding and troubleshooting, different types of printers, mice, key-boards, monitor and scanners. Protecting and maintaining hard disks, Precautions for protecting the hard disk, data and software, backing up the MBR, system files and user data, automated system recovery, recovery console, checking disks for errors, defragmenting the file system and dealing with dead disks."
+  },
+  {
+    "instruction": "What is the name of the course INF498?",
+    "context": "",
+    "response": "The course INF498 is titled 'Project/Research Monograph'."
+  },
+  {
+    "instruction": "How many credits is Project/Research Monograph (INF498)?",
+    "context": "",
+    "response": "The course Project/Research Monograph (INF498) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Project/Research Monograph (INF498)?",
+    "context": "",
+    "response": "The prerequisites for Project/Research Monograph (INF498) are: None."
+  },
+  {
+    "instruction": "Which category does Project/Research Monograph (INF498) belong to?",
+    "context": "",
+    "response": "Project/Research Monograph (INF498) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "Can you describe the course Project/Research Monograph (INF498)?",
+    "context": "",
+    "response": "Work one to one with supervisor. Contribute to the creation of new knowledge. Apply the critical and analytical thinking skills. Prepare for research based career"
+  },
+  {
+    "instruction": "What is the name of the course INF499?",
+    "context": "",
+    "response": "The course INF499 is titled 'Internship in Information Institutions'."
+  },
+  {
+    "instruction": "How many credits is Internship in Information Institutions (INF499)?",
+    "context": "",
+    "response": "The course Internship in Information Institutions (INF499) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Internship in Information Institutions (INF499)?",
+    "context": "",
+    "response": "The prerequisites for Internship in Information Institutions (INF499) are: None."
+  },
+  {
+    "instruction": "Which category does Internship in Information Institutions (INF499) belong to?",
+    "context": "",
+    "response": "Internship in Information Institutions (INF499) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "Can you describe the course Internship in Information Institutions (INF499)?",
+    "context": "",
+    "response": "Procurement of library materials, purchase policy. Book selection policy. Processing of library materials. Shelving and circulation policy. Corresponding knowledge. Library staffing. Reporting. Stocktaking. Library automation. Digitization"
+  }
+]

@@ -1,0 +1,1442 @@
+[
+  {
+    "instruction": "Can you tell me about the course ETE 101?",
+    "context": "",
+    "response": "Introduction to Telecommunication Engineering (ETE 101) is a Core course worth 1 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 101?",
+    "context": "",
+    "response": "The course ETE 101 - Introduction to Telecommunication Engineering carries 1 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 101?",
+    "context": "",
+    "response": "The prerequisites for ETE 101 - Introduction to Telecommunication Engineering are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 105?",
+    "context": "",
+    "response": "Computer Fundamentals & Programming Language (ETE 105) is a Core course worth 4 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 105?",
+    "context": "",
+    "response": "The course ETE 105 - Computer Fundamentals & Programming Language carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 105?",
+    "context": "",
+    "response": "The prerequisites for ETE 105 - Computer Fundamentals & Programming Language are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 107?",
+    "context": "",
+    "response": "Electrical Circuits - I (ETE 107) is a Core course worth 4 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 107?",
+    "context": "",
+    "response": "The course ETE 107 - Electrical Circuits - I carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 107?",
+    "context": "",
+    "response": "The prerequisites for ETE 107 - Electrical Circuits - I are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 207?",
+    "context": "",
+    "response": "Electrical Circuits - II (ETE 207) is a Core course worth 4 credits. Prerequisites: ETE 107."
+  },
+  {
+    "instruction": "How many credits is ETE 207?",
+    "context": "",
+    "response": "The course ETE 207 - Electrical Circuits - II carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 207?",
+    "context": "",
+    "response": "The prerequisites for ETE 207 - Electrical Circuits - II are: ETE 107."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 212?",
+    "context": "",
+    "response": "Electronic Circuits - I (ETE 212) is a Core course worth 4 credits. Prerequisites: ETE 107."
+  },
+  {
+    "instruction": "How many credits is ETE 212?",
+    "context": "",
+    "response": "The course ETE 212 - Electronic Circuits - I carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 212?",
+    "context": "",
+    "response": "The prerequisites for ETE 212 - Electronic Circuits - I are: ETE 107."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 214?",
+    "context": "",
+    "response": "Electronic Circuits - II (ETE 214) is a Core course worth 4 credits. Prerequisites: ETE 212."
+  },
+  {
+    "instruction": "How many credits is ETE 214?",
+    "context": "",
+    "response": "The course ETE 214 - Electronic Circuits - II carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 214?",
+    "context": "",
+    "response": "The prerequisites for ETE 214 - Electronic Circuits - II are: ETE 212."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 216?",
+    "context": "",
+    "response": "Signals & Systems (ETE 216) is a Core course worth 3 credits. Prerequisites: MAT 205."
+  },
+  {
+    "instruction": "How many credits is ETE 216?",
+    "context": "",
+    "response": "The course ETE 216 - Signals & Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 216?",
+    "context": "",
+    "response": "The prerequisites for ETE 216 - Signals & Systems are: MAT 205."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 219?",
+    "context": "",
+    "response": "Electronic Properties of Materials (ETE 219) is a Core course worth 3 credits. Prerequisites: PHY 209."
+  },
+  {
+    "instruction": "How many credits is ETE 219?",
+    "context": "",
+    "response": "The course ETE 219 - Electronic Properties of Materials carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 219?",
+    "context": "",
+    "response": "The prerequisites for ETE 219 - Electronic Properties of Materials are: PHY 209."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 261?",
+    "context": "",
+    "response": "Introduction to Bioengineering (ETE 261) is a Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 261?",
+    "context": "",
+    "response": "The course ETE 261 - Introduction to Bioengineering carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 261?",
+    "context": "",
+    "response": "The prerequisites for ETE 261 - Introduction to Bioengineering are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 281?",
+    "context": "",
+    "response": "Introduction to Environmental Engineering (ETE 281) is a Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 281?",
+    "context": "",
+    "response": "The course ETE 281 - Introduction to Environmental Engineering carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 281?",
+    "context": "",
+    "response": "The prerequisites for ETE 281 - Introduction to Environmental Engineering are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 282?",
+    "context": "",
+    "response": "Renewable Energy Technology (ETE 282) is a Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 282?",
+    "context": "",
+    "response": "The course ETE 282 - Renewable Energy Technology carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 282?",
+    "context": "",
+    "response": "The prerequisites for ETE 282 - Renewable Energy Technology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 283?",
+    "context": "",
+    "response": "Mechatronics (ETE 283) is a Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 283?",
+    "context": "",
+    "response": "The course ETE 283 - Mechatronics carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 283?",
+    "context": "",
+    "response": "The prerequisites for ETE 283 - Mechatronics are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 302?",
+    "context": "",
+    "response": "Computer Communications & Networks (ETE 302) is a Core course worth 4 credits. Prerequisites: ETE 105."
+  },
+  {
+    "instruction": "How many credits is ETE 302?",
+    "context": "",
+    "response": "The course ETE 302 - Computer Communications & Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 302?",
+    "context": "",
+    "response": "The prerequisites for ETE 302 - Computer Communications & Networks are: ETE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 310?",
+    "context": "",
+    "response": "Electromagnetic Theory (ETE 310) is a Core course worth 3 credits. Prerequisites: PHY 109, MAT 104."
+  },
+  {
+    "instruction": "How many credits is ETE 310?",
+    "context": "",
+    "response": "The course ETE 310 - Electromagnetic Theory carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 310?",
+    "context": "",
+    "response": "The prerequisites for ETE 310 - Electromagnetic Theory are: PHY 109, MAT 104."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 311?",
+    "context": "",
+    "response": "Digital Electronics (ETE 311) is a Core course worth 4 credits. Prerequisites: ETE 107."
+  },
+  {
+    "instruction": "How many credits is ETE 311?",
+    "context": "",
+    "response": "The course ETE 311 - Digital Electronics carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 311?",
+    "context": "",
+    "response": "The prerequisites for ETE 311 - Digital Electronics are: ETE 107."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 312?",
+    "context": "",
+    "response": "Communications Theory (ETE 312) is a Core course worth 3 credits. Prerequisites: ETE 216."
+  },
+  {
+    "instruction": "How many credits is ETE 312?",
+    "context": "",
+    "response": "The course ETE 312 - Communications Theory carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 312?",
+    "context": "",
+    "response": "The prerequisites for ETE 312 - Communications Theory are: ETE 216."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 314?",
+    "context": "",
+    "response": "Digital Communications (ETE 314) is a Core course worth 4 credits. Prerequisites: ETE 312."
+  },
+  {
+    "instruction": "How many credits is ETE 314?",
+    "context": "",
+    "response": "The course ETE 314 - Digital Communications carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 314?",
+    "context": "",
+    "response": "The prerequisites for ETE 314 - Digital Communications are: ETE 312."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 316?",
+    "context": "",
+    "response": "Microprocessors & Interfacing (ETE 316) is a Core course worth 4 credits. Prerequisites: ETE 311."
+  },
+  {
+    "instruction": "How many credits is ETE 316?",
+    "context": "",
+    "response": "The course ETE 316 - Microprocessors & Interfacing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 316?",
+    "context": "",
+    "response": "The prerequisites for ETE 316 - Microprocessors & Interfacing are: ETE 311."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 322?",
+    "context": "",
+    "response": "Digital Signal Processing (ETE 322) is a Core course worth 4 credits. Prerequisites: ETE 216."
+  },
+  {
+    "instruction": "How many credits is ETE 322?",
+    "context": "",
+    "response": "The course ETE 322 - Digital Signal Processing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 322?",
+    "context": "",
+    "response": "The prerequisites for ETE 322 - Digital Signal Processing are: ETE 216."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 350?",
+    "context": "",
+    "response": "Information Theory & Coding (ETE 350) is a Core course worth 3 credits. Prerequisites: ETE 314."
+  },
+  {
+    "instruction": "How many credits is ETE 350?",
+    "context": "",
+    "response": "The course ETE 350 - Information Theory & Coding carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 350?",
+    "context": "",
+    "response": "The prerequisites for ETE 350 - Information Theory & Coding are: ETE 314."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 399?",
+    "context": "",
+    "response": "Design & Simulation (ETE 399) is a Core course worth 1 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ETE 399?",
+    "context": "",
+    "response": "The course ETE 399 - Design & Simulation carries 1 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 399?",
+    "context": "",
+    "response": "The prerequisites for ETE 399 - Design & Simulation are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 400?",
+    "context": "",
+    "response": "Semiconductor Devices (ETE 400) is a Elective course worth 3 credits. Prerequisites: ETE 219."
+  },
+  {
+    "instruction": "How many credits is ETE 400?",
+    "context": "",
+    "response": "The course ETE 400 - Semiconductor Devices carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 400?",
+    "context": "",
+    "response": "The prerequisites for ETE 400 - Semiconductor Devices are: ETE 219."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 401?",
+    "context": "",
+    "response": "VLSI Circuit Design (ETE 401) is a Elective course worth 4 credits. Prerequisites: ETE 311."
+  },
+  {
+    "instruction": "How many credits is ETE 401?",
+    "context": "",
+    "response": "The course ETE 401 - VLSI Circuit Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 401?",
+    "context": "",
+    "response": "The prerequisites for ETE 401 - VLSI Circuit Design are: ETE 311."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 403?",
+    "context": "",
+    "response": "Optoelectronics (ETE 403) is a Elective course worth 4 credits. Prerequisites: ETE 219."
+  },
+  {
+    "instruction": "How many credits is ETE 403?",
+    "context": "",
+    "response": "The course ETE 403 - Optoelectronics carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 403?",
+    "context": "",
+    "response": "The prerequisites for ETE 403 - Optoelectronics are: ETE 219."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 405?",
+    "context": "",
+    "response": "Advanced Digital Logic Design (ETE 405) is a Elective course worth 4 credits. Prerequisites: ETE 311."
+  },
+  {
+    "instruction": "How many credits is ETE 405?",
+    "context": "",
+    "response": "The course ETE 405 - Advanced Digital Logic Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 405?",
+    "context": "",
+    "response": "The prerequisites for ETE 405 - Advanced Digital Logic Design are: ETE 311."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 407?",
+    "context": "",
+    "response": "Quantum Theory for Semiconductor Devices (ETE 407) is a Elective course worth 3 credits. Prerequisites: PHY 209."
+  },
+  {
+    "instruction": "How many credits is ETE 407?",
+    "context": "",
+    "response": "The course ETE 407 - Quantum Theory for Semiconductor Devices carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 407?",
+    "context": "",
+    "response": "The prerequisites for ETE 407 - Quantum Theory for Semiconductor Devices are: PHY 209."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 409?",
+    "context": "",
+    "response": "Semiconductor Processing and Fabrication (ETE 409) is a Elective course worth 3 credits. Prerequisites: ETE 219."
+  },
+  {
+    "instruction": "How many credits is ETE 409?",
+    "context": "",
+    "response": "The course ETE 409 - Semiconductor Processing and Fabrication carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 409?",
+    "context": "",
+    "response": "The prerequisites for ETE 409 - Semiconductor Processing and Fabrication are: ETE 219."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 411?",
+    "context": "",
+    "response": "Analog Integrated Circuits (ETE 411) is a Elective course worth 4 credits. Prerequisites: ETE 214."
+  },
+  {
+    "instruction": "How many credits is ETE 411?",
+    "context": "",
+    "response": "The course ETE 411 - Analog Integrated Circuits carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 411?",
+    "context": "",
+    "response": "The prerequisites for ETE 411 - Analog Integrated Circuits are: ETE 214."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 413?",
+    "context": "",
+    "response": "Introduction to Nanotechnology (ETE 413) is a Elective course worth 3 credits. Prerequisites: ETE 219."
+  },
+  {
+    "instruction": "How many credits is ETE 413?",
+    "context": "",
+    "response": "The course ETE 413 - Introduction to Nanotechnology carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 413?",
+    "context": "",
+    "response": "The prerequisites for ETE 413 - Introduction to Nanotechnology are: ETE 219."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 415?",
+    "context": "",
+    "response": "Power Electronics (ETE 415) is a Elective course worth 4 credits. Prerequisites: ETE 214."
+  },
+  {
+    "instruction": "How many credits is ETE 415?",
+    "context": "",
+    "response": "The course ETE 415 - Power Electronics carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 415?",
+    "context": "",
+    "response": "The prerequisites for ETE 415 - Power Electronics are: ETE 214."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 418?",
+    "context": "",
+    "response": "Introduction to Embedded Systems (ETE 418) is a Elective course worth 4 credits. Prerequisites: ETE 316."
+  },
+  {
+    "instruction": "How many credits is ETE 418?",
+    "context": "",
+    "response": "The course ETE 418 - Introduction to Embedded Systems carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 418?",
+    "context": "",
+    "response": "The prerequisites for ETE 418 - Introduction to Embedded Systems are: ETE 316."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 419?",
+    "context": "",
+    "response": "Biomedical Electronics (ETE 419) is a Elective course worth 4 credits. Prerequisites: ETE 214."
+  },
+  {
+    "instruction": "How many credits is ETE 419?",
+    "context": "",
+    "response": "The course ETE 419 - Biomedical Electronics carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 419?",
+    "context": "",
+    "response": "The prerequisites for ETE 419 - Biomedical Electronics are: ETE 214."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 420?",
+    "context": "",
+    "response": "Introduction to Control Systems (ETE 420) is a Elective course worth 4 credits. Prerequisites: ETE 216."
+  },
+  {
+    "instruction": "How many credits is ETE 420?",
+    "context": "",
+    "response": "The course ETE 420 - Introduction to Control Systems carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 420?",
+    "context": "",
+    "response": "The prerequisites for ETE 420 - Introduction to Control Systems are: ETE 216."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 430?",
+    "context": "",
+    "response": "RF & Microwave Engineering (ETE 430) is a Elective course worth 4 credits. Prerequisites: ETE 310."
+  },
+  {
+    "instruction": "How many credits is ETE 430?",
+    "context": "",
+    "response": "The course ETE 430 - RF & Microwave Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 430?",
+    "context": "",
+    "response": "The prerequisites for ETE 430 - RF & Microwave Engineering are: ETE 310."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 432?",
+    "context": "",
+    "response": "Antenna Engineering (ETE 432) is a Elective course worth 4 credits. Prerequisites: ETE 310."
+  },
+  {
+    "instruction": "How many credits is ETE 432?",
+    "context": "",
+    "response": "The course ETE 432 - Antenna Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 432?",
+    "context": "",
+    "response": "The prerequisites for ETE 432 - Antenna Engineering are: ETE 310."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 441?",
+    "context": "",
+    "response": "Wireless & Mobile Communications (ETE 441) is a Elective course worth 3 credits. Prerequisites: ETE 314."
+  },
+  {
+    "instruction": "How many credits is ETE 441?",
+    "context": "",
+    "response": "The course ETE 441 - Wireless & Mobile Communications carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 441?",
+    "context": "",
+    "response": "The prerequisites for ETE 441 - Wireless & Mobile Communications are: ETE 314."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 442?",
+    "context": "",
+    "response": "Optical Fiber Communications (ETE 442) is a Elective course worth 4 credits. Prerequisites: ETE 312."
+  },
+  {
+    "instruction": "How many credits is ETE 442?",
+    "context": "",
+    "response": "The course ETE 442 - Optical Fiber Communications carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 442?",
+    "context": "",
+    "response": "The prerequisites for ETE 442 - Optical Fiber Communications are: ETE 312."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 444?",
+    "context": "",
+    "response": "Telecommunication Networks & Switching (ETE 444) is a Elective course worth 3 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 444?",
+    "context": "",
+    "response": "The course ETE 444 - Telecommunication Networks & Switching carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 444?",
+    "context": "",
+    "response": "The prerequisites for ETE 444 - Telecommunication Networks & Switching are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 459?",
+    "context": "",
+    "response": "Teletraffic Engineering (ETE 459) is a Elective course worth 3 credits. Prerequisites: ETE 350."
+  },
+  {
+    "instruction": "How many credits is ETE 459?",
+    "context": "",
+    "response": "The course ETE 459 - Teletraffic Engineering carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 459?",
+    "context": "",
+    "response": "The prerequisites for ETE 459 - Teletraffic Engineering are: ETE 350."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 451?",
+    "context": "",
+    "response": "IP Telephony (ETE 451) is a Elective course worth 3 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 451?",
+    "context": "",
+    "response": "The course ETE 451 - IP Telephony carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 451?",
+    "context": "",
+    "response": "The prerequisites for ETE 451 - IP Telephony are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 456?",
+    "context": "",
+    "response": "Wireless Networks (ETE 456) is a Elective course worth 4 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 456?",
+    "context": "",
+    "response": "The course ETE 456 - Wireless Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 456?",
+    "context": "",
+    "response": "The prerequisites for ETE 456 - Wireless Networks are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 457?",
+    "context": "",
+    "response": "Telecommunication Network Planning & Optimization (ETE 457) is a Elective course worth 3 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 457?",
+    "context": "",
+    "response": "The course ETE 457 - Telecommunication Network Planning & Optimization carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 457?",
+    "context": "",
+    "response": "The prerequisites for ETE 457 - Telecommunication Network Planning & Optimization are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 458?",
+    "context": "",
+    "response": "Intelligent Networks (ETE 458) is a Elective course worth 4 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 458?",
+    "context": "",
+    "response": "The course ETE 458 - Intelligent Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 458?",
+    "context": "",
+    "response": "The prerequisites for ETE 458 - Intelligent Networks are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 460?",
+    "context": "",
+    "response": "Foundations of TCP/IP (ETE 460) is a Elective course worth 4 credits. Prerequisites: ETE 302."
+  },
+  {
+    "instruction": "How many credits is ETE 460?",
+    "context": "",
+    "response": "The course ETE 460 - Foundations of TCP/IP carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 460?",
+    "context": "",
+    "response": "The prerequisites for ETE 460 - Foundations of TCP/IP are: ETE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 461?",
+    "context": "",
+    "response": "Object Oriented Programming (ETE 461) is a Elective course worth 4 credits. Prerequisites: ETE 105."
+  },
+  {
+    "instruction": "How many credits is ETE 461?",
+    "context": "",
+    "response": "The course ETE 461 - Object Oriented Programming carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 461?",
+    "context": "",
+    "response": "The prerequisites for ETE 461 - Object Oriented Programming are: ETE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 463?",
+    "context": "",
+    "response": "Data Structures & Algorithms (ETE 463) is a Elective course worth 3 credits. Prerequisites: ETE 105."
+  },
+  {
+    "instruction": "How many credits is ETE 463?",
+    "context": "",
+    "response": "The course ETE 463 - Data Structures & Algorithms carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 463?",
+    "context": "",
+    "response": "The prerequisites for ETE 463 - Data Structures & Algorithms are: ETE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 465?",
+    "context": "",
+    "response": "Database Systems, Software Analysis & Design (ETE 465) is a Elective course worth 4 credits. Prerequisites: ETE 105."
+  },
+  {
+    "instruction": "How many credits is ETE 465?",
+    "context": "",
+    "response": "The course ETE 465 - Database Systems, Software Analysis & Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 465?",
+    "context": "",
+    "response": "The prerequisites for ETE 465 - Database Systems, Software Analysis & Design are: ETE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 467?",
+    "context": "",
+    "response": "Computer Organization and Operating Systems (ETE 467) is a Elective course worth 3 credits. Prerequisites: ETE 316."
+  },
+  {
+    "instruction": "How many credits is ETE 467?",
+    "context": "",
+    "response": "The course ETE 467 - Computer Organization and Operating Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 467?",
+    "context": "",
+    "response": "The prerequisites for ETE 467 - Computer Organization and Operating Systems are: ETE 316."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 470?",
+    "context": "",
+    "response": "Applied Numerical Methods (ETE 470) is a Elective course worth 4 credits. Prerequisites: MAT 102."
+  },
+  {
+    "instruction": "How many credits is ETE 470?",
+    "context": "",
+    "response": "The course ETE 470 - Applied Numerical Methods carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 470?",
+    "context": "",
+    "response": "The prerequisites for ETE 470 - Applied Numerical Methods are: MAT 102."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 472?",
+    "context": "",
+    "response": "Speech & Image Processing (ETE 472) is a Elective course worth 4 credits. Prerequisites: ETE 322."
+  },
+  {
+    "instruction": "How many credits is ETE 472?",
+    "context": "",
+    "response": "The course ETE 472 - Speech & Image Processing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 472?",
+    "context": "",
+    "response": "The prerequisites for ETE 472 - Speech & Image Processing are: ETE 322."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 475?",
+    "context": "",
+    "response": "Artificial Intelligence & Expert Systems (ETE 475) is a Elective course worth 3 credits. Prerequisites: ETE 105."
+  },
+  {
+    "instruction": "How many credits is ETE 475?",
+    "context": "",
+    "response": "The course ETE 475 - Artificial Intelligence & Expert Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 475?",
+    "context": "",
+    "response": "The prerequisites for ETE 475 - Artificial Intelligence & Expert Systems are: ETE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 477?",
+    "context": "",
+    "response": "Neural Networks and Applications (ETE 477) is a Elective course worth 3 credits. Prerequisites: ETE 475."
+  },
+  {
+    "instruction": "How many credits is ETE 477?",
+    "context": "",
+    "response": "The course ETE 477 - Neural Networks and Applications carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 477?",
+    "context": "",
+    "response": "The prerequisites for ETE 477 - Neural Networks and Applications are: ETE 475."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 479?",
+    "context": "",
+    "response": "Robotic Engineering (ETE 479) is a Elective course worth 4 credits. Prerequisites: ETE 420."
+  },
+  {
+    "instruction": "How many credits is ETE 479?",
+    "context": "",
+    "response": "The course ETE 479 - Robotic Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 479?",
+    "context": "",
+    "response": "The prerequisites for ETE 479 - Robotic Engineering are: ETE 420."
+  },
+  {
+    "instruction": "Can you tell me about the course ETE 498?",
+    "context": "",
+    "response": "Research Project/Industrial Training (ETE 498) is a Capstone course worth 4 credits. Prerequisites: Senior Standing."
+  },
+  {
+    "instruction": "How many credits is ETE 498?",
+    "context": "",
+    "response": "The course ETE 498 - Research Project/Industrial Training carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ETE 498?",
+    "context": "",
+    "response": "The prerequisites for ETE 498 - Research Project/Industrial Training are: Senior Standing."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 101?",
+    "context": "",
+    "response": "Introduction to Telecommunication Engineering (ICE 101) is a Core course worth 1 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ICE 101?",
+    "context": "",
+    "response": "The course ICE 101 - Introduction to Telecommunication Engineering carries 1 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 101?",
+    "context": "",
+    "response": "The prerequisites for ICE 101 - Introduction to Telecommunication Engineering are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 105?",
+    "context": "",
+    "response": "Computer Fundamentals & Programming Language (ICE 105) is a Core course worth 4 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ICE 105?",
+    "context": "",
+    "response": "The course ICE 105 - Computer Fundamentals & Programming Language carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 105?",
+    "context": "",
+    "response": "The prerequisites for ICE 105 - Computer Fundamentals & Programming Language are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 107?",
+    "context": "",
+    "response": "Object Oriented Programming (ICE 107) is a Core course worth 4 credits. Prerequisites: ICE 105."
+  },
+  {
+    "instruction": "How many credits is ICE 107?",
+    "context": "",
+    "response": "The course ICE 107 - Object Oriented Programming carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 107?",
+    "context": "",
+    "response": "The prerequisites for ICE 107 - Object Oriented Programming are: ICE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 109?",
+    "context": "",
+    "response": "Electrical Circuits & Networks (ICE 109) is a Core course worth 4 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ICE 109?",
+    "context": "",
+    "response": "The course ICE 109 - Electrical Circuits & Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 109?",
+    "context": "",
+    "response": "The prerequisites for ICE 109 - Electrical Circuits & Networks are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 207?",
+    "context": "",
+    "response": "Data Structures (ICE 207) is a Core course worth 4 credits. Prerequisites: ICE 107."
+  },
+  {
+    "instruction": "How many credits is ICE 207?",
+    "context": "",
+    "response": "The course ICE 207 - Data Structures carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 207?",
+    "context": "",
+    "response": "The prerequisites for ICE 207 - Data Structures are: ICE 107."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 209?",
+    "context": "",
+    "response": "Signals & Systems (ICE 209) is a Core course worth 3 credits. Prerequisites: MAT 205."
+  },
+  {
+    "instruction": "How many credits is ICE 209?",
+    "context": "",
+    "response": "The course ICE 209 - Signals & Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 209?",
+    "context": "",
+    "response": "The prerequisites for ICE 209 - Signals & Systems are: MAT 205."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 245?",
+    "context": "",
+    "response": "Algorithms (ICE 245) is a Core course worth 4 credits. Prerequisites: ICE 207."
+  },
+  {
+    "instruction": "How many credits is ICE 245?",
+    "context": "",
+    "response": "The course ICE 245 - Algorithms carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 245?",
+    "context": "",
+    "response": "The prerequisites for ICE 245 - Algorithms are: ICE 207."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 251?",
+    "context": "",
+    "response": "Electronic Circuits (ICE 251) is a Core course worth 4 credits. Prerequisites: ICE 109."
+  },
+  {
+    "instruction": "How many credits is ICE 251?",
+    "context": "",
+    "response": "The course ICE 251 - Electronic Circuits carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 251?",
+    "context": "",
+    "response": "The prerequisites for ICE 251 - Electronic Circuits are: ICE 109."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 275?",
+    "context": "",
+    "response": "Operating Systems (ICE 275) is a Core course worth 3 credits. Prerequisites: ICE 207."
+  },
+  {
+    "instruction": "How many credits is ICE 275?",
+    "context": "",
+    "response": "The course ICE 275 - Operating Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 275?",
+    "context": "",
+    "response": "The prerequisites for ICE 275 - Operating Systems are: ICE 207."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 301?",
+    "context": "",
+    "response": "Database Systems, Software Analysis & Design (ICE 301) is a Core course worth 4 credits. Prerequisites: ICE 207."
+  },
+  {
+    "instruction": "How many credits is ICE 301?",
+    "context": "",
+    "response": "The course ICE 301 - Database Systems, Software Analysis & Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 301?",
+    "context": "",
+    "response": "The prerequisites for ICE 301 - Database Systems, Software Analysis & Design are: ICE 207."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 302?",
+    "context": "",
+    "response": "Computer Communications & Networks (ICE 302) is a Core course worth 4 credits. Prerequisites: ICE 105."
+  },
+  {
+    "instruction": "How many credits is ICE 302?",
+    "context": "",
+    "response": "The course ICE 302 - Computer Communications & Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 302?",
+    "context": "",
+    "response": "The prerequisites for ICE 302 - Computer Communications & Networks are: ICE 105."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 310?",
+    "context": "",
+    "response": "Electromagnetic Theory (ICE 310) is a Core course worth 3 credits. Prerequisites: PHY 109, MAT 104."
+  },
+  {
+    "instruction": "How many credits is ICE 310?",
+    "context": "",
+    "response": "The course ICE 310 - Electromagnetic Theory carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 310?",
+    "context": "",
+    "response": "The prerequisites for ICE 310 - Electromagnetic Theory are: PHY 109, MAT 104."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 311?",
+    "context": "",
+    "response": "Digital Electronics (ICE 311) is a Core course worth 4 credits. Prerequisites: ICE 109."
+  },
+  {
+    "instruction": "How many credits is ICE 311?",
+    "context": "",
+    "response": "The course ICE 311 - Digital Electronics carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 311?",
+    "context": "",
+    "response": "The prerequisites for ICE 311 - Digital Electronics are: ICE 109."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 312?",
+    "context": "",
+    "response": "Communications Theory (ICE 312) is a Core course worth 3 credits. Prerequisites: ICE 209."
+  },
+  {
+    "instruction": "How many credits is ICE 312?",
+    "context": "",
+    "response": "The course ICE 312 - Communications Theory carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 312?",
+    "context": "",
+    "response": "The prerequisites for ICE 312 - Communications Theory are: ICE 209."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 314?",
+    "context": "",
+    "response": "Digital Communications (ICE 314) is a Core course worth 4 credits. Prerequisites: ICE 312."
+  },
+  {
+    "instruction": "How many credits is ICE 314?",
+    "context": "",
+    "response": "The course ICE 314 - Digital Communications carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 314?",
+    "context": "",
+    "response": "The prerequisites for ICE 314 - Digital Communications are: ICE 312."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 316?",
+    "context": "",
+    "response": "Microprocessors & Interfacing (ICE 316) is a Core course worth 4 credits. Prerequisites: ICE 311."
+  },
+  {
+    "instruction": "How many credits is ICE 316?",
+    "context": "",
+    "response": "The course ICE 316 - Microprocessors & Interfacing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 316?",
+    "context": "",
+    "response": "The prerequisites for ICE 316 - Microprocessors & Interfacing are: ICE 311."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 322?",
+    "context": "",
+    "response": "Digital Signal Processing (ICE 322) is a Core course worth 4 credits. Prerequisites: ICE 209."
+  },
+  {
+    "instruction": "How many credits is ICE 322?",
+    "context": "",
+    "response": "The course ICE 322 - Digital Signal Processing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 322?",
+    "context": "",
+    "response": "The prerequisites for ICE 322 - Digital Signal Processing are: ICE 209."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 350?",
+    "context": "",
+    "response": "Information Theory & Coding (ICE 350) is a Core course worth 3 credits. Prerequisites: ICE 314."
+  },
+  {
+    "instruction": "How many credits is ICE 350?",
+    "context": "",
+    "response": "The course ICE 350 - Information Theory & Coding carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 350?",
+    "context": "",
+    "response": "The prerequisites for ICE 350 - Information Theory & Coding are: ICE 314."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 401?",
+    "context": "",
+    "response": "VLSI Circuit Design (ICE 401) is a Elective course worth 4 credits. Prerequisites: ICE 311."
+  },
+  {
+    "instruction": "How many credits is ICE 401?",
+    "context": "",
+    "response": "The course ICE 401 - VLSI Circuit Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 401?",
+    "context": "",
+    "response": "The prerequisites for ICE 401 - VLSI Circuit Design are: ICE 311."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 431?",
+    "context": "",
+    "response": "RF & Microwave Engineering (ICE 431) is a Elective course worth 4 credits. Prerequisites: ICE 310."
+  },
+  {
+    "instruction": "How many credits is ICE 431?",
+    "context": "",
+    "response": "The course ICE 431 - RF & Microwave Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 431?",
+    "context": "",
+    "response": "The prerequisites for ICE 431 - RF & Microwave Engineering are: ICE 310."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 441?",
+    "context": "",
+    "response": "Wireless & Mobile Communications (ICE 441) is a Elective course worth 3 credits. Prerequisites: ICE 314."
+  },
+  {
+    "instruction": "How many credits is ICE 441?",
+    "context": "",
+    "response": "The course ICE 441 - Wireless & Mobile Communications carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 441?",
+    "context": "",
+    "response": "The prerequisites for ICE 441 - Wireless & Mobile Communications are: ICE 314."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 442?",
+    "context": "",
+    "response": "Optical Fiber Communications (ICE 442) is a Elective course worth 4 credits. Prerequisites: ICE 312."
+  },
+  {
+    "instruction": "How many credits is ICE 442?",
+    "context": "",
+    "response": "The course ICE 442 - Optical Fiber Communications carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 442?",
+    "context": "",
+    "response": "The prerequisites for ICE 442 - Optical Fiber Communications are: ICE 312."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 444?",
+    "context": "",
+    "response": "Telecommunication Networks & Switching (ICE 444) is a Elective course worth 3 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 444?",
+    "context": "",
+    "response": "The course ICE 444 - Telecommunication Networks & Switching carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 444?",
+    "context": "",
+    "response": "The prerequisites for ICE 444 - Telecommunication Networks & Switching are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 446?",
+    "context": "",
+    "response": "Satellite Communications (ICE 446) is a Elective course worth 3 credits. Prerequisites: ICE 312."
+  },
+  {
+    "instruction": "How many credits is ICE 446?",
+    "context": "",
+    "response": "The course ICE 446 - Satellite Communications carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 446?",
+    "context": "",
+    "response": "The prerequisites for ICE 446 - Satellite Communications are: ICE 312."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 450?",
+    "context": "",
+    "response": "Communications and Network Security (ICE 450) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 450?",
+    "context": "",
+    "response": "The course ICE 450 - Communications and Network Security carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 450?",
+    "context": "",
+    "response": "The prerequisites for ICE 450 - Communications and Network Security are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 452?",
+    "context": "",
+    "response": "Multimedia Communications (ICE 452) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 452?",
+    "context": "",
+    "response": "The course ICE 452 - Multimedia Communications carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 452?",
+    "context": "",
+    "response": "The prerequisites for ICE 452 - Multimedia Communications are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 454?",
+    "context": "",
+    "response": "Antenna Engineering (ICE 454) is a Elective course worth 4 credits. Prerequisites: ICE 310."
+  },
+  {
+    "instruction": "How many credits is ICE 454?",
+    "context": "",
+    "response": "The course ICE 454 - Antenna Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 454?",
+    "context": "",
+    "response": "The prerequisites for ICE 454 - Antenna Engineering are: ICE 310."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 456?",
+    "context": "",
+    "response": "Wireless Networks (ICE 456) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 456?",
+    "context": "",
+    "response": "The course ICE 456 - Wireless Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 456?",
+    "context": "",
+    "response": "The prerequisites for ICE 456 - Wireless Networks are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 457?",
+    "context": "",
+    "response": "Telecommunication Network Planning & Optimization (ICE 457) is a Elective course worth 3 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 457?",
+    "context": "",
+    "response": "The course ICE 457 - Telecommunication Network Planning & Optimization carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 457?",
+    "context": "",
+    "response": "The prerequisites for ICE 457 - Telecommunication Network Planning & Optimization are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 458?",
+    "context": "",
+    "response": "Intelligent Networks (ICE 458) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 458?",
+    "context": "",
+    "response": "The course ICE 458 - Intelligent Networks carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 458?",
+    "context": "",
+    "response": "The prerequisites for ICE 458 - Intelligent Networks are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 459?",
+    "context": "",
+    "response": "Teletraffic Theory (ICE 459) is a Elective course worth 3 credits. Prerequisites: ICE 350."
+  },
+  {
+    "instruction": "How many credits is ICE 459?",
+    "context": "",
+    "response": "The course ICE 459 - Teletraffic Theory carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 459?",
+    "context": "",
+    "response": "The prerequisites for ICE 459 - Teletraffic Theory are: ICE 350."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 460?",
+    "context": "",
+    "response": "Foundations of TCP/IP (ICE 460) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 460?",
+    "context": "",
+    "response": "The course ICE 460 - Foundations of TCP/IP carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 460?",
+    "context": "",
+    "response": "The prerequisites for ICE 460 - Foundations of TCP/IP are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 469?",
+    "context": "",
+    "response": "Computer Architecture (ICE 469) is a Elective course worth 4 credits. Prerequisites: ICE 316."
+  },
+  {
+    "instruction": "How many credits is ICE 469?",
+    "context": "",
+    "response": "The course ICE 469 - Computer Architecture carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 469?",
+    "context": "",
+    "response": "The prerequisites for ICE 469 - Computer Architecture are: ICE 316."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 470?",
+    "context": "",
+    "response": "Applied Numerical Methods (ICE 470) is a Elective course worth 4 credits. Prerequisites: MAT 102."
+  },
+  {
+    "instruction": "How many credits is ICE 470?",
+    "context": "",
+    "response": "The course ICE 470 - Applied Numerical Methods carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 470?",
+    "context": "",
+    "response": "The prerequisites for ICE 470 - Applied Numerical Methods are: MAT 102."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 471?",
+    "context": "",
+    "response": "Network Programming (ICE 471) is a Elective course worth 4 credits. Prerequisites: ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 471?",
+    "context": "",
+    "response": "The course ICE 471 - Network Programming carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 471?",
+    "context": "",
+    "response": "The prerequisites for ICE 471 - Network Programming are: ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 472?",
+    "context": "",
+    "response": "Speech & Image Processing (ICE 472) is a Elective course worth 4 credits. Prerequisites: ICE 322."
+  },
+  {
+    "instruction": "How many credits is ICE 472?",
+    "context": "",
+    "response": "The course ICE 472 - Speech & Image Processing carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 472?",
+    "context": "",
+    "response": "The prerequisites for ICE 472 - Speech & Image Processing are: ICE 322."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 474?",
+    "context": "",
+    "response": "Computer Graphics & Visualizations (ICE 474) is a Elective course worth 4 credits. Prerequisites: ICE 245."
+  },
+  {
+    "instruction": "How many credits is ICE 474?",
+    "context": "",
+    "response": "The course ICE 474 - Computer Graphics & Visualizations carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 474?",
+    "context": "",
+    "response": "The prerequisites for ICE 474 - Computer Graphics & Visualizations are: ICE 245."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 475?",
+    "context": "",
+    "response": "Artificial Intelligence & Expert Systems (ICE 475) is a Elective course worth 3 credits. Prerequisites: ICE 245."
+  },
+  {
+    "instruction": "How many credits is ICE 475?",
+    "context": "",
+    "response": "The course ICE 475 - Artificial Intelligence & Expert Systems carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 475?",
+    "context": "",
+    "response": "The prerequisites for ICE 475 - Artificial Intelligence & Expert Systems are: ICE 245."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 477?",
+    "context": "",
+    "response": "Neural Networks and Applications (ICE 477) is a Elective course worth 3 credits. Prerequisites: ICE 475."
+  },
+  {
+    "instruction": "How many credits is ICE 477?",
+    "context": "",
+    "response": "The course ICE 477 - Neural Networks and Applications carries 3 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 477?",
+    "context": "",
+    "response": "The prerequisites for ICE 477 - Neural Networks and Applications are: ICE 475."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 479?",
+    "context": "",
+    "response": "Robotic Engineering (ICE 479) is a Elective course worth 4 credits. Prerequisites: ICE 420 or equivalent."
+  },
+  {
+    "instruction": "How many credits is ICE 479?",
+    "context": "",
+    "response": "The course ICE 479 - Robotic Engineering carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 479?",
+    "context": "",
+    "response": "The prerequisites for ICE 479 - Robotic Engineering are: ICE 420 or equivalent."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 481?",
+    "context": "",
+    "response": "Telecommunications System Design (ICE 481) is a Elective course worth 4 credits. Prerequisites: ICE 314, ICE 302."
+  },
+  {
+    "instruction": "How many credits is ICE 481?",
+    "context": "",
+    "response": "The course ICE 481 - Telecommunications System Design carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 481?",
+    "context": "",
+    "response": "The prerequisites for ICE 481 - Telecommunications System Design are: ICE 314, ICE 302."
+  },
+  {
+    "instruction": "Can you tell me about the course ICE 482?",
+    "context": "",
+    "response": "Design of Real Time Systems (ICE 482) is a Elective course worth 4 credits. Prerequisites: ICE 275."
+  },
+  {
+    "instruction": "How many credits is ICE 482?",
+    "context": "",
+    "response": "The course ICE 482 - Design of Real Time Systems carries 4 credit(s)."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ICE 482?",
+    "context": "",
+    "response": "The prerequisites for ICE 482 - Design of Real Time Systems are: ICE 275."
+  }
+]

@@ -1,0 +1,1092 @@
+[
+  {
+    "instruction": "What is the course ENG101 - Basic English about?",
+    "context": "",
+    "response": "Basic English (ENG101) is a Compulsory General Education course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG101?",
+    "context": "",
+    "response": "The prerequisites for ENG101 - Basic English are: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG101?",
+    "context": "",
+    "response": "The course ENG101 - Basic English carries 3 credits."
+  },
+  {
+    "instruction": "What is the course ENG102 - Composition and Communication Skills about?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG102) is a Compulsory General Education course worth 3 credits. Prerequisites: ENG101."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG102?",
+    "context": "",
+    "response": "The prerequisites for ENG102 - Composition and Communication Skills are: ENG101."
+  },
+  {
+    "instruction": "How many credits is the course ENG102?",
+    "context": "",
+    "response": "The course ENG102 - Composition and Communication Skills carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN226 - Emergence of Bangladesh about?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN226) is a Compulsory General Education course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN226?",
+    "context": "",
+    "response": "The prerequisites for GEN226 - Emergence of Bangladesh are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN226?",
+    "context": "",
+    "response": "The course GEN226 - Emergence of Bangladesh carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS101 - Introduction to Population Sciences about?",
+    "context": "",
+    "response": "Introduction to Population Sciences (PPHS101) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS101?",
+    "context": "",
+    "response": "The prerequisites for PPHS101 - Introduction to Population Sciences are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS101?",
+    "context": "",
+    "response": "The course PPHS101 - Introduction to Population Sciences carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS102 - Introduction to Public Health Sciences about?",
+    "context": "",
+    "response": "Introduction to Public Health Sciences (PPHS102) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS102?",
+    "context": "",
+    "response": "The prerequisites for PPHS102 - Introduction to Public Health Sciences are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS102?",
+    "context": "",
+    "response": "The course PPHS102 - Introduction to Public Health Sciences carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS103 - Introduction to Environmental Health about?",
+    "context": "",
+    "response": "Introduction to Environmental Health (PPHS103) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS103?",
+    "context": "",
+    "response": "The prerequisites for PPHS103 - Introduction to Environmental Health are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS103?",
+    "context": "",
+    "response": "The course PPHS103 - Introduction to Environmental Health carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS104 - Introduction to Biostatistics about?",
+    "context": "",
+    "response": "Introduction to Biostatistics (PPHS104) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS104?",
+    "context": "",
+    "response": "The prerequisites for PPHS104 - Introduction to Biostatistics are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS104?",
+    "context": "",
+    "response": "The course PPHS104 - Introduction to Biostatistics carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS105 - Introduction to Epidemiology about?",
+    "context": "",
+    "response": "Introduction to Epidemiology (PPHS105) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS105?",
+    "context": "",
+    "response": "The prerequisites for PPHS105 - Introduction to Epidemiology are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS105?",
+    "context": "",
+    "response": "The course PPHS105 - Introduction to Epidemiology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS106 - Introduction to Social and Behavioral Sciences about?",
+    "context": "",
+    "response": "Introduction to Social and Behavioral Sciences (PPHS106) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS106?",
+    "context": "",
+    "response": "The prerequisites for PPHS106 - Introduction to Social and Behavioral Sciences are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS106?",
+    "context": "",
+    "response": "The course PPHS106 - Introduction to Social and Behavioral Sciences carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS201 - Ecological System and Environment about?",
+    "context": "",
+    "response": "Ecological System and Environment (PPHS201) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS201?",
+    "context": "",
+    "response": "The prerequisites for PPHS201 - Ecological System and Environment are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS201?",
+    "context": "",
+    "response": "The course PPHS201 - Ecological System and Environment carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS202 - Behavioral Change Communication and Health Promotion about?",
+    "context": "",
+    "response": "Behavioral Change Communication and Health Promotion (PPHS202) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS202?",
+    "context": "",
+    "response": "The prerequisites for PPHS202 - Behavioral Change Communication and Health Promotion are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS202?",
+    "context": "",
+    "response": "The course PPHS202 - Behavioral Change Communication and Health Promotion carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS203 - Inferential and Applied Statistics about?",
+    "context": "",
+    "response": "Inferential and Applied Statistics (PPHS203) is a Core course worth 3 credits. Prerequisites: PPHS104."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS203?",
+    "context": "",
+    "response": "The prerequisites for PPHS203 - Inferential and Applied Statistics are: PPHS104."
+  },
+  {
+    "instruction": "How many credits is the course PPHS203?",
+    "context": "",
+    "response": "The course PPHS203 - Inferential and Applied Statistics carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS204 - Quantitative Research Methodology about?",
+    "context": "",
+    "response": "Quantitative Research Methodology (PPHS204) is a Core course worth 3 credits. Prerequisites: PPHS104."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS204?",
+    "context": "",
+    "response": "The prerequisites for PPHS204 - Quantitative Research Methodology are: PPHS104."
+  },
+  {
+    "instruction": "How many credits is the course PPHS204?",
+    "context": "",
+    "response": "The course PPHS204 - Quantitative Research Methodology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS205 - Quantitative Data Analysis Using Software and Report Writing about?",
+    "context": "",
+    "response": "Quantitative Data Analysis Using Software and Report Writing (PPHS205) is a Core course worth 3 credits. Prerequisites: PPHS203."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS205?",
+    "context": "",
+    "response": "The prerequisites for PPHS205 - Quantitative Data Analysis Using Software and Report Writing are: PPHS203."
+  },
+  {
+    "instruction": "How many credits is the course PPHS205?",
+    "context": "",
+    "response": "The course PPHS205 - Quantitative Data Analysis Using Software and Report Writing carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS206 - Advanced Epidemiology about?",
+    "context": "",
+    "response": "Advanced Epidemiology (PPHS206) is a Core course worth 3 credits. Prerequisites: PPHS105."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS206?",
+    "context": "",
+    "response": "The prerequisites for PPHS206 - Advanced Epidemiology are: PPHS105."
+  },
+  {
+    "instruction": "How many credits is the course PPHS206?",
+    "context": "",
+    "response": "The course PPHS206 - Advanced Epidemiology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS207 - Qualitative Research Methodology about?",
+    "context": "",
+    "response": "Qualitative Research Methodology (PPHS207) is a Core course worth 3 credits. Prerequisites: PPHS106."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS207?",
+    "context": "",
+    "response": "The prerequisites for PPHS207 - Qualitative Research Methodology are: PPHS106."
+  },
+  {
+    "instruction": "How many credits is the course PPHS207?",
+    "context": "",
+    "response": "The course PPHS207 - Qualitative Research Methodology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS208 - Qualitative Data Analysis using Software and Report Writing about?",
+    "context": "",
+    "response": "Qualitative Data Analysis using Software and Report Writing (PPHS208) is a Core course worth 3 credits. Prerequisites: PPHS207."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS208?",
+    "context": "",
+    "response": "The prerequisites for PPHS208 - Qualitative Data Analysis using Software and Report Writing are: PPHS207."
+  },
+  {
+    "instruction": "How many credits is the course PPHS208?",
+    "context": "",
+    "response": "The course PPHS208 - Qualitative Data Analysis using Software and Report Writing carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS209 - Project Management, Monitoring and Evaluation about?",
+    "context": "",
+    "response": "Project Management, Monitoring and Evaluation (PPHS209) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS209?",
+    "context": "",
+    "response": "The prerequisites for PPHS209 - Project Management, Monitoring and Evaluation are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS209?",
+    "context": "",
+    "response": "The course PPHS209 - Project Management, Monitoring and Evaluation carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS310 - Community Health Assessment about?",
+    "context": "",
+    "response": "Community Health Assessment (PPHS310) is a Elective from Other Majors course worth 3 credits. Prerequisites: PPHS206."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS310?",
+    "context": "",
+    "response": "The prerequisites for PPHS310 - Community Health Assessment are: PPHS206."
+  },
+  {
+    "instruction": "How many credits is the course PPHS310?",
+    "context": "",
+    "response": "The course PPHS310 - Community Health Assessment carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS311 - Community Health and Medicine about?",
+    "context": "",
+    "response": "Community Health and Medicine (PPHS311) is a Elective from Other Majors course worth 3 credits. Prerequisites: PPHS102."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS311?",
+    "context": "",
+    "response": "The prerequisites for PPHS311 - Community Health and Medicine are: PPHS102."
+  },
+  {
+    "instruction": "How many credits is the course PPHS311?",
+    "context": "",
+    "response": "The course PPHS311 - Community Health and Medicine carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS312 - Hospital Management about?",
+    "context": "",
+    "response": "Hospital Management (PPHS312) is a Elective from Other Majors course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS312?",
+    "context": "",
+    "response": "The prerequisites for PPHS312 - Hospital Management are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS312?",
+    "context": "",
+    "response": "The course PPHS312 - Hospital Management carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS313 - Sociology of Health and Illness about?",
+    "context": "",
+    "response": "Sociology of Health and Illness (PPHS313) is a Elective from Other Majors course worth 3 credits. Prerequisites: PPHS106."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS313?",
+    "context": "",
+    "response": "The prerequisites for PPHS313 - Sociology of Health and Illness are: PPHS106."
+  },
+  {
+    "instruction": "How many credits is the course PPHS313?",
+    "context": "",
+    "response": "The course PPHS313 - Sociology of Health and Illness carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS314 - Media Awareness in Public Health about?",
+    "context": "",
+    "response": "Media Awareness in Public Health (PPHS314) is a Elective from Other Majors course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS314?",
+    "context": "",
+    "response": "The prerequisites for PPHS314 - Media Awareness in Public Health are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS314?",
+    "context": "",
+    "response": "The course PPHS314 - Media Awareness in Public Health carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS315 - Media Applications for Public Health about?",
+    "context": "",
+    "response": "Media Applications for Public Health (PPHS315) is a Elective from Other Majors course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS315?",
+    "context": "",
+    "response": "The prerequisites for PPHS315 - Media Applications for Public Health are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS315?",
+    "context": "",
+    "response": "The course PPHS315 - Media Applications for Public Health carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS316 - Business Demography about?",
+    "context": "",
+    "response": "Business Demography (PPHS316) is a Elective from Other Majors course worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS316?",
+    "context": "",
+    "response": "The prerequisites for PPHS316 - Business Demography are: PPHS101."
+  },
+  {
+    "instruction": "How many credits is the course PPHS316?",
+    "context": "",
+    "response": "The course PPHS316 - Business Demography carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS317 - Public Health Ethics about?",
+    "context": "",
+    "response": "Public Health Ethics (PPHS317) is a Elective from Other Majors course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS317?",
+    "context": "",
+    "response": "The prerequisites for PPHS317 - Public Health Ethics are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS317?",
+    "context": "",
+    "response": "The course PPHS317 - Public Health Ethics carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS318 - System Thinking in Environmental Health about?",
+    "context": "",
+    "response": "System Thinking in Environmental Health (PPHS318) is a Elective from Other Majors course worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS318?",
+    "context": "",
+    "response": "The prerequisites for PPHS318 - System Thinking in Environmental Health are: PPHS103."
+  },
+  {
+    "instruction": "How many credits is the course PPHS318?",
+    "context": "",
+    "response": "The course PPHS318 - System Thinking in Environmental Health carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS495 - Individual Research Project about?",
+    "context": "",
+    "response": "Individual Research Project (PPHS495) is a Research Project course worth 4 credits. Prerequisites: Senior Standing."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS495?",
+    "context": "",
+    "response": "The prerequisites for PPHS495 - Individual Research Project are: Senior Standing."
+  },
+  {
+    "instruction": "How many credits is the course PPHS495?",
+    "context": "",
+    "response": "The course PPHS495 - Individual Research Project carries 4 credits."
+  },
+  {
+    "instruction": "What is the course PPHS496 - Field Trip about?",
+    "context": "",
+    "response": "Field Trip (PPHS496) is a Field Trip course worth 2 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS496?",
+    "context": "",
+    "response": "The prerequisites for PPHS496 - Field Trip are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS496?",
+    "context": "",
+    "response": "The course PPHS496 - Field Trip carries 2 credits."
+  },
+  {
+    "instruction": "What is the course ENG100 - Improving Oral Communication Skills* about?",
+    "context": "",
+    "response": "Improving Oral Communication Skills* (ENG100) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG100?",
+    "context": "",
+    "response": "The prerequisites for ENG100 - Improving Oral Communication Skills* are: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG100?",
+    "context": "",
+    "response": "The course ENG100 - Improving Oral Communication Skills* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course CSE101 - Introduction to Computer Science* about?",
+    "context": "",
+    "response": "Introduction to Computer Science* (CSE101) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for CSE101?",
+    "context": "",
+    "response": "The prerequisites for CSE101 - Introduction to Computer Science* are: None."
+  },
+  {
+    "instruction": "How many credits is the course CSE101?",
+    "context": "",
+    "response": "The course CSE101 - Introduction to Computer Science* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS107 - Introduction to Sociology about?",
+    "context": "",
+    "response": "Introduction to Sociology (PPHS107) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS107?",
+    "context": "",
+    "response": "The prerequisites for PPHS107 - Introduction to Sociology are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS107?",
+    "context": "",
+    "response": "The course PPHS107 - Introduction to Sociology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS108 - Introduction to Anthropology about?",
+    "context": "",
+    "response": "Introduction to Anthropology (PPHS108) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS108?",
+    "context": "",
+    "response": "The prerequisites for PPHS108 - Introduction to Anthropology are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS108?",
+    "context": "",
+    "response": "The course PPHS108 - Introduction to Anthropology carries 3 credits."
+  },
+  {
+    "instruction": "What is the course PPHS109 - Introduction to Development Economics about?",
+    "context": "",
+    "response": "Introduction to Development Economics (PPHS109) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PPHS109?",
+    "context": "",
+    "response": "The prerequisites for PPHS109 - Introduction to Development Economics are: None."
+  },
+  {
+    "instruction": "How many credits is the course PPHS109?",
+    "context": "",
+    "response": "The course PPHS109 - Introduction to Development Economics carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN201 - Bangladesh Studies* about?",
+    "context": "",
+    "response": "Bangladesh Studies* (GEN201) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN201?",
+    "context": "",
+    "response": "The prerequisites for GEN201 - Bangladesh Studies* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN201?",
+    "context": "",
+    "response": "The course GEN201 - Bangladesh Studies* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN202 - Eastern Culture and Heritage* about?",
+    "context": "",
+    "response": "Eastern Culture and Heritage* (GEN202) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN202?",
+    "context": "",
+    "response": "The prerequisites for GEN202 - Eastern Culture and Heritage* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN202?",
+    "context": "",
+    "response": "The course GEN202 - Eastern Culture and Heritage* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN204 - Western Thought* about?",
+    "context": "",
+    "response": "Western Thought* (GEN204) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN204?",
+    "context": "",
+    "response": "The prerequisites for GEN204 - Western Thought* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN204?",
+    "context": "",
+    "response": "The course GEN204 - Western Thought* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN205 - Introduction to Psychology* about?",
+    "context": "",
+    "response": "Introduction to Psychology* (GEN205) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN205?",
+    "context": "",
+    "response": "The prerequisites for GEN205 - Introduction to Psychology* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN205?",
+    "context": "",
+    "response": "The course GEN205 - Introduction to Psychology* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN207 - Industrial Psychology* about?",
+    "context": "",
+    "response": "Industrial Psychology* (GEN207) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN207?",
+    "context": "",
+    "response": "The prerequisites for GEN207 - Industrial Psychology* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN207?",
+    "context": "",
+    "response": "The course GEN207 - Industrial Psychology* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN208 - Introduction to Philosophy* about?",
+    "context": "",
+    "response": "Introduction to Philosophy* (GEN208) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN208?",
+    "context": "",
+    "response": "The prerequisites for GEN208 - Introduction to Philosophy* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN208?",
+    "context": "",
+    "response": "The course GEN208 - Introduction to Philosophy* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN209 - Introduction to Social Psychology* about?",
+    "context": "",
+    "response": "Introduction to Social Psychology* (GEN209) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN209?",
+    "context": "",
+    "response": "The prerequisites for GEN209 - Introduction to Social Psychology* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN209?",
+    "context": "",
+    "response": "The course GEN209 - Introduction to Social Psychology* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN210 - International Relations* about?",
+    "context": "",
+    "response": "International Relations* (GEN210) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN210?",
+    "context": "",
+    "response": "The prerequisites for GEN210 - International Relations* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN210?",
+    "context": "",
+    "response": "The course GEN210 - International Relations* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN211 - Concepts of Journalism and Media Studies* about?",
+    "context": "",
+    "response": "Concepts of Journalism and Media Studies* (GEN211) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN211?",
+    "context": "",
+    "response": "The prerequisites for GEN211 - Concepts of Journalism and Media Studies* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN211?",
+    "context": "",
+    "response": "The course GEN211 - Concepts of Journalism and Media Studies* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN212 - Women in Development* about?",
+    "context": "",
+    "response": "Women in Development* (GEN212) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN212?",
+    "context": "",
+    "response": "The prerequisites for GEN212 - Women in Development* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN212?",
+    "context": "",
+    "response": "The course GEN212 - Women in Development* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN213 - Introduction to German Language* about?",
+    "context": "",
+    "response": "Introduction to German Language* (GEN213) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN213?",
+    "context": "",
+    "response": "The prerequisites for GEN213 - Introduction to German Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN213?",
+    "context": "",
+    "response": "The course GEN213 - Introduction to German Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN214 - Introduction to Development studies* about?",
+    "context": "",
+    "response": "Introduction to Development studies* (GEN214) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN214?",
+    "context": "",
+    "response": "The prerequisites for GEN214 - Introduction to Development studies* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN214?",
+    "context": "",
+    "response": "The course GEN214 - Introduction to Development studies* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN215 - Introduction to French Language* about?",
+    "context": "",
+    "response": "Introduction to French Language* (GEN215) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN215?",
+    "context": "",
+    "response": "The prerequisites for GEN215 - Introduction to French Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN215?",
+    "context": "",
+    "response": "The course GEN215 - Introduction to French Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN216 - Introduction to Spanish Language* about?",
+    "context": "",
+    "response": "Introduction to Spanish Language* (GEN216) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN216?",
+    "context": "",
+    "response": "The prerequisites for GEN216 - Introduction to Spanish Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN216?",
+    "context": "",
+    "response": "The course GEN216 - Introduction to Spanish Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN217 - Introduction to Chinese Language* about?",
+    "context": "",
+    "response": "Introduction to Chinese Language* (GEN217) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN217?",
+    "context": "",
+    "response": "The prerequisites for GEN217 - Introduction to Chinese Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN217?",
+    "context": "",
+    "response": "The course GEN217 - Introduction to Chinese Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN218 - Introduction to Arabic Language* about?",
+    "context": "",
+    "response": "Introduction to Arabic Language* (GEN218) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN218?",
+    "context": "",
+    "response": "The prerequisites for GEN218 - Introduction to Arabic Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN218?",
+    "context": "",
+    "response": "The course GEN218 - Introduction to Arabic Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN220 - Principles of Public Relations* about?",
+    "context": "",
+    "response": "Principles of Public Relations* (GEN220) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN220?",
+    "context": "",
+    "response": "The prerequisites for GEN220 - Principles of Public Relations* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN220?",
+    "context": "",
+    "response": "The course GEN220 - Principles of Public Relations* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN221 - Globalization, Development and Change* about?",
+    "context": "",
+    "response": "Globalization, Development and Change* (GEN221) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN221?",
+    "context": "",
+    "response": "The prerequisites for GEN221 - Globalization, Development and Change* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN221?",
+    "context": "",
+    "response": "The course GEN221 - Globalization, Development and Change* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN224 - Bangla Language* about?",
+    "context": "",
+    "response": "Bangla Language* (GEN224) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN224?",
+    "context": "",
+    "response": "The prerequisites for GEN224 - Bangla Language* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN224?",
+    "context": "",
+    "response": "The course GEN224 - Bangla Language* carries 3 credits."
+  },
+  {
+    "instruction": "What is the course GEN239 - Professional Ethics* about?",
+    "context": "",
+    "response": "Professional Ethics* (GEN239) is a Optional course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN239?",
+    "context": "",
+    "response": "The prerequisites for GEN239 - Professional Ethics* are: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN239?",
+    "context": "",
+    "response": "The course GEN239 - Professional Ethics* carries 3 credits."
+  },
+  {
+    "instruction": "What courses are included in the Population Sciences major?",
+    "context": "",
+    "response": "The Population Sciences major includes courses such as: Fertility and Reproductive Behaviour (PS301), Morbidity and Mortality (PS302), Urbanization, Internal Migration and Mobility (PS303), Techniques of Population Analysis (PS304), International Migration and Development (PS305), Nutrition and Food Security (PS306), Population Health (PS307), Population, Poverty and Development (PS401), Family, Marriage and Population (PS402), Population Aging (PS403), Population Planning and Human Resource Development (PS404), Population Dynamics of Bangladesh (PS405), Population Policy and Programs in Bangladesh (PS406)."
+  },
+  {
+    "instruction": "Tell me about the course PS301 in Population Sciences.",
+    "context": "",
+    "response": "Fertility and Reproductive Behaviour (PS301) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS302 in Population Sciences.",
+    "context": "",
+    "response": "Morbidity and Mortality (PS302) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS105."
+  },
+  {
+    "instruction": "Tell me about the course PS303 in Population Sciences.",
+    "context": "",
+    "response": "Urbanization, Internal Migration and Mobility (PS303) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS304 in Population Sciences.",
+    "context": "",
+    "response": "Techniques of Population Analysis (PS304) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS104."
+  },
+  {
+    "instruction": "Tell me about the course PS305 in Population Sciences.",
+    "context": "",
+    "response": "International Migration and Development (PS305) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS306 in Population Sciences.",
+    "context": "",
+    "response": "Nutrition and Food Security (PS306) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course PS307 in Population Sciences.",
+    "context": "",
+    "response": "Population Health (PS307) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS102."
+  },
+  {
+    "instruction": "Tell me about the course PS401 in Population Sciences.",
+    "context": "",
+    "response": "Population, Poverty and Development (PS401) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS109."
+  },
+  {
+    "instruction": "Tell me about the course PS402 in Population Sciences.",
+    "context": "",
+    "response": "Family, Marriage and Population (PS402) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS403 in Population Sciences.",
+    "context": "",
+    "response": "Population Aging (PS403) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS404 in Population Sciences.",
+    "context": "",
+    "response": "Population Planning and Human Resource Development (PS404) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS405 in Population Sciences.",
+    "context": "",
+    "response": "Population Dynamics of Bangladesh (PS405) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "Tell me about the course PS406 in Population Sciences.",
+    "context": "",
+    "response": "Population Policy and Programs in Bangladesh (PS406) is a Major course in the Population Sciences major worth 3 credits. Prerequisites: PPHS101."
+  },
+  {
+    "instruction": "What courses are included in the Public Health major?",
+    "context": "",
+    "response": "The Public Health major includes courses such as: Social Determinants of Health and Well-being (PH301), Epidemiology of Communicable and Neglected Tropical Diseases (PH302), Urban Health (PH303), Sexual and Reproductive Health and Rights (PH304), Epidemiology of Non-communicable Diseases and Injuries (PH305), Global Health (PH306), Occupational Health (PH307), Health Systems and Administration in Bangladesh (PH401), Health Policy and Process (PH402), Health Economics and Healthcare Financing (PH403), Health informatics (PH404), Modern Health Technologies (PH405), Public Health in Emergencies (PH406)."
+  },
+  {
+    "instruction": "Tell me about the course PH301 in Public Health.",
+    "context": "",
+    "response": "Social Determinants of Health and Well-being (PH301) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS106."
+  },
+  {
+    "instruction": "Tell me about the course PH302 in Public Health.",
+    "context": "",
+    "response": "Epidemiology of Communicable and Neglected Tropical Diseases (PH302) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS105."
+  },
+  {
+    "instruction": "Tell me about the course PH303 in Public Health.",
+    "context": "",
+    "response": "Urban Health (PH303) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS201."
+  },
+  {
+    "instruction": "Tell me about the course PH304 in Public Health.",
+    "context": "",
+    "response": "Sexual and Reproductive Health and Rights (PH304) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS105."
+  },
+  {
+    "instruction": "Tell me about the course PH305 in Public Health.",
+    "context": "",
+    "response": "Epidemiology of Non-communicable Diseases and Injuries (PH305) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS206."
+  },
+  {
+    "instruction": "Tell me about the course PH306 in Public Health.",
+    "context": "",
+    "response": "Global Health (PH306) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS102."
+  },
+  {
+    "instruction": "Tell me about the course PH307 in Public Health.",
+    "context": "",
+    "response": "Occupational Health (PH307) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS102."
+  },
+  {
+    "instruction": "Tell me about the course PH401 in Public Health.",
+    "context": "",
+    "response": "Health Systems and Administration in Bangladesh (PH401) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS209."
+  },
+  {
+    "instruction": "Tell me about the course PH402 in Public Health.",
+    "context": "",
+    "response": "Health Policy and Process (PH402) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS209."
+  },
+  {
+    "instruction": "Tell me about the course PH403 in Public Health.",
+    "context": "",
+    "response": "Health Economics and Healthcare Financing (PH403) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS109."
+  },
+  {
+    "instruction": "Tell me about the course PH404 in Public Health.",
+    "context": "",
+    "response": "Health informatics (PH404) is a Major course in the Public Health major worth 3 credits. Prerequisites: CSE101."
+  },
+  {
+    "instruction": "Tell me about the course PH405 in Public Health.",
+    "context": "",
+    "response": "Modern Health Technologies (PH405) is a Major course in the Public Health major worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "Tell me about the course PH406 in Public Health.",
+    "context": "",
+    "response": "Public Health in Emergencies (PH406) is a Major course in the Public Health major worth 3 credits. Prerequisites: PPHS102."
+  },
+  {
+    "instruction": "What courses are included in the Environmental Health major?",
+    "context": "",
+    "response": "The Environmental Health major includes courses such as: Global Environmental Challenges (EH301), Environmental Health (EH302), Disaster Risk Reduction and Climate Change Adaptation in Bangladesh (EH303), Environment and Development (EH304), Gender and Environment (EH305), Climate Change and Human Health (EH306), Environmental Pollution and Human Health (EH307), Environmental Health in Emergencies (EH401), Urbanization and Sustainable Cities (EH402), Food Security, Public Health and the Environment (EH403), Environmental Epidemiology (EH404), Public Health Toxicology (EH405), Spatial Analysis of Population, Health and Development (EH406)."
+  },
+  {
+    "instruction": "Tell me about the course EH301 in Environmental Health.",
+    "context": "",
+    "response": "Global Environmental Challenges (EH301) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH302 in Environmental Health.",
+    "context": "",
+    "response": "Environmental Health (EH302) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH303 in Environmental Health.",
+    "context": "",
+    "response": "Disaster Risk Reduction and Climate Change Adaptation in Bangladesh (EH303) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH304 in Environmental Health.",
+    "context": "",
+    "response": "Environment and Development (EH304) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS109."
+  },
+  {
+    "instruction": "Tell me about the course EH305 in Environmental Health.",
+    "context": "",
+    "response": "Gender and Environment (EH305) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS106."
+  },
+  {
+    "instruction": "Tell me about the course EH306 in Environmental Health.",
+    "context": "",
+    "response": "Climate Change and Human Health (EH306) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH307 in Environmental Health.",
+    "context": "",
+    "response": "Environmental Pollution and Human Health (EH307) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH401 in Environmental Health.",
+    "context": "",
+    "response": "Environmental Health in Emergencies (EH401) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH402 in Environmental Health.",
+    "context": "",
+    "response": "Urbanization and Sustainable Cities (EH402) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS201."
+  },
+  {
+    "instruction": "Tell me about the course EH403 in Environmental Health.",
+    "context": "",
+    "response": "Food Security, Public Health and the Environment (EH403) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH404 in Environmental Health.",
+    "context": "",
+    "response": "Environmental Epidemiology (EH404) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS206."
+  },
+  {
+    "instruction": "Tell me about the course EH405 in Environmental Health.",
+    "context": "",
+    "response": "Public Health Toxicology (EH405) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS103."
+  },
+  {
+    "instruction": "Tell me about the course EH406 in Environmental Health.",
+    "context": "",
+    "response": "Spatial Analysis of Population, Health and Development (EH406) is a Major course in the Environmental Health major worth 3 credits. Prerequisites: PPHS205."
+  },
+  {
+    "instruction": "What is the duration of the BSS in Population and Public Health Sciences program at EWU?",
+    "context": "",
+    "response": "The BSS in Population and Public Health Sciences (PPHS) program at EWU is designed to be completed in 4 years. Students can extend their study up to a maximum of 7 years if needed."
+  },
+  {
+    "instruction": "How many total credits are required to complete the PPHS program?",
+    "context": "",
+    "response": "To graduate from the PPHS program, students must complete at least 123 credits. The program offers a total of 130 credits, giving some flexibility for course selection."
+  },
+  {
+    "instruction": "What is the tuition fee for the BSS in PPHS at EWU?",
+    "context": "",
+    "response": "The tuition fee for the PPHS program is BDT 601,500. In addition, students need to pay lab fees of BDT 36,800 and an admission fee of BDT 20,000, making the grand total BDT 658,300."
+  },
+  {
+    "instruction": "What teaching methods are used in the PPHS program?",
+    "context": "",
+    "response": "EWU uses a diverse range of teaching methods in the PPHS program, including lectures, conversation, group discussion, debate, demonstration, problem-solving, group exercise, case-study, brainstorming, cube and mosaic methods, graphic visualization (like Venn diagrams and conceptual maps), computer lab for data analysis, multimedia, field trips, and individual research projects or reports."
+  },
+  {
+    "instruction": "What are the admission requirements for the BSS in PPHS program?",
+    "context": "",
+    "response": "For admission, students must meet one of the following criteria: 1) Minimum GPA of 3.00 in both SSC and HSC, 2) Pass University of London or Cambridge GCE O-Level in at least five subjects and A-Level in at least two subjects, with at least 4 B's and 3 C's in total, 3) American High School Diploma, 4) Acceptable EWU Admission Test Score, or 5) Total GPA of 5.00 in SSC and HSC for children of Freedom Fighters. Admission is based on 75% Admission Test, 10% SSC/O-Level, and 15% HSC/A-Level scores. Foreign students may be assessed differently and could receive a waiver for the Admission Test."
+  },
+  {
+    "instruction": "Are there any credit transfer limits for this program?",
+    "context": "",
+    "response": "Yes, EWU allows students to transfer up to 50% of the total credits required for the PPHS program from other recognized institutions, subject to evaluation and approval by the university."
+  },
+  {
+    "instruction": "What types of courses are included in the PPHS curriculum?",
+    "context": "",
+    "response": "The PPHS program includes a mix of course types: 9 compulsory general education courses, 18 compulsory foundation courses, 27 core courses, 39 major stream courses, 18 elective courses from other majors, 6 optional courses, 4 individual research project credits, and 2 field trip credits."
+  },
+  {
+    "instruction": "How do elective courses from other majors work in the PPHS program?",
+    "context": "",
+    "response": "In addition to completing 13 courses from their chosen major stream, students must take 6 elective courses from the remaining two major streams. For example, a student majoring in Public Health will take 6 courses from Population Sciences and Environmental Health streams. These electives are typically offered in the 3rd and 4th year and are more relevant than optional courses."
+  },
+  {
+    "instruction": "What is the role of individual research projects in the PPHS program?",
+    "context": "",
+    "response": "The PPHS program includes 4 credits dedicated to individual research projects. These projects allow students to apply their knowledge to real-world problems, develop analytical skills, and contribute to the field through independent research."
+  },
+  {
+    "instruction": "Are field trips part of the BSS in PPHS curriculum?",
+    "context": "",
+    "response": "Yes, the program includes 2 credits for field trips. These trips provide students with practical exposure to public health settings, population studies, and real-world applications of classroom knowledge."
+  },
+  {
+    "instruction": "Can you explain how the final selection for admission is determined?",
+    "context": "",
+    "response": "Final selection for admission to the PPHS program is based on a combination of scores: 75% from the EWU Admission Test, 10% from SSC/O-Level results, and 15% from HSC/A-Level results. For foreign students or those from other education systems, eligibility and test requirements may be assessed by a committee."
+  },
+  {
+    "instruction": "Does EWU collaborate with other universities for the PPHS program?",
+    "context": "",
+    "response": "Yes, EWU establishes partnerships and exchange cooperation with renowned universities worldwide through memorandums of understanding (MoUs). This ensures academic excellence and provides students opportunities for international collaboration."
+  },
+  {
+    "instruction": "What is the maximum duration a student can take to complete the PPHS program?",
+    "context": "",
+    "response": "Although the standard duration of the PPHS program is 4 years, students may take up to 7 years to complete it if they require additional time."
+  },
+  {
+    "instruction": "Are there optional courses in the PPHS curriculum?",
+    "context": "",
+    "response": "Yes, students can take up to 6 optional courses in the program, giving them flexibility to explore subjects outside their core or major streams."
+  }
+]

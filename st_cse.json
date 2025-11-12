@@ -1,0 +1,1587 @@
+[
+  {
+    "instruction": "What is the vision of the Computer Science and Engineering department at EWU?",
+    "context": "",
+    "response": "The vision of the CSE department at EWU is to be internationally renowned in Computer Science and Engineering and to exalt excellence in education, research, industrial profession, and entrepreneurship for sustainable transformation of the society."
+  },
+  {
+    "instruction": "Can you explain the mission of EWU's CSE department?",
+    "context": "",
+    "response": "The CSE department's mission includes: 1) Advancing knowledge and learning of evolving challenges in Computer Science and Engineering through quality education and research for societal development, 2) Sustaining an outstanding hub dedicated to excellence in education, research & development, and entrepreneurship while gaining international recognition, and 3) Enhancing student quality with advanced knowledge and skills to meet contemporary needs in education, research, leadership, and entrepreneurship."
+  },
+  {
+    "instruction": "What are the program educational objectives (PEOs) for the CSE program?",
+    "context": "",
+    "response": "The CSE program at EWU has three educational objectives: 1) Graduates will establish themselves as leading computational professionals or entrepreneurs and continue learning to address evolving challenges, 2) Graduates will engage in lifelong knowledge pursuit and interdisciplinary learning for careers in industry, research, academia, leadership, or entrepreneurship, and 3) Graduates will contribute to sustainable development and societal well-being through ethical and responsible application of CSE principles and practices."
+  },
+  {
+    "instruction": "What skills and abilities should graduates of EWU's CSE program have?",
+    "context": "",
+    "response": "Graduates are expected to: apply mathematics, natural sciences, and engineering fundamentals to solve complex CSE problems, design systems and processes considering societal and environmental impacts, conduct research-based investigations, apply modern engineering and IT tools, understand societal and ethical responsibilities, work effectively in teams, communicate complex technical information, and engage in lifelong learning."
+  },
+  {
+    "instruction": "How are program outcomes linked to educational objectives in EWU CSE?",
+    "context": "",
+    "response": "Program outcomes describe specific skills and knowledge that students acquire, which map directly to the program educational objectives (PEOs). For example, outcomes related to applying engineering knowledge and problem-solving map to PEO1, research and analytical skills map to PEO2, and ethical, societal, and teamwork skills map to PEO3."
+  },
+  {
+    "instruction": "What kind of knowledge will I gain in the CSE program?",
+    "context": "",
+    "response": "You will gain knowledge across several profiles: K1) theory-based natural sciences, K2) mathematics and computational theory for modeling and analysis, K3) engineering fundamentals, K4) specialized engineering knowledge, K5) design-support knowledge, K6) practical engineering skills, K7) understanding of societal, ethical, and sustainability issues, and K8) engagement with current research literature."
+  },
+  {
+    "instruction": "What types of engineering problems will I learn to solve in CSE at EWU?",
+    "context": "",
+    "response": "You will tackle problems including: EP1) problems requiring in-depth engineering knowledge and first-principles analysis, EP2) wide-ranging or conflicting technical issues, EP3) abstract problems with no obvious solution, EP4) infrequently encountered issues, EP5) problems outside standard engineering codes, EP6) issues involving diverse stakeholders, and EP7) high-level problems with multiple sub-components."
+  },
+  {
+    "instruction": "What engineering activities will I participate in as a CSE student?",
+    "context": "",
+    "response": "CSE students will engage in activities such as: EA1) managing diverse resources like people, money, and technology, EA2) solving significant technical or conflicting issues, EA3) creatively applying engineering principles, EA4) handling activities with unpredictable consequences, and EA5) applying principle-based approaches beyond prior experience."
+  },
+  {
+    "instruction": "How many total credits are required to complete the CSE program at EWU?",
+    "context": "",
+    "response": "The total credit requirement for the CSE program is 140 credits. This includes compulsory language and general education (9), elective general education (9), natural sciences (11), mathematics and statistics (15), core computer science and engineering courses (62), core capstone project (6), major compulsory and elective CSE courses (20), and non-major elective CSE courses (8)."
+  },
+  {
+    "instruction": "What are the core components of the CSE curriculum at EWU?",
+    "context": "",
+    "response": "The core curriculum consists of computer science and engineering courses totaling 62 credits, a 6-credit capstone project, 20 credits of major compulsory and elective courses, and 8 credits of non-major elective CSE courses. In addition, students complete general education, natural sciences, and mathematics/statistics courses."
+  },
+  {
+    "instruction": "What kind of ethical training does EWU provide for CSE students?",
+    "context": "",
+    "response": "CSE students at EWU are trained to apply ethical principles, commit to professional responsibilities, and consider societal, health, safety, legal, cultural, and environmental implications of engineering work, ensuring responsible and professional practice in all projects and problem-solving activities."
+  },
+  {
+    "instruction": "How does the CSE program at EWU prepare students for research?",
+    "context": "",
+    "response": "The program emphasizes research-based investigation of complex problems using literature engagement, experimental design, data analysis, and synthesis to provide valid conclusions. Students gain skills in applying modern tools and techniques to analyze and model CSE challenges, preparing them for academic or industrial research careers."
+  },
+  {
+    "instruction": "Will I get teamwork experience in the CSE program?",
+    "context": "",
+    "response": "Yes, students are expected to function effectively both as individuals and as members or leaders in diverse, multidisciplinary teams. This includes collaborative problem solving, communication, and project management skills essential for real-world engineering practice."
+  },
+  {
+    "instruction": "How does EWU's CSE program support lifelong learning?",
+    "context": "",
+    "response": "The program instills preparation and ability for independent and continuous learning, ensuring graduates can adapt to technological changes and pursue knowledge beyond formal education, supporting careers in research, academia, industry, and entrepreneurship."
+  },
+  {
+    "instruction": "What is the relationship between knowledge profiles and program outcomes in CSE?",
+    "context": "",
+    "response": "Knowledge profiles (K1-K8) define the theoretical and practical understanding students gain, which support achieving specific program outcomes. For instance, applying mathematics and engineering fundamentals (K1-K4) helps solve complex problems (PO1-PO3), while engagement with research (K8) supports investigative and analytical outcomes."
+  },
+  {
+    "instruction": "How can I use my math knowledge in CSE projects at EWU?",
+    "context": "",
+    "response": "In the CSE program, your mathematics skills, including numerical analysis, statistics, and formal computer science concepts (K2), are applied to model, analyze, and solve complex computing problems. This helps in algorithms, data analysis, simulation, and predictive modeling."
+  },
+  {
+    "instruction": "What kind of research skills will I develop in the CSE program?",
+    "context": "",
+    "response": "You will learn to conduct investigations of complex problems using research-based knowledge, design experiments, analyze and interpret data, synthesize information, and draw valid conclusions. This prepares you for academic research, industrial R&D, or independent projects."
+  },
+  {
+    "instruction": "Will I learn to design systems that consider societal and environmental impact?",
+    "context": "",
+    "response": "Yes, the program teaches you to design solutions considering public health, safety, cultural, societal, and environmental factors. This ensures your projects are ethically responsible and sustainable in real-world contexts."
+  },
+  {
+    "instruction": "How does EWU prepare me to work in teams as a CSE student?",
+    "context": "",
+    "response": "You’ll engage in diverse team-based activities, acting as a member or leader in multidisciplinary groups. This includes collaborative problem solving, project planning, and communication skills, which mirror professional engineering environments."
+  },
+  {
+    "instruction": "Can I pursue entrepreneurship after graduating from CSE at EWU?",
+    "context": "",
+    "response": "Absolutely. The program’s educational objectives emphasize entrepreneurship. You’ll acquire the technical knowledge, design thinking, and leadership skills necessary to start your own tech venture or innovate within existing companies."
+  },
+  {
+    "instruction": "How does EWU CSE help me think critically and creatively?",
+    "context": "",
+    "response": "Through challenging engineering problems (EP1–EP7) and activities (EA1–EA5), you’ll practice abstract thinking, originality in analysis, and creative use of principles to solve problems with no obvious solutions, preparing you for innovation in your career."
+  },
+  {
+    "instruction": "Will I be able to communicate technical information effectively?",
+    "context": "",
+    "response": "Yes, one of the program outcomes focuses on effective communication. You’ll learn to write reports, design documentation, make presentations, and give and receive instructions clearly, which is essential for professional work and academic collaboration."
+  },
+  {
+    "instruction": "What kind of practical tools and technology will I use in CSE courses?",
+    "context": "",
+    "response": "You’ll gain hands-on experience with modern engineering and IT tools for modeling, simulation, prediction, and problem-solving (K6). This prepares you for real-world computing tasks and professional engineering practice."
+  },
+  {
+    "instruction": "How will EWU CSE help me become a responsible engineer?",
+    "context": "",
+    "response": "You’ll be trained to apply ethical principles, understand societal responsibilities, and evaluate the impact of your work on public safety, society, and the environment. This ensures you act professionally and responsibly in all engineering activities."
+  },
+  {
+    "instruction": "Are there opportunities to tackle complex real-world problems?",
+    "context": "",
+    "response": "Yes, the curriculum exposes you to high-level engineering problems (EP7) involving multiple components or sub-problems, diverse stakeholders, and challenging contexts. You’ll learn to analyze, design, and implement solutions using first-principles approaches."
+  },
+  {
+    "instruction": "What courses focus on core computer science skills?",
+    "context": "",
+    "response": "The CSE program includes 62 credits of core computer science and engineering courses. These cover fundamental and advanced topics, equipping you with essential programming, algorithmic, system design, and software engineering skills."
+  },
+  {
+    "instruction": "Can I explore interdisciplinary learning in CSE at EWU?",
+    "context": "",
+    "response": "Yes, the program encourages lifelong learning and interdisciplinary engagement. You’ll integrate knowledge from mathematics, natural sciences, engineering fundamentals, and IT to solve complex problems and pursue academic or industrial careers."
+  },
+  {
+    "instruction": "How does EWU ensure I understand sustainability in engineering?",
+    "context": "",
+    "response": "You’ll evaluate the societal and environmental impact of your solutions, consider sustainable practices, and incorporate ethical and safety standards, ensuring your engineering work contributes positively to society and the environment."
+  },
+  {
+    "instruction": "What kinds of capstone projects will I do in CSE?",
+    "context": "",
+    "response": "The program includes a 6-credit core capstone project where you apply cumulative knowledge to design, implement, and analyze a substantial computing project. Projects often address real-world problems, involve teamwork, and require research and innovation."
+  },
+  {
+    "instruction": "Are there non-major electives in the CSE curriculum?",
+    "context": "",
+    "response": "Yes, 8 credits are allocated for non-major elective CSE courses. These allow you to explore complementary skills and broaden your expertise beyond core computer science topics."
+  },
+  {
+    "instruction": "How are knowledge areas like K1 to K8 applied in daily coursework?",
+    "context": "",
+    "response": "K1-K8 knowledge profiles guide your learning: K1-K4 underpin problem-solving and design, K5-K6 support practical and technological applications, K7 ensures ethical and societal considerations, and K8 involves research engagement. Together, they shape how you analyze, implement, and communicate solutions."
+  },
+  {
+    "instruction": "Will I get training in managing engineering projects?",
+    "context": "",
+    "response": "Yes, one of the program outcomes focuses on understanding engineering management principles and economic decision-making. You’ll apply these skills in teamwork, project planning, and multidisciplinary projects, preparing you for leadership roles."
+  },
+  {
+    "instruction": "Do I get exposure to ethical dilemmas in computing?",
+    "context": "",
+    "response": "Absolutely. The program emphasizes ethical responsibilities, ensuring you understand societal, legal, safety, and cultural issues in computing. You’ll learn to make informed, responsible decisions when facing ethical dilemmas in professional practice."
+  },
+  {
+    "instruction": "How does EWU prepare CSE students for lifelong learning?",
+    "context": "",
+    "response": "The curriculum fosters independence and adaptability. You’ll learn how to engage with evolving technologies, research, and complex problems, ensuring you continue learning throughout your career in industry, academia, or entrepreneurship."
+  },
+  {
+    "instruction": "Can I apply this knowledge in real industry scenarios?",
+    "context": "",
+    "response": "Yes, the program is designed to equip you with practical skills, modern tools, and analytical techniques to solve real-world computing problems, address stakeholder needs, and innovate responsibly in industrial, research, or entrepreneurial settings."
+  },
+  {
+    "instruction": "What is the credit value of Basic English (ENG101)?",
+    "context": "",
+    "response": "The course Basic English (ENG101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Basic English?",
+    "context": "",
+    "response": "The prerequisite for Basic English (ENG101) is: None."
+  },
+  {
+    "instruction": "Which category does Basic English belong to?",
+    "context": "",
+    "response": "Basic English (ENG101) belongs to the 'Language and General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Basic English?",
+    "context": "",
+    "response": "Basic English (ENG101) is a 3-credit course under 'Language and General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Composition and Communication Skills (ENG102)?",
+    "context": "",
+    "response": "The course Composition and Communication Skills (ENG102) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Composition and Communication Skills?",
+    "context": "",
+    "response": "The prerequisite for Composition and Communication Skills (ENG102) is: ENG101."
+  },
+  {
+    "instruction": "Which category does Composition and Communication Skills belong to?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG102) belongs to the 'Language and General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Composition and Communication Skills?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG102) is a 3-credit course under 'Language and General Education'. Prerequisites: ENG101."
+  },
+  {
+    "instruction": "What is the credit value of Emergence of Bangladesh (GEN226)?",
+    "context": "",
+    "response": "The course Emergence of Bangladesh (GEN226) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Emergence of Bangladesh?",
+    "context": "",
+    "response": "The prerequisite for Emergence of Bangladesh (GEN226) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Emergence of Bangladesh belong to?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN226) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Emergence of Bangladesh?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN226) is a 3-credit course under 'General Education'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Principle of Microeconomics (ECO101)?",
+    "context": "",
+    "response": "The course Principle of Microeconomics (ECO101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Principle of Microeconomics?",
+    "context": "",
+    "response": "The prerequisite for Principle of Microeconomics (ECO101) is: None."
+  },
+  {
+    "instruction": "Which category does Principle of Microeconomics belong to?",
+    "context": "",
+    "response": "Principle of Microeconomics (ECO101) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Principle of Microeconomics?",
+    "context": "",
+    "response": "Principle of Microeconomics (ECO101) is a 3-credit course under 'General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Ecological System and Environment (GEN203)?",
+    "context": "",
+    "response": "The course Ecological System and Environment (GEN203) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Ecological System and Environment?",
+    "context": "",
+    "response": "The prerequisite for Ecological System and Environment (GEN203) is: None."
+  },
+  {
+    "instruction": "Which category does Ecological System and Environment belong to?",
+    "context": "",
+    "response": "Ecological System and Environment (GEN203) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Ecological System and Environment?",
+    "context": "",
+    "response": "Ecological System and Environment (GEN203) is a 3-credit course under 'General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Development Studies (GEN214)?",
+    "context": "",
+    "response": "The course Development Studies (GEN214) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Development Studies?",
+    "context": "",
+    "response": "The prerequisite for Development Studies (GEN214) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Development Studies belong to?",
+    "context": "",
+    "response": "Development Studies (GEN214) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Development Studies?",
+    "context": "",
+    "response": "Development Studies (GEN214) is a 3-credit course under 'General Education'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Sociology of Science and Technology (SOC317)?",
+    "context": "",
+    "response": "The course Sociology of Science and Technology (SOC317) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Sociology of Science and Technology?",
+    "context": "",
+    "response": "The prerequisite for Sociology of Science and Technology (SOC317) is: None."
+  },
+  {
+    "instruction": "Which category does Sociology of Science and Technology belong to?",
+    "context": "",
+    "response": "Sociology of Science and Technology (SOC317) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Sociology of Science and Technology?",
+    "context": "",
+    "response": "Sociology of Science and Technology (SOC317) is a 3-credit course under 'General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Bangladesh Studies (GEN201)?",
+    "context": "",
+    "response": "The course Bangladesh Studies (GEN201) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Bangladesh Studies?",
+    "context": "",
+    "response": "The prerequisite for Bangladesh Studies (GEN201) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Bangladesh Studies belong to?",
+    "context": "",
+    "response": "Bangladesh Studies (GEN201) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Bangladesh Studies?",
+    "context": "",
+    "response": "Bangladesh Studies (GEN201) is a 3-credit course under 'General Education'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Western Thought (GEN204)?",
+    "context": "",
+    "response": "The course Western Thought (GEN204) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Western Thought?",
+    "context": "",
+    "response": "The prerequisite for Western Thought (GEN204) is: None."
+  },
+  {
+    "instruction": "Which category does Western Thought belong to?",
+    "context": "",
+    "response": "Western Thought (GEN204) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Western Thought?",
+    "context": "",
+    "response": "Western Thought (GEN204) is a 3-credit course under 'General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of International Relation (GEN210)?",
+    "context": "",
+    "response": "The course International Relation (GEN210) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for International Relation?",
+    "context": "",
+    "response": "The prerequisite for International Relation (GEN210) is: ENG102."
+  },
+  {
+    "instruction": "Which category does International Relation belong to?",
+    "context": "",
+    "response": "International Relation (GEN210) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about International Relation?",
+    "context": "",
+    "response": "International Relation (GEN210) is a 3-credit course under 'General Education'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Eastern Culture and Heritage (SOC211)?",
+    "context": "",
+    "response": "The course Eastern Culture and Heritage (SOC211) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Eastern Culture and Heritage?",
+    "context": "",
+    "response": "The prerequisite for Eastern Culture and Heritage (SOC211) is: None."
+  },
+  {
+    "instruction": "Which category does Eastern Culture and Heritage belong to?",
+    "context": "",
+    "response": "Eastern Culture and Heritage (SOC211) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Eastern Culture and Heritage?",
+    "context": "",
+    "response": "Eastern Culture and Heritage (SOC211) is a 3-credit course under 'General Education'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Religion, Ethnicity, Culture and Development in South Asia (SOC217)?",
+    "context": "",
+    "response": "The course Religion, Ethnicity, Culture and Development in South Asia (SOC217) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Religion, Ethnicity, Culture and Development in South Asia?",
+    "context": "",
+    "response": "The prerequisite for Religion, Ethnicity, Culture and Development in South Asia (SOC217) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Religion, Ethnicity, Culture and Development in South Asia belong to?",
+    "context": "",
+    "response": "Religion, Ethnicity, Culture and Development in South Asia (SOC217) belongs to the 'General Education' category."
+  },
+  {
+    "instruction": "Can you tell me about Religion, Ethnicity, Culture and Development in South Asia?",
+    "context": "",
+    "response": "Religion, Ethnicity, Culture and Development in South Asia (SOC217) is a 3-credit course under 'General Education'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Financial Accounting (ACT101)?",
+    "context": "",
+    "response": "The course Financial Accounting (ACT101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Financial Accounting?",
+    "context": "",
+    "response": "The prerequisite for Financial Accounting (ACT101) is: None."
+  },
+  {
+    "instruction": "Which category does Financial Accounting belong to?",
+    "context": "",
+    "response": "Financial Accounting (ACT101) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Financial Accounting?",
+    "context": "",
+    "response": "Financial Accounting (ACT101) is a 3-credit course under 'Business'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Business for Engineering and Technology (BUS321)?",
+    "context": "",
+    "response": "The course Business for Engineering and Technology (BUS321) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Business for Engineering and Technology?",
+    "context": "",
+    "response": "The prerequisite for Business for Engineering and Technology (BUS321) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Business for Engineering and Technology belong to?",
+    "context": "",
+    "response": "Business for Engineering and Technology (BUS321) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Business for Engineering and Technology?",
+    "context": "",
+    "response": "Business for Engineering and Technology (BUS321) is a 3-credit course under 'Business'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Business Communication (BUS231)?",
+    "context": "",
+    "response": "The course Business Communication (BUS231) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Business Communication?",
+    "context": "",
+    "response": "The prerequisite for Business Communication (BUS231) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Business Communication belong to?",
+    "context": "",
+    "response": "Business Communication (BUS231) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Business Communication?",
+    "context": "",
+    "response": "Business Communication (BUS231) is a 3-credit course under 'Business'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Industrial Management (MGT321)?",
+    "context": "",
+    "response": "The course Industrial Management (MGT321) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Industrial Management?",
+    "context": "",
+    "response": "The prerequisite for Industrial Management (MGT321) is: ENG102."
+  },
+  {
+    "instruction": "Which category does Industrial Management belong to?",
+    "context": "",
+    "response": "Industrial Management (MGT321) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Industrial Management?",
+    "context": "",
+    "response": "Industrial Management (MGT321) is a 3-credit course under 'Business'. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "What is the credit value of Production Operations Management (MGT337)?",
+    "context": "",
+    "response": "The course Production Operations Management (MGT337) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Production Operations Management?",
+    "context": "",
+    "response": "The prerequisite for Production Operations Management (MGT337) is: STA102."
+  },
+  {
+    "instruction": "Which category does Production Operations Management belong to?",
+    "context": "",
+    "response": "Production Operations Management (MGT337) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Production Operations Management?",
+    "context": "",
+    "response": "Production Operations Management (MGT337) is a 3-credit course under 'Business'. Prerequisites: STA102."
+  },
+  {
+    "instruction": "What is the credit value of Principle of Finance (FIN101)?",
+    "context": "",
+    "response": "The course Principle of Finance (FIN101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Principle of Finance?",
+    "context": "",
+    "response": "The prerequisite for Principle of Finance (FIN101) is: STA102."
+  },
+  {
+    "instruction": "Which category does Principle of Finance belong to?",
+    "context": "",
+    "response": "Principle of Finance (FIN101) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Principle of Finance?",
+    "context": "",
+    "response": "Principle of Finance (FIN101) is a 3-credit course under 'Business'. Prerequisites: STA102."
+  },
+  {
+    "instruction": "What is the credit value of Principle of Marketing (MKT101)?",
+    "context": "",
+    "response": "The course Principle of Marketing (MKT101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Principle of Marketing?",
+    "context": "",
+    "response": "The prerequisite for Principle of Marketing (MKT101) is: None."
+  },
+  {
+    "instruction": "Which category does Principle of Marketing belong to?",
+    "context": "",
+    "response": "Principle of Marketing (MKT101) belongs to the 'Business' category."
+  },
+  {
+    "instruction": "Can you tell me about Principle of Marketing?",
+    "context": "",
+    "response": "Principle of Marketing (MKT101) is a 3-credit course under 'Business'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Engineering Physics-I (Introductory Classical Physics) (PHY109)?",
+    "context": "",
+    "response": "The course Engineering Physics-I (Introductory Classical Physics) (PHY109) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Engineering Physics-I (Introductory Classical Physics)?",
+    "context": "",
+    "response": "The prerequisite for Engineering Physics-I (Introductory Classical Physics) (PHY109) is: MAT102."
+  },
+  {
+    "instruction": "Which category does Engineering Physics-I (Introductory Classical Physics) belong to?",
+    "context": "",
+    "response": "Engineering Physics-I (Introductory Classical Physics) (PHY109) belongs to the 'Natural Science' category."
+  },
+  {
+    "instruction": "Can you tell me about Engineering Physics-I (Introductory Classical Physics)?",
+    "context": "",
+    "response": "Engineering Physics-I (Introductory Classical Physics) (PHY109) is a 4-credit course under 'Natural Science'. Prerequisites: MAT102."
+  },
+  {
+    "instruction": "What is the credit value of Engineering Physics-II (Introductory Quantum Physics) (PHY209)?",
+    "context": "",
+    "response": "The course Engineering Physics-II (Introductory Quantum Physics) (PHY209) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Engineering Physics-II (Introductory Quantum Physics)?",
+    "context": "",
+    "response": "The prerequisite for Engineering Physics-II (Introductory Quantum Physics) (PHY209) is: MAT205."
+  },
+  {
+    "instruction": "Which category does Engineering Physics-II (Introductory Quantum Physics) belong to?",
+    "context": "",
+    "response": "Engineering Physics-II (Introductory Quantum Physics) (PHY209) belongs to the 'Natural Science' category."
+  },
+  {
+    "instruction": "Can you tell me about Engineering Physics-II (Introductory Quantum Physics)?",
+    "context": "",
+    "response": "Engineering Physics-II (Introductory Quantum Physics) (PHY209) is a 3-credit course under 'Natural Science'. Prerequisites: MAT205."
+  },
+  {
+    "instruction": "What is the credit value of Engineering Chemistry (CHE109)?",
+    "context": "",
+    "response": "The course Engineering Chemistry (CHE109) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Engineering Chemistry?",
+    "context": "",
+    "response": "The prerequisite for Engineering Chemistry (CHE109) is: None."
+  },
+  {
+    "instruction": "Which category does Engineering Chemistry belong to?",
+    "context": "",
+    "response": "Engineering Chemistry (CHE109) belongs to the 'Natural Science' category."
+  },
+  {
+    "instruction": "Can you tell me about Engineering Chemistry?",
+    "context": "",
+    "response": "Engineering Chemistry (CHE109) is a 4-credit course under 'Natural Science'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Differential and Integral Calculus (MAT101)?",
+    "context": "",
+    "response": "The course Differential and Integral Calculus (MAT101) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Differential and Integral Calculus?",
+    "context": "",
+    "response": "The prerequisite for Differential and Integral Calculus (MAT101) is: None."
+  },
+  {
+    "instruction": "Which category does Differential and Integral Calculus belong to?",
+    "context": "",
+    "response": "Differential and Integral Calculus (MAT101) belongs to the 'Mathematics and Statistics' category."
+  },
+  {
+    "instruction": "Can you tell me about Differential and Integral Calculus?",
+    "context": "",
+    "response": "Differential and Integral Calculus (MAT101) is a 3-credit course under 'Mathematics and Statistics'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Differential Equations and Special Functions (MAT102)?",
+    "context": "",
+    "response": "The course Differential Equations and Special Functions (MAT102) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Differential Equations and Special Functions?",
+    "context": "",
+    "response": "The prerequisite for Differential Equations and Special Functions (MAT102) is: MAT101."
+  },
+  {
+    "instruction": "Which category does Differential Equations and Special Functions belong to?",
+    "context": "",
+    "response": "Differential Equations and Special Functions (MAT102) belongs to the 'Mathematics and Statistics' category."
+  },
+  {
+    "instruction": "Can you tell me about Differential Equations and Special Functions?",
+    "context": "",
+    "response": "Differential Equations and Special Functions (MAT102) is a 3-credit course under 'Mathematics and Statistics'. Prerequisites: MAT101."
+  },
+  {
+    "instruction": "What is the credit value of Coordinate Geometry and Vector Analysis (MAT104)?",
+    "context": "",
+    "response": "The course Coordinate Geometry and Vector Analysis (MAT104) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Coordinate Geometry and Vector Analysis?",
+    "context": "",
+    "response": "The prerequisite for Coordinate Geometry and Vector Analysis (MAT104) is: MAT101."
+  },
+  {
+    "instruction": "Which category does Coordinate Geometry and Vector Analysis belong to?",
+    "context": "",
+    "response": "Coordinate Geometry and Vector Analysis (MAT104) belongs to the 'Mathematics and Statistics' category."
+  },
+  {
+    "instruction": "Can you tell me about Coordinate Geometry and Vector Analysis?",
+    "context": "",
+    "response": "Coordinate Geometry and Vector Analysis (MAT104) is a 3-credit course under 'Mathematics and Statistics'. Prerequisites: MAT101."
+  },
+  {
+    "instruction": "What is the credit value of Linear Algebra and Complex Variable (MAT205)?",
+    "context": "",
+    "response": "The course Linear Algebra and Complex Variable (MAT205) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Linear Algebra and Complex Variable?",
+    "context": "",
+    "response": "The prerequisite for Linear Algebra and Complex Variable (MAT205) is: MAT102."
+  },
+  {
+    "instruction": "Which category does Linear Algebra and Complex Variable belong to?",
+    "context": "",
+    "response": "Linear Algebra and Complex Variable (MAT205) belongs to the 'Mathematics and Statistics' category."
+  },
+  {
+    "instruction": "Can you tell me about Linear Algebra and Complex Variable?",
+    "context": "",
+    "response": "Linear Algebra and Complex Variable (MAT205) is a 3-credit course under 'Mathematics and Statistics'. Prerequisites: MAT102."
+  },
+  {
+    "instruction": "What is the credit value of Statistics and Probability (STA102)?",
+    "context": "",
+    "response": "The course Statistics and Probability (STA102) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Statistics and Probability?",
+    "context": "",
+    "response": "The prerequisite for Statistics and Probability (STA102) is: None."
+  },
+  {
+    "instruction": "Which category does Statistics and Probability belong to?",
+    "context": "",
+    "response": "Statistics and Probability (STA102) belongs to the 'Mathematics and Statistics' category."
+  },
+  {
+    "instruction": "Can you tell me about Statistics and Probability?",
+    "context": "",
+    "response": "Statistics and Probability (STA102) is a 3-credit course under 'Mathematics and Statistics'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Structured Programming (CSE103)?",
+    "context": "",
+    "response": "The course Structured Programming (CSE103) has 4.5 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Structured Programming?",
+    "context": "",
+    "response": "The prerequisite for Structured Programming (CSE103) is: None."
+  },
+  {
+    "instruction": "Which category does Structured Programming belong to?",
+    "context": "",
+    "response": "Structured Programming (CSE103) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Structured Programming?",
+    "context": "",
+    "response": "Structured Programming (CSE103) is a 4.5-credit course under 'Core CSE'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Discrete Mathematics (CSE106)?",
+    "context": "",
+    "response": "The course Discrete Mathematics (CSE106) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Discrete Mathematics?",
+    "context": "",
+    "response": "The prerequisite for Discrete Mathematics (CSE106) is: CSE103."
+  },
+  {
+    "instruction": "Which category does Discrete Mathematics belong to?",
+    "context": "",
+    "response": "Discrete Mathematics (CSE106) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Discrete Mathematics?",
+    "context": "",
+    "response": "Discrete Mathematics (CSE106) is a 3-credit course under 'Core CSE'. Prerequisites: CSE103."
+  },
+  {
+    "instruction": "What is the credit value of Object Oriented Programming (CSE110)?",
+    "context": "",
+    "response": "The course Object Oriented Programming (CSE110) has 4.5 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Object Oriented Programming?",
+    "context": "",
+    "response": "The prerequisite for Object Oriented Programming (CSE110) is: CSE106."
+  },
+  {
+    "instruction": "Which category does Object Oriented Programming belong to?",
+    "context": "",
+    "response": "Object Oriented Programming (CSE110) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Object Oriented Programming?",
+    "context": "",
+    "response": "Object Oriented Programming (CSE110) is a 4.5-credit course under 'Core CSE'. Prerequisites: CSE106."
+  },
+  {
+    "instruction": "What is the credit value of Computer-Aided Engineering Drawing (CSE200)?",
+    "context": "",
+    "response": "The course Computer-Aided Engineering Drawing (CSE200) has 1 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Computer-Aided Engineering Drawing?",
+    "context": "",
+    "response": "The prerequisite for Computer-Aided Engineering Drawing (CSE200) is: None."
+  },
+  {
+    "instruction": "Which category does Computer-Aided Engineering Drawing belong to?",
+    "context": "",
+    "response": "Computer-Aided Engineering Drawing (CSE200) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Computer-Aided Engineering Drawing?",
+    "context": "",
+    "response": "Computer-Aided Engineering Drawing (CSE200) is a 1-credit course under 'Core CSE'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Electrical Circuits (CSE209)?",
+    "context": "",
+    "response": "The course Electrical Circuits (CSE209) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Electrical Circuits?",
+    "context": "",
+    "response": "The prerequisite for Electrical Circuits (CSE209) is: None."
+  },
+  {
+    "instruction": "Which category does Electrical Circuits belong to?",
+    "context": "",
+    "response": "Electrical Circuits (CSE209) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Electrical Circuits?",
+    "context": "",
+    "response": "Electrical Circuits (CSE209) is a 4-credit course under 'Core CSE'. Prerequisites: None."
+  },
+  {
+    "instruction": "What is the credit value of Data Structures (CSE207)?",
+    "context": "",
+    "response": "The course Data Structures (CSE207) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Data Structures?",
+    "context": "",
+    "response": "The prerequisite for Data Structures (CSE207) is: CSE110."
+  },
+  {
+    "instruction": "Which category does Data Structures belong to?",
+    "context": "",
+    "response": "Data Structures (CSE207) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Data Structures?",
+    "context": "",
+    "response": "Data Structures (CSE207) is a 4-credit course under 'Core CSE'. Prerequisites: CSE110."
+  },
+  {
+    "instruction": "What is the credit value of Electronic Circuits (CSE251)?",
+    "context": "",
+    "response": "The course Electronic Circuits (CSE251) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Electronic Circuits?",
+    "context": "",
+    "response": "The prerequisite for Electronic Circuits (CSE251) is: CSE209."
+  },
+  {
+    "instruction": "Which category does Electronic Circuits belong to?",
+    "context": "",
+    "response": "Electronic Circuits (CSE251) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Electronic Circuits?",
+    "context": "",
+    "response": "Electronic Circuits (CSE251) is a 4-credit course under 'Core CSE'. Prerequisites: CSE209."
+  },
+  {
+    "instruction": "What is the credit value of Algorithms (CSE246)?",
+    "context": "",
+    "response": "The course Algorithms (CSE246) has 4.5 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Algorithms?",
+    "context": "",
+    "response": "The prerequisite for Algorithms (CSE246) is: CSE207."
+  },
+  {
+    "instruction": "Which category does Algorithms belong to?",
+    "context": "",
+    "response": "Algorithms (CSE246) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Algorithms?",
+    "context": "",
+    "response": "Algorithms (CSE246) is a 4.5-credit course under 'Core CSE'. Prerequisites: CSE207."
+  },
+  {
+    "instruction": "What is the credit value of Database Systems (CSE302)?",
+    "context": "",
+    "response": "The course Database Systems (CSE302) has 4.5 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Database Systems?",
+    "context": "",
+    "response": "The prerequisite for Database Systems (CSE302) is: CSE106."
+  },
+  {
+    "instruction": "Which category does Database Systems belong to?",
+    "context": "",
+    "response": "Database Systems (CSE302) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Database Systems?",
+    "context": "",
+    "response": "Database Systems (CSE302) is a 4.5-credit course under 'Core CSE'. Prerequisites: CSE106."
+  },
+  {
+    "instruction": "What is the credit value of Operating Systems (CSE325)?",
+    "context": "",
+    "response": "The course Operating Systems (CSE325) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Operating Systems?",
+    "context": "",
+    "response": "The prerequisite for Operating Systems (CSE325) is: CSE207."
+  },
+  {
+    "instruction": "Which category does Operating Systems belong to?",
+    "context": "",
+    "response": "Operating Systems (CSE325) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Operating Systems?",
+    "context": "",
+    "response": "Operating Systems (CSE325) is a 4-credit course under 'Core CSE'. Prerequisites: CSE207."
+  },
+  {
+    "instruction": "What is the credit value of Digital Logic Design (CSE345)?",
+    "context": "",
+    "response": "The course Digital Logic Design (CSE345) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Digital Logic Design?",
+    "context": "",
+    "response": "The prerequisite for Digital Logic Design (CSE345) is: CSE251."
+  },
+  {
+    "instruction": "Which category does Digital Logic Design belong to?",
+    "context": "",
+    "response": "Digital Logic Design (CSE345) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Digital Logic Design?",
+    "context": "",
+    "response": "Digital Logic Design (CSE345) is a 4-credit course under 'Core CSE'. Prerequisites: CSE251."
+  },
+  {
+    "instruction": "What is the credit value of Information System Analysis and Design (CSE347)?",
+    "context": "",
+    "response": "The course Information System Analysis and Design (CSE347) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Information System Analysis and Design?",
+    "context": "",
+    "response": "The prerequisite for Information System Analysis and Design (CSE347) is: CSE302."
+  },
+  {
+    "instruction": "Which category does Information System Analysis and Design belong to?",
+    "context": "",
+    "response": "Information System Analysis and Design (CSE347) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Information System Analysis and Design?",
+    "context": "",
+    "response": "Information System Analysis and Design (CSE347) is a 4-credit course under 'Core CSE'. Prerequisites: CSE302."
+  },
+  {
+    "instruction": "What is the credit value of Computer Architecture (CSE360)?",
+    "context": "",
+    "response": "The course Computer Architecture (CSE360) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Computer Architecture?",
+    "context": "",
+    "response": "The prerequisite for Computer Architecture (CSE360) is: CSE325."
+  },
+  {
+    "instruction": "Which category does Computer Architecture belong to?",
+    "context": "",
+    "response": "Computer Architecture (CSE360) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Computer Architecture?",
+    "context": "",
+    "response": "Computer Architecture (CSE360) is a 3-credit course under 'Core CSE'. Prerequisites: CSE325."
+  },
+  {
+    "instruction": "What is the credit value of Computer Networks (CSE405)?",
+    "context": "",
+    "response": "The course Computer Networks (CSE405) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Computer Networks?",
+    "context": "",
+    "response": "The prerequisite for Computer Networks (CSE405) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Computer Networks belong to?",
+    "context": "",
+    "response": "Computer Networks (CSE405) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Computer Networks?",
+    "context": "",
+    "response": "Computer Networks (CSE405) is a 4-credit course under 'Core CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What is the credit value of Green Computing (CSE407)?",
+    "context": "",
+    "response": "The course Green Computing (CSE407) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Green Computing?",
+    "context": "",
+    "response": "The prerequisite for Green Computing (CSE407) is: CSE405."
+  },
+  {
+    "instruction": "Which category does Green Computing belong to?",
+    "context": "",
+    "response": "Green Computing (CSE407) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Green Computing?",
+    "context": "",
+    "response": "Green Computing (CSE407) is a 3-credit course under 'Core CSE'. Prerequisites: CSE405."
+  },
+  {
+    "instruction": "What is the credit value of Cyber Security, Ethics and Law (CSE487)?",
+    "context": "",
+    "response": "The course Cyber Security, Ethics and Law (CSE487) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Cyber Security, Ethics and Law?",
+    "context": "",
+    "response": "The prerequisite for Cyber Security, Ethics and Law (CSE487) is: CSE405."
+  },
+  {
+    "instruction": "Which category does Cyber Security, Ethics and Law belong to?",
+    "context": "",
+    "response": "Cyber Security, Ethics and Law (CSE487) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Cyber Security, Ethics and Law?",
+    "context": "",
+    "response": "Cyber Security, Ethics and Law (CSE487) is a 3-credit course under 'Core CSE'. Prerequisites: CSE405."
+  },
+  {
+    "instruction": "What is the credit value of IT Project Management and Entrepreneurship (CSE495)?",
+    "context": "",
+    "response": "The course IT Project Management and Entrepreneurship (CSE495) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for IT Project Management and Entrepreneurship?",
+    "context": "",
+    "response": "The prerequisite for IT Project Management and Entrepreneurship (CSE495) is: CSE347."
+  },
+  {
+    "instruction": "Which category does IT Project Management and Entrepreneurship belong to?",
+    "context": "",
+    "response": "IT Project Management and Entrepreneurship (CSE495) belongs to the 'Core CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about IT Project Management and Entrepreneurship?",
+    "context": "",
+    "response": "IT Project Management and Entrepreneurship (CSE495) is a 3-credit course under 'Core CSE'. Prerequisites: CSE347."
+  },
+  {
+    "instruction": "What is the credit value of Capstone Project (CSE400)?",
+    "context": "",
+    "response": "The course Capstone Project (CSE400) has 6 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Capstone Project?",
+    "context": "",
+    "response": "The prerequisite for Capstone Project (CSE400) is: Completed at least 105 credit hours."
+  },
+  {
+    "instruction": "Which category does Capstone Project belong to?",
+    "context": "",
+    "response": "Capstone Project (CSE400) belongs to the 'Capstone' category."
+  },
+  {
+    "instruction": "Can you tell me about Capstone Project?",
+    "context": "",
+    "response": "Capstone Project (CSE400) is a 6-credit course under 'Capstone'. Prerequisites: Completed at least 105 credit hours."
+  },
+  {
+    "instruction": "What is the credit value of Numerical Methods (CSE225)?",
+    "context": "",
+    "response": "The course Numerical Methods (CSE225) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Numerical Methods?",
+    "context": "",
+    "response": "The prerequisite for Numerical Methods (CSE225) is: CSE103."
+  },
+  {
+    "instruction": "Which category does Numerical Methods belong to?",
+    "context": "",
+    "response": "Numerical Methods (CSE225) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Numerical Methods?",
+    "context": "",
+    "response": "Numerical Methods (CSE225) is a 4-credit course under 'Elective CSE'. Prerequisites: CSE103."
+  },
+  {
+    "instruction": "What is the credit value of Theory of Computations (CSE313)?",
+    "context": "",
+    "response": "The course Theory of Computations (CSE313) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Theory of Computations?",
+    "context": "",
+    "response": "The prerequisite for Theory of Computations (CSE313) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Theory of Computations belong to?",
+    "context": "",
+    "response": "Theory of Computations (CSE313) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Theory of Computations?",
+    "context": "",
+    "response": "Theory of Computations (CSE313) is a 3-credit course under 'Elective CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What is the credit value of Cryptography (CSE460)?",
+    "context": "",
+    "response": "The course Cryptography (CSE460) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Cryptography?",
+    "context": "",
+    "response": "The prerequisite for Cryptography (CSE460) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Cryptography belong to?",
+    "context": "",
+    "response": "Cryptography (CSE460) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Cryptography?",
+    "context": "",
+    "response": "Cryptography (CSE460) is a 3-credit course under 'Elective CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What is the credit value of Compiler Design (CSE471)?",
+    "context": "",
+    "response": "The course Compiler Design (CSE471) has 4 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Compiler Design?",
+    "context": "",
+    "response": "The prerequisite for Compiler Design (CSE471) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Compiler Design belong to?",
+    "context": "",
+    "response": "Compiler Design (CSE471) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Compiler Design?",
+    "context": "",
+    "response": "Compiler Design (CSE471) is a 4-credit course under 'Elective CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What is the credit value of Graph Theory (CSE483)?",
+    "context": "",
+    "response": "The course Graph Theory (CSE483) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Graph Theory?",
+    "context": "",
+    "response": "The prerequisite for Graph Theory (CSE483) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Graph Theory belong to?",
+    "context": "",
+    "response": "Graph Theory (CSE483) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Graph Theory?",
+    "context": "",
+    "response": "Graph Theory (CSE483) is a 3-credit course under 'Elective CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What is the credit value of Computational Geometry (CSE484)?",
+    "context": "",
+    "response": "The course Computational Geometry (CSE484) has 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Computational Geometry?",
+    "context": "",
+    "response": "The prerequisite for Computational Geometry (CSE484) is: CSE246."
+  },
+  {
+    "instruction": "Which category does Computational Geometry belong to?",
+    "context": "",
+    "response": "Computational Geometry (CSE484) belongs to the 'Elective CSE' category."
+  },
+  {
+    "instruction": "Can you tell me about Computational Geometry?",
+    "context": "",
+    "response": "Computational Geometry (CSE484) is a 3-credit course under 'Elective CSE'. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What are the compulsory courses for Intelligent Systems and Data Science?",
+    "context": "",
+    "response": "The compulsory courses for the major 'Intelligent Systems and Data Science' are: Statistics for Data Science (CSE303), Artificial Intelligence (CSE366)."
+  },
+  {
+    "instruction": "What is Statistics for Data Science (CSE303) about in the Intelligent Systems and Data Science major?",
+    "context": "",
+    "response": "Statistics for Data Science (CSE303) is a compulsory course for the major 'Intelligent Systems and Data Science' with 4 credits. Prerequisites: STA102."
+  },
+  {
+    "instruction": "What is Artificial Intelligence (CSE366) about in the Intelligent Systems and Data Science major?",
+    "context": "",
+    "response": "Artificial Intelligence (CSE366) is a compulsory course for the major 'Intelligent Systems and Data Science' with 4 credits. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What are the compulsory courses for Software Engineering?",
+    "context": "",
+    "response": "The compulsory courses for the major 'Software Engineering' are: Software Engineering (CSE412), Software Testing and Quality Assurance (CSE430)."
+  },
+  {
+    "instruction": "What is Software Engineering (CSE412) about in the Software Engineering major?",
+    "context": "",
+    "response": "Software Engineering (CSE412) is a compulsory course for the major 'Software Engineering' with 4 credits. Prerequisites: CSE347."
+  },
+  {
+    "instruction": "What is Software Testing and Quality Assurance (CSE430) about in the Software Engineering major?",
+    "context": "",
+    "response": "Software Testing and Quality Assurance (CSE430) is a compulsory course for the major 'Software Engineering' with 4 credits. Prerequisites: CSE412."
+  },
+  {
+    "instruction": "What are the compulsory courses for Communications and Networking?",
+    "context": "",
+    "response": "The compulsory courses for the major 'Communications and Networking' are: Data Communications (CSE350), Digital Signal Processing (CSE432)."
+  },
+  {
+    "instruction": "What is Data Communications (CSE350) about in the Communications and Networking major?",
+    "context": "",
+    "response": "Data Communications (CSE350) is a compulsory course for the major 'Communications and Networking' with 4 credits. Prerequisites: CSE251."
+  },
+  {
+    "instruction": "What is Digital Signal Processing (CSE432) about in the Communications and Networking major?",
+    "context": "",
+    "response": "Digital Signal Processing (CSE432) is a compulsory course for the major 'Communications and Networking' with 4 credits. Prerequisites: CSE246."
+  },
+  {
+    "instruction": "What are the compulsory courses for Hardware Engineering?",
+    "context": "",
+    "response": "The compulsory courses for the major 'Hardware Engineering' are: Digital System Design (CSE355), Microprocessors and Microcontrollers (CSE442)."
+  },
+  {
+    "instruction": "What is Digital System Design (CSE355) about in the Hardware Engineering major?",
+    "context": "",
+    "response": "Digital System Design (CSE355) is a compulsory course for the major 'Hardware Engineering' with 4 credits. Prerequisites: CSE345."
+  },
+  {
+    "instruction": "What is Microprocessors and Microcontrollers (CSE442) about in the Hardware Engineering major?",
+    "context": "",
+    "response": "Microprocessors and Microcontrollers (CSE442) is a compulsory course for the major 'Hardware Engineering' with 4 credits. Prerequisites: CSE360."
+  },
+  {
+    "instruction": "Can you give me an overview of the first year CSE courses at EWU?",
+    "context": "",
+    "response": "In the first year of CSE at EWU, students take foundational courses. In the 1st semester, there are Basic English (3 credits), Differential and Integral Calculus (3 credits), and Structured Programming (4.5 credits), totaling 10.5 credits. In the 2nd semester, students study Composition and Communication Skills (3 credits), Differential Equations and Special Functions (3 credits), Discrete Mathematics (3 credits), and Engineering Chemistry (4 credits), totaling 13 credits. The 3rd semester includes Engineering Physics-I (4 credits), Coordinate Geometry and Vector Analysis (3 credits), and Object Oriented Programming (4.5 credits), totaling 11.5 credits."
+  },
+  {
+    "instruction": "What courses are included in the second year of CSE?",
+    "context": "",
+    "response": "In the 2nd year, students continue with core and general education courses. The 1st semester has Emergence of Bangladesh (3 credits), Statistics and Probability (3 credits), Computer-Aided Engineering Drawing (1 credit), and Electrical Circuits (4 credits), totaling 11 credits. The 2nd semester includes Elective General Education-I (3 credits), Linear Algebra and Complex Variables (3 credits), Data Structures (4 credits), and Electronic Circuits (4 credits), totaling 14 credits. The 3rd semester has Elective General Education-II (3 credits), Engineering Physics-II (3 credits), and Operating Systems (4 credits), totaling 10 credits."
+  },
+  {
+    "instruction": "Which courses do third-year CSE students take in the first semester?",
+    "context": "",
+    "response": "In the 3rd year, 1st semester, CSE students take Elective General Education-III (3 credits), Algorithms (4.5 credits), and Database Systems (4.5 credits), totaling 12 credits."
+  },
+  {
+    "instruction": "Can you tell me about the third-year, second semester CSE courses?",
+    "context": "",
+    "response": "In the 3rd year, 2nd semester, students study Digital Logic Design (4 credits), Information System Analysis and Design (4 credits), and Compulsory Major-I (4 credits), totaling 12 credits."
+  },
+  {
+    "instruction": "What courses are offered in the third-year, third semester?",
+    "context": "",
+    "response": "In the 3rd year, 3rd semester, the courses are Computer Architecture (3 credits), Computer Networks (4 credits), and Compulsory Major-II (4 credits), totaling 11 credits."
+  },
+  {
+    "instruction": "How is the fourth year structured for CSE students at EWU?",
+    "context": "",
+    "response": "The 4th year of CSE focuses on advanced electives and projects. In the 1st semester, students take Capstone Project-I (1 credit), Green Computing (3 credits), Elective Major-I (4 credits), and Elective Non-Major-I (4 credits), totaling 12 credits. The 2nd semester includes Capstone Project-II (2 credits), Cyber Security, Ethics and Law (3 credits), Elective Major-II (4 credits), and Elective Non-Major-II (4 credits), totaling 13 credits. The 3rd semester has Capstone Project-III (3 credits), IT Project Management and Entrepreneurship (3 credits), and Elective Major-III (4 credits), totaling 10 credits."
+  },
+  {
+    "instruction": "How many total credits does a CSE student take in the first semester of the first year?",
+    "context": "",
+    "response": "In the 1st semester of the first year, a CSE student takes 10.5 credits: Basic English (3), Differential and Integral Calculus (3), and Structured Programming (4.5)."
+  },
+  {
+    "instruction": "What is the total credit load for the second semester of the first year?",
+    "context": "",
+    "response": "The total credit load in the 2nd semester of the first year is 13 credits, covering Composition and Communication Skills (3), Differential Equations and Special Functions (3), Discrete Mathematics (3), and Engineering Chemistry (4)."
+  },
+  {
+    "instruction": "Are there general education electives in the CSE curriculum?",
+    "context": "",
+    "response": "Yes, EWU's CSE curriculum includes general education electives. These appear in the 2nd year (Elective General Education-I and II), and in the 3rd year (Elective General Education-III), each worth 3 credits per semester."
+  },
+  {
+    "instruction": "Which semesters include capstone projects in the CSE program?",
+    "context": "",
+    "response": "Capstone projects are included in the 4th year. Capstone Project-I is in the 1st semester (1 credit), Capstone Project-II in the 2nd semester (2 credits), and Capstone Project-III in the 3rd semester (3 credits)."
+  },
+  {
+    "instruction": "How many credits are assigned to core programming courses in the first year?",
+    "context": "",
+    "response": "In the first year, core programming courses include Structured Programming (4.5 credits) in the 1st semester and Object Oriented Programming (4.5 credits) in the 3rd semester, totaling 9 credits."
+  },
+  {
+    "instruction": "What is the credit load for major electives in the fourth year?",
+    "context": "",
+    "response": "Major electives in the 4th year include Elective Major-I (4 credits) in the 1st semester, Elective Major-II (4 credits) in the 2nd semester, and Elective Major-III (4 credits) in the 3rd semester, totaling 12 credits across the year."
+  },
+  {
+    "instruction": "Which courses cover computer hardware and architecture topics?",
+    "context": "",
+    "response": "Courses covering computer hardware and architecture include Electrical Circuits (4 credits) in 2nd year, Electronic Circuits (4 credits) in 2nd year, and Computer Architecture (3 credits) in 3rd year, providing foundational and advanced hardware knowledge."
+  },
+  {
+    "instruction": "When do students take Operating Systems in the CSE program?",
+    "context": "",
+    "response": "Operating Systems is taken in the 2nd year, 3rd semester, with 4 credits."
+  },
+  {
+    "instruction": "Which semester includes Cyber Security, Ethics and Law?",
+    "context": "",
+    "response": "Cyber Security, Ethics and Law is offered in the 4th year, 2nd semester, with 3 credits."
+  },
+  {
+    "instruction": "How many credits does a student take in the final semester?",
+    "context": "",
+    "response": "In the 4th year, 3rd semester, students take a total of 10 credits: Capstone Project-III (3 credits), IT Project Management and Entrepreneurship (3 credits), and Elective Major-III (4 credits)."
+  },
+  {
+    "instruction": "Which course should I take if I want to improve my English skills in the first year?",
+    "context": "",
+    "response": "In the first year, you can take Basic English (ENG101, 3 credits) in the 1st semester and Composition and Communication Skills (ENG102, 3 credits) in the 2nd semester. These courses focus on reading, writing, and communication skills."
+  },
+  {
+    "instruction": "When do CSE students learn about Differential and Integral Calculus?",
+    "context": "",
+    "response": "Differential and Integral Calculus (MAT101, 3 credits) is taught in the 1st semester of the 1st year as a foundation for advanced mathematics courses."
+  },
+  {
+    "instruction": "Is Discrete Mathematics a first-year course or second-year course?",
+    "context": "",
+    "response": "Discrete Mathematics (CSE106, 3 credits) is taken in the 2nd semester of the 1st year."
+  },
+  {
+    "instruction": "Which semester covers Engineering Chemistry?",
+    "context": "",
+    "response": "Engineering Chemistry (CHE109, 4 credits) is included in the 2nd semester of the first year."
+  },
+  {
+    "instruction": "What courses cover programming fundamentals in the first year?",
+    "context": "",
+    "response": "Programming fundamentals are taught in Structured Programming (CSE103, 4.5 credits) in the 1st semester and Object Oriented Programming (CSE110, 4.5 credits) in the 3rd semester of the first year."
+  },
+  {
+    "instruction": "Which courses focus on physics in the CSE program?",
+    "context": "",
+    "response": "Engineering Physics-I (PHY109, 4 credits) is in the 3rd semester of the 1st year, and Engineering Physics-II (PHY209, 3 credits) is in the 3rd semester of the 2nd year."
+  },
+  {
+    "instruction": "When do students study Linear Algebra and Complex Variables?",
+    "context": "",
+    "response": "Linear Algebra and Complex Variables (MAT205, 3 credits) is taught in the 2nd semester of the 2nd year."
+  },
+  {
+    "instruction": "How many credits is the Data Structures course worth?",
+    "context": "",
+    "response": "Data Structures (CSE207) is worth 4 credits and is taken in the 2nd semester of the 2nd year."
+  },
+  {
+    "instruction": "Which semester has the highest credit load in the second year?",
+    "context": "",
+    "response": "The 2nd semester of the 2nd year has the highest credit load at 14 credits, including Elective General Education-I (3), Linear Algebra and Complex Variables (3), Data Structures (4), and Electronic Circuits (4)."
+  },
+  {
+    "instruction": "Do students take any general education courses in the third year?",
+    "context": "",
+    "response": "Yes, in the 3rd year, 1st semester students take Elective General Education-III (3 credits) to fulfill general education requirements."
+  },
+  {
+    "instruction": "Which courses teach algorithms and database concepts?",
+    "context": "",
+    "response": "In the 3rd year, 1st semester, students take Algorithms (CSE246, 4.5 credits) and Database Systems (CSE302, 4.5 credits) to learn algorithmic and database concepts."
+  },
+  {
+    "instruction": "When do CSE students study digital logic design?",
+    "context": "",
+    "response": "Digital Logic Design (CSE345, 4 credits) is taught in the 2nd semester of the 3rd year."
+  },
+  {
+    "instruction": "Which courses cover networking topics?",
+    "context": "",
+    "response": "Computer Networks (CSE405, 4 credits) is taught in the 3rd semester of the 3rd year."
+  },
+  {
+    "instruction": "Which course teaches Operating Systems?",
+    "context": "",
+    "response": "Operating Systems (CSE325, 4 credits) is offered in the 3rd semester of the 2nd year."
+  },
+  {
+    "instruction": "When is the first Capstone Project offered?",
+    "context": "",
+    "response": "Capstone Project-I (CSE400, 1 credit) is offered in the 1st semester of the 4th year."
+  },
+  {
+    "instruction": "How many credits is Capstone Project-II?",
+    "context": "",
+    "response": "Capstone Project-II (CSE400) is 2 credits and is taken in the 2nd semester of the 4th year."
+  },
+  {
+    "instruction": "Which semester includes IT Project Management and Entrepreneurship?",
+    "context": "",
+    "response": "IT Project Management and Entrepreneurship (CSE495, 3 credits) is taken in the 3rd semester of the 4th year."
+  },
+  {
+    "instruction": "When do students take Green Computing?",
+    "context": "",
+    "response": "Green Computing (CSE407, 3 credits) is offered in the 1st semester of the 4th year."
+  },
+  {
+    "instruction": "Which semesters include elective major courses?",
+    "context": "",
+    "response": "Elective Major courses appear in the 4th year: Elective Major-I in 1st semester (4 credits), Elective Major-II in 2nd semester (4 credits), and Elective Major-III in 3rd semester (4 credits)."
+  },
+  {
+    "instruction": "Do students take non-major electives?",
+    "context": "",
+    "response": "Yes, in the 4th year, students take Elective Non-Major-I (4 credits) in the 1st semester and Elective Non-Major-II (4 credits) in the 2nd semester."
+  },
+  {
+    "instruction": "Which semester has the least number of total credits in the fourth year?",
+    "context": "",
+    "response": "The 3rd semester of the 4th year has the least total credits at 10, including Capstone Project-III (3 credits), IT Project Management and Entrepreneurship (3 credits), and Elective Major-III (4 credits)."
+  },
+  {
+    "instruction": "Which courses in the CSE curriculum focus on electronics?",
+    "context": "",
+    "response": "Courses covering electronics include Electrical Circuits (CSE209, 4 credits) in 2nd year, 1st semester, and Electronic Circuits (CSE251, 4 credits) in 2nd year, 2nd semester."
+  },
+  {
+    "instruction": "When is Computer-Aided Engineering Drawing taught?",
+    "context": "",
+    "response": "Computer-Aided Engineering Drawing (CSE200, 1 credit) is taught in the 1st semester of the 2nd year."
+  },
+  {
+    "instruction": "Which courses develop problem-solving skills using mathematics?",
+    "context": "",
+    "response": "Courses like Differential and Integral Calculus (MAT101), Differential Equations and Special Functions (MAT102), Discrete Mathematics (CSE106), Linear Algebra and Complex Variables (MAT205), and Coordinate Geometry and Vector Analysis (MAT104) focus on mathematical problem-solving skills."
+  },
+  {
+    "instruction": "When do students take Statistics and Probability?",
+    "context": "",
+    "response": "Statistics and Probability (STA102, 3 credits) is taken in the 1st semester of the 2nd year."
+  },
+  {
+    "instruction": "Which semester covers the emergence of Bangladesh?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN226, 3 credits) is taught in the 1st semester of the 2nd year."
+  },
+  {
+    "instruction": "Are there any courses that introduce cybersecurity topics?",
+    "context": "",
+    "response": "Yes, Cyber Security, Ethics and Law (CSE487, 3 credits) is taught in the 2nd semester of the 4th year."
+  },
+  {
+    "instruction": "Which courses teach Object-Oriented Programming?",
+    "context": "",
+    "response": "Object Oriented Programming (CSE110, 4.5 credits) is taught in the 3rd semester of the 1st year."
+  },
+  {
+    "instruction": "Do students take courses on computer networks before the third year?",
+    "context": "",
+    "response": "No, Computer Networks (CSE405) is introduced in the 3rd semester of the 3rd year."
+  },
+  {
+    "instruction": "Which course teaches algorithms in detail?",
+    "context": "",
+    "response": "Algorithms (CSE246, 4.5 credits) is taken in the 1st semester of the 3rd year."
+  },
+  {
+    "instruction": "When do students learn about Information System Analysis and Design?",
+    "context": "",
+    "response": "Information System Analysis and Design (CSE347, 4 credits) is offered in the 2nd semester of the 3rd year."
+  },
+  {
+    "instruction": "How many courses are included in the first semester of the 2nd year?",
+    "context": "",
+    "response": "The 1st semester of the 2nd year includes 4 courses: Emergence of Bangladesh, Statistics and Probability, Computer-Aided Engineering Drawing, and Electrical Circuits."
+  },
+  {
+    "instruction": "Which semester has the highest number of credits in the 4th year?",
+    "context": "",
+    "response": "The 2nd semester of the 4th year has the highest credit load at 13, including Capstone Project-II (2), Cyber Security, Ethics and Law (3), Elective Major-II (4), and Elective Non-Major-II (4)."
+  },
+  {
+    "instruction": "When is Computer Architecture taught in the CSE program?",
+    "context": "",
+    "response": "Computer Architecture (CSE360, 3 credits) is taught in the 3rd semester of the 3rd year."
+  },
+  {
+    "instruction": "Which semester introduces database concepts?",
+    "context": "",
+    "response": "Database Systems (CSE302, 4.5 credits) is taught in the 1st semester of the 3rd year."
+  },
+  {
+    "instruction": "Are there any courses related to entrepreneurship?",
+    "context": "",
+    "response": "Yes, IT Project Management and Entrepreneurship (CSE495, 3 credits) is offered in the 3rd semester of the 4th year."
+  },
+  {
+    "instruction": "Which courses help in understanding electrical engineering basics?",
+    "context": "",
+    "response": "Electrical Circuits (CSE209, 4 credits) and Electronic Circuits (CSE251, 4 credits) cover the basics of electrical engineering."
+  },
+  {
+    "instruction": "Do students take both physics and chemistry courses?",
+    "context": "",
+    "response": "Yes, students take Engineering Chemistry (CHE109, 4 credits) in the 2nd semester of the 1st year, Engineering Physics-I (PHY109, 4 credits) in the 3rd semester of the 1st year, and Engineering Physics-II (PHY209, 3 credits) in the 3rd semester of the 2nd year."
+  },
+  {
+    "instruction": "How are major courses distributed across the program?",
+    "context": "",
+    "response": "Major courses start in the 1st year with programming and math fundamentals, continue in the 2nd and 3rd years with Data Structures, Algorithms, Operating Systems, and Networks, and culminate in the 4th year with Elective Major courses and Capstone Projects."
+  },
+  {
+    "instruction": "Which courses teach statistical concepts?",
+    "context": "",
+    "response": "Statistics and Probability (STA102, 3 credits) in the 1st semester of the 2nd year teaches statistical concepts relevant to CSE applications."
+  },
+  {
+    "instruction": "When is the last Capstone Project taken?",
+    "context": "",
+    "response": "Capstone Project-III (CSE400, 3 credits) is taken in the 3rd semester of the 4th year."
+  },
+  {
+    "instruction": "Which courses prepare students for software development roles?",
+    "context": "",
+    "response": "Courses like Structured Programming, Object Oriented Programming, Data Structures, Algorithms, Database Systems, and Information System Analysis and Design provide foundational and advanced knowledge for software development."
+  },
+  {
+    "instruction": "Which semesters have courses on electronic circuits?",
+    "context": "",
+    "response": "Electrical Circuits (CSE209) is in 2nd year, 1st semester, and Electronic Circuits (CSE251) is in 2nd year, 2nd semester."
+  },
+  {
+    "instruction": "When do students study Coordinate Geometry and Vector Analysis?",
+    "context": "",
+    "response": "Coordinate Geometry and Vector Analysis (MAT104, 3 credits) is taken in the 3rd semester of the 1st year."
+  },
+  {
+    "instruction": "Which courses provide foundational knowledge for algorithms?",
+    "context": "",
+    "response": "Courses like Discrete Mathematics, Data Structures, and Linear Algebra and Complex Variables provide the mathematical and programming foundation for Algorithms (CSE246)."
+  },
+  {
+    "instruction": "How many total credits are offered in the 3rd semester of the 2nd year?",
+    "context": "",
+    "response": "The 3rd semester of the 2nd year has 10 credits, including Elective General Education-II (3), Engineering Physics-II (3), and Operating Systems (4)."
+  },
+  {
+    "instruction": "Which courses cover ethics in computing?",
+    "context": "",
+    "response": "Cyber Security, Ethics and Law (CSE487, 3 credits) in the 2nd semester of the 4th year covers ethical considerations in computing."
+  },
+  {
+    "instruction": "Are there any courses focused on project management in CSE?",
+    "context": "",
+    "response": "Yes, IT Project Management and Entrepreneurship (CSE495, 3 credits) in the 3rd semester of the 4th year covers project management skills for IT professionals."
+  },
+  {
+    "instruction": "When is the first programming course offered in the curriculum?",
+    "context": "",
+    "response": "The first programming course, Structured Programming (CSE103, 4.5 credits), is offered in the 1st semester of the 1st year."
+  },
+  {
+    "instruction": "Which courses introduce students to object-oriented concepts?",
+    "context": "",
+    "response": "Object Oriented Programming (CSE110, 4.5 credits) in the 3rd semester of the 1st year introduces students to object-oriented concepts."
+  }
+]

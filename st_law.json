@@ -1,0 +1,427 @@
+[
+  {
+    "instruction": "What is the name of the course ENG100?",
+    "context": "",
+    "response": "The course ENG100 is titled 'Improving Oral Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "The course Improving Oral Communication Skills (ENG100) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "The prerequisites for Improving Oral Communication Skills (ENG100) are: None."
+  },
+  {
+    "instruction": "Which category does Improving Oral Communication Skills (ENG100) belong to?",
+    "context": "",
+    "response": "Improving Oral Communication Skills (ENG100) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "Can you describe the course Improving Oral Communication Skills (ENG100)?",
+    "context": "",
+    "response": "This is an English spoken course. It contains daily formulaic expressions, free conversation and its strategies to overcome communicative difficulties, debate, public speaking, formal and informal speaking, questioning techniques, politeness issues, use of social English and euphemistic expressions."
+  },
+  {
+    "instruction": "What is the name of the course LAW102?",
+    "context": "",
+    "response": "The course LAW102 is titled 'Muslim Law 1'."
+  },
+  {
+    "instruction": "How many credits is Muslim Law 1 (LAW102)?",
+    "context": "",
+    "response": "The course Muslim Law 1 (LAW102) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Muslim Law 1 (LAW102)?",
+    "context": "",
+    "response": "The prerequisites for Muslim Law 1 (LAW102) are: None."
+  },
+  {
+    "instruction": "Which category does Muslim Law 1 (LAW102) belong to?",
+    "context": "",
+    "response": "Muslim Law 1 (LAW102) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Muslim Law 1 (LAW102)?",
+    "context": "",
+    "response": "Nature, Sources and Origins of Muslim Law, Pre-Islamic Arabian Custom and their Impact on Islamic Law, The Concept of Islamic Jurisprudence, The Development of Muslim Law in Different Periods of Islamic History, The Schools of Islamic Jurisprudence, The Statutory Development of Muslim Law in Bangladesh and Judicial Decisions. Muslim law of marriage: essential requirements and prohibitions, forms and legal effects, registration, restitution of conjugal rights, polygamy, Dower or Mahr, Maintenance or Nafaqaa Dissolution of marriage: its forms and legal effects."
+  },
+  {
+    "instruction": "What is the name of the course LAW108?",
+    "context": "",
+    "response": "The course LAW108 is titled 'Administrative Law'."
+  },
+  {
+    "instruction": "How many credits is Administrative Law (LAW108)?",
+    "context": "",
+    "response": "The course Administrative Law (LAW108) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Administrative Law (LAW108)?",
+    "context": "",
+    "response": "The prerequisites for Administrative Law (LAW108) are: LAW201."
+  },
+  {
+    "instruction": "Which category does Administrative Law (LAW108) belong to?",
+    "context": "",
+    "response": "Administrative Law (LAW108) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Administrative Law (LAW108)?",
+    "context": "",
+    "response": "Administrative Law: Meaning, Nature, Importance, Sources and Development, Rule of Law, Separation of powers and Administrative Law, Legislative Powers of Administration; Delegated legislation, Limits of Delegated Legislation, Control of the Legislative Powers of the Administration, Judicial Powers of the Administration: Administrative Tribunals and Administrative Adjudication, Powers of Investigation & Inquiry; Control of Judicial Powers of the Administration; Administrative Tribunal and Administrative Appellate Tribunal in Bangladesh, Judicial review of Administrative Discretions, Administrative and Discriminatory Power- Its limits – Doctrine of Ultra Vires; Judiciary and Legislative Control of Administrative Actions- Various kinds of Writs and Public Interest Litigation, Ombudsman, Doctrine of Legitimate Expectation, Natural Justice- Concept and Its Principle- Due Process of Law, Liabilities of Government and Proceeding against Government, Public Corporation, Characteristic, Classification and functions, Status, Rights and Liabilities of Public Corporation, Control Mechanism, Decentralization of Administration, Its Aims and Objective, Growth and Evolution of Local and Local Self Government in Bangladesh, Independence of Judiciary."
+  },
+  {
+    "instruction": "What is the name of the course LAW203?",
+    "context": "",
+    "response": "The course LAW203 is titled 'Hindu Law'."
+  },
+  {
+    "instruction": "How many credits is Hindu Law (LAW203)?",
+    "context": "",
+    "response": "The course Hindu Law (LAW203) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Hindu Law (LAW203)?",
+    "context": "",
+    "response": "The prerequisites for Hindu Law (LAW203) are: None."
+  },
+  {
+    "instruction": "Which category does Hindu Law (LAW203) belong to?",
+    "context": "",
+    "response": "Hindu Law (LAW203) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Hindu Law (LAW203)?",
+    "context": "",
+    "response": "Nature and Characteristics of Hindu law, History and Origin of Hindu Law, Sources of Hindu Law, Application of Hindu Law, Schools of Hindu law, Law of Inheritance, Concept of Hindu Joint Family and Coparcenary, Women’s Property and Guardianship and Custody, Adoption, Debt, Impartible Property, Partition, Comparative Appliction of Hindu Law: Bangladesh and India."
+  },
+  {
+    "instruction": "What is the name of the course LAW206?",
+    "context": "",
+    "response": "The course LAW206 is titled 'Land Law'."
+  },
+  {
+    "instruction": "How many credits is Land Law (LAW206)?",
+    "context": "",
+    "response": "The course Land Law (LAW206) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Land Law (LAW206)?",
+    "context": "",
+    "response": "The prerequisites for Land Law (LAW206) are: None."
+  },
+  {
+    "instruction": "Which category does Land Law (LAW206) belong to?",
+    "context": "",
+    "response": "Land Law (LAW206) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Land Law (LAW206)?",
+    "context": "",
+    "response": "History of Land Law in Bangladesh. Permanent Settlement, Objects and Reasons of Permanent Settlement, Consequences of Permanent Settlement: Effects and Defects. Historical background of State Acquisition and Tenancy Act, 1950, Acquisition of Interest of the Rent Receivers and their Consequences; Land to be Retained by the Rent Receivers, Preparation of Records of Rights; Evidential Value of Records of Rights, Determination of Fair and Equitable Rents of Raiyat, Under Raiyat, and Non-agricultural Tenant, Prohibition of Tenant, Prohibition of Sub-letting, Incidents of Holding of Raiyat. Law Relating to Rights of Pre-emption. Grounds for Enhancement and Deduction of Rents. Historical Background of Non-Agricultural Tenancy Act, 1949, Classes of Non-Agricultural Tenants, Purposes for Holding Non-agricultural Tenancy. Incidents of Holding Non-agricultural Lands for 12 Years and for Less than 12 Years, Under-tenant: Incidents of Under Tenancy. Law Relating to the Right of Pre-emption, Difference between Right of Pre-emption under Section 96 of the State Acquisition and Tenancy Act, 1950 and under Section 24 of the Non-Agricultural Tenancy Act, 1949. Provision of Sub-letting, Delivery of Possession of Land with Structure Sold for Arrears of Rent."
+  },
+  {
+    "instruction": "What is the name of the course LAW207?",
+    "context": "",
+    "response": "The course LAW207 is titled 'Criminology'."
+  },
+  {
+    "instruction": "How many credits is Criminology (LAW207)?",
+    "context": "",
+    "response": "The course Criminology (LAW207) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Criminology (LAW207)?",
+    "context": "",
+    "response": "The prerequisites for Criminology (LAW207) are: None."
+  },
+  {
+    "instruction": "Which category does Criminology (LAW207) belong to?",
+    "context": "",
+    "response": "Criminology (LAW207) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Criminology (LAW207)?",
+    "context": "",
+    "response": "The Concept of Crime, Nature and Scope of Criminology, Schools of Criminology, Causation of Crime, Forms of crime, White Collar Crime, Theories of Crime and Criminal Behavior, Biological Explanation, Genetic Science and Challenges for Judges and Lawyers, Theories of Punishment and the Penal System, Police System, Prison System, Probation and the Penal System, Probation and Parole, , Juvenile Delinquency and Juvenile Justice."
+  },
+  {
+    "instruction": "What is the name of the course LAW208?",
+    "context": "",
+    "response": "The course LAW208 is titled 'Laws on Partnership, Sale and Carriage of Goods'."
+  },
+  {
+    "instruction": "How many credits is Laws on Partnership, Sale and Carriage of Goods (LAW208)?",
+    "context": "",
+    "response": "The course Laws on Partnership, Sale and Carriage of Goods (LAW208) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Laws on Partnership, Sale and Carriage of Goods (LAW208)?",
+    "context": "",
+    "response": "The prerequisites for Laws on Partnership, Sale and Carriage of Goods (LAW208) are: None."
+  },
+  {
+    "instruction": "Which category does Laws on Partnership, Sale and Carriage of Goods (LAW208) belong to?",
+    "context": "",
+    "response": "Laws on Partnership, Sale and Carriage of Goods (LAW208) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Laws on Partnership, Sale and Carriage of Goods (LAW208)?",
+    "context": "",
+    "response": "Law of Partnership Definition and Nature of Partnership, Formation of Partnership, Types of Partnership, Rights and Duties of Partners, Dissolution of Partnership and Firm. Sale of Goods Definition and Essentials of a Contract of Sale of Goods, Sale and Agreement to Sell, Conditions and Warranties, Transfer of Property, Rights of an Unpaid Seller, Rights of a Buyer, Performance of Contract of Sale of Goods. Carriage of Goods Carriage of Goods by Land and Inland Water Ways, Definition of Common Carrier, Distinction between Common and Private Carrier, Rights and Duties of Common Carrier, Carriage of Goods by Sea, Charter Parties, Bills of Lading, Seaworthiness, Deviations, The Hague-Visby Rules, Freight, General and Particular Average. Carriage of Goods by Railways and Air."
+  },
+  {
+    "instruction": "What is the name of the course LAW301?",
+    "context": "",
+    "response": "The course LAW301 is titled 'Laws on Taxation'."
+  },
+  {
+    "instruction": "How many credits is Laws on Taxation (LAW301)?",
+    "context": "",
+    "response": "The course Laws on Taxation (LAW301) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Laws on Taxation (LAW301)?",
+    "context": "",
+    "response": "The prerequisites for Laws on Taxation (LAW301) are: None."
+  },
+  {
+    "instruction": "Which category does Laws on Taxation (LAW301) belong to?",
+    "context": "",
+    "response": "Laws on Taxation (LAW301) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Laws on Taxation (LAW301)?",
+    "context": "",
+    "response": "History of Income Tax in Bangladesh. Direct Taxes and Indirect Taxes. Income Definitions: Agricultural Income, Annual Value-Assessment, Assessment, Assessment Year and Income Year. Capital Assets and Capital Gains, Income Perquisite, Profits in Lieu of Salary, Total Income and Taxable Income, Written Down Value and Depreciation. Income Tax Authority and Powers of Income Tax Authority. Charge of Income Tax. Scope of the Total Income, Income Deemed to Accrue or Arise in Bangladesh. Unexplained Investments Deemed to be Income. Heads of Income: Agricultural Income, Income from House Property, Income from Business or Profession, Capital Gain, Income from other Sources, Methods of Accounting. Carry forward and Set Off of Losses, Computation of Total Income. Exemption and Allowances, Advance Payment of Tax, Tax Deducted at Source, Return of Income, Different Types of Assessment, Special Provision Relating to Avoidance of Tax, Requirement of Furnishing Certain Information, Imposition of Penalty, Recovery of Tax, Double Taxation Relief, Refunds, Appeal & References. Also Brief Discussion on Value Added Tax, Gift Tax, Shrimp Cultivation Tax, Land Development Tax, Travel Tax etc."
+  },
+  {
+    "instruction": "What is the name of the course LAW302?",
+    "context": "",
+    "response": "The course LAW302 is titled 'Jurisprudence'."
+  },
+  {
+    "instruction": "How many credits is Jurisprudence (LAW302)?",
+    "context": "",
+    "response": "The course Jurisprudence (LAW302) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Jurisprudence (LAW302)?",
+    "context": "",
+    "response": "The prerequisites for Jurisprudence (LAW302) are: None."
+  },
+  {
+    "instruction": "Which category does Jurisprudence (LAW302) belong to?",
+    "context": "",
+    "response": "Jurisprudence (LAW302) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Jurisprudence (LAW302)?",
+    "context": "",
+    "response": "Definition, Nature and Scope of Jurisprudence, Nature, Kinds and Classification of Laws, Law and Morals, Administration of Justice, Sources of Law, Legal Rights and Duties, Ownership and Possession, Persons, Liability, Title, Law of Property, Law of obligations, Law of Procedure."
+  },
+  {
+    "instruction": "What is the name of the course LAW304?",
+    "context": "",
+    "response": "The course LAW304 is titled 'Labour Law'."
+  },
+  {
+    "instruction": "How many credits is Labour Law (LAW304)?",
+    "context": "",
+    "response": "The course Labour Law (LAW304) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Labour Law (LAW304)?",
+    "context": "",
+    "response": "The prerequisites for Labour Law (LAW304) are: None."
+  },
+  {
+    "instruction": "Which category does Labour Law (LAW304) belong to?",
+    "context": "",
+    "response": "Labour Law (LAW304) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Labour Law (LAW304)?",
+    "context": "",
+    "response": "Background and Development of Labour Laws in Bangladesh, Classification of Workers and Conditions of Employment, Employment of Adolescent, Safety and Welfare of Workers including Maternity Benefit, Health and Hygiene, and Safety in the Workplace, Working Hours and Leave, Wages and their Payment, Workers’ Compensation for Injury by Accident, Trade Union and Industrial Relations, Settlement of Industrial Disputes, the Labour Court and the Labour Appellate Tribunal, Workers’ Participation in Companies’ Profits, Provisions for Provident Fund, Apprenticeship, Offences, Penalty and Procedure, Authorities of Administration and Inspection."
+  },
+  {
+    "instruction": "What is the name of the course LAW305?",
+    "context": "",
+    "response": "The course LAW305 is titled 'Law of Evidence I'."
+  },
+  {
+    "instruction": "How many credits is Law of Evidence I (LAW305)?",
+    "context": "",
+    "response": "The course Law of Evidence I (LAW305) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Law of Evidence I (LAW305)?",
+    "context": "",
+    "response": "The prerequisites for Law of Evidence I (LAW305) are: None."
+  },
+  {
+    "instruction": "Which category does Law of Evidence I (LAW305) belong to?",
+    "context": "",
+    "response": "Law of Evidence I (LAW305) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Law of Evidence I (LAW305)?",
+    "context": "",
+    "response": "Nature of the Law of Evidence, Classification of Evidence, Relevancy of Facts, Admissions, Statement by Persons who cannot be Called as Witnesses, Statements Made under Special Circumstances, How Much of a Statement is to be Proved, Judgments of Courts of Justice when Relevant, Opinions of Third Persons when Relevant, Character when Relevant, Facts which Need Not be Proved, Oral Evidence, Documentary Evidence."
+  },
+  {
+    "instruction": "What is the name of the course LAW310?",
+    "context": "",
+    "response": "The course LAW310 is titled 'Law on Criminal Procedure I'."
+  },
+  {
+    "instruction": "How many credits is Law on Criminal Procedure I (LAW310)?",
+    "context": "",
+    "response": "The course Law on Criminal Procedure I (LAW310) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Law on Criminal Procedure I (LAW310)?",
+    "context": "",
+    "response": "The prerequisites for Law on Criminal Procedure I (LAW310) are: None."
+  },
+  {
+    "instruction": "Which category does Law on Criminal Procedure I (LAW310) belong to?",
+    "context": "",
+    "response": "Law on Criminal Procedure I (LAW310) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Law on Criminal Procedure I (LAW310)?",
+    "context": "",
+    "response": "Definitions, Constitution and Powers of Criminal Courts and Offices, Information of Offence, Arrest, Escape and Retaking, Processes to Compel Appearance, Processes to Compel the Production of Documents, Prevention of Offences, Information to the Police and their Powers to Investigate, Proceedings in Prosecutions: the Jurisdiction of the Criminal Courts in Inquiries and Trials, Complaint to Magistrates, the Commencement of Proceeding before the Magistrates, Charge, Trial of Cases by Magistrates, Summery Trail, Trial before the Courts of Sessions, General Provisions as to Inquiry and Trial, Judgment."
+  },
+  {
+    "instruction": "What is the name of the course LAW311?",
+    "context": "",
+    "response": "The course LAW311 is titled 'Law on Civil Procedure I'."
+  },
+  {
+    "instruction": "How many credits is Law on Civil Procedure I (LAW311)?",
+    "context": "",
+    "response": "The course Law on Civil Procedure I (LAW311) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Law on Civil Procedure I (LAW311)?",
+    "context": "",
+    "response": "The prerequisites for Law on Civil Procedure I (LAW311) are: None."
+  },
+  {
+    "instruction": "Which category does Law on Civil Procedure I (LAW311) belong to?",
+    "context": "",
+    "response": "Law on Civil Procedure I (LAW311) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Law on Civil Procedure I (LAW311)?",
+    "context": "",
+    "response": "History of the Law on Civil Procedure, Scope and Application of the Code of Civil Procedure, Inherent Power of the Courts, Meaning of Suits of Civil nature, Jurisdiction of Civil Courts, Res judicata and Res sub judice, Institution of Suits and Proceedings, Plaint, Written statement, Pleadings, Summons, Discovery and Inspection, Parties to Suits, Amendment of Pleadings, Appearance and Non-appearance of Parties, Examination of Parties, Admissions, Production, Impounding and Return of Documents, Settlement of Issues and Disposal of Suits, Adjournments, Hearing of the Suit and Examination of Witnesses, Affidavits, Judgment, Order and Decree."
+  },
+  {
+    "instruction": "What is the name of the course LAW312?",
+    "context": "",
+    "response": "The course LAW312 is titled 'International Law I'."
+  },
+  {
+    "instruction": "How many credits is International Law I (LAW312)?",
+    "context": "",
+    "response": "The course International Law I (LAW312) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for International Law I (LAW312)?",
+    "context": "",
+    "response": "The prerequisites for International Law I (LAW312) are: None."
+  },
+  {
+    "instruction": "Which category does International Law I (LAW312) belong to?",
+    "context": "",
+    "response": "International Law I (LAW312) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course International Law I (LAW312)?",
+    "context": "",
+    "response": "‘History’ in International Law and Histories of International Law, The Politics of ‘History’ in International Law, The Colonial Origin of International Law: the Dichotomy of ‘Self’ and ‘Other’, Ancient Worlds, The Middle Ages: the Natural Law Era, the Classical Age (1600-1815), the Nineteenth Century (1815-1919), the Twentieth and Twenty-first Centuries (1919- ), Theories as to the Basis of International Law, Is International Law True Law? The Sources of International Law, International Law and ‘Relative Normativity’, the Relationship between International Law and Municipal Law, the Subjects of International Legal Order, International Organizations, the Individual and the International Legal System."
+  },
+  {
+    "instruction": "What is the name of the course LAW401?",
+    "context": "",
+    "response": "The course LAW401 is titled 'Law on Criminal Procedure II'."
+  },
+  {
+    "instruction": "How many credits is Law on Criminal Procedure II (LAW401)?",
+    "context": "",
+    "response": "The course Law on Criminal Procedure II (LAW401) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Law on Criminal Procedure II (LAW401)?",
+    "context": "",
+    "response": "The prerequisites for Law on Criminal Procedure II (LAW401) are: LAW310."
+  },
+  {
+    "instruction": "Which category does Law on Criminal Procedure II (LAW401) belong to?",
+    "context": "",
+    "response": "Law on Criminal Procedure II (LAW401) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Law on Criminal Procedure II (LAW401)?",
+    "context": "",
+    "response": "Appeal, Reference and Revision, Special Proceedings, Supplementary Provisions Regarding Public Prosecutor, Bail, Bailable and Non-bailable Offences, Commission for the Examination of Witnesses, Transfer of Criminal Cases, etc., Law and Order Violating Offences (Speedy Trial) Act, 2002: Definition of Law and Order Violating Offences, Punishment of Different Offences, Composition, Jurisdiction, Procedures of the Court, Trial in Absentia, Bail,"
+  },
+  {
+    "instruction": "What is the name of the course LAW403?",
+    "context": "",
+    "response": "The course LAW403 is titled 'International Law II'."
+  },
+  {
+    "instruction": "How many credits is International Law II (LAW403)?",
+    "context": "",
+    "response": "The course International Law II (LAW403) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for International Law II (LAW403)?",
+    "context": "",
+    "response": "The prerequisites for International Law II (LAW403) are: LAW312."
+  },
+  {
+    "instruction": "Which category does International Law II (LAW403) belong to?",
+    "context": "",
+    "response": "International Law II (LAW403) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course International Law II (LAW403)?",
+    "context": "",
+    "response": "Rights and Duties of States, Jurisdiction, State Responsibility, Responsibility to Protect: Unilateral Humanitarian Intervention, State Succession to Rights and Obligations, Asylum and Extradition, Immunities of States, Officials of States and International Organizations, International Law of Treaties, Responding to the Breaches of International Obligations, The Means of Dispute Settlement, Diplomatic Methods: Negotiation; Mediation; Inquiry; Conciliation, Legal Methods: Arbitration; International Court of Justice; other Courts and Tribunals, International Organizations and Dispute Settlement, Regional Organizations; the United Nations; Use of Force and the International Legal Order, Law of the Sea, Law of Aviation."
+  },
+  {
+    "instruction": "What is the name of the course LAW405?",
+    "context": "",
+    "response": "The course LAW405 is titled 'Legal Drafting II (Civil)'."
+  },
+  {
+    "instruction": "How many credits is Legal Drafting II (Civil) (LAW405)?",
+    "context": "",
+    "response": "The course Legal Drafting II (Civil) (LAW405) is worth 3.0 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Legal Drafting II (Civil) (LAW405)?",
+    "context": "",
+    "response": "The prerequisites for Legal Drafting II (Civil) (LAW405) are: None."
+  },
+  {
+    "instruction": "Which category does Legal Drafting II (Civil) (LAW405) belong to?",
+    "context": "",
+    "response": "Legal Drafting II (Civil) (LAW405) falls under the 'Core' category."
+  },
+  {
+    "instruction": "Can you describe the course Legal Drafting II (Civil) (LAW405)?",
+    "context": "",
+    "response": "1. Hazira 2. Application for Time 3. Plaints (a) Suit for Declaration of Title (b) Suit for Specific Performance of Contract (c) Money Suit (d) Suit for Compensation and Damages (e) Family Case (f) Recovery of Money under Artha Rin Adalat Ain"
+  }
+]

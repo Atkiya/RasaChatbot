@@ -1,0 +1,2372 @@
+[
+  {
+    "instruction": "What is the course BUS101 about?",
+    "context": "",
+    "response": "BUS101 - Introduction to Business is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is BUS101?",
+    "context": "",
+    "response": "BUS101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for BUS101?",
+    "context": "",
+    "response": "BUS101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does BUS101 belong to?",
+    "context": "",
+    "response": "BUS101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course CSE101 about?",
+    "context": "",
+    "response": "CSE101 - Introduction to Computers I is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is CSE101?",
+    "context": "",
+    "response": "CSE101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for CSE101?",
+    "context": "",
+    "response": "CSE101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does CSE101 belong to?",
+    "context": "",
+    "response": "CSE101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ECO104 about?",
+    "context": "",
+    "response": "ECO104 - Statistics for Business and Economics I is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO104?",
+    "context": "",
+    "response": "ECO104 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO104?",
+    "context": "",
+    "response": "ECO104 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO104 belong to?",
+    "context": "",
+    "response": "ECO104 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ENG100 about?",
+    "context": "",
+    "response": "ENG100 - Improving Oral Communication Skills is a Compulsory General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ENG100?",
+    "context": "",
+    "response": "ENG100 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG100?",
+    "context": "",
+    "response": "ENG100 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ENG100 belong to?",
+    "context": "",
+    "response": "ENG100 is classified as a Compulsory General Education course."
+  },
+  {
+    "instruction": "What is the course ENG101 about?",
+    "context": "",
+    "response": "ENG101 - Basic English is a Compulsory General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ENG101?",
+    "context": "",
+    "response": "ENG101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG101?",
+    "context": "",
+    "response": "ENG101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ENG101 belong to?",
+    "context": "",
+    "response": "ENG101 is classified as a Compulsory General Education course."
+  },
+  {
+    "instruction": "What is the course ENG102 about?",
+    "context": "",
+    "response": "ENG102 - Composition and Communication Skills is a Compulsory General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ENG102?",
+    "context": "",
+    "response": "ENG102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG102?",
+    "context": "",
+    "response": "ENG102 has the following prerequisites: ENG101."
+  },
+  {
+    "instruction": "What category does ENG102 belong to?",
+    "context": "",
+    "response": "ENG102 is classified as a Compulsory General Education course."
+  },
+  {
+    "instruction": "What is the course GEN226 about?",
+    "context": "",
+    "response": "GEN226 - Emergence of Bangladesh is a Compulsory General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN226?",
+    "context": "",
+    "response": "GEN226 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN226?",
+    "context": "",
+    "response": "GEN226 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN226 belong to?",
+    "context": "",
+    "response": "GEN226 is classified as a Compulsory General Education course."
+  },
+  {
+    "instruction": "What is the course MAT110 about?",
+    "context": "",
+    "response": "MAT110 - Mathematics for Business and Economics I is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MAT110?",
+    "context": "",
+    "response": "MAT110 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MAT110?",
+    "context": "",
+    "response": "MAT110 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MAT110 belong to?",
+    "context": "",
+    "response": "MAT110 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course BUS301 about?",
+    "context": "",
+    "response": "BUS301 - Business Ethics is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is BUS301?",
+    "context": "",
+    "response": "BUS301 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for BUS301?",
+    "context": "",
+    "response": "BUS301 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does BUS301 belong to?",
+    "context": "",
+    "response": "BUS301 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course CSE102 about?",
+    "context": "",
+    "response": "CSE102 - Introduction to Computers II is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is CSE102?",
+    "context": "",
+    "response": "CSE102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for CSE102?",
+    "context": "",
+    "response": "CSE102 has the following prerequisites: CSE101."
+  },
+  {
+    "instruction": "What category does CSE102 belong to?",
+    "context": "",
+    "response": "CSE102 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ECO200 about?",
+    "context": "",
+    "response": "ECO200 - Agricultural Economics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO200?",
+    "context": "",
+    "response": "ECO200 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO200?",
+    "context": "",
+    "response": "ECO200 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO200 belong to?",
+    "context": "",
+    "response": "ECO200 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course ECO220 about?",
+    "context": "",
+    "response": "ECO220 - Behavioral Economics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO220?",
+    "context": "",
+    "response": "ECO220 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO220?",
+    "context": "",
+    "response": "ECO220 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO220 belong to?",
+    "context": "",
+    "response": "ECO220 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course ECO260 about?",
+    "context": "",
+    "response": "ECO260 - Environmental & Natural Resource Economics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO260?",
+    "context": "",
+    "response": "ECO260 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO260?",
+    "context": "",
+    "response": "ECO260 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO260 belong to?",
+    "context": "",
+    "response": "ECO260 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEB101 about?",
+    "context": "",
+    "response": "GEB101 - Basic Biology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEB101?",
+    "context": "",
+    "response": "GEB101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEB101?",
+    "context": "",
+    "response": "GEB101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEB101 belong to?",
+    "context": "",
+    "response": "GEB101 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEB103 about?",
+    "context": "",
+    "response": "GEB103 - Cell Biology-I is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEB103?",
+    "context": "",
+    "response": "GEB103 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEB103?",
+    "context": "",
+    "response": "GEB103 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEB103 belong to?",
+    "context": "",
+    "response": "GEB103 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN201 about?",
+    "context": "",
+    "response": "GEN201 - Bangladesh Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN201?",
+    "context": "",
+    "response": "GEN201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN201?",
+    "context": "",
+    "response": "GEN201 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN201 belong to?",
+    "context": "",
+    "response": "GEN201 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN202 about?",
+    "context": "",
+    "response": "GEN202 - Eastern Culture and Heritage is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN202?",
+    "context": "",
+    "response": "GEN202 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN202?",
+    "context": "",
+    "response": "GEN202 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN202 belong to?",
+    "context": "",
+    "response": "GEN202 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN203 about?",
+    "context": "",
+    "response": "GEN203 - Ecological System and Environment is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN203?",
+    "context": "",
+    "response": "GEN203 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN203?",
+    "context": "",
+    "response": "GEN203 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN203 belong to?",
+    "context": "",
+    "response": "GEN203 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN204 about?",
+    "context": "",
+    "response": "GEN204 - Western Thought is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN204?",
+    "context": "",
+    "response": "GEN204 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN204?",
+    "context": "",
+    "response": "GEN204 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN204 belong to?",
+    "context": "",
+    "response": "GEN204 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN205 about?",
+    "context": "",
+    "response": "GEN205 - Introduction to Psychology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN205?",
+    "context": "",
+    "response": "GEN205 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN205?",
+    "context": "",
+    "response": "GEN205 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN205 belong to?",
+    "context": "",
+    "response": "GEN205 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN206 about?",
+    "context": "",
+    "response": "GEN206 - Introduction to Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN206?",
+    "context": "",
+    "response": "GEN206 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN206?",
+    "context": "",
+    "response": "GEN206 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN206 belong to?",
+    "context": "",
+    "response": "GEN206 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN207 about?",
+    "context": "",
+    "response": "GEN207 - Industrial Psychology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN207?",
+    "context": "",
+    "response": "GEN207 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN207?",
+    "context": "",
+    "response": "GEN207 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN207 belong to?",
+    "context": "",
+    "response": "GEN207 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN208 about?",
+    "context": "",
+    "response": "GEN208 - Introduction to Philosophy is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN208?",
+    "context": "",
+    "response": "GEN208 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN208?",
+    "context": "",
+    "response": "GEN208 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN208 belong to?",
+    "context": "",
+    "response": "GEN208 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN209 about?",
+    "context": "",
+    "response": "GEN209 - Introduction to Social Psychology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN209?",
+    "context": "",
+    "response": "GEN209 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN209?",
+    "context": "",
+    "response": "GEN209 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN209 belong to?",
+    "context": "",
+    "response": "GEN209 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN210 about?",
+    "context": "",
+    "response": "GEN210 - International Relations is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN210?",
+    "context": "",
+    "response": "GEN210 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN210?",
+    "context": "",
+    "response": "GEN210 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN210 belong to?",
+    "context": "",
+    "response": "GEN210 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN211 about?",
+    "context": "",
+    "response": "GEN211 - Concepts of Journalism & Media Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN211?",
+    "context": "",
+    "response": "GEN211 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN211?",
+    "context": "",
+    "response": "GEN211 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN211 belong to?",
+    "context": "",
+    "response": "GEN211 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN212 about?",
+    "context": "",
+    "response": "GEN212 - Women in Development is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN212?",
+    "context": "",
+    "response": "GEN212 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN212?",
+    "context": "",
+    "response": "GEN212 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN212 belong to?",
+    "context": "",
+    "response": "GEN212 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN213 about?",
+    "context": "",
+    "response": "GEN213 - Introduction to German Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN213?",
+    "context": "",
+    "response": "GEN213 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN213?",
+    "context": "",
+    "response": "GEN213 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN213 belong to?",
+    "context": "",
+    "response": "GEN213 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN214 about?",
+    "context": "",
+    "response": "GEN214 - Introduction to Development Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN214?",
+    "context": "",
+    "response": "GEN214 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN214?",
+    "context": "",
+    "response": "GEN214 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN214 belong to?",
+    "context": "",
+    "response": "GEN214 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN215 about?",
+    "context": "",
+    "response": "GEN215 - Introduction to French Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN215?",
+    "context": "",
+    "response": "GEN215 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN215?",
+    "context": "",
+    "response": "GEN215 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN215 belong to?",
+    "context": "",
+    "response": "GEN215 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN216 about?",
+    "context": "",
+    "response": "GEN216 - Introduction to Spanish Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN216?",
+    "context": "",
+    "response": "GEN216 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN216?",
+    "context": "",
+    "response": "GEN216 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN216 belong to?",
+    "context": "",
+    "response": "GEN216 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN217 about?",
+    "context": "",
+    "response": "GEN217 - Introduction to Chinese Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN217?",
+    "context": "",
+    "response": "GEN217 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN217?",
+    "context": "",
+    "response": "GEN217 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN217 belong to?",
+    "context": "",
+    "response": "GEN217 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN218 about?",
+    "context": "",
+    "response": "GEN218 - Introduction to Arabic Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN218?",
+    "context": "",
+    "response": "GEN218 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN218?",
+    "context": "",
+    "response": "GEN218 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN218 belong to?",
+    "context": "",
+    "response": "GEN218 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN220 about?",
+    "context": "",
+    "response": "GEN220 - Principles of Public Relations is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN220?",
+    "context": "",
+    "response": "GEN220 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN220?",
+    "context": "",
+    "response": "GEN220 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN220 belong to?",
+    "context": "",
+    "response": "GEN220 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN221 about?",
+    "context": "",
+    "response": "GEN221 - Globalization, Development and Change is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN221?",
+    "context": "",
+    "response": "GEN221 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN221?",
+    "context": "",
+    "response": "GEN221 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN221 belong to?",
+    "context": "",
+    "response": "GEN221 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN223 about?",
+    "context": "",
+    "response": "GEN223 - Contemporary Security Studies in Asia-Pacific is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN223?",
+    "context": "",
+    "response": "GEN223 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN223?",
+    "context": "",
+    "response": "GEN223 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN223 belong to?",
+    "context": "",
+    "response": "GEN223 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN224 about?",
+    "context": "",
+    "response": "GEN224 - Bangla Language is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN224?",
+    "context": "",
+    "response": "GEN224 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN224?",
+    "context": "",
+    "response": "GEN224 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN224 belong to?",
+    "context": "",
+    "response": "GEN224 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN225 about?",
+    "context": "",
+    "response": "GEN225 - Demography and Economic Statistics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN225?",
+    "context": "",
+    "response": "GEN225 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN225?",
+    "context": "",
+    "response": "GEN225 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN225 belong to?",
+    "context": "",
+    "response": "GEN225 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN239 about?",
+    "context": "",
+    "response": "GEN239 - Professional Ethics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN239?",
+    "context": "",
+    "response": "GEN239 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN239?",
+    "context": "",
+    "response": "GEN239 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN239 belong to?",
+    "context": "",
+    "response": "GEN239 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN301 about?",
+    "context": "",
+    "response": "GEN301 - Principles of Public Relations is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN301?",
+    "context": "",
+    "response": "GEN301 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN301?",
+    "context": "",
+    "response": "GEN301 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN301 belong to?",
+    "context": "",
+    "response": "GEN301 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN302 about?",
+    "context": "",
+    "response": "GEN302 - Development Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN302?",
+    "context": "",
+    "response": "GEN302 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN302?",
+    "context": "",
+    "response": "GEN302 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN302 belong to?",
+    "context": "",
+    "response": "GEN302 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course GEN303 about?",
+    "context": "",
+    "response": "GEN303 - Globalization and Social Identity is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is GEN303?",
+    "context": "",
+    "response": "GEN303 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN303?",
+    "context": "",
+    "response": "GEN303 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does GEN303 belong to?",
+    "context": "",
+    "response": "GEN303 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course ISL101 about?",
+    "context": "",
+    "response": "ISL101 - Introduction to Information Studies and Library Management is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ISL101?",
+    "context": "",
+    "response": "ISL101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ISL101?",
+    "context": "",
+    "response": "ISL101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ISL101 belong to?",
+    "context": "",
+    "response": "ISL101 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course ISL103 about?",
+    "context": "",
+    "response": "ISL103 - Information and Society is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ISL103?",
+    "context": "",
+    "response": "ISL103 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ISL103?",
+    "context": "",
+    "response": "ISL103 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ISL103 belong to?",
+    "context": "",
+    "response": "ISL103 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW101 about?",
+    "context": "",
+    "response": "LAW101 - Law of Contract I is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW101?",
+    "context": "",
+    "response": "LAW101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW101?",
+    "context": "",
+    "response": "LAW101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW101 belong to?",
+    "context": "",
+    "response": "LAW101 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW102 about?",
+    "context": "",
+    "response": "LAW102 - Muslim Law I is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW102?",
+    "context": "",
+    "response": "LAW102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW102?",
+    "context": "",
+    "response": "LAW102 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW102 belong to?",
+    "context": "",
+    "response": "LAW102 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW103 about?",
+    "context": "",
+    "response": "LAW103 - Law of Contract II is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW103?",
+    "context": "",
+    "response": "LAW103 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW103?",
+    "context": "",
+    "response": "LAW103 has the following prerequisites: LAW101."
+  },
+  {
+    "instruction": "What category does LAW103 belong to?",
+    "context": "",
+    "response": "LAW103 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW104 about?",
+    "context": "",
+    "response": "LAW104 - Muslim Law II is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW104?",
+    "context": "",
+    "response": "LAW104 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW104?",
+    "context": "",
+    "response": "LAW104 has the following prerequisites: LAW102."
+  },
+  {
+    "instruction": "What category does LAW104 belong to?",
+    "context": "",
+    "response": "LAW104 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW105 about?",
+    "context": "",
+    "response": "LAW105 - Interpretation of Statutes and English for Law is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW105?",
+    "context": "",
+    "response": "LAW105 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW105?",
+    "context": "",
+    "response": "LAW105 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW105 belong to?",
+    "context": "",
+    "response": "LAW105 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW106 about?",
+    "context": "",
+    "response": "LAW106 - Constitutional Law I is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW106?",
+    "context": "",
+    "response": "LAW106 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW106?",
+    "context": "",
+    "response": "LAW106 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW106 belong to?",
+    "context": "",
+    "response": "LAW106 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW107 about?",
+    "context": "",
+    "response": "LAW107 - Legal System of Bangladesh is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW107?",
+    "context": "",
+    "response": "LAW107 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW107?",
+    "context": "",
+    "response": "LAW107 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW107 belong to?",
+    "context": "",
+    "response": "LAW107 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course LAW108 about?",
+    "context": "",
+    "response": "LAW108 - Administrative Law is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is LAW108?",
+    "context": "",
+    "response": "LAW108 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for LAW108?",
+    "context": "",
+    "response": "LAW108 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does LAW108 belong to?",
+    "context": "",
+    "response": "LAW108 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course MAT100 about?",
+    "context": "",
+    "response": "MAT100 - College Mathematics (Compulsory for those students who have no mathematics in HSC or equivalent level) is a Remedial course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MAT100?",
+    "context": "",
+    "response": "MAT100 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MAT100?",
+    "context": "",
+    "response": "MAT100 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MAT100 belong to?",
+    "context": "",
+    "response": "MAT100 is classified as a Remedial course."
+  },
+  {
+    "instruction": "What is the course MAT101 about?",
+    "context": "",
+    "response": "MAT101 - Differential & Integral Calculus is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MAT101?",
+    "context": "",
+    "response": "MAT101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MAT101?",
+    "context": "",
+    "response": "MAT101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MAT101 belong to?",
+    "context": "",
+    "response": "MAT101 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course MAT102 about?",
+    "context": "",
+    "response": "MAT102 - Differential Equations & Special Functions is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MAT102?",
+    "context": "",
+    "response": "MAT102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MAT102?",
+    "context": "",
+    "response": "MAT102 has the following prerequisites: MAT101."
+  },
+  {
+    "instruction": "What category does MAT102 belong to?",
+    "context": "",
+    "response": "MAT102 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course MGT321 about?",
+    "context": "",
+    "response": "MGT321 - Industrial Management is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MGT321?",
+    "context": "",
+    "response": "MGT321 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MGT321?",
+    "context": "",
+    "response": "MGT321 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MGT321 belong to?",
+    "context": "",
+    "response": "MGT321 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course PHY100 about?",
+    "context": "",
+    "response": "PHY100 - Introductory Physics is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is PHY100?",
+    "context": "",
+    "response": "PHY100 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for PHY100?",
+    "context": "",
+    "response": "PHY100 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does PHY100 belong to?",
+    "context": "",
+    "response": "PHY100 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course POP201 about?",
+    "context": "",
+    "response": "POP201 - Health Challenges of Adolescents and Youths is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is POP201?",
+    "context": "",
+    "response": "POP201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for POP201?",
+    "context": "",
+    "response": "POP201 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does POP201 belong to?",
+    "context": "",
+    "response": "POP201 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course POP202 about?",
+    "context": "",
+    "response": "POP202 - Introduction to Public Health is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is POP202?",
+    "context": "",
+    "response": "POP202 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for POP202?",
+    "context": "",
+    "response": "POP202 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does POP202 belong to?",
+    "context": "",
+    "response": "POP202 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course POP203 about?",
+    "context": "",
+    "response": "POP203 - Introduction to Population Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is POP203?",
+    "context": "",
+    "response": "POP203 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for POP203?",
+    "context": "",
+    "response": "POP203 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does POP203 belong to?",
+    "context": "",
+    "response": "POP203 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC101 about?",
+    "context": "",
+    "response": "SOC101 - Introduction to Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC101?",
+    "context": "",
+    "response": "SOC101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC101?",
+    "context": "",
+    "response": "SOC101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC101 belong to?",
+    "context": "",
+    "response": "SOC101 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC102 about?",
+    "context": "",
+    "response": "SOC102 - Introduction to Anthropology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC102?",
+    "context": "",
+    "response": "SOC102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC102?",
+    "context": "",
+    "response": "SOC102 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC102 belong to?",
+    "context": "",
+    "response": "SOC102 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC105 about?",
+    "context": "",
+    "response": "SOC105 - Peasant Societies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC105?",
+    "context": "",
+    "response": "SOC105 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC105?",
+    "context": "",
+    "response": "SOC105 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC105 belong to?",
+    "context": "",
+    "response": "SOC105 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC106 about?",
+    "context": "",
+    "response": "SOC106 - Historical Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC106?",
+    "context": "",
+    "response": "SOC106 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC106?",
+    "context": "",
+    "response": "SOC106 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC106 belong to?",
+    "context": "",
+    "response": "SOC106 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC107 about?",
+    "context": "",
+    "response": "SOC107 - Social Problem and Analysis is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC107?",
+    "context": "",
+    "response": "SOC107 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC107?",
+    "context": "",
+    "response": "SOC107 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC107 belong to?",
+    "context": "",
+    "response": "SOC107 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC201 about?",
+    "context": "",
+    "response": "SOC201 - Sociology of Family and Marriage is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC201?",
+    "context": "",
+    "response": "SOC201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC201?",
+    "context": "",
+    "response": "SOC201 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC201 belong to?",
+    "context": "",
+    "response": "SOC201 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC202 about?",
+    "context": "",
+    "response": "SOC202 - Social Psychology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC202?",
+    "context": "",
+    "response": "SOC202 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC202?",
+    "context": "",
+    "response": "SOC202 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC202 belong to?",
+    "context": "",
+    "response": "SOC202 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC203 about?",
+    "context": "",
+    "response": "SOC203 - Social Group and Social Development is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC203?",
+    "context": "",
+    "response": "SOC203 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC203?",
+    "context": "",
+    "response": "SOC203 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC203 belong to?",
+    "context": "",
+    "response": "SOC203 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC205 about?",
+    "context": "",
+    "response": "SOC205 - Rural Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC205?",
+    "context": "",
+    "response": "SOC205 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC205?",
+    "context": "",
+    "response": "SOC205 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC205 belong to?",
+    "context": "",
+    "response": "SOC205 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC206 about?",
+    "context": "",
+    "response": "SOC206 - Statistics for Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC206?",
+    "context": "",
+    "response": "SOC206 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC206?",
+    "context": "",
+    "response": "SOC206 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC206 belong to?",
+    "context": "",
+    "response": "SOC206 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC208 about?",
+    "context": "",
+    "response": "SOC208 - Social (Stratification and) Inequality is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC208?",
+    "context": "",
+    "response": "SOC208 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC208?",
+    "context": "",
+    "response": "SOC208 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC208 belong to?",
+    "context": "",
+    "response": "SOC208 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC209 about?",
+    "context": "",
+    "response": "SOC209 - Industrial Sociology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC209?",
+    "context": "",
+    "response": "SOC209 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC209?",
+    "context": "",
+    "response": "SOC209 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC209 belong to?",
+    "context": "",
+    "response": "SOC209 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC210 about?",
+    "context": "",
+    "response": "SOC210 - Community, Communication and Culture is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC210?",
+    "context": "",
+    "response": "SOC210 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC210?",
+    "context": "",
+    "response": "SOC210 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC210 belong to?",
+    "context": "",
+    "response": "SOC210 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC211 about?",
+    "context": "",
+    "response": "SOC211 - Eastern Culture and Heritage is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC211?",
+    "context": "",
+    "response": "SOC211 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC211?",
+    "context": "",
+    "response": "SOC211 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC211 belong to?",
+    "context": "",
+    "response": "SOC211 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC212 about?",
+    "context": "",
+    "response": "SOC212 - Social Ecology, Environment and Society is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC212?",
+    "context": "",
+    "response": "SOC212 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC212?",
+    "context": "",
+    "response": "SOC212 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC212 belong to?",
+    "context": "",
+    "response": "SOC212 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC213 about?",
+    "context": "",
+    "response": "SOC213 - Women in Development is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC213?",
+    "context": "",
+    "response": "SOC213 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC213?",
+    "context": "",
+    "response": "SOC213 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC213 belong to?",
+    "context": "",
+    "response": "SOC213 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC214 about?",
+    "context": "",
+    "response": "SOC214 - Introduction to Development Studies is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC214?",
+    "context": "",
+    "response": "SOC214 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC214?",
+    "context": "",
+    "response": "SOC214 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC214 belong to?",
+    "context": "",
+    "response": "SOC214 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC215 about?",
+    "context": "",
+    "response": "SOC215 - Principles of Social and Public Relations is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC215?",
+    "context": "",
+    "response": "SOC215 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC215?",
+    "context": "",
+    "response": "SOC215 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC215 belong to?",
+    "context": "",
+    "response": "SOC215 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC216 about?",
+    "context": "",
+    "response": "SOC216 - Globalization and Social Identity is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC216?",
+    "context": "",
+    "response": "SOC216 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC216?",
+    "context": "",
+    "response": "SOC216 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC216 belong to?",
+    "context": "",
+    "response": "SOC216 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC217 about?",
+    "context": "",
+    "response": "SOC217 - Religion, Ethnicity, Culture and Development in South Asia is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC217?",
+    "context": "",
+    "response": "SOC217 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC217?",
+    "context": "",
+    "response": "SOC217 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC217 belong to?",
+    "context": "",
+    "response": "SOC217 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC218 about?",
+    "context": "",
+    "response": "SOC218 - Sociology of Gender is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC218?",
+    "context": "",
+    "response": "SOC218 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC218?",
+    "context": "",
+    "response": "SOC218 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC218 belong to?",
+    "context": "",
+    "response": "SOC218 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC219 about?",
+    "context": "",
+    "response": "SOC219 - Sociology of Race and Ethnicity is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC219?",
+    "context": "",
+    "response": "SOC219 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC219?",
+    "context": "",
+    "response": "SOC219 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC219 belong to?",
+    "context": "",
+    "response": "SOC219 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC220 about?",
+    "context": "",
+    "response": "SOC220 - Quantitative Research Methodology is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC220?",
+    "context": "",
+    "response": "SOC220 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC220?",
+    "context": "",
+    "response": "SOC220 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC220 belong to?",
+    "context": "",
+    "response": "SOC220 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC221 about?",
+    "context": "",
+    "response": "SOC221 - Social History and World Civilization is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC221?",
+    "context": "",
+    "response": "SOC221 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC221?",
+    "context": "",
+    "response": "SOC221 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC221 belong to?",
+    "context": "",
+    "response": "SOC221 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course SOC310 about?",
+    "context": "",
+    "response": "SOC310 - Sociology of Organization is a Optional General Education course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is SOC310?",
+    "context": "",
+    "response": "SOC310 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC310?",
+    "context": "",
+    "response": "SOC310 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does SOC310 belong to?",
+    "context": "",
+    "response": "SOC310 is classified as a Optional General Education course."
+  },
+  {
+    "instruction": "What is the course ACT101 about?",
+    "context": "",
+    "response": "ACT101 - Financial Accounting is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ACT101?",
+    "context": "",
+    "response": "ACT101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ACT101?",
+    "context": "",
+    "response": "ACT101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ACT101 belong to?",
+    "context": "",
+    "response": "ACT101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ACT201 about?",
+    "context": "",
+    "response": "ACT201 - Management Accounting is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ACT201?",
+    "context": "",
+    "response": "ACT201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ACT201?",
+    "context": "",
+    "response": "ACT201 has the following prerequisites: ACT101."
+  },
+  {
+    "instruction": "What category does ACT201 belong to?",
+    "context": "",
+    "response": "ACT201 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course BUS231 about?",
+    "context": "",
+    "response": "BUS231 - Business Communication is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is BUS231?",
+    "context": "",
+    "response": "BUS231 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for BUS231?",
+    "context": "",
+    "response": "BUS231 has the following prerequisites: ENG102."
+  },
+  {
+    "instruction": "What category does BUS231 belong to?",
+    "context": "",
+    "response": "BUS231 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course BUS361 about?",
+    "context": "",
+    "response": "BUS361 - Legal Environment of Business is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is BUS361?",
+    "context": "",
+    "response": "BUS361 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for BUS361?",
+    "context": "",
+    "response": "BUS361 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does BUS361 belong to?",
+    "context": "",
+    "response": "BUS361 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ECO101 about?",
+    "context": "",
+    "response": "ECO101 - Principles of Microeconomics is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO101?",
+    "context": "",
+    "response": "ECO101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO101?",
+    "context": "",
+    "response": "ECO101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO101 belong to?",
+    "context": "",
+    "response": "ECO101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ECO102 about?",
+    "context": "",
+    "response": "ECO102 - Introduction to Macroeconomics is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO102?",
+    "context": "",
+    "response": "ECO102 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO102?",
+    "context": "",
+    "response": "ECO102 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ECO102 belong to?",
+    "context": "",
+    "response": "ECO102 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ECO204 about?",
+    "context": "",
+    "response": "ECO204 - Statistics for Business and Economics II is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ECO204?",
+    "context": "",
+    "response": "ECO204 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ECO204?",
+    "context": "",
+    "response": "ECO204 has the following prerequisites: ECO104."
+  },
+  {
+    "instruction": "What category does ECO204 belong to?",
+    "context": "",
+    "response": "ECO204 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course FIN101 about?",
+    "context": "",
+    "response": "FIN101 - Principles of Finance is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is FIN101?",
+    "context": "",
+    "response": "FIN101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for FIN101?",
+    "context": "",
+    "response": "FIN101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does FIN101 belong to?",
+    "context": "",
+    "response": "FIN101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course FIN201 about?",
+    "context": "",
+    "response": "FIN201 - Business Finance is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is FIN201?",
+    "context": "",
+    "response": "FIN201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for FIN201?",
+    "context": "",
+    "response": "FIN201 has the following prerequisites: FIN101."
+  },
+  {
+    "instruction": "What category does FIN201 belong to?",
+    "context": "",
+    "response": "FIN201 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course HRM301 about?",
+    "context": "",
+    "response": "HRM301 - Human Resource Management is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is HRM301?",
+    "context": "",
+    "response": "HRM301 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for HRM301?",
+    "context": "",
+    "response": "HRM301 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does HRM301 belong to?",
+    "context": "",
+    "response": "HRM301 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course ITB301 about?",
+    "context": "",
+    "response": "ITB301 - International Business is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is ITB301?",
+    "context": "",
+    "response": "ITB301 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ITB301?",
+    "context": "",
+    "response": "ITB301 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does ITB301 belong to?",
+    "context": "",
+    "response": "ITB301 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MAT211 about?",
+    "context": "",
+    "response": "MAT211 - Mathematics for Business and Economics II is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MAT211?",
+    "context": "",
+    "response": "MAT211 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MAT211?",
+    "context": "",
+    "response": "MAT211 has the following prerequisites: MAT110."
+  },
+  {
+    "instruction": "What category does MAT211 belong to?",
+    "context": "",
+    "response": "MAT211 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MGT101 about?",
+    "context": "",
+    "response": "MGT101 - Principles of Management is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MGT101?",
+    "context": "",
+    "response": "MGT101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MGT101?",
+    "context": "",
+    "response": "MGT101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MGT101 belong to?",
+    "context": "",
+    "response": "MGT101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MGT251 about?",
+    "context": "",
+    "response": "MGT251 - Organizational Behavior is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MGT251?",
+    "context": "",
+    "response": "MGT251 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MGT251?",
+    "context": "",
+    "response": "MGT251 has the following prerequisites: MGT101."
+  },
+  {
+    "instruction": "What category does MGT251 belong to?",
+    "context": "",
+    "response": "MGT251 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MGT337 about?",
+    "context": "",
+    "response": "MGT337 - Production Operations Management is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MGT337?",
+    "context": "",
+    "response": "MGT337 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MGT337?",
+    "context": "",
+    "response": "MGT337 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MGT337 belong to?",
+    "context": "",
+    "response": "MGT337 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MGT480 about?",
+    "context": "",
+    "response": "MGT480 - Strategic Management is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MGT480?",
+    "context": "",
+    "response": "MGT480 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MGT480?",
+    "context": "",
+    "response": "MGT480 has the following prerequisites: Senior Standing."
+  },
+  {
+    "instruction": "What category does MGT480 belong to?",
+    "context": "",
+    "response": "MGT480 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MIS101 about?",
+    "context": "",
+    "response": "MIS101 - Introduction to Management Information System is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MIS101?",
+    "context": "",
+    "response": "MIS101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MIS101?",
+    "context": "",
+    "response": "MIS101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MIS101 belong to?",
+    "context": "",
+    "response": "MIS101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MIS305 about?",
+    "context": "",
+    "response": "MIS305 - Enterprise Information System is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MIS305?",
+    "context": "",
+    "response": "MIS305 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MIS305?",
+    "context": "",
+    "response": "MIS305 has the following prerequisites: MIS101."
+  },
+  {
+    "instruction": "What category does MIS305 belong to?",
+    "context": "",
+    "response": "MIS305 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MKT101 about?",
+    "context": "",
+    "response": "MKT101 - Principles of Marketing is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MKT101?",
+    "context": "",
+    "response": "MKT101 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MKT101?",
+    "context": "",
+    "response": "MKT101 has the following prerequisites: None."
+  },
+  {
+    "instruction": "What category does MKT101 belong to?",
+    "context": "",
+    "response": "MKT101 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course MKT201 about?",
+    "context": "",
+    "response": "MKT201 - Marketing Management is a Core course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is MKT201?",
+    "context": "",
+    "response": "MKT201 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for MKT201?",
+    "context": "",
+    "response": "MKT201 has the following prerequisites: MKT101."
+  },
+  {
+    "instruction": "What category does MKT201 belong to?",
+    "context": "",
+    "response": "MKT201 is classified as a Core course."
+  },
+  {
+    "instruction": "What is the course BUS498 / BUS499 about?",
+    "context": "",
+    "response": "BUS498 / BUS499 - Project Work / Internship is a Intern/Project course with 3 credits."
+  },
+  {
+    "instruction": "How many credits is BUS498 / BUS499?",
+    "context": "",
+    "response": "BUS498 / BUS499 is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for BUS498 / BUS499?",
+    "context": "",
+    "response": "BUS498 / BUS499 has the following prerequisites: Senior Standing."
+  },
+  {
+    "instruction": "What category does BUS498 / BUS499 belong to?",
+    "context": "",
+    "response": "BUS498 / BUS499 is classified as a Intern/Project course."
+  },
+  {
+    "instruction": "What is the total number of credits required to graduate with a BBA from EWU?",
+    "context": "",
+    "response": "You need to complete a minimum of 123 credits to earn your Bachelor of Business Administration (BBA) degree at East West University."
+  },
+  {
+    "instruction": "How are the BBA credits distributed across different course categories?",
+    "context": "",
+    "response": "The 123-credit BBA program is structured as follows: 24 credits in compulsory general education, 9 credits in optional general education, 60 credits in core business courses, 18 credits in major-specific courses, 9 credits in open electives, and 3 credits for an internship or project."
+  },
+  {
+    "instruction": "How many credits are dedicated to general education in the BBA program?",
+    "context": "",
+    "response": "The BBA program includes 33 credits of general education: 24 credits are compulsory (required for all students), and 9 credits are optional, allowing you to explore subjects outside your major."
+  },
+  {
+    "instruction": "What is the credit requirement for the internship or project in the BBA program?",
+    "context": "",
+    "response": "You must complete a 3-credit internship or project as part of your BBA degree requirements. This practical component helps you gain real-world business experience before graduation."
+  },
+  {
+    "instruction": "Can I take courses outside of business as a BBA student?",
+    "context": "",
+    "response": "Yes! The program includes 9 credits of open electives, which you can use to take courses in any department—such as computer science, economics, or communication—based on your interests or career goals."
+  },
+  {
+    "instruction": "How many credits are focused specifically on my business major?",
+    "context": "",
+    "response": "You’ll take 18 credits of major-specific courses, which allow you to deepen your expertise in a particular area of business, such as marketing, finance, or management, depending on available specializations."
+  },
+  {
+    "instruction": "What portion of the BBA curriculum is made up of core business courses?",
+    "context": "",
+    "response": "Core business courses form the backbone of the program, totaling 60 credits. These cover essential topics like accounting, finance, marketing, operations, organizational behavior, and strategic management."
+  },
+  {
+    "instruction": "Do I have flexibility in choosing general education courses?",
+    "context": "",
+    "response": "Yes, while 24 credits of general education are compulsory (likely covering English, math, and social sciences), you have 9 credits of optional general education where you can choose from a range of approved courses to fulfill breadth requirements."
+  },
+  {
+    "instruction": "Is an internship mandatory for BBA students at EWU?",
+    "context": "",
+    "response": "Yes, the program requires a 3-credit internship or project, which is part of the 123 total credits needed for graduation. This ensures you gain hands-on professional experience in a business setting."
+  },
+  {
+    "instruction": "How many elective credits do BBA students get?",
+    "context": "",
+    "response": "BBA students have a total of 18 elective credits: 9 in optional general education and 9 in open electives. This gives you room to explore interdisciplinary subjects or pursue a minor alongside your business degree."
+  },
+  {
+    "instruction": "How many credits do I need to complete for my major in the BBA program at EWU?",
+    "context": "",
+    "response": "All BBA majors at East West University require exactly 18 credits to complete. This includes a combination of required courses and elective courses specific to your chosen major—such as Accounting, Finance, Marketing, HRM, MIS, Management, or International Business."
+  },
+  {
+    "instruction": "What are the required courses for the Accounting major?",
+    "context": "",
+    "response": "The Accounting major requires four courses (12 credits): Taxation (ACT311), Intermediate Accounting I (ACT411), Intermediate Accounting II (ACT421), and Cost Accounting (ACT441). You’ll also need to take 6 credits (2 courses) from the major electives to reach the 18-credit requirement."
+  },
+  {
+    "instruction": "Can Finance students take Taxation as part of their major?",
+    "context": "",
+    "response": "Yes! 'Taxation' (ACT311) is listed as a major elective for Finance students. As long as you’ve completed the prerequisite (ACT101), you can choose it as one of your Finance major electives."
+  },
+  {
+    "instruction": "How many required courses are there in the Marketing major?",
+    "context": "",
+    "response": "The Marketing major has only 2 required courses: Consumer Behavior (MKT410) and Marketing Research (MKT414). The remaining 12 credits (4 courses) come from a wide selection of 8 major electives like Brand Management, Digital Marketing, and Supply Chain Management."
+  },
+  {
+    "instruction": "What’s the prerequisite for Intermediate Accounting I?",
+    "context": "",
+    "response": "To enroll in Intermediate Accounting I (ACT411), you must have already completed ACT201 (likely Principles of Accounting II). This ensures you have the foundational accounting knowledge needed for advanced topics."
+  },
+  {
+    "instruction": "Does the MIS major include programming courses?",
+    "context": "",
+    "response": "Yes, the MIS (Management Information Systems) major includes several technical courses. Required courses include Structural Programming (MIS401) and System Analysis and Design, while electives like Object-Oriented Programming, Web Programming, and Database Systems provide strong programming and systems development skills."
+  },
+  {
+    "instruction": "What courses are required for the HRM major?",
+    "context": "",
+    "response": "HRM majors must take three required courses: Human Resource Planning (HRM411), Compensation Management (HRM412), and Industrial Relations and Labour Law (HRM413). All require HRM301 as a prerequisite, and you’ll choose 3 more electives from 7 options to complete the 18-credit major."
+  },
+  {
+    "instruction": "Is International Financial Management offered in more than one major?",
+    "context": "",
+    "response": "Yes! 'International Financial Management' appears as a required course in both the Finance major (FIN465) and the International Business major (ITB465), reflecting its importance in global business and finance curricula."
+  },
+  {
+    "instruction": "Can I take International Marketing if I’m a Marketing major?",
+    "context": "",
+    "response": "Yes, 'International Marketing' (MKT408) is a major elective for Marketing students. You’ll need to have completed MKT201 and ITB301 as prerequisites before enrolling."
+  },
+  {
+    "instruction": "What are the prerequisites for the Leadership Management course?",
+    "context": "",
+    "response": "To take 'Leadership Management' (MGT465) in the Management major, you must first complete MGT251 (likely Organizational Behavior or a similar foundational management course)."
+  },
+  {
+    "instruction": "How many elective courses do I need to choose in the Finance major?",
+    "context": "",
+    "response": "The Finance major has 3 required courses (9 credits), so you need to select 3 more courses (9 credits) from a list of 8 major electives—such as Financial Institutions, Risk Management, Real Estate Finance, or Options and Futures—to meet the 18-credit major requirement."
+  },
+  {
+    "instruction": "Are there any entrepreneurship-related courses in the BBA program?",
+    "context": "",
+    "response": "Yes! 'Entrepreneurship Development' (MGT421) is a required course for Management majors, and 'Small Business Management' (MGT437) is an elective in the same major—both ideal for students interested in starting or managing their own businesses."
+  },
+  {
+    "instruction": "What technical skills will I gain in the MIS major?",
+    "context": "",
+    "response": "The MIS major equips you with programming (Structural and Object-Oriented), database management (RDBMS, SQL), networking, system analysis, web development (E-Commerce), and security skills—preparing you for roles at the intersection of business and technology."
+  },
+  {
+    "instruction": "Is there a course on labor laws in the BBA program?",
+    "context": "",
+    "response": "Yes, 'Industrial Relations and Labour Law' (HRM413) is a required course for HRM majors, covering legal frameworks, worker rights, and employer obligations in Bangladesh and international contexts."
+  },
+  {
+    "instruction": "Can Management students take courses related to globalization?",
+    "context": "",
+    "response": "Yes, 'Managing Globalization' (MGT448) is a major elective for Management students, with ITB301 as a prerequisite. It explores how global trends impact business strategy, operations, and leadership."
+  },
+  {
+    "instruction": "What’s the difference between required and elective courses in my major?",
+    "context": "",
+    "response": "Required courses are mandatory for all students in that major and form the core knowledge base. Electives let you specialize further—e.g., a Finance student can focus on banking, investments, or risk management based on their career goals."
+  },
+  {
+    "instruction": "Do I need programming experience before joining the MIS major?",
+    "context": "",
+    "response": "While prior experience isn’t required, you’ll need to complete foundational courses like CSE102 and MIS101 first. The major builds progressively—from structural programming to advanced topics like system security and e-commerce development."
+  },
+  {
+    "instruction": "Are there courses on digital marketing or branding in the BBA program?",
+    "context": "",
+    "response": "Yes! Marketing majors can take 'Brand Management' (MKT416) and 'Integrated Marketing Communication' (MKT402). While not explicitly labeled 'digital marketing,' 'E-Commerce and Web Programming' (MIS419) and 'IMC' cover relevant digital strategies."
+  },
+  {
+    "instruction": "Can HRM students learn about HR software systems?",
+    "context": "",
+    "response": "Yes, 'Human Resource Information System' (HRM417) is a major elective for HRM students. It requires MIS101 as a prerequisite and covers how technology supports recruitment, payroll, performance tracking, and compliance."
+  },
+  {
+    "instruction": "What majors offer the most elective choices?",
+    "context": "",
+    "response": "Finance offers the most electives with 8 options, followed by Marketing and HRM (7 each). Accounting has 4 electives, while Management and International Business offer 5 each. MIS provides 7 electives, giving students flexibility to tailor their tech-business focus."
+  },
+  {
+    "instruction": "What are the open elective requirements for BBA students at EWU?",
+    "context": "",
+    "response": "BBA students must take three 300/400-level courses (9 credits total) as open electives from departments like BA, CSE, ICE, ENG, or ECO. However, ICE 301 (Network Technology) and ICE 403 (Local Area Network) are not allowed. You must meet prerequisites and consult with the relevant department chair and instructor before enrolling."
+  },
+  {
+    "instruction": "Can I take any course as an open elective in my BBA program?",
+    "context": "",
+    "response": "Not quite. While you can choose from 300/400-level courses in BA, CSE, ICE, ENG, or ECO departments, two courses—ICE 301 and ICE 403—are explicitly excluded. Also, you must satisfy prerequisites and get approval from the course instructor and department chair before registration."
+  },
+  {
+    "instruction": "Do I need permission to enroll in open electives from other departments?",
+    "context": "",
+    "response": "Yes, you must consult with both the chairperson and the course instructor of the department offering the open elective. This ensures you meet prerequisites and that the course is appropriate for cross-departmental enrollment."
+  },
+  {
+    "instruction": "What is a second major option for non-BBA students at EWU?",
+    "context": "",
+    "response": "Non-BBA students can pursue a second major in business by completing 51 credits: 33 credits in core business courses (including economics, accounting, finance, marketing, management, math, and statistics) plus 15 credits in a chosen business major area like Finance, Marketing, or HRM."
+  },
+  {
+    "instruction": "How many credits are required for a second major in business for non-BBA students?",
+    "context": "",
+    "response": "A total of 51 credits are required: 33 credits from 11 compulsory core courses (such as Microeconomics, Financial Accounting, and Business Communication) and 15 credits from a selected business major (e.g., ACT, FIN, MKT, HRM, etc.)."
+  },
+  {
+    "instruction": "What are the core courses required for a second major in business?",
+    "context": "",
+    "response": "The second major requires 11 core courses: Mathematics for Business I & II, Statistics for Business I & II, Microeconomics, Macroeconomics, Financial Accounting, Principles of Finance, Management, Marketing, and Business Communication—totaling 33 credits."
+  },
+  {
+    "instruction": "After completing core courses, what do I need to do for the second major?",
+    "context": "",
+    "response": "After the 33-credit core, you must choose one business area (e.g., Finance, Marketing, HRM) and complete 15 credits of major-specific courses in that field to fulfill the remaining requirement of the 51-credit second major."
+  },
+  {
+    "instruction": "Can I choose any business department for my second major?",
+    "context": "",
+    "response": "Yes, you can select from seven major areas: Accounting (ACT), Finance (FIN), International Business (ITB), Management (MGT), MIS, Marketing (MKT), or HRM—each requiring 15 credits of specialized coursework."
+  },
+  {
+    "instruction": "Is there a choice in the second major core requirements?",
+    "context": "",
+    "response": "Yes, after completing the 11 fixed core courses, you must take one additional course from a set of options: ACT201, FIN201, MKT201, or MGT251—likely aligning with your intended major focus."
+  },
+  {
+    "instruction": "Are open electives the same as general electives in the BBA program?",
+    "context": "",
+    "response": "In this context, 'open electives' refer specifically to three 300/400-level courses taken from non-BBA departments (like CSE or ECO), as mandated by university policy. They are distinct from major or general education electives and have special enrollment rules."
+  },
+  {
+    "instruction": "Why can’t I take ICE 301 or ICE 403 as open electives?",
+    "context": "",
+    "response": "University policy explicitly prohibits BBA students from using ICE 301 (Network Technology) and ICE 403 (Local Area Network) to fulfill open elective requirements—likely because they are highly technical and not aligned with BBA learning outcomes."
+  },
+  {
+    "instruction": "How does the second major policy benefit non-business students?",
+    "context": "",
+    "response": "It allows students from other disciplines (e.g., engineering or arts) to gain a structured business education by completing 51 credits across core and major courses, making them more competitive for roles in management, consulting, or entrepreneurship."
+  },
+  {
+    "instruction": "Do I need to declare a second major formally?",
+    "context": "",
+    "response": "While the JSON doesn’t specify the procedure, completing 51 credits in the defined structure (33 core + 15 major + 1 optional course) implies formal declaration is required to ensure proper advising and credit tracking toward the second major credential."
+  },
+  {
+    "instruction": "Can BBA students pursue a second major in another field?",
+    "context": "",
+    "response": "The provided JSON only describes a second major option for non-BBA students wanting to add business. It doesn’t mention BBA students adding a second major in, say, CSE or ECO—so that option isn’t covered in this data."
+  },
+  {
+    "instruction": "What math and stats courses are required for the second major in business?",
+    "context": "",
+    "response": "You must take four quantitative courses: Mathematics for Business and Economics I & II (MAT110, MAT211) and Statistics for Business and Economics I & II (ECO104, ECO204)—totaling 12 credits as part of the 33-credit core."
+  },
+  {
+    "instruction": "Is Business Communication part of the second major requirements?",
+    "context": "",
+    "response": "Yes, 'Business Communication' (BUS231) is one of the 11 compulsory core courses (3 credits) required for the 51-credit second major in business for non-BBA students."
+  },
+  {
+    "instruction": "How many departments can I choose open electives from?",
+    "context": "",
+    "response": "You can select open electives from five departments: BA (English/Arts), CSE (Computer Science), ICE (Electrical & Computer Engineering), ENG (possibly English or Engineering), and ECO (Economics)—as long as the course is 300/400-level and not ICE 301 or ICE 403."
+  },
+  {
+    "instruction": "What happens if I don’t complete the open elective requirement?",
+    "context": "",
+    "response": "According to policy, completing three approved 300/400-level open electives is mandatory to qualify for the BBA degree. Failure to fulfill this would prevent you from graduating, even if all other credits are complete."
+  },
+  {
+    "instruction": "Can I take an open elective in Economics?",
+    "context": "",
+    "response": "Yes, ECO (Economics) is one of the approved departments for open electives. You can take any 300/400-level ECO course, provided you meet prerequisites and consult with the Economics department chair and instructor beforehand."
+  },
+  {
+    "instruction": "What’s the total credit load if I add a second major as a non-BBA student?",
+    "context": "",
+    "response": "The second major itself is 51 credits, but this is in addition to your primary degree requirements. You’ll need to complete both your original program’s credits and these 51 business credits to earn the second major designation."
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "instruction": "What program does the Sociology department offer at EWU?",
+    "context": "",
+    "response": "The Sociology department offers the Bachelor of Social Science (BSS) in Sociology program at EWU."
+  },
+  {
+    "instruction": "How many total credits do I need to graduate in Sociology at EWU?",
+    "context": "",
+    "response": "To complete the BSS in Sociology, you need a minimum of 123 credits."
+  },
+  {
+    "instruction": "Can you break down the courses required for the Sociology program?",
+    "context": "",
+    "response": "The program includes several types of courses: 18 Compulsory General Education courses, 9 Compulsory Foundation courses, 57 Required Core courses, 33 Elective courses, and 6 credits for Individual Research, Practicum, or Internship."
+  },
+  {
+    "instruction": "How many general education courses do I have to take in Sociology?",
+    "context": "",
+    "response": "You are required to complete 18 Compulsory General Education courses as part of the Sociology program."
+  },
+  {
+    "instruction": "What are the foundation course requirements for the BSS in Sociology?",
+    "context": "",
+    "response": "The program includes 9 Compulsory Foundation courses designed to give you essential knowledge and skills needed for your major studies."
+  },
+  {
+    "instruction": "How many core courses are required in the Sociology program?",
+    "context": "",
+    "response": "You must complete 57 Required Core courses in the BSS in Sociology program, which form the main part of your major."
+  },
+  {
+    "instruction": "Can I choose electives in the Sociology program?",
+    "context": "",
+    "response": "Yes, the program includes 33 Elective courses, giving you flexibility to explore areas of interest within or related to Sociology."
+  },
+  {
+    "instruction": "Is there any research or practical work included in the Sociology degree?",
+    "context": "",
+    "response": "Yes, the program includes 6 credits dedicated to Individual Research, Practicum, or Internship, allowing you to gain hands-on experience."
+  },
+  {
+    "instruction": "How can I understand the total workload of the Sociology program?",
+    "context": "",
+    "response": "The total program requires 123 credits, which are distributed among General Education, Foundation, Core, Elective, and Research/Practicum/Internship courses to provide a well-rounded education."
+  },
+  {
+    "instruction": "What is the capstone requirement for the BSS in Sociology program?",
+    "context": "",
+    "response": "All undergraduates in the BSS in Sociology program must undergo a viva-voce examination for either a Research Project/Monograph or a Practicum/Internship. This defense contributes 30% of the total marks for the course. Students can choose one option from Individual Research, Practicum, or Internship to fulfill this requirement."
+  },
+  {
+    "instruction": "Which courses can I take for the capstone requirement in Sociology?",
+    "context": "",
+    "response": "For the capstone, you can choose one of the following courses: 1) SOC413 - Research Project/Monograph (6 credits), or 2) SOC414 - Practicum and Internship (6 credits). Both require Senior Standing as a prerequisite and fall under the Research Practicum category."
+  },
+  {
+    "instruction": "How many credits is the capstone course worth in the Sociology program?",
+    "context": "",
+    "response": "Each capstone course—SOC413 Research Project/Monograph or SOC414 Practicum and Internship—is worth 6 credits."
+  },
+  {
+    "instruction": "Do I need to complete both Research Project and Practicum for my capstone?",
+    "context": "",
+    "response": "No, you only need to complete one option. You can choose either the Research Project/Monograph (SOC413) or the Practicum and Internship (SOC414) to satisfy the capstone requirement."
+  },
+  {
+    "instruction": "When can I take the capstone courses in Sociology?",
+    "context": "",
+    "response": "Both SOC413 and SOC414 require Senior Standing, so you should enroll in them during your final year after completing the majority of your core and elective courses."
+  },
+  {
+    "instruction": "How important is the viva-voce for the capstone course?",
+    "context": "",
+    "response": "The viva-voce examination for the capstone course is very important as it accounts for 30% of the total marks for the Research Project/Monograph or Practicum/Internship."
+  },
+  {
+    "instruction": "Can you tell me about the course ENG100?",
+    "context": "",
+    "response": "Spoken English (ENG100) is a Compulsory General course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ENG100?",
+    "context": "",
+    "response": "The course ENG100 - Spoken English carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG100?",
+    "context": "",
+    "response": "The prerequisites for ENG100 - Spoken English are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ENG101?",
+    "context": "",
+    "response": "Basic English (ENG101) is a Compulsory General course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is ENG101?",
+    "context": "",
+    "response": "The course ENG101 - Basic English carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG101?",
+    "context": "",
+    "response": "The prerequisites for ENG101 - Basic English are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course ENG102?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG102) is a Compulsory General course worth 3 credits. Prerequisites: ENG101."
+  },
+  {
+    "instruction": "How many credits is ENG102?",
+    "context": "",
+    "response": "The course ENG102 - Composition and Communication Skills carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for ENG102?",
+    "context": "",
+    "response": "The prerequisites for ENG102 - Composition and Communication Skills are: ENG101."
+  },
+  {
+    "instruction": "Can you tell me about the course CSE101?",
+    "context": "",
+    "response": "Introduction to Computer (CSE101) is a Compulsory General course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is CSE101?",
+    "context": "",
+    "response": "The course CSE101 - Introduction to Computer carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for CSE101?",
+    "context": "",
+    "response": "The prerequisites for CSE101 - Introduction to Computer are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course GEN226?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN226) is a Compulsory General course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is GEN226?",
+    "context": "",
+    "response": "The course GEN226 - Emergence of Bangladesh carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN226?",
+    "context": "",
+    "response": "The prerequisites for GEN226 - Emergence of Bangladesh are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course GEN224?",
+    "context": "",
+    "response": "Bangla Language (GEN224) is a Compulsory General course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is GEN224?",
+    "context": "",
+    "response": "The course GEN224 - Bangla Language carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for GEN224?",
+    "context": "",
+    "response": "The prerequisites for GEN224 - Bangla Language are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC101?",
+    "context": "",
+    "response": "Introduction to Sociology (SOC101) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC101?",
+    "context": "",
+    "response": "The course SOC101 - Introduction to Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC101?",
+    "context": "",
+    "response": "The prerequisites for SOC101 - Introduction to Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC102?",
+    "context": "",
+    "response": "Introduction to Anthropology (SOC102) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC102?",
+    "context": "",
+    "response": "The course SOC102 - Introduction to Anthropology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC102?",
+    "context": "",
+    "response": "The prerequisites for SOC102 - Introduction to Anthropology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC106?",
+    "context": "",
+    "response": "Historical Sociology (SOC106) is a Foundation course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC106?",
+    "context": "",
+    "response": "The course SOC106 - Historical Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC106?",
+    "context": "",
+    "response": "The prerequisites for SOC106 - Historical Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC104?",
+    "context": "",
+    "response": "Social Problems (SOC104) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC104?",
+    "context": "",
+    "response": "The course SOC104 - Social Problems carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC104?",
+    "context": "",
+    "response": "The prerequisites for SOC104 - Social Problems are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC107?",
+    "context": "",
+    "response": "Social Problem and Analysis (SOC107) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC107?",
+    "context": "",
+    "response": "The course SOC107 - Social Problem and Analysis carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC107?",
+    "context": "",
+    "response": "The prerequisites for SOC107 - Social Problem and Analysis are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC201?",
+    "context": "",
+    "response": "Sociology of Family and Marriage (SOC201) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC201?",
+    "context": "",
+    "response": "The course SOC201 - Sociology of Family and Marriage carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC201?",
+    "context": "",
+    "response": "The prerequisites for SOC201 - Sociology of Family and Marriage are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC202?",
+    "context": "",
+    "response": "Social Psychology (SOC202) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC202?",
+    "context": "",
+    "response": "The course SOC202 - Social Psychology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC202?",
+    "context": "",
+    "response": "The prerequisites for SOC202 - Social Psychology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC205?",
+    "context": "",
+    "response": "Rural Sociology (SOC205) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC205?",
+    "context": "",
+    "response": "The course SOC205 - Rural Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC205?",
+    "context": "",
+    "response": "The prerequisites for SOC205 - Rural Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC206?",
+    "context": "",
+    "response": "Statistics for Sociology (SOC206) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC206?",
+    "context": "",
+    "response": "The course SOC206 - Statistics for Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC206?",
+    "context": "",
+    "response": "The prerequisites for SOC206 - Statistics for Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC210?",
+    "context": "",
+    "response": "Community, Communication, and Culture (SOC210) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC210?",
+    "context": "",
+    "response": "The course SOC210 - Community, Communication, and Culture carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC210?",
+    "context": "",
+    "response": "The prerequisites for SOC210 - Community, Communication, and Culture are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC218?",
+    "context": "",
+    "response": "Sociology of Gender (SOC218) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC218?",
+    "context": "",
+    "response": "The course SOC218 - Sociology of Gender carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC218?",
+    "context": "",
+    "response": "The prerequisites for SOC218 - Sociology of Gender are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC220?",
+    "context": "",
+    "response": "Quantitative Research Methodology (SOC220) is a Core course worth 3 credits. Prerequisites: SOC206."
+  },
+  {
+    "instruction": "How many credits is SOC220?",
+    "context": "",
+    "response": "The course SOC220 - Quantitative Research Methodology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC220?",
+    "context": "",
+    "response": "The prerequisites for SOC220 - Quantitative Research Methodology are: SOC206."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC301?",
+    "context": "",
+    "response": "Qualitative Research Methodology (SOC301) is a Core course worth 3 credits. Prerequisites: SOC220."
+  },
+  {
+    "instruction": "How many credits is SOC301?",
+    "context": "",
+    "response": "The course SOC301 - Qualitative Research Methodology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC301?",
+    "context": "",
+    "response": "The prerequisites for SOC301 - Qualitative Research Methodology are: SOC220."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC302?",
+    "context": "",
+    "response": "Social Structure of Bangladesh (SOC302) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC302?",
+    "context": "",
+    "response": "The course SOC302 - Social Structure of Bangladesh carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC302?",
+    "context": "",
+    "response": "The prerequisites for SOC302 - Social Structure of Bangladesh are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC303?",
+    "context": "",
+    "response": "Urban Sociology (SOC303) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC303?",
+    "context": "",
+    "response": "The course SOC303 - Urban Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC303?",
+    "context": "",
+    "response": "The prerequisites for SOC303 - Urban Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC304?",
+    "context": "",
+    "response": "Sociology of Environment (SOC304) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC304?",
+    "context": "",
+    "response": "The course SOC304 - Sociology of Environment carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC304?",
+    "context": "",
+    "response": "The prerequisites for SOC304 - Sociology of Environment are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC305?",
+    "context": "",
+    "response": "Medical Sociology (SOC305) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC305?",
+    "context": "",
+    "response": "The course SOC305 - Medical Sociology carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC305?",
+    "context": "",
+    "response": "The prerequisites for SOC305 - Medical Sociology are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC306?",
+    "context": "",
+    "response": "Social Problem Analysis (SOC306) is a Core course worth 3 credits. Prerequisites: SOC107."
+  },
+  {
+    "instruction": "How many credits is SOC306?",
+    "context": "",
+    "response": "The course SOC306 - Social Problem Analysis carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC306?",
+    "context": "",
+    "response": "The prerequisites for SOC306 - Social Problem Analysis are: SOC107."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC309?",
+    "context": "",
+    "response": "Sociology of Education (SOC309) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC309?",
+    "context": "",
+    "response": "The course SOC309 - Sociology of Education carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC309?",
+    "context": "",
+    "response": "The prerequisites for SOC309 - Sociology of Education are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC312?",
+    "context": "",
+    "response": "Social Demography (SOC312) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC312?",
+    "context": "",
+    "response": "The course SOC312 - Social Demography carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC312?",
+    "context": "",
+    "response": "The prerequisites for SOC312 - Social Demography are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC319?",
+    "context": "",
+    "response": "Early Social Thought (SOC319) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC319?",
+    "context": "",
+    "response": "The course SOC319 - Early Social Thought carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC319?",
+    "context": "",
+    "response": "The prerequisites for SOC319 - Early Social Thought are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC401?",
+    "context": "",
+    "response": "Classical Sociological Theories (SOC401) is a Core course worth 3 credits. Prerequisites: SOC319."
+  },
+  {
+    "instruction": "How many credits is SOC401?",
+    "context": "",
+    "response": "The course SOC401 - Classical Sociological Theories carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC401?",
+    "context": "",
+    "response": "The prerequisites for SOC401 - Classical Sociological Theories are: SOC319."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC406?",
+    "context": "",
+    "response": "Sociology of Development (SOC406) is a Core course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is SOC406?",
+    "context": "",
+    "response": "The course SOC406 - Sociology of Development carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC406?",
+    "context": "",
+    "response": "The prerequisites for SOC406 - Sociology of Development are: None."
+  },
+  {
+    "instruction": "Can you tell me about the course SOC407?",
+    "context": "",
+    "response": "Contemporary Sociological Theories (SOC407) is a Core course worth 3 credits. Prerequisites: SOC401."
+  },
+  {
+    "instruction": "How many credits is SOC407?",
+    "context": "",
+    "response": "The course SOC407 - Contemporary Sociological Theories carries 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for SOC407?",
+    "context": "",
+    "response": "The prerequisites for SOC407 - Contemporary Sociological Theories are: SOC401."
+  },
+  {
+    "instruction": "What is the elective course SOC105?",
+    "context": "",
+    "response": "Peasant Societies (SOC105) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC105?",
+    "context": "",
+    "response": "The elective course SOC105 - Peasant Societies is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC105?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC105 - Peasant Societies are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC203?",
+    "context": "",
+    "response": "Social Group and Social Development (SOC203) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC203?",
+    "context": "",
+    "response": "The elective course SOC203 - Social Group and Social Development is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC203?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC203 - Social Group and Social Development are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC208?",
+    "context": "",
+    "response": "Social Stratification and Inequality (SOC208) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC208?",
+    "context": "",
+    "response": "The elective course SOC208 - Social Stratification and Inequality is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC208?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC208 - Social Stratification and Inequality are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC209?",
+    "context": "",
+    "response": "Industrial Sociology (SOC209) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC209?",
+    "context": "",
+    "response": "The elective course SOC209 - Industrial Sociology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC209?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC209 - Industrial Sociology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC211?",
+    "context": "",
+    "response": "Social History and World Civilization (SOC211) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC211?",
+    "context": "",
+    "response": "The elective course SOC211 - Social History and World Civilization is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC211?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC211 - Social History and World Civilization are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC217?",
+    "context": "",
+    "response": "Religion, Ethnicity, Culture and Development in South Asia (SOC217) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC217?",
+    "context": "",
+    "response": "The elective course SOC217 - Religion, Ethnicity, Culture and Development in South Asia is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC217?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC217 - Religion, Ethnicity, Culture and Development in South Asia are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC219?",
+    "context": "",
+    "response": "Sociology of Race and Ethnicity (SOC219) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC219?",
+    "context": "",
+    "response": "The elective course SOC219 - Sociology of Race and Ethnicity is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC219?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC219 - Sociology of Race and Ethnicity are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC307?",
+    "context": "",
+    "response": "Bangladesh Society and Culture (SOC307) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC307?",
+    "context": "",
+    "response": "The elective course SOC307 - Bangladesh Society and Culture is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC307?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC307 - Bangladesh Society and Culture are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC308?",
+    "context": "",
+    "response": "Social Services in Bangladesh (SOC308) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC308?",
+    "context": "",
+    "response": "The elective course SOC308 - Social Services in Bangladesh is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC308?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC308 - Social Services in Bangladesh are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC310?",
+    "context": "",
+    "response": "Sociology of Organization (SOC310) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC310?",
+    "context": "",
+    "response": "The elective course SOC310 - Sociology of Organization is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC310?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC310 - Sociology of Organization are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC311?",
+    "context": "",
+    "response": "Feminist Thought (SOC311) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC311?",
+    "context": "",
+    "response": "The elective course SOC311 - Feminist Thought is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC311?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC311 - Feminist Thought are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC313?",
+    "context": "",
+    "response": "Criminology (SOC313) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC313?",
+    "context": "",
+    "response": "The elective course SOC313 - Criminology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC313?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC313 - Criminology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC314?",
+    "context": "",
+    "response": "Sociology of Aging (SOC314) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC314?",
+    "context": "",
+    "response": "The elective course SOC314 - Sociology of Aging is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC314?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC314 - Sociology of Aging are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC315?",
+    "context": "",
+    "response": "Principles of Economic Sociology (SOC315) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC315?",
+    "context": "",
+    "response": "The elective course SOC315 - Principles of Economic Sociology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC315?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC315 - Principles of Economic Sociology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC316?",
+    "context": "",
+    "response": "Globalization, Migration, Development and Refugee Issues (SOC316) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC316?",
+    "context": "",
+    "response": "The elective course SOC316 - Globalization, Migration, Development and Refugee Issues is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC316?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC316 - Globalization, Migration, Development and Refugee Issues are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC317?",
+    "context": "",
+    "response": "Sociology of Science and Technology (SOC317) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC317?",
+    "context": "",
+    "response": "The elective course SOC317 - Sociology of Science and Technology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC317?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC317 - Sociology of Science and Technology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC318?",
+    "context": "",
+    "response": "Sociology of Religion (SOC318) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC318?",
+    "context": "",
+    "response": "The elective course SOC318 - Sociology of Religion is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC318?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC318 - Sociology of Religion are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC320?",
+    "context": "",
+    "response": "Sociology of Gerontology (SOC320) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC320?",
+    "context": "",
+    "response": "The elective course SOC320 - Sociology of Gerontology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC320?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC320 - Sociology of Gerontology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC402?",
+    "context": "",
+    "response": "Sociology of Poverty (SOC402) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC402?",
+    "context": "",
+    "response": "The elective course SOC402 - Sociology of Poverty is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC402?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC402 - Sociology of Poverty are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC403?",
+    "context": "",
+    "response": "Political Sociology (SOC403) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC403?",
+    "context": "",
+    "response": "The elective course SOC403 - Political Sociology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC403?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC403 - Political Sociology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC404?",
+    "context": "",
+    "response": "Marxist Sociology (SOC404) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC404?",
+    "context": "",
+    "response": "The elective course SOC404 - Marxist Sociology is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC404?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC404 - Marxist Sociology are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC405?",
+    "context": "",
+    "response": "Social Forestry (SOC405) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC405?",
+    "context": "",
+    "response": "The elective course SOC405 - Social Forestry is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC405?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC405 - Social Forestry are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC408?",
+    "context": "",
+    "response": "Sociology of Gender Planning and Development (SOC408) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC408?",
+    "context": "",
+    "response": "The elective course SOC408 - Sociology of Gender Planning and Development is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC408?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC408 - Sociology of Gender Planning and Development are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC409?",
+    "context": "",
+    "response": "Sociology of Mass Communication (SOC409) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC409?",
+    "context": "",
+    "response": "The elective course SOC409 - Sociology of Mass Communication is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC409?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC409 - Sociology of Mass Communication are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC410?",
+    "context": "",
+    "response": "Community Development Organizations and Social Change (SOC410) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC410?",
+    "context": "",
+    "response": "The elective course SOC410 - Community Development Organizations and Social Change is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC410?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC410 - Community Development Organizations and Social Change are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC411?",
+    "context": "",
+    "response": "Human Rights and Social Justice (SOC411) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC411?",
+    "context": "",
+    "response": "The elective course SOC411 - Human Rights and Social Justice is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC411?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC411 - Human Rights and Social Justice are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC412?",
+    "context": "",
+    "response": "Social Interventions and Practice (SOC412) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC412?",
+    "context": "",
+    "response": "The elective course SOC412 - Social Interventions and Practice is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC412?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC412 - Social Interventions and Practice are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC415?",
+    "context": "",
+    "response": "Women, Society and Development (SOC415) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC415?",
+    "context": "",
+    "response": "The elective course SOC415 - Women, Society and Development is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC415?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC415 - Women, Society and Development are: None."
+  },
+  {
+    "instruction": "What is the elective course SOC416?",
+    "context": "",
+    "response": "Social Changes in Bangladesh (SOC416) is an Elective course worth 3 credits. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the elective SOC416?",
+    "context": "",
+    "response": "The elective course SOC416 - Social Changes in Bangladesh is worth 3 credits."
+  },
+  {
+    "instruction": "Do I need any prerequisites for the elective SOC416?",
+    "context": "",
+    "response": "The prerequisites for the elective SOC416 - Social Changes in Bangladesh are: None."
+  }
+]

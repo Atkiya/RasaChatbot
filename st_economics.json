@@ -1,0 +1,2527 @@
+[
+  {
+    "instruction": "How many credits is the course BUS101 - Introduction to Business?",
+    "context": "",
+    "response": "The course BUS101 - Introduction to Business is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for BUS101 - Introduction to Business?",
+    "context": "",
+    "response": "The prerequisite for BUS101 - Introduction to Business is: None."
+  },
+  {
+    "instruction": "Which category does BUS101 - Introduction to Business belong to?",
+    "context": "",
+    "response": "BUS101 - Introduction to Business belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course BUS101 - Introduction to Business.",
+    "context": "",
+    "response": "BUS101 - Introduction to Business is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course CSE101 - Introduction to Computers I?",
+    "context": "",
+    "response": "The course CSE101 - Introduction to Computers I is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for CSE101 - Introduction to Computers I?",
+    "context": "",
+    "response": "The prerequisite for CSE101 - Introduction to Computers I is: None."
+  },
+  {
+    "instruction": "Which category does CSE101 - Introduction to Computers I belong to?",
+    "context": "",
+    "response": "CSE101 - Introduction to Computers I belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course CSE101 - Introduction to Computers I.",
+    "context": "",
+    "response": "CSE101 - Introduction to Computers I is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG100 - Spoken English/ Improving Oral Communication Skills?",
+    "context": "",
+    "response": "The course ENG100 - Spoken English/ Improving Oral Communication Skills is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG100 - Spoken English/ Improving Oral Communication Skills?",
+    "context": "",
+    "response": "The prerequisite for ENG100 - Spoken English/ Improving Oral Communication Skills is: None."
+  },
+  {
+    "instruction": "Which category does ENG100 - Spoken English/ Improving Oral Communication Skills belong to?",
+    "context": "",
+    "response": "ENG100 - Spoken English/ Improving Oral Communication Skills belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG100 - Spoken English/ Improving Oral Communication Skills.",
+    "context": "",
+    "response": "ENG100 - Spoken English/ Improving Oral Communication Skills is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG101 - Basic English?",
+    "context": "",
+    "response": "The course ENG101 - Basic English is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG101 - Basic English?",
+    "context": "",
+    "response": "The prerequisite for ENG101 - Basic English is: None."
+  },
+  {
+    "instruction": "Which category does ENG101 - Basic English belong to?",
+    "context": "",
+    "response": "ENG101 - Basic English belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG101 - Basic English.",
+    "context": "",
+    "response": "ENG101 - Basic English is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG102 - Composition and Communication Skills?",
+    "context": "",
+    "response": "The course ENG102 - Composition and Communication Skills is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG102 - Composition and Communication Skills?",
+    "context": "",
+    "response": "The prerequisite for ENG102 - Composition and Communication Skills is: ENG101."
+  },
+  {
+    "instruction": "Which category does ENG102 - Composition and Communication Skills belong to?",
+    "context": "",
+    "response": "ENG102 - Composition and Communication Skills belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG102 - Composition and Communication Skills.",
+    "context": "",
+    "response": "ENG102 - Composition and Communication Skills is a 3-credit course under 'Compulsory General Education' category. Prerequisites: ENG101."
+  },
+  {
+    "instruction": "How many credits is the course ECO104 - Statistics for Business and Economics I?",
+    "context": "",
+    "response": "The course ECO104 - Statistics for Business and Economics I is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO104 - Statistics for Business and Economics I?",
+    "context": "",
+    "response": "The prerequisite for ECO104 - Statistics for Business and Economics I is: None."
+  },
+  {
+    "instruction": "Which category does ECO104 - Statistics for Business and Economics I belong to?",
+    "context": "",
+    "response": "ECO104 - Statistics for Business and Economics I belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO104 - Statistics for Business and Economics I.",
+    "context": "",
+    "response": "ECO104 - Statistics for Business and Economics I is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN226 - Emergence of Bangladesh?",
+    "context": "",
+    "response": "The course GEN226 - Emergence of Bangladesh is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN226 - Emergence of Bangladesh?",
+    "context": "",
+    "response": "The prerequisite for GEN226 - Emergence of Bangladesh is: None."
+  },
+  {
+    "instruction": "Which category does GEN226 - Emergence of Bangladesh belong to?",
+    "context": "",
+    "response": "GEN226 - Emergence of Bangladesh belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN226 - Emergence of Bangladesh.",
+    "context": "",
+    "response": "GEN226 - Emergence of Bangladesh is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MAT110 - Mathematics For Business and Economics I?",
+    "context": "",
+    "response": "The course MAT110 - Mathematics For Business and Economics I is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT110 - Mathematics For Business and Economics I?",
+    "context": "",
+    "response": "The prerequisite for MAT110 - Mathematics For Business and Economics I is: None."
+  },
+  {
+    "instruction": "Which category does MAT110 - Mathematics For Business and Economics I belong to?",
+    "context": "",
+    "response": "MAT110 - Mathematics For Business and Economics I belongs to the 'Compulsory General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT110 - Mathematics For Business and Economics I.",
+    "context": "",
+    "response": "MAT110 - Mathematics For Business and Economics I is a 3-credit course under 'Compulsory General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course CSE102 - Introduction to Computers II?",
+    "context": "",
+    "response": "The course CSE102 - Introduction to Computers II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for CSE102 - Introduction to Computers II?",
+    "context": "",
+    "response": "The prerequisite for CSE102 - Introduction to Computers II is: CSE101."
+  },
+  {
+    "instruction": "Which category does CSE102 - Introduction to Computers II belong to?",
+    "context": "",
+    "response": "CSE102 - Introduction to Computers II belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course CSE102 - Introduction to Computers II.",
+    "context": "",
+    "response": "CSE102 - Introduction to Computers II is a 3-credit course under 'Optional General Education' category. Prerequisites: CSE101."
+  },
+  {
+    "instruction": "How many credits is the course GEN204 - Western Thought?",
+    "context": "",
+    "response": "The course GEN204 - Western Thought is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN204 - Western Thought?",
+    "context": "",
+    "response": "The prerequisite for GEN204 - Western Thought is: None."
+  },
+  {
+    "instruction": "Which category does GEN204 - Western Thought belong to?",
+    "context": "",
+    "response": "GEN204 - Western Thought belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN204 - Western Thought.",
+    "context": "",
+    "response": "GEN204 - Western Thought is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN201 - Bangladesh Studies?",
+    "context": "",
+    "response": "The course GEN201 - Bangladesh Studies is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN201 - Bangladesh Studies?",
+    "context": "",
+    "response": "The prerequisite for GEN201 - Bangladesh Studies is: None."
+  },
+  {
+    "instruction": "Which category does GEN201 - Bangladesh Studies belong to?",
+    "context": "",
+    "response": "GEN201 - Bangladesh Studies belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN201 - Bangladesh Studies.",
+    "context": "",
+    "response": "GEN201 - Bangladesh Studies is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN205 - Introduction to Psychology?",
+    "context": "",
+    "response": "The course GEN205 - Introduction to Psychology is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN205 - Introduction to Psychology?",
+    "context": "",
+    "response": "The prerequisite for GEN205 - Introduction to Psychology is: None."
+  },
+  {
+    "instruction": "Which category does GEN205 - Introduction to Psychology belong to?",
+    "context": "",
+    "response": "GEN205 - Introduction to Psychology belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN205 - Introduction to Psychology.",
+    "context": "",
+    "response": "GEN205 - Introduction to Psychology is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN207 - Industrial Psychology?",
+    "context": "",
+    "response": "The course GEN207 - Industrial Psychology is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN207 - Industrial Psychology?",
+    "context": "",
+    "response": "The prerequisite for GEN207 - Industrial Psychology is: None."
+  },
+  {
+    "instruction": "Which category does GEN207 - Industrial Psychology belong to?",
+    "context": "",
+    "response": "GEN207 - Industrial Psychology belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN207 - Industrial Psychology.",
+    "context": "",
+    "response": "GEN207 - Industrial Psychology is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN210 - International Relation?",
+    "context": "",
+    "response": "The course GEN210 - International Relation is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN210 - International Relation?",
+    "context": "",
+    "response": "The prerequisite for GEN210 - International Relation is: None."
+  },
+  {
+    "instruction": "Which category does GEN210 - International Relation belong to?",
+    "context": "",
+    "response": "GEN210 - International Relation belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN210 - International Relation.",
+    "context": "",
+    "response": "GEN210 - International Relation is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN211 - Concepts of Journalism & Media Studies?",
+    "context": "",
+    "response": "The course GEN211 - Concepts of Journalism & Media Studies is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN211 - Concepts of Journalism & Media Studies?",
+    "context": "",
+    "response": "The prerequisite for GEN211 - Concepts of Journalism & Media Studies is: None."
+  },
+  {
+    "instruction": "Which category does GEN211 - Concepts of Journalism & Media Studies belong to?",
+    "context": "",
+    "response": "GEN211 - Concepts of Journalism & Media Studies belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN211 - Concepts of Journalism & Media Studies.",
+    "context": "",
+    "response": "GEN211 - Concepts of Journalism & Media Studies is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course GEN213 - Introduction to German Language?",
+    "context": "",
+    "response": "The course GEN213 - Introduction to German Language is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for GEN213 - Introduction to German Language?",
+    "context": "",
+    "response": "The prerequisite for GEN213 - Introduction to German Language is: None."
+  },
+  {
+    "instruction": "Which category does GEN213 - Introduction to German Language belong to?",
+    "context": "",
+    "response": "GEN213 - Introduction to German Language belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course GEN213 - Introduction to German Language.",
+    "context": "",
+    "response": "GEN213 - Introduction to German Language is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ACT101 - Financial Accounting?",
+    "context": "",
+    "response": "The course ACT101 - Financial Accounting is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ACT101 - Financial Accounting?",
+    "context": "",
+    "response": "The prerequisite for ACT101 - Financial Accounting is: None."
+  },
+  {
+    "instruction": "Which category does ACT101 - Financial Accounting belong to?",
+    "context": "",
+    "response": "ACT101 - Financial Accounting belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ACT101 - Financial Accounting.",
+    "context": "",
+    "response": "ACT101 - Financial Accounting is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG145 - Introduction to Linguistic?",
+    "context": "",
+    "response": "The course ENG145 - Introduction to Linguistic is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG145 - Introduction to Linguistic?",
+    "context": "",
+    "response": "The prerequisite for ENG145 - Introduction to Linguistic is: None."
+  },
+  {
+    "instruction": "Which category does ENG145 - Introduction to Linguistic belong to?",
+    "context": "",
+    "response": "ENG145 - Introduction to Linguistic belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG145 - Introduction to Linguistic.",
+    "context": "",
+    "response": "ENG145 - Introduction to Linguistic is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ETE101 - Introduction to Telecommunication Engineering?",
+    "context": "",
+    "response": "The course ETE101 - Introduction to Telecommunication Engineering is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ETE101 - Introduction to Telecommunication Engineering?",
+    "context": "",
+    "response": "The prerequisite for ETE101 - Introduction to Telecommunication Engineering is: None."
+  },
+  {
+    "instruction": "Which category does ETE101 - Introduction to Telecommunication Engineering belong to?",
+    "context": "",
+    "response": "ETE101 - Introduction to Telecommunication Engineering belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course ETE101 - Introduction to Telecommunication Engineering.",
+    "context": "",
+    "response": "ETE101 - Introduction to Telecommunication Engineering is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course FIN101 - Principles of Finance?",
+    "context": "",
+    "response": "The course FIN101 - Principles of Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN101 - Principles of Finance?",
+    "context": "",
+    "response": "The prerequisite for FIN101 - Principles of Finance is: None."
+  },
+  {
+    "instruction": "Which category does FIN101 - Principles of Finance belong to?",
+    "context": "",
+    "response": "FIN101 - Principles of Finance belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN101 - Principles of Finance.",
+    "context": "",
+    "response": "FIN101 - Principles of Finance is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MAT101 - Differential and Integral Calculus?",
+    "context": "",
+    "response": "The course MAT101 - Differential and Integral Calculus is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT101 - Differential and Integral Calculus?",
+    "context": "",
+    "response": "The prerequisite for MAT101 - Differential and Integral Calculus is: None."
+  },
+  {
+    "instruction": "Which category does MAT101 - Differential and Integral Calculus belong to?",
+    "context": "",
+    "response": "MAT101 - Differential and Integral Calculus belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT101 - Differential and Integral Calculus.",
+    "context": "",
+    "response": "MAT101 - Differential and Integral Calculus is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MAT102 - Differential Equation and Special Function?",
+    "context": "",
+    "response": "The course MAT102 - Differential Equation and Special Function is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT102 - Differential Equation and Special Function?",
+    "context": "",
+    "response": "The prerequisite for MAT102 - Differential Equation and Special Function is: MAT101."
+  },
+  {
+    "instruction": "Which category does MAT102 - Differential Equation and Special Function belong to?",
+    "context": "",
+    "response": "MAT102 - Differential Equation and Special Function belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT102 - Differential Equation and Special Function.",
+    "context": "",
+    "response": "MAT102 - Differential Equation and Special Function is a 3-credit course under 'Optional General Education' category. Prerequisites: MAT101."
+  },
+  {
+    "instruction": "How many credits is the course MGT101 - Principles of Management?",
+    "context": "",
+    "response": "The course MGT101 - Principles of Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT101 - Principles of Management?",
+    "context": "",
+    "response": "The prerequisite for MGT101 - Principles of Management is: None."
+  },
+  {
+    "instruction": "Which category does MGT101 - Principles of Management belong to?",
+    "context": "",
+    "response": "MGT101 - Principles of Management belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT101 - Principles of Management.",
+    "context": "",
+    "response": "MGT101 - Principles of Management is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MIS101 - Introduction to Management Information System?",
+    "context": "",
+    "response": "The course MIS101 - Introduction to Management Information System is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MIS101 - Introduction to Management Information System?",
+    "context": "",
+    "response": "The prerequisite for MIS101 - Introduction to Management Information System is: None."
+  },
+  {
+    "instruction": "Which category does MIS101 - Introduction to Management Information System belong to?",
+    "context": "",
+    "response": "MIS101 - Introduction to Management Information System belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MIS101 - Introduction to Management Information System.",
+    "context": "",
+    "response": "MIS101 - Introduction to Management Information System is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MKT101 - Principles of Marketing?",
+    "context": "",
+    "response": "The course MKT101 - Principles of Marketing is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT101 - Principles of Marketing?",
+    "context": "",
+    "response": "The prerequisite for MKT101 - Principles of Marketing is: None."
+  },
+  {
+    "instruction": "Which category does MKT101 - Principles of Marketing belong to?",
+    "context": "",
+    "response": "MKT101 - Principles of Marketing belongs to the 'Optional General Education' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT101 - Principles of Marketing.",
+    "context": "",
+    "response": "MKT101 - Principles of Marketing is a 3-credit course under 'Optional General Education' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level)?",
+    "context": "",
+    "response": "The course MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level)?",
+    "context": "",
+    "response": "The prerequisite for MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level) is: None."
+  },
+  {
+    "instruction": "Which category does MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level) belong to?",
+    "context": "",
+    "response": "MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level) belongs to the 'Remedial' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level).",
+    "context": "",
+    "response": "MAT100 - College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level) is a 3-credit course under 'Remedial' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course SOC101 - Introduction to Sociology?",
+    "context": "",
+    "response": "The course SOC101 - Introduction to Sociology is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for SOC101 - Introduction to Sociology?",
+    "context": "",
+    "response": "The prerequisite for SOC101 - Introduction to Sociology is: None."
+  },
+  {
+    "instruction": "Which category does SOC101 - Introduction to Sociology belong to?",
+    "context": "",
+    "response": "SOC101 - Introduction to Sociology belongs to the 'Sociology Elective' category."
+  },
+  {
+    "instruction": "Tell me about the course SOC101 - Introduction to Sociology.",
+    "context": "",
+    "response": "SOC101 - Introduction to Sociology is a 3-credit course under 'Sociology Elective' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course SOC102 - Introduction to Anthropology?",
+    "context": "",
+    "response": "The course SOC102 - Introduction to Anthropology is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for SOC102 - Introduction to Anthropology?",
+    "context": "",
+    "response": "The prerequisite for SOC102 - Introduction to Anthropology is: None."
+  },
+  {
+    "instruction": "Which category does SOC102 - Introduction to Anthropology belong to?",
+    "context": "",
+    "response": "SOC102 - Introduction to Anthropology belongs to the 'Sociology Elective' category."
+  },
+  {
+    "instruction": "Tell me about the course SOC102 - Introduction to Anthropology.",
+    "context": "",
+    "response": "SOC102 - Introduction to Anthropology is a 3-credit course under 'Sociology Elective' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course SOC211 - Eastern Culture and Heritage?",
+    "context": "",
+    "response": "The course SOC211 - Eastern Culture and Heritage is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for SOC211 - Eastern Culture and Heritage?",
+    "context": "",
+    "response": "The prerequisite for SOC211 - Eastern Culture and Heritage is: None."
+  },
+  {
+    "instruction": "Which category does SOC211 - Eastern Culture and Heritage belong to?",
+    "context": "",
+    "response": "SOC211 - Eastern Culture and Heritage belongs to the 'Sociology Elective' category."
+  },
+  {
+    "instruction": "Tell me about the course SOC211 - Eastern Culture and Heritage.",
+    "context": "",
+    "response": "SOC211 - Eastern Culture and Heritage is a 3-credit course under 'Sociology Elective' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course SOC212 - Social Ecology, Environment & Society?",
+    "context": "",
+    "response": "The course SOC212 - Social Ecology, Environment & Society is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for SOC212 - Social Ecology, Environment & Society?",
+    "context": "",
+    "response": "The prerequisite for SOC212 - Social Ecology, Environment & Society is: None."
+  },
+  {
+    "instruction": "Which category does SOC212 - Social Ecology, Environment & Society belong to?",
+    "context": "",
+    "response": "SOC212 - Social Ecology, Environment & Society belongs to the 'Sociology Elective' category."
+  },
+  {
+    "instruction": "Tell me about the course SOC212 - Social Ecology, Environment & Society.",
+    "context": "",
+    "response": "SOC212 - Social Ecology, Environment & Society is a 3-credit course under 'Sociology Elective' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course SOC215 - Principles of Social & Public Relations?",
+    "context": "",
+    "response": "The course SOC215 - Principles of Social & Public Relations is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for SOC215 - Principles of Social & Public Relations?",
+    "context": "",
+    "response": "The prerequisite for SOC215 - Principles of Social & Public Relations is: None."
+  },
+  {
+    "instruction": "Which category does SOC215 - Principles of Social & Public Relations belong to?",
+    "context": "",
+    "response": "SOC215 - Principles of Social & Public Relations belongs to the 'Sociology Elective' category."
+  },
+  {
+    "instruction": "Tell me about the course SOC215 - Principles of Social & Public Relations.",
+    "context": "",
+    "response": "SOC215 - Principles of Social & Public Relations is a 3-credit course under 'Sociology Elective' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ECO101 - Principles of Microeconomics?",
+    "context": "",
+    "response": "The course ECO101 - Principles of Microeconomics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO101 - Principles of Microeconomics?",
+    "context": "",
+    "response": "The prerequisite for ECO101 - Principles of Microeconomics is: None."
+  },
+  {
+    "instruction": "Which category does ECO101 - Principles of Microeconomics belong to?",
+    "context": "",
+    "response": "ECO101 - Principles of Microeconomics belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO101 - Principles of Microeconomics.",
+    "context": "",
+    "response": "ECO101 - Principles of Microeconomics is a 3-credit course under 'Core' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ECO102 - Introduction to Macroeconomics?",
+    "context": "",
+    "response": "The course ECO102 - Introduction to Macroeconomics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO102 - Introduction to Macroeconomics?",
+    "context": "",
+    "response": "The prerequisite for ECO102 - Introduction to Macroeconomics is: None."
+  },
+  {
+    "instruction": "Which category does ECO102 - Introduction to Macroeconomics belong to?",
+    "context": "",
+    "response": "ECO102 - Introduction to Macroeconomics belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO102 - Introduction to Macroeconomics.",
+    "context": "",
+    "response": "ECO102 - Introduction to Macroeconomics is a 3-credit course under 'Core' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ECO260 - Environmental & Natural Resource Economics?",
+    "context": "",
+    "response": "The course ECO260 - Environmental & Natural Resource Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO260 - Environmental & Natural Resource Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO260 - Environmental & Natural Resource Economics is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO260 - Environmental & Natural Resource Economics belong to?",
+    "context": "",
+    "response": "ECO260 - Environmental & Natural Resource Economics belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO260 - Environmental & Natural Resource Economics.",
+    "context": "",
+    "response": "ECO260 - Environmental & Natural Resource Economics is a 3-credit course under 'Core' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO301 - Intermediate Microeconomic Theory I?",
+    "context": "",
+    "response": "The course ECO301 - Intermediate Microeconomic Theory I is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO301 - Intermediate Microeconomic Theory I?",
+    "context": "",
+    "response": "The prerequisite for ECO301 - Intermediate Microeconomic Theory I is: ECO101, MAT110."
+  },
+  {
+    "instruction": "Which category does ECO301 - Intermediate Microeconomic Theory I belong to?",
+    "context": "",
+    "response": "ECO301 - Intermediate Microeconomic Theory I belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO301 - Intermediate Microeconomic Theory I.",
+    "context": "",
+    "response": "ECO301 - Intermediate Microeconomic Theory I is a 3-credit course under 'Core' category. Prerequisites: ECO101, MAT110."
+  },
+  {
+    "instruction": "How many credits is the course ECO302 - Intermediate Macroeconomic Theory I?",
+    "context": "",
+    "response": "The course ECO302 - Intermediate Macroeconomic Theory I is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO302 - Intermediate Macroeconomic Theory I?",
+    "context": "",
+    "response": "The prerequisite for ECO302 - Intermediate Macroeconomic Theory I is: ECO102, MAT110."
+  },
+  {
+    "instruction": "Which category does ECO302 - Intermediate Macroeconomic Theory I belong to?",
+    "context": "",
+    "response": "ECO302 - Intermediate Macroeconomic Theory I belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO302 - Intermediate Macroeconomic Theory I.",
+    "context": "",
+    "response": "ECO302 - Intermediate Macroeconomic Theory I is a 3-credit course under 'Core' category. Prerequisites: ECO102, MAT110."
+  },
+  {
+    "instruction": "How many credits is the course ECO310 - Money and Banking?",
+    "context": "",
+    "response": "The course ECO310 - Money and Banking is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO310 - Money and Banking?",
+    "context": "",
+    "response": "The prerequisite for ECO310 - Money and Banking is: ECO102."
+  },
+  {
+    "instruction": "Which category does ECO310 - Money and Banking belong to?",
+    "context": "",
+    "response": "ECO310 - Money and Banking belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO310 - Money and Banking.",
+    "context": "",
+    "response": "ECO310 - Money and Banking is a 3-credit course under 'Core' category. Prerequisites: ECO102."
+  },
+  {
+    "instruction": "How many credits is the course ECO315 - Public Finance?",
+    "context": "",
+    "response": "The course ECO315 - Public Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO315 - Public Finance?",
+    "context": "",
+    "response": "The prerequisite for ECO315 - Public Finance is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO315 - Public Finance belong to?",
+    "context": "",
+    "response": "ECO315 - Public Finance belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO315 - Public Finance.",
+    "context": "",
+    "response": "ECO315 - Public Finance is a 3-credit course under 'Core' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO328 - International Trade and Finance?",
+    "context": "",
+    "response": "The course ECO328 - International Trade and Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO328 - International Trade and Finance?",
+    "context": "",
+    "response": "The prerequisite for ECO328 - International Trade and Finance is: ECO101, ECO102."
+  },
+  {
+    "instruction": "Which category does ECO328 - International Trade and Finance belong to?",
+    "context": "",
+    "response": "ECO328 - International Trade and Finance belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO328 - International Trade and Finance.",
+    "context": "",
+    "response": "ECO328 - International Trade and Finance is a 3-credit course under 'Core' category. Prerequisites: ECO101, ECO102."
+  },
+  {
+    "instruction": "How many credits is the course ECO349 - Economics of Development?",
+    "context": "",
+    "response": "The course ECO349 - Economics of Development is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO349 - Economics of Development?",
+    "context": "",
+    "response": "The prerequisite for ECO349 - Economics of Development is: ECO101, ECO102."
+  },
+  {
+    "instruction": "Which category does ECO349 - Economics of Development belong to?",
+    "context": "",
+    "response": "ECO349 - Economics of Development belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO349 - Economics of Development.",
+    "context": "",
+    "response": "ECO349 - Economics of Development is a 3-credit course under 'Core' category. Prerequisites: ECO101, ECO102."
+  },
+  {
+    "instruction": "How many credits is the course ECO360 - Socio-Economic Profiles of Bangladesh?",
+    "context": "",
+    "response": "The course ECO360 - Socio-Economic Profiles of Bangladesh is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO360 - Socio-Economic Profiles of Bangladesh?",
+    "context": "",
+    "response": "The prerequisite for ECO360 - Socio-Economic Profiles of Bangladesh is: ECO101, ECO102."
+  },
+  {
+    "instruction": "Which category does ECO360 - Socio-Economic Profiles of Bangladesh belong to?",
+    "context": "",
+    "response": "ECO360 - Socio-Economic Profiles of Bangladesh belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO360 - Socio-Economic Profiles of Bangladesh.",
+    "context": "",
+    "response": "ECO360 - Socio-Economic Profiles of Bangladesh is a 3-credit course under 'Core' category. Prerequisites: ECO101, ECO102."
+  },
+  {
+    "instruction": "How many credits is the course ECO465 - Basic Econometrics?",
+    "context": "",
+    "response": "The course ECO465 - Basic Econometrics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO465 - Basic Econometrics?",
+    "context": "",
+    "response": "The prerequisite for ECO465 - Basic Econometrics is: ECO104, ECO204, MAT211."
+  },
+  {
+    "instruction": "Which category does ECO465 - Basic Econometrics belong to?",
+    "context": "",
+    "response": "ECO465 - Basic Econometrics belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO465 - Basic Econometrics.",
+    "context": "",
+    "response": "ECO465 - Basic Econometrics is a 3-credit course under 'Core' category. Prerequisites: ECO104, ECO204, MAT211."
+  },
+  {
+    "instruction": "How many credits is the course ECO467 - Intermediate Microeconomic Theory II?",
+    "context": "",
+    "response": "The course ECO467 - Intermediate Microeconomic Theory II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO467 - Intermediate Microeconomic Theory II?",
+    "context": "",
+    "response": "The prerequisite for ECO467 - Intermediate Microeconomic Theory II is: ECO301."
+  },
+  {
+    "instruction": "Which category does ECO467 - Intermediate Microeconomic Theory II belong to?",
+    "context": "",
+    "response": "ECO467 - Intermediate Microeconomic Theory II belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO467 - Intermediate Microeconomic Theory II.",
+    "context": "",
+    "response": "ECO467 - Intermediate Microeconomic Theory II is a 3-credit course under 'Core' category. Prerequisites: ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO475 - History of Economic Thought?",
+    "context": "",
+    "response": "The course ECO475 - History of Economic Thought is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO475 - History of Economic Thought?",
+    "context": "",
+    "response": "The prerequisite for ECO475 - History of Economic Thought is: ECO101, ECO102."
+  },
+  {
+    "instruction": "Which category does ECO475 - History of Economic Thought belong to?",
+    "context": "",
+    "response": "ECO475 - History of Economic Thought belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO475 - History of Economic Thought.",
+    "context": "",
+    "response": "ECO475 - History of Economic Thought is a 3-credit course under 'Core' category. Prerequisites: ECO101, ECO102."
+  },
+  {
+    "instruction": "How many credits is the course ECO477 - Intermediate Macroeconomic Theory II?",
+    "context": "",
+    "response": "The course ECO477 - Intermediate Macroeconomic Theory II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO477 - Intermediate Macroeconomic Theory II?",
+    "context": "",
+    "response": "The prerequisite for ECO477 - Intermediate Macroeconomic Theory II is: ECO302."
+  },
+  {
+    "instruction": "Which category does ECO477 - Intermediate Macroeconomic Theory II belong to?",
+    "context": "",
+    "response": "ECO477 - Intermediate Macroeconomic Theory II belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO477 - Intermediate Macroeconomic Theory II.",
+    "context": "",
+    "response": "ECO477 - Intermediate Macroeconomic Theory II is a 3-credit course under 'Core' category. Prerequisites: ECO302."
+  },
+  {
+    "instruction": "How many credits is the course ECO490 - Research Methodology?",
+    "context": "",
+    "response": "The course ECO490 - Research Methodology is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO490 - Research Methodology?",
+    "context": "",
+    "response": "The prerequisite for ECO490 - Research Methodology is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO490 - Research Methodology belong to?",
+    "context": "",
+    "response": "ECO490 - Research Methodology belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO490 - Research Methodology.",
+    "context": "",
+    "response": "ECO490 - Research Methodology is a 3-credit course under 'Core' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO495 - Supervised Research Paper?",
+    "context": "",
+    "response": "The course ECO495 - Supervised Research Paper is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO495 - Supervised Research Paper?",
+    "context": "",
+    "response": "The prerequisite for ECO495 - Supervised Research Paper is: ECO490."
+  },
+  {
+    "instruction": "Which category does ECO495 - Supervised Research Paper belong to?",
+    "context": "",
+    "response": "ECO495 - Supervised Research Paper belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO495 - Supervised Research Paper.",
+    "context": "",
+    "response": "ECO495 - Supervised Research Paper is a 3-credit course under 'Core' category. Prerequisites: ECO490."
+  },
+  {
+    "instruction": "How many credits is the course MAT211 - Mathematics for Business and Economics II?",
+    "context": "",
+    "response": "The course MAT211 - Mathematics for Business and Economics II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT211 - Mathematics for Business and Economics II?",
+    "context": "",
+    "response": "The prerequisite for MAT211 - Mathematics for Business and Economics II is: MAT110."
+  },
+  {
+    "instruction": "Which category does MAT211 - Mathematics for Business and Economics II belong to?",
+    "context": "",
+    "response": "MAT211 - Mathematics for Business and Economics II belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT211 - Mathematics for Business and Economics II.",
+    "context": "",
+    "response": "MAT211 - Mathematics for Business and Economics II is a 3-credit course under 'Core' category. Prerequisites: MAT110."
+  },
+  {
+    "instruction": "How many credits is the course ECO204 - Statistics For Business & Economics II?",
+    "context": "",
+    "response": "The course ECO204 - Statistics For Business & Economics II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO204 - Statistics For Business & Economics II?",
+    "context": "",
+    "response": "The prerequisite for ECO204 - Statistics For Business & Economics II is: ECO104."
+  },
+  {
+    "instruction": "Which category does ECO204 - Statistics For Business & Economics II belong to?",
+    "context": "",
+    "response": "ECO204 - Statistics For Business & Economics II belongs to the 'Core' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO204 - Statistics For Business & Economics II.",
+    "context": "",
+    "response": "ECO204 - Statistics For Business & Economics II is a 3-credit course under 'Core' category. Prerequisites: ECO104."
+  },
+  {
+    "instruction": "How many credits is the course ACT201 - Management Accounting?",
+    "context": "",
+    "response": "The course ACT201 - Management Accounting is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ACT201 - Management Accounting?",
+    "context": "",
+    "response": "The prerequisite for ACT201 - Management Accounting is: ACT101."
+  },
+  {
+    "instruction": "Which category does ACT201 - Management Accounting belong to?",
+    "context": "",
+    "response": "ACT201 - Management Accounting belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ACT201 - Management Accounting.",
+    "context": "",
+    "response": "ACT201 - Management Accounting is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: ACT101."
+  },
+  {
+    "instruction": "How many credits is the course BUS231 - Business Communication?",
+    "context": "",
+    "response": "The course BUS231 - Business Communication is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for BUS231 - Business Communication?",
+    "context": "",
+    "response": "The prerequisite for BUS231 - Business Communication is: ENG102."
+  },
+  {
+    "instruction": "Which category does BUS231 - Business Communication belong to?",
+    "context": "",
+    "response": "BUS231 - Business Communication belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course BUS231 - Business Communication.",
+    "context": "",
+    "response": "BUS231 - Business Communication is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "How many credits is the course CSE205 - Discrete Mathematics?",
+    "context": "",
+    "response": "The course CSE205 - Discrete Mathematics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for CSE205 - Discrete Mathematics?",
+    "context": "",
+    "response": "The prerequisite for CSE205 - Discrete Mathematics is: None."
+  },
+  {
+    "instruction": "Which category does CSE205 - Discrete Mathematics belong to?",
+    "context": "",
+    "response": "CSE205 - Discrete Mathematics belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course CSE205 - Discrete Mathematics.",
+    "context": "",
+    "response": "CSE205 - Discrete Mathematics is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ECO200 - Agricultural Economics?",
+    "context": "",
+    "response": "The course ECO200 - Agricultural Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO200 - Agricultural Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO200 - Agricultural Economics is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO200 - Agricultural Economics belong to?",
+    "context": "",
+    "response": "ECO200 - Agricultural Economics belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO200 - Agricultural Economics.",
+    "context": "",
+    "response": "ECO200 - Agricultural Economics is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO220 - Behavioral Economics?",
+    "context": "",
+    "response": "The course ECO220 - Behavioral Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO220 - Behavioral Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO220 - Behavioral Economics is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO220 - Behavioral Economics belong to?",
+    "context": "",
+    "response": "ECO220 - Behavioral Economics belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO220 - Behavioral Economics.",
+    "context": "",
+    "response": "ECO220 - Behavioral Economics is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ENG200 - Advanced Verbal Communication Skills?",
+    "context": "",
+    "response": "The course ENG200 - Advanced Verbal Communication Skills is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG200 - Advanced Verbal Communication Skills?",
+    "context": "",
+    "response": "The prerequisite for ENG200 - Advanced Verbal Communication Skills is: ENG100."
+  },
+  {
+    "instruction": "Which category does ENG200 - Advanced Verbal Communication Skills belong to?",
+    "context": "",
+    "response": "ENG200 - Advanced Verbal Communication Skills belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG200 - Advanced Verbal Communication Skills.",
+    "context": "",
+    "response": "ENG200 - Advanced Verbal Communication Skills is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: ENG100."
+  },
+  {
+    "instruction": "How many credits is the course FIN201 - Business Finance?",
+    "context": "",
+    "response": "The course FIN201 - Business Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN201 - Business Finance?",
+    "context": "",
+    "response": "The prerequisite for FIN201 - Business Finance is: FIN101."
+  },
+  {
+    "instruction": "Which category does FIN201 - Business Finance belong to?",
+    "context": "",
+    "response": "FIN201 - Business Finance belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN201 - Business Finance.",
+    "context": "",
+    "response": "FIN201 - Business Finance is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: FIN101."
+  },
+  {
+    "instruction": "How many credits is the course MAT201 - Linear Algebra?",
+    "context": "",
+    "response": "The course MAT201 - Linear Algebra is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT201 - Linear Algebra?",
+    "context": "",
+    "response": "The prerequisite for MAT201 - Linear Algebra is: MAT101."
+  },
+  {
+    "instruction": "Which category does MAT201 - Linear Algebra belong to?",
+    "context": "",
+    "response": "MAT201 - Linear Algebra belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT201 - Linear Algebra.",
+    "context": "",
+    "response": "MAT201 - Linear Algebra is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: MAT101."
+  },
+  {
+    "instruction": "How many credits is the course MGT251 - Organizational Behavior?",
+    "context": "",
+    "response": "The course MGT251 - Organizational Behavior is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT251 - Organizational Behavior?",
+    "context": "",
+    "response": "The prerequisite for MGT251 - Organizational Behavior is: MGT101."
+  },
+  {
+    "instruction": "Which category does MGT251 - Organizational Behavior belong to?",
+    "context": "",
+    "response": "MGT251 - Organizational Behavior belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT251 - Organizational Behavior.",
+    "context": "",
+    "response": "MGT251 - Organizational Behavior is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: MGT101."
+  },
+  {
+    "instruction": "How many credits is the course MKT201 - Marketing Management?",
+    "context": "",
+    "response": "The course MKT201 - Marketing Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT201 - Marketing Management?",
+    "context": "",
+    "response": "The prerequisite for MKT201 - Marketing Management is: MKT101."
+  },
+  {
+    "instruction": "Which category does MKT201 - Marketing Management belong to?",
+    "context": "",
+    "response": "MKT201 - Marketing Management belongs to the 'Open Elective 2xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT201 - Marketing Management.",
+    "context": "",
+    "response": "MKT201 - Marketing Management is a 3-credit course under 'Open Elective 2xx' category. Prerequisites: MKT101."
+  },
+  {
+    "instruction": "How many credits is the course ECO304 - Economics of Health?",
+    "context": "",
+    "response": "The course ECO304 - Economics of Health is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO304 - Economics of Health?",
+    "context": "",
+    "response": "The prerequisite for ECO304 - Economics of Health is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO304 - Economics of Health belong to?",
+    "context": "",
+    "response": "ECO304 - Economics of Health belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO304 - Economics of Health.",
+    "context": "",
+    "response": "ECO304 - Economics of Health is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO312 - Industrial Organization?",
+    "context": "",
+    "response": "The course ECO312 - Industrial Organization is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO312 - Industrial Organization?",
+    "context": "",
+    "response": "The prerequisite for ECO312 - Industrial Organization is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO312 - Industrial Organization belong to?",
+    "context": "",
+    "response": "ECO312 - Industrial Organization belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO312 - Industrial Organization.",
+    "context": "",
+    "response": "ECO312 - Industrial Organization is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO314 - Public Sector Economics?",
+    "context": "",
+    "response": "The course ECO314 - Public Sector Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO314 - Public Sector Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO314 - Public Sector Economics is: ECO315."
+  },
+  {
+    "instruction": "Which category does ECO314 - Public Sector Economics belong to?",
+    "context": "",
+    "response": "ECO314 - Public Sector Economics belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO314 - Public Sector Economics.",
+    "context": "",
+    "response": "ECO314 - Public Sector Economics is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO315."
+  },
+  {
+    "instruction": "How many credits is the course ECO329 - Contemporary Issues in International Economics?",
+    "context": "",
+    "response": "The course ECO329 - Contemporary Issues in International Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO329 - Contemporary Issues in International Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO329 - Contemporary Issues in International Economics is: ECO328."
+  },
+  {
+    "instruction": "Which category does ECO329 - Contemporary Issues in International Economics belong to?",
+    "context": "",
+    "response": "ECO329 - Contemporary Issues in International Economics belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO329 - Contemporary Issues in International Economics.",
+    "context": "",
+    "response": "ECO329 - Contemporary Issues in International Economics is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO328."
+  },
+  {
+    "instruction": "How many credits is the course ECO353 - Economics of Development in South Asia?",
+    "context": "",
+    "response": "The course ECO353 - Economics of Development in South Asia is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO353 - Economics of Development in South Asia?",
+    "context": "",
+    "response": "The prerequisite for ECO353 - Economics of Development in South Asia is: ECO349."
+  },
+  {
+    "instruction": "Which category does ECO353 - Economics of Development in South Asia belong to?",
+    "context": "",
+    "response": "ECO353 - Economics of Development in South Asia belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO353 - Economics of Development in South Asia.",
+    "context": "",
+    "response": "ECO353 - Economics of Development in South Asia is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO349."
+  },
+  {
+    "instruction": "How many credits is the course ECO354 - Environmental & Natural Resource Economics-II?",
+    "context": "",
+    "response": "The course ECO354 - Environmental & Natural Resource Economics-II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO354 - Environmental & Natural Resource Economics-II?",
+    "context": "",
+    "response": "The prerequisite for ECO354 - Environmental & Natural Resource Economics-II is: ECO260."
+  },
+  {
+    "instruction": "Which category does ECO354 - Environmental & Natural Resource Economics-II belong to?",
+    "context": "",
+    "response": "ECO354 - Environmental & Natural Resource Economics-II belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO354 - Environmental & Natural Resource Economics-II.",
+    "context": "",
+    "response": "ECO354 - Environmental & Natural Resource Economics-II is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO260."
+  },
+  {
+    "instruction": "How many credits is the course ECO355 - Blue Economics?",
+    "context": "",
+    "response": "The course ECO355 - Blue Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO355 - Blue Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO355 - Blue Economics is: ECO260."
+  },
+  {
+    "instruction": "Which category does ECO355 - Blue Economics belong to?",
+    "context": "",
+    "response": "ECO355 - Blue Economics belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO355 - Blue Economics.",
+    "context": "",
+    "response": "ECO355 - Blue Economics is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO260."
+  },
+  {
+    "instruction": "How many credits is the course ECO357 - Mathematical Economics?",
+    "context": "",
+    "response": "The course ECO357 - Mathematical Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO357 - Mathematical Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO357 - Mathematical Economics is: MAT211, ECO301."
+  },
+  {
+    "instruction": "Which category does ECO357 - Mathematical Economics belong to?",
+    "context": "",
+    "response": "ECO357 - Mathematical Economics belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO357 - Mathematical Economics.",
+    "context": "",
+    "response": "ECO357 - Mathematical Economics is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: MAT211, ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO375 - Foundations in Financial Economics?",
+    "context": "",
+    "response": "The course ECO375 - Foundations in Financial Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO375 - Foundations in Financial Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO375 - Foundations in Financial Economics is: ECO101, FIN101."
+  },
+  {
+    "instruction": "Which category does ECO375 - Foundations in Financial Economics belong to?",
+    "context": "",
+    "response": "ECO375 - Foundations in Financial Economics belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO375 - Foundations in Financial Economics.",
+    "context": "",
+    "response": "ECO375 - Foundations in Financial Economics is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO101, FIN101."
+  },
+  {
+    "instruction": "How many credits is the course ECO382 - Economic Valuation of Environment?",
+    "context": "",
+    "response": "The course ECO382 - Economic Valuation of Environment is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO382 - Economic Valuation of Environment?",
+    "context": "",
+    "response": "The prerequisite for ECO382 - Economic Valuation of Environment is: ECO260."
+  },
+  {
+    "instruction": "Which category does ECO382 - Economic Valuation of Environment belong to?",
+    "context": "",
+    "response": "ECO382 - Economic Valuation of Environment belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO382 - Economic Valuation of Environment.",
+    "context": "",
+    "response": "ECO382 - Economic Valuation of Environment is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ECO260."
+  },
+  {
+    "instruction": "How many credits is the course BUS361 - Legal Environment of Business?",
+    "context": "",
+    "response": "The course BUS361 - Legal Environment of Business is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for BUS361 - Legal Environment of Business?",
+    "context": "",
+    "response": "The prerequisite for BUS361 - Legal Environment of Business is: None."
+  },
+  {
+    "instruction": "Which category does BUS361 - Legal Environment of Business belong to?",
+    "context": "",
+    "response": "BUS361 - Legal Environment of Business belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course BUS361 - Legal Environment of Business.",
+    "context": "",
+    "response": "BUS361 - Legal Environment of Business is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ENG313 - English for the Media?",
+    "context": "",
+    "response": "The course ENG313 - English for the Media is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ENG313 - English for the Media?",
+    "context": "",
+    "response": "The prerequisite for ENG313 - English for the Media is: ENG102."
+  },
+  {
+    "instruction": "Which category does ENG313 - English for the Media belong to?",
+    "context": "",
+    "response": "ENG313 - English for the Media belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ENG313 - English for the Media.",
+    "context": "",
+    "response": "ENG313 - English for the Media is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: ENG102."
+  },
+  {
+    "instruction": "How many credits is the course FIN335 - Financial Institution and Market?",
+    "context": "",
+    "response": "The course FIN335 - Financial Institution and Market is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN335 - Financial Institution and Market?",
+    "context": "",
+    "response": "The prerequisite for FIN335 - Financial Institution and Market is: FIN101."
+  },
+  {
+    "instruction": "Which category does FIN335 - Financial Institution and Market belong to?",
+    "context": "",
+    "response": "FIN335 - Financial Institution and Market belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN335 - Financial Institution and Market.",
+    "context": "",
+    "response": "FIN335 - Financial Institution and Market is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: FIN101."
+  },
+  {
+    "instruction": "How many credits is the course FIN350 - Real State Finance?",
+    "context": "",
+    "response": "The course FIN350 - Real State Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN350 - Real State Finance?",
+    "context": "",
+    "response": "The prerequisite for FIN350 - Real State Finance is: FIN101."
+  },
+  {
+    "instruction": "Which category does FIN350 - Real State Finance belong to?",
+    "context": "",
+    "response": "FIN350 - Real State Finance belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN350 - Real State Finance.",
+    "context": "",
+    "response": "FIN350 - Real State Finance is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: FIN101."
+  },
+  {
+    "instruction": "How many credits is the course FIN380 - Management of Commercial Bank?",
+    "context": "",
+    "response": "The course FIN380 - Management of Commercial Bank is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN380 - Management of Commercial Bank?",
+    "context": "",
+    "response": "The prerequisite for FIN380 - Management of Commercial Bank is: FIN101."
+  },
+  {
+    "instruction": "Which category does FIN380 - Management of Commercial Bank belong to?",
+    "context": "",
+    "response": "FIN380 - Management of Commercial Bank belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN380 - Management of Commercial Bank.",
+    "context": "",
+    "response": "FIN380 - Management of Commercial Bank is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: FIN101."
+  },
+  {
+    "instruction": "How many credits is the course HRM301 - Human Resource Management?",
+    "context": "",
+    "response": "The course HRM301 - Human Resource Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for HRM301 - Human Resource Management?",
+    "context": "",
+    "response": "The prerequisite for HRM301 - Human Resource Management is: None."
+  },
+  {
+    "instruction": "Which category does HRM301 - Human Resource Management belong to?",
+    "context": "",
+    "response": "HRM301 - Human Resource Management belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course HRM301 - Human Resource Management.",
+    "context": "",
+    "response": "HRM301 - Human Resource Management is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MGT337 - Production Operation Management?",
+    "context": "",
+    "response": "The course MGT337 - Production Operation Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT337 - Production Operation Management?",
+    "context": "",
+    "response": "The prerequisite for MGT337 - Production Operation Management is: None."
+  },
+  {
+    "instruction": "Which category does MGT337 - Production Operation Management belong to?",
+    "context": "",
+    "response": "MGT337 - Production Operation Management belongs to the 'Open Elective 3xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT337 - Production Operation Management.",
+    "context": "",
+    "response": "MGT337 - Production Operation Management is a 3-credit course under 'Open Elective 3xx' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course ECO406 - International Economic Theory?",
+    "context": "",
+    "response": "The course ECO406 - International Economic Theory is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO406 - International Economic Theory?",
+    "context": "",
+    "response": "The prerequisite for ECO406 - International Economic Theory is: ECO328."
+  },
+  {
+    "instruction": "Which category does ECO406 - International Economic Theory belong to?",
+    "context": "",
+    "response": "ECO406 - International Economic Theory belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO406 - International Economic Theory.",
+    "context": "",
+    "response": "ECO406 - International Economic Theory is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO328."
+  },
+  {
+    "instruction": "How many credits is the course ECO414 - Trade Policy Analysis?",
+    "context": "",
+    "response": "The course ECO414 - Trade Policy Analysis is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO414 - Trade Policy Analysis?",
+    "context": "",
+    "response": "The prerequisite for ECO414 - Trade Policy Analysis is: ECO328."
+  },
+  {
+    "instruction": "Which category does ECO414 - Trade Policy Analysis belong to?",
+    "context": "",
+    "response": "ECO414 - Trade Policy Analysis belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO414 - Trade Policy Analysis.",
+    "context": "",
+    "response": "ECO414 - Trade Policy Analysis is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO328."
+  },
+  {
+    "instruction": "How many credits is the course ECO433 - Gender and Development?",
+    "context": "",
+    "response": "The course ECO433 - Gender and Development is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO433 - Gender and Development?",
+    "context": "",
+    "response": "The prerequisite for ECO433 - Gender and Development is: ECO349."
+  },
+  {
+    "instruction": "Which category does ECO433 - Gender and Development belong to?",
+    "context": "",
+    "response": "ECO433 - Gender and Development belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO433 - Gender and Development.",
+    "context": "",
+    "response": "ECO433 - Gender and Development is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO349."
+  },
+  {
+    "instruction": "How many credits is the course ECO443 - Social Mobilization, Rural Banking & Community Organization?",
+    "context": "",
+    "response": "The course ECO443 - Social Mobilization, Rural Banking & Community Organization is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO443 - Social Mobilization, Rural Banking & Community Organization?",
+    "context": "",
+    "response": "The prerequisite for ECO443 - Social Mobilization, Rural Banking & Community Organization is: ECO349."
+  },
+  {
+    "instruction": "Which category does ECO443 - Social Mobilization, Rural Banking & Community Organization belong to?",
+    "context": "",
+    "response": "ECO443 - Social Mobilization, Rural Banking & Community Organization belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO443 - Social Mobilization, Rural Banking & Community Organization.",
+    "context": "",
+    "response": "ECO443 - Social Mobilization, Rural Banking & Community Organization is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO349."
+  },
+  {
+    "instruction": "How many credits is the course ECO447 - Applied Economics?",
+    "context": "",
+    "response": "The course ECO447 - Applied Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO447 - Applied Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO447 - Applied Economics is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO447 - Applied Economics belong to?",
+    "context": "",
+    "response": "ECO447 - Applied Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO447 - Applied Economics.",
+    "context": "",
+    "response": "ECO447 - Applied Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO449 - Economics of Information?",
+    "context": "",
+    "response": "The course ECO449 - Economics of Information is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO449 - Economics of Information?",
+    "context": "",
+    "response": "The prerequisite for ECO449 - Economics of Information is: ECO301."
+  },
+  {
+    "instruction": "Which category does ECO449 - Economics of Information belong to?",
+    "context": "",
+    "response": "ECO449 - Economics of Information belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO449 - Economics of Information.",
+    "context": "",
+    "response": "ECO449 - Economics of Information is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO450 - Labor Economics?",
+    "context": "",
+    "response": "The course ECO450 - Labor Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO450 - Labor Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO450 - Labor Economics is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO450 - Labor Economics belong to?",
+    "context": "",
+    "response": "ECO450 - Labor Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO450 - Labor Economics.",
+    "context": "",
+    "response": "ECO450 - Labor Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO453 - Game Theory and Applications?",
+    "context": "",
+    "response": "The course ECO453 - Game Theory and Applications is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO453 - Game Theory and Applications?",
+    "context": "",
+    "response": "The prerequisite for ECO453 - Game Theory and Applications is: ECO301."
+  },
+  {
+    "instruction": "Which category does ECO453 - Game Theory and Applications belong to?",
+    "context": "",
+    "response": "ECO453 - Game Theory and Applications belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO453 - Game Theory and Applications.",
+    "context": "",
+    "response": "ECO453 - Game Theory and Applications is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO455 - Asian and Emerging Economies?",
+    "context": "",
+    "response": "The course ECO455 - Asian and Emerging Economies is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO455 - Asian and Emerging Economies?",
+    "context": "",
+    "response": "The prerequisite for ECO455 - Asian and Emerging Economies is: ECO328."
+  },
+  {
+    "instruction": "Which category does ECO455 - Asian and Emerging Economies belong to?",
+    "context": "",
+    "response": "ECO455 - Asian and Emerging Economies belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO455 - Asian and Emerging Economies.",
+    "context": "",
+    "response": "ECO455 - Asian and Emerging Economies is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO328."
+  },
+  {
+    "instruction": "How many credits is the course ECO460 - Managerial Economics?",
+    "context": "",
+    "response": "The course ECO460 - Managerial Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO460 - Managerial Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO460 - Managerial Economics is: ECO301."
+  },
+  {
+    "instruction": "Which category does ECO460 - Managerial Economics belong to?",
+    "context": "",
+    "response": "ECO460 - Managerial Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO460 - Managerial Economics.",
+    "context": "",
+    "response": "ECO460 - Managerial Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO461 - Competition Law and Economics?",
+    "context": "",
+    "response": "The course ECO461 - Competition Law and Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO461 - Competition Law and Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO461 - Competition Law and Economics is: ECO312."
+  },
+  {
+    "instruction": "Which category does ECO461 - Competition Law and Economics belong to?",
+    "context": "",
+    "response": "ECO461 - Competition Law and Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO461 - Competition Law and Economics.",
+    "context": "",
+    "response": "ECO461 - Competition Law and Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO312."
+  },
+  {
+    "instruction": "How many credits is the course ECO474 - Mathematical Economics II?",
+    "context": "",
+    "response": "The course ECO474 - Mathematical Economics II is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO474 - Mathematical Economics II?",
+    "context": "",
+    "response": "The prerequisite for ECO474 - Mathematical Economics II is: ECO357."
+  },
+  {
+    "instruction": "Which category does ECO474 - Mathematical Economics II belong to?",
+    "context": "",
+    "response": "ECO474 - Mathematical Economics II belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO474 - Mathematical Economics II.",
+    "context": "",
+    "response": "ECO474 - Mathematical Economics II is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO357."
+  },
+  {
+    "instruction": "How many credits is the course ECO480 - Urban Economics?",
+    "context": "",
+    "response": "The course ECO480 - Urban Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO480 - Urban Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO480 - Urban Economics is: ECO101."
+  },
+  {
+    "instruction": "Which category does ECO480 - Urban Economics belong to?",
+    "context": "",
+    "response": "ECO480 - Urban Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO480 - Urban Economics.",
+    "context": "",
+    "response": "ECO480 - Urban Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO101."
+  },
+  {
+    "instruction": "How many credits is the course ECO484 - Project Analysis and Evaluation?",
+    "context": "",
+    "response": "The course ECO484 - Project Analysis and Evaluation is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO484 - Project Analysis and Evaluation?",
+    "context": "",
+    "response": "The prerequisite for ECO484 - Project Analysis and Evaluation is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO484 - Project Analysis and Evaluation belong to?",
+    "context": "",
+    "response": "ECO484 - Project Analysis and Evaluation belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO484 - Project Analysis and Evaluation.",
+    "context": "",
+    "response": "ECO484 - Project Analysis and Evaluation is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO485 - Cost Benefit Analysis?",
+    "context": "",
+    "response": "The course ECO485 - Cost Benefit Analysis is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO485 - Cost Benefit Analysis?",
+    "context": "",
+    "response": "The prerequisite for ECO485 - Cost Benefit Analysis is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO485 - Cost Benefit Analysis belong to?",
+    "context": "",
+    "response": "ECO485 - Cost Benefit Analysis belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO485 - Cost Benefit Analysis.",
+    "context": "",
+    "response": "ECO485 - Cost Benefit Analysis is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO486 - Energy Economics and Policy?",
+    "context": "",
+    "response": "The course ECO486 - Energy Economics and Policy is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO486 - Energy Economics and Policy?",
+    "context": "",
+    "response": "The prerequisite for ECO486 - Energy Economics and Policy is: ECO260."
+  },
+  {
+    "instruction": "Which category does ECO486 - Energy Economics and Policy belong to?",
+    "context": "",
+    "response": "ECO486 - Energy Economics and Policy belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO486 - Energy Economics and Policy.",
+    "context": "",
+    "response": "ECO486 - Energy Economics and Policy is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO260."
+  },
+  {
+    "instruction": "How many credits is the course ECO487 - Applied Econometrics?",
+    "context": "",
+    "response": "The course ECO487 - Applied Econometrics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO487 - Applied Econometrics?",
+    "context": "",
+    "response": "The prerequisite for ECO487 - Applied Econometrics is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO487 - Applied Econometrics belong to?",
+    "context": "",
+    "response": "ECO487 - Applied Econometrics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO487 - Applied Econometrics.",
+    "context": "",
+    "response": "ECO487 - Applied Econometrics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO489 - Forecasting Methods in Business and Economics?",
+    "context": "",
+    "response": "The course ECO489 - Forecasting Methods in Business and Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO489 - Forecasting Methods in Business and Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO489 - Forecasting Methods in Business and Economics is: ECO465."
+  },
+  {
+    "instruction": "Which category does ECO489 - Forecasting Methods in Business and Economics belong to?",
+    "context": "",
+    "response": "ECO489 - Forecasting Methods in Business and Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO489 - Forecasting Methods in Business and Economics.",
+    "context": "",
+    "response": "ECO489 - Forecasting Methods in Business and Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO465."
+  },
+  {
+    "instruction": "How many credits is the course ECO491 - Welfare Economics?",
+    "context": "",
+    "response": "The course ECO491 - Welfare Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO491 - Welfare Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO491 - Welfare Economics is: ECO301."
+  },
+  {
+    "instruction": "Which category does ECO491 - Welfare Economics belong to?",
+    "context": "",
+    "response": "ECO491 - Welfare Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO491 - Welfare Economics.",
+    "context": "",
+    "response": "ECO491 - Welfare Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO301."
+  },
+  {
+    "instruction": "How many credits is the course ECO492 - Law and Economics?",
+    "context": "",
+    "response": "The course ECO492 - Law and Economics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for ECO492 - Law and Economics?",
+    "context": "",
+    "response": "The prerequisite for ECO492 - Law and Economics is: None."
+  },
+  {
+    "instruction": "Which category does ECO492 - Law and Economics belong to?",
+    "context": "",
+    "response": "ECO492 - Law and Economics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course ECO492 - Law and Economics.",
+    "context": "",
+    "response": "ECO492 - Law and Economics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: None."
+  },
+  {
+    "instruction": "How many credits is the course MAT407 - Advanced Calculus?",
+    "context": "",
+    "response": "The course MAT407 - Advanced Calculus is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT407 - Advanced Calculus?",
+    "context": "",
+    "response": "The prerequisite for MAT407 - Advanced Calculus is: MAT102."
+  },
+  {
+    "instruction": "Which category does MAT407 - Advanced Calculus belong to?",
+    "context": "",
+    "response": "MAT407 - Advanced Calculus belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT407 - Advanced Calculus.",
+    "context": "",
+    "response": "MAT407 - Advanced Calculus is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MAT102."
+  },
+  {
+    "instruction": "How many credits is the course MAT470 - Real Analysis?",
+    "context": "",
+    "response": "The course MAT470 - Real Analysis is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MAT470 - Real Analysis?",
+    "context": "",
+    "response": "The prerequisite for MAT470 - Real Analysis is: MAT211."
+  },
+  {
+    "instruction": "Which category does MAT470 - Real Analysis belong to?",
+    "context": "",
+    "response": "MAT470 - Real Analysis belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MAT470 - Real Analysis.",
+    "context": "",
+    "response": "MAT470 - Real Analysis is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MAT211."
+  },
+  {
+    "instruction": "How many credits is the course STA427 - Mathematical Statistics?",
+    "context": "",
+    "response": "The course STA427 - Mathematical Statistics is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for STA427 - Mathematical Statistics?",
+    "context": "",
+    "response": "The prerequisite for STA427 - Mathematical Statistics is: ECO204."
+  },
+  {
+    "instruction": "Which category does STA427 - Mathematical Statistics belong to?",
+    "context": "",
+    "response": "STA427 - Mathematical Statistics belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course STA427 - Mathematical Statistics.",
+    "context": "",
+    "response": "STA427 - Mathematical Statistics is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO204."
+  },
+  {
+    "instruction": "How many credits is the course FIN408 - Financial Analysis and Control?",
+    "context": "",
+    "response": "The course FIN408 - Financial Analysis and Control is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN408 - Financial Analysis and Control?",
+    "context": "",
+    "response": "The prerequisite for FIN408 - Financial Analysis and Control is: FIN201."
+  },
+  {
+    "instruction": "Which category does FIN408 - Financial Analysis and Control belong to?",
+    "context": "",
+    "response": "FIN408 - Financial Analysis and Control belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN408 - Financial Analysis and Control.",
+    "context": "",
+    "response": "FIN408 - Financial Analysis and Control is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN201."
+  },
+  {
+    "instruction": "How many credits is the course FIN410 - Risk Management and Insurance?",
+    "context": "",
+    "response": "The course FIN410 - Risk Management and Insurance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN410 - Risk Management and Insurance?",
+    "context": "",
+    "response": "The prerequisite for FIN410 - Risk Management and Insurance is: FIN101."
+  },
+  {
+    "instruction": "Which category does FIN410 - Risk Management and Insurance belong to?",
+    "context": "",
+    "response": "FIN410 - Risk Management and Insurance belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN410 - Risk Management and Insurance.",
+    "context": "",
+    "response": "FIN410 - Risk Management and Insurance is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN101."
+  },
+  {
+    "instruction": "How many credits is the course FIN425 - Investment Analysis and Management?",
+    "context": "",
+    "response": "The course FIN425 - Investment Analysis and Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN425 - Investment Analysis and Management?",
+    "context": "",
+    "response": "The prerequisite for FIN425 - Investment Analysis and Management is: FIN201."
+  },
+  {
+    "instruction": "Which category does FIN425 - Investment Analysis and Management belong to?",
+    "context": "",
+    "response": "FIN425 - Investment Analysis and Management belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN425 - Investment Analysis and Management.",
+    "context": "",
+    "response": "FIN425 - Investment Analysis and Management is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN201."
+  },
+  {
+    "instruction": "How many credits is the course FIN435 - Managerial Finance?",
+    "context": "",
+    "response": "The course FIN435 - Managerial Finance is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN435 - Managerial Finance?",
+    "context": "",
+    "response": "The prerequisite for FIN435 - Managerial Finance is: FIN201."
+  },
+  {
+    "instruction": "Which category does FIN435 - Managerial Finance belong to?",
+    "context": "",
+    "response": "FIN435 - Managerial Finance belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN435 - Managerial Finance.",
+    "context": "",
+    "response": "FIN435 - Managerial Finance is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN201."
+  },
+  {
+    "instruction": "How many credits is the course FIN450 - Cases in Financial Management?",
+    "context": "",
+    "response": "The course FIN450 - Cases in Financial Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN450 - Cases in Financial Management?",
+    "context": "",
+    "response": "The prerequisite for FIN450 - Cases in Financial Management is: FIN201."
+  },
+  {
+    "instruction": "Which category does FIN450 - Cases in Financial Management belong to?",
+    "context": "",
+    "response": "FIN450 - Cases in Financial Management belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN450 - Cases in Financial Management.",
+    "context": "",
+    "response": "FIN450 - Cases in Financial Management is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN201."
+  },
+  {
+    "instruction": "How many credits is the course FIN475 - Option and Future?",
+    "context": "",
+    "response": "The course FIN475 - Option and Future is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for FIN475 - Option and Future?",
+    "context": "",
+    "response": "The prerequisite for FIN475 - Option and Future is: FIN201."
+  },
+  {
+    "instruction": "Which category does FIN475 - Option and Future belong to?",
+    "context": "",
+    "response": "FIN475 - Option and Future belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course FIN475 - Option and Future.",
+    "context": "",
+    "response": "FIN475 - Option and Future is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: FIN201."
+  },
+  {
+    "instruction": "How many credits is the course HRM411 - Human Resource Planning?",
+    "context": "",
+    "response": "The course HRM411 - Human Resource Planning is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for HRM411 - Human Resource Planning?",
+    "context": "",
+    "response": "The prerequisite for HRM411 - Human Resource Planning is: HRM301."
+  },
+  {
+    "instruction": "Which category does HRM411 - Human Resource Planning belong to?",
+    "context": "",
+    "response": "HRM411 - Human Resource Planning belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course HRM411 - Human Resource Planning.",
+    "context": "",
+    "response": "HRM411 - Human Resource Planning is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: HRM301."
+  },
+  {
+    "instruction": "How many credits is the course HRM414 - Industrial Relations?",
+    "context": "",
+    "response": "The course HRM414 - Industrial Relations is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for HRM414 - Industrial Relations?",
+    "context": "",
+    "response": "The prerequisite for HRM414 - Industrial Relations is: HRM301."
+  },
+  {
+    "instruction": "Which category does HRM414 - Industrial Relations belong to?",
+    "context": "",
+    "response": "HRM414 - Industrial Relations belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course HRM414 - Industrial Relations.",
+    "context": "",
+    "response": "HRM414 - Industrial Relations is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: HRM301."
+  },
+  {
+    "instruction": "How many credits is the course HRM419 - Leadership Power and Influence?",
+    "context": "",
+    "response": "The course HRM419 - Leadership Power and Influence is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for HRM419 - Leadership Power and Influence?",
+    "context": "",
+    "response": "The prerequisite for HRM419 - Leadership Power and Influence is: MGT251."
+  },
+  {
+    "instruction": "Which category does HRM419 - Leadership Power and Influence belong to?",
+    "context": "",
+    "response": "HRM419 - Leadership Power and Influence belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course HRM419 - Leadership Power and Influence.",
+    "context": "",
+    "response": "HRM419 - Leadership Power and Influence is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MGT251."
+  },
+  {
+    "instruction": "How many credits is the course HRM420 - Organization Development?",
+    "context": "",
+    "response": "The course HRM420 - Organization Development is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for HRM420 - Organization Development?",
+    "context": "",
+    "response": "The prerequisite for HRM420 - Organization Development is: MGT251."
+  },
+  {
+    "instruction": "Which category does HRM420 - Organization Development belong to?",
+    "context": "",
+    "response": "HRM420 - Organization Development belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course HRM420 - Organization Development.",
+    "context": "",
+    "response": "HRM420 - Organization Development is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MGT251."
+  },
+  {
+    "instruction": "How many credits is the course MGT402 - Management Science?",
+    "context": "",
+    "response": "The course MGT402 - Management Science is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT402 - Management Science?",
+    "context": "",
+    "response": "The prerequisite for MGT402 - Management Science is: MAT211."
+  },
+  {
+    "instruction": "Which category does MGT402 - Management Science belong to?",
+    "context": "",
+    "response": "MGT402 - Management Science belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT402 - Management Science.",
+    "context": "",
+    "response": "MGT402 - Management Science is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MAT211."
+  },
+  {
+    "instruction": "How many credits is the course MGT405 - Organizational Development and Change?",
+    "context": "",
+    "response": "The course MGT405 - Organizational Development and Change is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT405 - Organizational Development and Change?",
+    "context": "",
+    "response": "The prerequisite for MGT405 - Organizational Development and Change is: MGT251."
+  },
+  {
+    "instruction": "Which category does MGT405 - Organizational Development and Change belong to?",
+    "context": "",
+    "response": "MGT405 - Organizational Development and Change belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT405 - Organizational Development and Change.",
+    "context": "",
+    "response": "MGT405 - Organizational Development and Change is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MGT251."
+  },
+  {
+    "instruction": "How many credits is the course MGT410 - International Labor Market?",
+    "context": "",
+    "response": "The course MGT410 - International Labor Market is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MGT410 - International Labor Market?",
+    "context": "",
+    "response": "The prerequisite for MGT410 - International Labor Market is: ECO102."
+  },
+  {
+    "instruction": "Which category does MGT410 - International Labor Market belong to?",
+    "context": "",
+    "response": "MGT410 - International Labor Market belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MGT410 - International Labor Market.",
+    "context": "",
+    "response": "MGT410 - International Labor Market is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: ECO102."
+  },
+  {
+    "instruction": "How many credits is the course MKT410 - Consumer Behavior?",
+    "context": "",
+    "response": "The course MKT410 - Consumer Behavior is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT410 - Consumer Behavior?",
+    "context": "",
+    "response": "The prerequisite for MKT410 - Consumer Behavior is: MKT201."
+  },
+  {
+    "instruction": "Which category does MKT410 - Consumer Behavior belong to?",
+    "context": "",
+    "response": "MKT410 - Consumer Behavior belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT410 - Consumer Behavior.",
+    "context": "",
+    "response": "MKT410 - Consumer Behavior is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MKT201."
+  },
+  {
+    "instruction": "How many credits is the course MKT411 - Export Import Management?",
+    "context": "",
+    "response": "The course MKT411 - Export Import Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT411 - Export Import Management?",
+    "context": "",
+    "response": "The prerequisite for MKT411 - Export Import Management is: MKT201."
+  },
+  {
+    "instruction": "Which category does MKT411 - Export Import Management belong to?",
+    "context": "",
+    "response": "MKT411 - Export Import Management belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT411 - Export Import Management.",
+    "context": "",
+    "response": "MKT411 - Export Import Management is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MKT201."
+  },
+  {
+    "instruction": "How many credits is the course MKT412 - Service Marketing?",
+    "context": "",
+    "response": "The course MKT412 - Service Marketing is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT412 - Service Marketing?",
+    "context": "",
+    "response": "The prerequisite for MKT412 - Service Marketing is: MKT201."
+  },
+  {
+    "instruction": "Which category does MKT412 - Service Marketing belong to?",
+    "context": "",
+    "response": "MKT412 - Service Marketing belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT412 - Service Marketing.",
+    "context": "",
+    "response": "MKT412 - Service Marketing is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MKT201."
+  },
+  {
+    "instruction": "How many credits is the course MKT414 - Marketing Research?",
+    "context": "",
+    "response": "The course MKT414 - Marketing Research is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT414 - Marketing Research?",
+    "context": "",
+    "response": "The prerequisite for MKT414 - Marketing Research is: MKT201, ECO204."
+  },
+  {
+    "instruction": "Which category does MKT414 - Marketing Research belong to?",
+    "context": "",
+    "response": "MKT414 - Marketing Research belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT414 - Marketing Research.",
+    "context": "",
+    "response": "MKT414 - Marketing Research is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MKT201, ECO204."
+  },
+  {
+    "instruction": "How many credits is the course MKT406 - Brand Management?",
+    "context": "",
+    "response": "The course MKT406 - Brand Management is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for MKT406 - Brand Management?",
+    "context": "",
+    "response": "The prerequisite for MKT406 - Brand Management is: MKT201."
+  },
+  {
+    "instruction": "Which category does MKT406 - Brand Management belong to?",
+    "context": "",
+    "response": "MKT406 - Brand Management belongs to the 'Open Elective 4xx' category."
+  },
+  {
+    "instruction": "Tell me about the course MKT406 - Brand Management.",
+    "context": "",
+    "response": "MKT406 - Brand Management is a 3-credit course under 'Open Elective 4xx' category. Prerequisites: MKT201."
+  },
+  {
+    "instruction": "What is the name of the undergraduate program offered in economics at EWU?",
+    "context": "",
+    "response": "The program is called Bachelor of Social Science (BSS) in Economics."
+  },
+  {
+    "instruction": "How many total credits are required to complete the BSS in Economics program?",
+    "context": "",
+    "response": "To graduate from the BSS in Economics program, a student must complete a minimum of 123 credits."
+  },
+  {
+    "instruction": "How many credits of core courses are required in the Economics program?",
+    "context": "",
+    "response": "The program requires 54 credits of core courses in Economics."
+  },
+  {
+    "instruction": "What are the general education requirements for the BSS in Economics?",
+    "context": "",
+    "response": "Students must complete 24 credits of compulsory general education courses as part of the program."
+  },
+  {
+    "instruction": "How many credits of optional general education and sociology courses are required?",
+    "context": "",
+    "response": "Students are required to complete 9 credits of optional general education and sociology courses."
+  },
+  {
+    "instruction": "Are there any open elective courses in the Economics program?",
+    "context": "",
+    "response": "Yes, students must complete 36 credits of open elective courses, which can be chosen according to their interests."
+  },
+  {
+    "instruction": "Can you summarize the credit distribution for the BSS in Economics program?",
+    "context": "",
+    "response": "The total 123 credits are distributed as follows: 24 credits for compulsory general education, 9 credits for optional general education and sociology, 54 credits for core courses, and 36 credits for open elective courses."
+  },
+  {
+    "instruction": "Is sociology part of the Economics curriculum at EWU?",
+    "context": "",
+    "response": "Yes, 9 credits of optional general education courses include sociology-related courses as part of the BSS in Economics program."
+  },
+  {
+    "instruction": "Are students allowed to choose elective courses in the Economics program?",
+    "context": "",
+    "response": "Yes, students must complete 36 credits of open elective courses, allowing them to explore subjects outside their core Economics courses."
+  },
+  {
+    "instruction": "What is the difference between core courses and open electives in this program?",
+    "context": "",
+    "response": "Core courses (54 credits) focus on essential Economics subjects, while open electives (36 credits) allow students to choose courses from other disciplines according to their interests."
+  },
+  {
+    "instruction": "How much of the program is devoted to general education?",
+    "context": "",
+    "response": "A total of 33 credits are devoted to general education: 24 credits of compulsory general education and 9 credits of optional general education and sociology."
+  },
+  {
+    "instruction": "Can students graduate without completing the core courses?",
+    "context": "",
+    "response": "No, students must complete all 54 credits of core courses to graduate from the BSS in Economics program."
+  },
+  {
+    "instruction": "Are the open elective courses mandatory for graduation?",
+    "context": "",
+    "response": "Yes, all 36 credits of open elective courses are required to meet the minimum graduation credit requirement of 123 credits."
+  },
+  {
+    "instruction": "How flexible is the program in choosing electives?",
+    "context": "",
+    "response": "The program provides flexibility through 36 credits of open electives, allowing students to explore courses outside the core Economics curriculum."
+  },
+  {
+    "instruction": "What is the total credit requirement for general education including optional courses?",
+    "context": "",
+    "response": "The total credit requirement for general education, including optional courses, is 33 credits (24 compulsory + 9 optional)."
+  },
+  {
+    "instruction": "Is BSS in Economics a full-time undergraduate program?",
+    "context": "",
+    "response": "Yes, BSS in Economics is a full-time undergraduate program that requires completion of 123 credits across core, general education, and elective courses."
+  },
+  {
+    "instruction": "Do students have to take any sociology courses in this program?",
+    "context": "",
+    "response": "Yes, the optional general education and sociology component includes 9 credits, which may include sociology-related courses."
+  },
+  {
+    "instruction": "Can students graduate if they skip open electives?",
+    "context": "",
+    "response": "No, students must complete all 36 credits of open elective courses to fulfill the 123-credit graduation requirement."
+  },
+  {
+    "instruction": "What kind of courses are considered core in the Economics program?",
+    "context": "",
+    "response": "Core courses (54 credits) consist of essential Economics courses that provide foundational knowledge in economic theory, quantitative methods, and applied economics."
+  },
+  {
+    "instruction": "Are there any non-Economics courses required in this program?",
+    "context": "",
+    "response": "Yes, students must complete 24 credits of compulsory general education and 36 credits of open electives, which can include courses outside Economics."
+  },
+  {
+    "instruction": "How many credits of electives can a student choose freely?",
+    "context": "",
+    "response": "Students can freely choose 36 credits of open elective courses as part of the program."
+  },
+  {
+    "instruction": "Does the program have any interdisciplinary components?",
+    "context": "",
+    "response": "Yes, the 36 credits of open electives and 9 credits of optional general education allow students to take courses across other disciplines, making the program somewhat interdisciplinary."
+  },
+  {
+    "instruction": "What is the open elective policy for Economics students at EWU?",
+    "context": "",
+    "response": "Students must complete 36 credits from the pool of Open Elective courses. At least 15 credits must be from Economics courses, and the remaining 18 credits can be from any other disciplines. Additionally, at least 6 credits must be from 2xx level courses (including BUS 231), 12 credits from 3xx level, and 18 credits from 4xx level. Any 3-credit courses from these levels that fulfill prerequisites and are not listed can also be taken as Open Electives."
+  },
+  {
+    "instruction": "Can I take electives from disciplines other than Economics?",
+    "context": "",
+    "response": "Yes, out of the 36 open elective credits, at least 18 credits can be from any discipline outside Economics, allowing students to explore other areas of interest."
+  },
+  {
+    "instruction": "Are there level-specific requirements for open electives?",
+    "context": "",
+    "response": "Yes, students must complete at least 6 credits from 2xx level courses (including BUS 231), 12 credits from 3xx level courses, and 18 credits from 4xx level courses as part of the open elective requirements."
+  },
+  {
+    "instruction": "Can I take an unlisted course as an open elective?",
+    "context": "",
+    "response": "Yes, any 3-credit course that meets the prerequisites and is not already listed can be advised as an Open Elective."
+  },
+  {
+    "instruction": "Who is eligible for a second major in Economics at EWU?",
+    "context": "",
+    "response": "A second major in Economics is open to all undergraduate students at EWU who are not already enrolled in the BSS in Economics program."
+  },
+  {
+    "instruction": "How does earning a second major in Economics affect my degree?",
+    "context": "",
+    "response": "Once a student earns a second major in Economics, their degree will include the suffix 'Economics'. For example, a student with BBA in Marketing who completes the second major will have a degree titled BBA (Marketing and Economics)."
+  },
+  {
+    "instruction": "How many total credits are required for a second major in Economics?",
+    "context": "",
+    "response": "A total of 45 credits are required to complete a second major in Economics, including 39 compulsory credits and 6 elective credits."
+  },
+  {
+    "instruction": "What are the compulsory courses for a second major in Economics?",
+    "context": "",
+    "response": "The compulsory courses for the second major include ECO101 (Principles of Microeconomics), ECO102 (Principles of Macroeconomics), ECO260 (Environmental & Natural Resource Economics), ECO315 (Public Finance), MAT110 (Mathematics for Business & Economics I), ECO104 (Statistics for Business and Economics I), ECO301 (Intermediate Microeconomic Theory I), ECO302 (Intermediate Macroeconomic Theory I), ECO465 (Basic Econometrics), ECO467 (Intermediate Microeconomic Theory II), ECO477 (Intermediate Macroeconomic Theory II), MAT211 (Mathematics for Business & Economics II), and ECO204 (Statistics for Business & Economics II), each worth 3 credits."
+  },
+  {
+    "instruction": "How many elective credits are needed for a second major in Economics?",
+    "context": "",
+    "response": "Students must complete 6 elective credits, which consist of any two ECO courses at the 300 or 400 level."
+  },
+  {
+    "instruction": "Can I choose any Economics course as an elective for my second major?",
+    "context": "",
+    "response": "Yes, students can choose any two Economics courses at the 3xx or 4xx level as electives for the second major, provided they meet the prerequisites."
+  },
+  {
+    "instruction": "Is BUS 231 considered part of the open elective requirement?",
+    "context": "",
+    "response": "Yes, BUS 231 is included in the 2xx level open elective requirement, which mandates at least 6 credits from this level."
+  },
+  {
+    "instruction": "Can I mix open electives from different levels to fulfill the requirement?",
+    "context": "",
+    "response": "No, the open elective policy requires specific credits from each level: 6 credits from 2xx level, 12 credits from 3xx level, and 18 credits from 4xx level. Mixing across levels does not count toward these minimums."
+  },
+  {
+    "instruction": "Do I need prerequisites for open elective courses?",
+    "context": "",
+    "response": "Yes, any unlisted courses taken as open electives must fulfill the necessary prerequisites to be approved."
+  },
+  {
+    "instruction": "How many credits of Economics courses must be included in the open electives?",
+    "context": "",
+    "response": "At least 15 credits of the total 36 open elective credits must come from Economics courses."
+  },
+  {
+    "instruction": "Are second major courses included in my main program credits?",
+    "context": "",
+    "response": "No, second major courses are separate and require 45 additional credits, independent of your primary degree program."
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "instruction": "What is the total number of credits required to complete a B.Sc. in Mathematics at EWU?",
+    "context": "",
+    "response": "To complete the Bachelor of Science in Mathematics at EWU, a student needs a total of 128 credit hours."
+  },
+  {
+    "instruction": "Can you give me a breakdown of the credit requirements for the B.Sc. in Mathematics?",
+    "context": "",
+    "response": "Sure! The B.Sc. in Mathematics requires 21 credits in Language and General Education, 14 credits in Physics and Statistics, 81 credits in Mathematics Core courses, and 12 credits in Mathematics Elective courses."
+  },
+  {
+    "instruction": "What are Mathematics Elective Courses, and how many do I need to take?",
+    "context": "",
+    "response": "Mathematics Elective Courses are a set of optional courses that allow students to explore specialized areas of mathematics. You must take four courses (ECM 001 – ECM 004) totaling at least 12 credits from this group."
+  },
+  {
+    "instruction": "Could you list some of the Mathematics Elective courses offered?",
+    "context": "",
+    "response": "Yes! Some Mathematics Elective courses include: Mathematical Modeling in Biology (MAT 421), Mathematical Modeling in Finance and Business Management (MAT 422), Applied Analysis (MAT 424), Econometrics (MAT 425), Fuzzy Mathematics (MAT 431), Theory of Lattices (MAT 432), Integral Equations (MAT 433), and Quantum Mechanics (MAT 452). Each course is 3 credits."
+  },
+  {
+    "instruction": "Do any Mathematics Elective courses have prerequisites?",
+    "context": "",
+    "response": "Yes, several electives have prerequisites. For example, Applied Analysis (MAT 424) requires MAT 214, Econometrics (MAT 425) requires STA 204, Quantum Mechanics (MAT 452) requires PHY 212 and MAT 314, and Theory of Groups (MAT 471) requires MAT 215."
+  },
+  {
+    "instruction": "What is MAT 421 about, and do I need any prerequisites?",
+    "context": "",
+    "response": "MAT 421 is 'Mathematical Modeling in Biology.' It is a 3-credit course and has no prerequisites, making it suitable even for students who haven’t completed other specialized courses."
+  },
+  {
+    "instruction": "Are there electives related to physics in the Mathematics program?",
+    "context": "",
+    "response": "Yes, several electives integrate physics concepts, such as Plasma Physics (MAT 451), Quantum Mechanics (MAT 452), Classical Mechanics and Special Theory of Relativity (MAT 453), and Thermodynamics (MAT 454). These typically require background courses in physics and mathematics."
+  },
+  {
+    "instruction": "How can I choose which electives to take for the B.Sc. in Mathematics?",
+    "context": "",
+    "response": "You need to select four Mathematics Elective courses totaling at least 12 credits. You can pick based on your interests or career goals, considering prerequisites and your preparation in core mathematics and physics/statistics courses."
+  },
+  {
+    "instruction": "Is there a focus on statistics in the Mathematics program?",
+    "context": "",
+    "response": "Yes, the program includes 14 credits in Physics and Statistics, and electives like Econometrics (MAT 425), Actuarial Mathematics (MAT 461), and Stochastic Calculus (MAT 462) focus on applied statistics and probability."
+  },
+  {
+    "instruction": "What are the prerequisites for Stochastic Calculus (MAT 462)?",
+    "context": "",
+    "response": "MAT 462 requires STA 204 and MAT 214 as prerequisites, so you should complete those courses before enrolling in Stochastic Calculus."
+  },
+  {
+    "instruction": "Does the Mathematics program cover core mathematical theory?",
+    "context": "",
+    "response": "Absolutely! The program includes 81 credits in Mathematics Core courses, which cover essential areas of pure and applied mathematics needed for a solid foundation in the field."
+  },
+  {
+    "instruction": "Can you tell me about electives related to financial mathematics?",
+    "context": "",
+    "response": "Yes, 'Mathematical Modeling in Finance and Business Management' (MAT 422) and 'Actuarial Mathematics' (MAT 461) are electives focused on financial applications. MAT 422 has no prerequisites, while MAT 461 requires STA 204."
+  },
+  {
+    "instruction": "Which electives focus on advanced theoretical mathematics?",
+    "context": "",
+    "response": "Electives like Theory of Groups (MAT 471), Theory of Rings and Modules (MAT 472), and Theory of Lattices (MAT 432) focus on advanced theoretical mathematics and typically require MAT 215 as a prerequisite."
+  },
+  {
+    "instruction": "Are there any applied mathematics electives I can take?",
+    "context": "",
+    "response": "Yes, several electives have applied focuses, such as Mathematical Modeling in Biology (MAT 421), Applied Analysis (MAT 424), Econometrics (MAT 425), and Asymptotic Analysis and Perturbation Methods (MAT 434). These courses apply mathematical theory to practical problems."
+  },
+  {
+    "instruction": "What is the name of the course ENG 101?",
+    "context": "",
+    "response": "The course ENG 101 is titled 'Basic English'."
+  },
+  {
+    "instruction": "How many credits is Basic English (ENG 101)?",
+    "context": "",
+    "response": "The course Basic English (ENG 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Basic English (ENG 101)?",
+    "context": "",
+    "response": "The prerequisites for Basic English (ENG 101) are: None."
+  },
+  {
+    "instruction": "Which category does Basic English (ENG 101) belong to?",
+    "context": "",
+    "response": "Basic English (ENG 101) falls under the 'Language & General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course ENG 102?",
+    "context": "",
+    "response": "The course ENG 102 is titled 'Composition & Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Composition & Communication Skills (ENG 102)?",
+    "context": "",
+    "response": "The course Composition & Communication Skills (ENG 102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Composition & Communication Skills (ENG 102)?",
+    "context": "",
+    "response": "The prerequisites for Composition & Communication Skills (ENG 102) are: ENG 101."
+  },
+  {
+    "instruction": "Which category does Composition & Communication Skills (ENG 102) belong to?",
+    "context": "",
+    "response": "Composition & Communication Skills (ENG 102) falls under the 'Language & General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 201?",
+    "context": "",
+    "response": "The course GEN 201 is titled 'Bangladesh Studies'."
+  },
+  {
+    "instruction": "How many credits is Bangladesh Studies (GEN 201)?",
+    "context": "",
+    "response": "The course Bangladesh Studies (GEN 201) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Bangladesh Studies (GEN 201)?",
+    "context": "",
+    "response": "The prerequisites for Bangladesh Studies (GEN 201) are: None."
+  },
+  {
+    "instruction": "Which category does Bangladesh Studies (GEN 201) belong to?",
+    "context": "",
+    "response": "Bangladesh Studies (GEN 201) falls under the 'Language & General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course OGEC 001?",
+    "context": "",
+    "response": "The course OGEC 001 is titled 'Optional General Education Course I'."
+  },
+  {
+    "instruction": "How many credits is Optional General Education Course I (OGEC 001)?",
+    "context": "",
+    "response": "The course Optional General Education Course I (OGEC 001) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Optional General Education Course I (OGEC 001)?",
+    "context": "",
+    "response": "The prerequisites for Optional General Education Course I (OGEC 001) are: None."
+  },
+  {
+    "instruction": "Which category does Optional General Education Course I (OGEC 001) belong to?",
+    "context": "",
+    "response": "Optional General Education Course I (OGEC 001) falls under the 'Language & General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course OGEC 002?",
+    "context": "",
+    "response": "The course OGEC 002 is titled 'Optional General Education Course II'."
+  },
+  {
+    "instruction": "How many credits is Optional General Education Course II (OGEC 002)?",
+    "context": "",
+    "response": "The course Optional General Education Course II (OGEC 002) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Optional General Education Course II (OGEC 002)?",
+    "context": "",
+    "response": "The prerequisites for Optional General Education Course II (OGEC 002) are: None."
+  },
+  {
+    "instruction": "Which category does Optional General Education Course II (OGEC 002) belong to?",
+    "context": "",
+    "response": "Optional General Education Course II (OGEC 002) falls under the 'Language & General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 202?",
+    "context": "",
+    "response": "The course GEN 202 is titled 'Eastern Culture & Heritage'."
+  },
+  {
+    "instruction": "How many credits is Eastern Culture & Heritage (GEN 202)?",
+    "context": "",
+    "response": "The course Eastern Culture & Heritage (GEN 202) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Eastern Culture & Heritage (GEN 202)?",
+    "context": "",
+    "response": "The prerequisites for Eastern Culture & Heritage (GEN 202) are: None."
+  },
+  {
+    "instruction": "Which category does Eastern Culture & Heritage (GEN 202) belong to?",
+    "context": "",
+    "response": "Eastern Culture & Heritage (GEN 202) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 203?",
+    "context": "",
+    "response": "The course GEN 203 is titled 'Ecological System & Environment'."
+  },
+  {
+    "instruction": "How many credits is Ecological System & Environment (GEN 203)?",
+    "context": "",
+    "response": "The course Ecological System & Environment (GEN 203) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Ecological System & Environment (GEN 203)?",
+    "context": "",
+    "response": "The prerequisites for Ecological System & Environment (GEN 203) are: None."
+  },
+  {
+    "instruction": "Which category does Ecological System & Environment (GEN 203) belong to?",
+    "context": "",
+    "response": "Ecological System & Environment (GEN 203) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 204?",
+    "context": "",
+    "response": "The course GEN 204 is titled 'Western Thought'."
+  },
+  {
+    "instruction": "How many credits is Western Thought (GEN 204)?",
+    "context": "",
+    "response": "The course Western Thought (GEN 204) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Western Thought (GEN 204)?",
+    "context": "",
+    "response": "The prerequisites for Western Thought (GEN 204) are: None."
+  },
+  {
+    "instruction": "Which category does Western Thought (GEN 204) belong to?",
+    "context": "",
+    "response": "Western Thought (GEN 204) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 205?",
+    "context": "",
+    "response": "The course GEN 205 is titled 'Introduction to Psychology'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Psychology (GEN 205)?",
+    "context": "",
+    "response": "The course Introduction to Psychology (GEN 205) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Psychology (GEN 205)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Psychology (GEN 205) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Psychology (GEN 205) belong to?",
+    "context": "",
+    "response": "Introduction to Psychology (GEN 205) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 206?",
+    "context": "",
+    "response": "The course GEN 206 is titled 'Introduction to Sociology'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Sociology (GEN 206)?",
+    "context": "",
+    "response": "The course Introduction to Sociology (GEN 206) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Sociology (GEN 206)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Sociology (GEN 206) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Sociology (GEN 206) belong to?",
+    "context": "",
+    "response": "Introduction to Sociology (GEN 206) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 207?",
+    "context": "",
+    "response": "The course GEN 207 is titled 'Industrial Psychology'."
+  },
+  {
+    "instruction": "How many credits is Industrial Psychology (GEN 207)?",
+    "context": "",
+    "response": "The course Industrial Psychology (GEN 207) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Industrial Psychology (GEN 207)?",
+    "context": "",
+    "response": "The prerequisites for Industrial Psychology (GEN 207) are: None."
+  },
+  {
+    "instruction": "Which category does Industrial Psychology (GEN 207) belong to?",
+    "context": "",
+    "response": "Industrial Psychology (GEN 207) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 208?",
+    "context": "",
+    "response": "The course GEN 208 is titled 'Introduction to Philosophy'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Philosophy (GEN 208)?",
+    "context": "",
+    "response": "The course Introduction to Philosophy (GEN 208) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Philosophy (GEN 208)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Philosophy (GEN 208) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Philosophy (GEN 208) belong to?",
+    "context": "",
+    "response": "Introduction to Philosophy (GEN 208) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 210?",
+    "context": "",
+    "response": "The course GEN 210 is titled 'International Relations'."
+  },
+  {
+    "instruction": "How many credits is International Relations (GEN 210)?",
+    "context": "",
+    "response": "The course International Relations (GEN 210) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for International Relations (GEN 210)?",
+    "context": "",
+    "response": "The prerequisites for International Relations (GEN 210) are: None."
+  },
+  {
+    "instruction": "Which category does International Relations (GEN 210) belong to?",
+    "context": "",
+    "response": "International Relations (GEN 210) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 211?",
+    "context": "",
+    "response": "The course GEN 211 is titled 'Concepts of Journalism & Media Studies'."
+  },
+  {
+    "instruction": "How many credits is Concepts of Journalism & Media Studies (GEN 211)?",
+    "context": "",
+    "response": "The course Concepts of Journalism & Media Studies (GEN 211) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Concepts of Journalism & Media Studies (GEN 211)?",
+    "context": "",
+    "response": "The prerequisites for Concepts of Journalism & Media Studies (GEN 211) are: None."
+  },
+  {
+    "instruction": "Which category does Concepts of Journalism & Media Studies (GEN 211) belong to?",
+    "context": "",
+    "response": "Concepts of Journalism & Media Studies (GEN 211) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 239?",
+    "context": "",
+    "response": "The course GEN 239 is titled 'Professional Ethics'."
+  },
+  {
+    "instruction": "How many credits is Professional Ethics (GEN 239)?",
+    "context": "",
+    "response": "The course Professional Ethics (GEN 239) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Professional Ethics (GEN 239)?",
+    "context": "",
+    "response": "The prerequisites for Professional Ethics (GEN 239) are: None."
+  },
+  {
+    "instruction": "Which category does Professional Ethics (GEN 239) belong to?",
+    "context": "",
+    "response": "Professional Ethics (GEN 239) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 2XX?",
+    "context": "",
+    "response": "The course GEN 2XX is titled 'Any other GEN course approved by the University'."
+  },
+  {
+    "instruction": "How many credits is Any other GEN course approved by the University (GEN 2XX)?",
+    "context": "",
+    "response": "The course Any other GEN course approved by the University (GEN 2XX) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Any other GEN course approved by the University (GEN 2XX)?",
+    "context": "",
+    "response": "The prerequisites for Any other GEN course approved by the University (GEN 2XX) are: None."
+  },
+  {
+    "instruction": "Which category does Any other GEN course approved by the University (GEN 2XX) belong to?",
+    "context": "",
+    "response": "Any other GEN course approved by the University (GEN 2XX) falls under the 'General Education Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course OBE 001?",
+    "context": "",
+    "response": "The course OBE 001 is titled 'Optional Business/Economics Course I'."
+  },
+  {
+    "instruction": "How many credits is Optional Business/Economics Course I (OBE 001)?",
+    "context": "",
+    "response": "The course Optional Business/Economics Course I (OBE 001) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Optional Business/Economics Course I (OBE 001)?",
+    "context": "",
+    "response": "The prerequisites for Optional Business/Economics Course I (OBE 001) are: None."
+  },
+  {
+    "instruction": "Which category does Optional Business/Economics Course I (OBE 001) belong to?",
+    "context": "",
+    "response": "Optional Business/Economics Course I (OBE 001) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course OBE 002?",
+    "context": "",
+    "response": "The course OBE 002 is titled 'Optional Business/Economics Course II'."
+  },
+  {
+    "instruction": "How many credits is Optional Business/Economics Course II (OBE 002)?",
+    "context": "",
+    "response": "The course Optional Business/Economics Course II (OBE 002) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Optional Business/Economics Course II (OBE 002)?",
+    "context": "",
+    "response": "The prerequisites for Optional Business/Economics Course II (OBE 002) are: None."
+  },
+  {
+    "instruction": "Which category does Optional Business/Economics Course II (OBE 002) belong to?",
+    "context": "",
+    "response": "Optional Business/Economics Course II (OBE 002) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course BUS 101?",
+    "context": "",
+    "response": "The course BUS 101 is titled 'Introduction to Business'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Business (BUS 101)?",
+    "context": "",
+    "response": "The course Introduction to Business (BUS 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Business (BUS 101)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Business (BUS 101) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Business (BUS 101) belong to?",
+    "context": "",
+    "response": "Introduction to Business (BUS 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course ACT 101?",
+    "context": "",
+    "response": "The course ACT 101 is titled 'Financial Accounting'."
+  },
+  {
+    "instruction": "How many credits is Financial Accounting (ACT 101)?",
+    "context": "",
+    "response": "The course Financial Accounting (ACT 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Financial Accounting (ACT 101)?",
+    "context": "",
+    "response": "The prerequisites for Financial Accounting (ACT 101) are: None."
+  },
+  {
+    "instruction": "Which category does Financial Accounting (ACT 101) belong to?",
+    "context": "",
+    "response": "Financial Accounting (ACT 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course ECO 101?",
+    "context": "",
+    "response": "The course ECO 101 is titled 'Principles of Microeconomics'."
+  },
+  {
+    "instruction": "How many credits is Principles of Microeconomics (ECO 101)?",
+    "context": "",
+    "response": "The course Principles of Microeconomics (ECO 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Principles of Microeconomics (ECO 101)?",
+    "context": "",
+    "response": "The prerequisites for Principles of Microeconomics (ECO 101) are: None."
+  },
+  {
+    "instruction": "Which category does Principles of Microeconomics (ECO 101) belong to?",
+    "context": "",
+    "response": "Principles of Microeconomics (ECO 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course ECO 102?",
+    "context": "",
+    "response": "The course ECO 102 is titled 'Introduction to Macroeconomics'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Macroeconomics (ECO 102)?",
+    "context": "",
+    "response": "The course Introduction to Macroeconomics (ECO 102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Macroeconomics (ECO 102)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Macroeconomics (ECO 102) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Macroeconomics (ECO 102) belong to?",
+    "context": "",
+    "response": "Introduction to Macroeconomics (ECO 102) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course FIN 101?",
+    "context": "",
+    "response": "The course FIN 101 is titled 'Principles of Finance'."
+  },
+  {
+    "instruction": "How many credits is Principles of Finance (FIN 101)?",
+    "context": "",
+    "response": "The course Principles of Finance (FIN 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Principles of Finance (FIN 101)?",
+    "context": "",
+    "response": "The prerequisites for Principles of Finance (FIN 101) are: None."
+  },
+  {
+    "instruction": "Which category does Principles of Finance (FIN 101) belong to?",
+    "context": "",
+    "response": "Principles of Finance (FIN 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course MGT 101?",
+    "context": "",
+    "response": "The course MGT 101 is titled 'Principles of Management'."
+  },
+  {
+    "instruction": "How many credits is Principles of Management (MGT 101)?",
+    "context": "",
+    "response": "The course Principles of Management (MGT 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Principles of Management (MGT 101)?",
+    "context": "",
+    "response": "The prerequisites for Principles of Management (MGT 101) are: None."
+  },
+  {
+    "instruction": "Which category does Principles of Management (MGT 101) belong to?",
+    "context": "",
+    "response": "Principles of Management (MGT 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course MKT 101?",
+    "context": "",
+    "response": "The course MKT 101 is titled 'Principles of Marketing'."
+  },
+  {
+    "instruction": "How many credits is Principles of Marketing (MKT 101)?",
+    "context": "",
+    "response": "The course Principles of Marketing (MKT 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Principles of Marketing (MKT 101)?",
+    "context": "",
+    "response": "The prerequisites for Principles of Marketing (MKT 101) are: None."
+  },
+  {
+    "instruction": "Which category does Principles of Marketing (MKT 101) belong to?",
+    "context": "",
+    "response": "Principles of Marketing (MKT 101) falls under the 'Business/Economics Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course PHY 112?",
+    "context": "",
+    "response": "The course PHY 112 is titled 'Physics I'."
+  },
+  {
+    "instruction": "How many credits is Physics I (PHY 112)?",
+    "context": "",
+    "response": "The course Physics I (PHY 112) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Physics I (PHY 112)?",
+    "context": "",
+    "response": "The prerequisites for Physics I (PHY 112) are: None."
+  },
+  {
+    "instruction": "Which category does Physics I (PHY 112) belong to?",
+    "context": "",
+    "response": "Physics I (PHY 112) falls under the 'Physics and Statistics' category."
+  },
+  {
+    "instruction": "What is the name of the course PHY 212?",
+    "context": "",
+    "response": "The course PHY 212 is titled 'Physics II'."
+  },
+  {
+    "instruction": "How many credits is Physics II (PHY 212)?",
+    "context": "",
+    "response": "The course Physics II (PHY 212) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Physics II (PHY 212)?",
+    "context": "",
+    "response": "The prerequisites for Physics II (PHY 212) are: PHY 112."
+  },
+  {
+    "instruction": "Which category does Physics II (PHY 212) belong to?",
+    "context": "",
+    "response": "Physics II (PHY 212) falls under the 'Physics and Statistics' category."
+  },
+  {
+    "instruction": "What is the name of the course STA 104?",
+    "context": "",
+    "response": "The course STA 104 is titled 'Elements of Statistics & Probability'."
+  },
+  {
+    "instruction": "How many credits is Elements of Statistics & Probability (STA 104)?",
+    "context": "",
+    "response": "The course Elements of Statistics & Probability (STA 104) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Elements of Statistics & Probability (STA 104)?",
+    "context": "",
+    "response": "The prerequisites for Elements of Statistics & Probability (STA 104) are: None."
+  },
+  {
+    "instruction": "Which category does Elements of Statistics & Probability (STA 104) belong to?",
+    "context": "",
+    "response": "Elements of Statistics & Probability (STA 104) falls under the 'Physics and Statistics' category."
+  },
+  {
+    "instruction": "What is the name of the course STA 204?",
+    "context": "",
+    "response": "The course STA 204 is titled 'Advanced Statistics'."
+  },
+  {
+    "instruction": "How many credits is Advanced Statistics (STA 204)?",
+    "context": "",
+    "response": "The course Advanced Statistics (STA 204) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Advanced Statistics (STA 204)?",
+    "context": "",
+    "response": "The prerequisites for Advanced Statistics (STA 204) are: STA 104."
+  },
+  {
+    "instruction": "Which category does Advanced Statistics (STA 204) belong to?",
+    "context": "",
+    "response": "Advanced Statistics (STA 204) falls under the 'Physics and Statistics' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 111?",
+    "context": "",
+    "response": "The course MAT 111 is titled 'Fundamentals of Mathematics'."
+  },
+  {
+    "instruction": "How many credits is Fundamentals of Mathematics (MAT 111)?",
+    "context": "",
+    "response": "The course Fundamentals of Mathematics (MAT 111) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Fundamentals of Mathematics (MAT 111)?",
+    "context": "",
+    "response": "The prerequisites for Fundamentals of Mathematics (MAT 111) are: None."
+  },
+  {
+    "instruction": "Which category does Fundamentals of Mathematics (MAT 111) belong to?",
+    "context": "",
+    "response": "Fundamentals of Mathematics (MAT 111) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 112?",
+    "context": "",
+    "response": "The course MAT 112 is titled 'Calculus I'."
+  },
+  {
+    "instruction": "How many credits is Calculus I (MAT 112)?",
+    "context": "",
+    "response": "The course Calculus I (MAT 112) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Calculus I (MAT 112)?",
+    "context": "",
+    "response": "The prerequisites for Calculus I (MAT 112) are: None."
+  },
+  {
+    "instruction": "Which category does Calculus I (MAT 112) belong to?",
+    "context": "",
+    "response": "Calculus I (MAT 112) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 114?",
+    "context": "",
+    "response": "The course MAT 114 is titled 'Calculus II'."
+  },
+  {
+    "instruction": "How many credits is Calculus II (MAT 114)?",
+    "context": "",
+    "response": "The course Calculus II (MAT 114) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Calculus II (MAT 114)?",
+    "context": "",
+    "response": "The prerequisites for Calculus II (MAT 114) are: MAT 112."
+  },
+  {
+    "instruction": "Which category does Calculus II (MAT 114) belong to?",
+    "context": "",
+    "response": "Calculus II (MAT 114) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 115?",
+    "context": "",
+    "response": "The course MAT 115 is titled 'Analytic and Vector Geometry'."
+  },
+  {
+    "instruction": "How many credits is Analytic and Vector Geometry (MAT 115)?",
+    "context": "",
+    "response": "The course Analytic and Vector Geometry (MAT 115) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Analytic and Vector Geometry (MAT 115)?",
+    "context": "",
+    "response": "The prerequisites for Analytic and Vector Geometry (MAT 115) are: MAT 112."
+  },
+  {
+    "instruction": "Which category does Analytic and Vector Geometry (MAT 115) belong to?",
+    "context": "",
+    "response": "Analytic and Vector Geometry (MAT 115) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 116?",
+    "context": "",
+    "response": "The course MAT 116 is titled 'Differential Equations I'."
+  },
+  {
+    "instruction": "How many credits is Differential Equations I (MAT 116)?",
+    "context": "",
+    "response": "The course Differential Equations I (MAT 116) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Differential Equations I (MAT 116)?",
+    "context": "",
+    "response": "The prerequisites for Differential Equations I (MAT 116) are: MAT 114."
+  },
+  {
+    "instruction": "Which category does Differential Equations I (MAT 116) belong to?",
+    "context": "",
+    "response": "Differential Equations I (MAT 116) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 117?",
+    "context": "",
+    "response": "The course MAT 117 is titled 'Programming Language I'."
+  },
+  {
+    "instruction": "How many credits is Programming Language I (MAT 117)?",
+    "context": "",
+    "response": "The course Programming Language I (MAT 117) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Programming Language I (MAT 117)?",
+    "context": "",
+    "response": "The prerequisites for Programming Language I (MAT 117) are: None."
+  },
+  {
+    "instruction": "Which category does Programming Language I (MAT 117) belong to?",
+    "context": "",
+    "response": "Programming Language I (MAT 117) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 212?",
+    "context": "",
+    "response": "The course MAT 212 is titled 'Differential Equations II'."
+  },
+  {
+    "instruction": "How many credits is Differential Equations II (MAT 212)?",
+    "context": "",
+    "response": "The course Differential Equations II (MAT 212) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Differential Equations II (MAT 212)?",
+    "context": "",
+    "response": "The prerequisites for Differential Equations II (MAT 212) are: MAT 116."
+  },
+  {
+    "instruction": "Which category does Differential Equations II (MAT 212) belong to?",
+    "context": "",
+    "response": "Differential Equations II (MAT 212) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 213?",
+    "context": "",
+    "response": "The course MAT 213 is titled 'Linear Algebra'."
+  },
+  {
+    "instruction": "How many credits is Linear Algebra (MAT 213)?",
+    "context": "",
+    "response": "The course Linear Algebra (MAT 213) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Linear Algebra (MAT 213)?",
+    "context": "",
+    "response": "The prerequisites for Linear Algebra (MAT 213) are: MAT 115."
+  },
+  {
+    "instruction": "Which category does Linear Algebra (MAT 213) belong to?",
+    "context": "",
+    "response": "Linear Algebra (MAT 213) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 214?",
+    "context": "",
+    "response": "The course MAT 214 is titled 'Real Analysis'."
+  },
+  {
+    "instruction": "How many credits is Real Analysis (MAT 214)?",
+    "context": "",
+    "response": "The course Real Analysis (MAT 214) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Real Analysis (MAT 214)?",
+    "context": "",
+    "response": "The prerequisites for Real Analysis (MAT 214) are: MAT 114."
+  },
+  {
+    "instruction": "Which category does Real Analysis (MAT 214) belong to?",
+    "context": "",
+    "response": "Real Analysis (MAT 214) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 215?",
+    "context": "",
+    "response": "The course MAT 215 is titled 'Abstract Algebra'."
+  },
+  {
+    "instruction": "How many credits is Abstract Algebra (MAT 215)?",
+    "context": "",
+    "response": "The course Abstract Algebra (MAT 215) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Abstract Algebra (MAT 215)?",
+    "context": "",
+    "response": "The prerequisites for Abstract Algebra (MAT 215) are: MAT 111."
+  },
+  {
+    "instruction": "Which category does Abstract Algebra (MAT 215) belong to?",
+    "context": "",
+    "response": "Abstract Algebra (MAT 215) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 216?",
+    "context": "",
+    "response": "The course MAT 216 is titled 'Data Structures and Algorithms'."
+  },
+  {
+    "instruction": "How many credits is Data Structures and Algorithms (MAT 216)?",
+    "context": "",
+    "response": "The course Data Structures and Algorithms (MAT 216) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Data Structures and Algorithms (MAT 216)?",
+    "context": "",
+    "response": "The prerequisites for Data Structures and Algorithms (MAT 216) are: MAT 117."
+  },
+  {
+    "instruction": "Which category does Data Structures and Algorithms (MAT 216) belong to?",
+    "context": "",
+    "response": "Data Structures and Algorithms (MAT 216) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 312?",
+    "context": "",
+    "response": "The course MAT 312 is titled 'Programming Language II'."
+  },
+  {
+    "instruction": "How many credits is Programming Language II (MAT 312)?",
+    "context": "",
+    "response": "The course Programming Language II (MAT 312) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Programming Language II (MAT 312)?",
+    "context": "",
+    "response": "The prerequisites for Programming Language II (MAT 312) are: MAT 117."
+  },
+  {
+    "instruction": "Which category does Programming Language II (MAT 312) belong to?",
+    "context": "",
+    "response": "Programming Language II (MAT 312) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 313?",
+    "context": "",
+    "response": "The course MAT 313 is titled 'Mathematical Methods'."
+  },
+  {
+    "instruction": "How many credits is Mathematical Methods (MAT 313)?",
+    "context": "",
+    "response": "The course Mathematical Methods (MAT 313) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Mathematical Methods (MAT 313)?",
+    "context": "",
+    "response": "The prerequisites for Mathematical Methods (MAT 313) are: MAT 212, MAT 213."
+  },
+  {
+    "instruction": "Which category does Mathematical Methods (MAT 313) belong to?",
+    "context": "",
+    "response": "Mathematical Methods (MAT 313) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 314?",
+    "context": "",
+    "response": "The course MAT 314 is titled 'Mechanics'."
+  },
+  {
+    "instruction": "How many credits is Mechanics (MAT 314)?",
+    "context": "",
+    "response": "The course Mechanics (MAT 314) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Mechanics (MAT 314)?",
+    "context": "",
+    "response": "The prerequisites for Mechanics (MAT 314) are: MAT 212."
+  },
+  {
+    "instruction": "Which category does Mechanics (MAT 314) belong to?",
+    "context": "",
+    "response": "Mechanics (MAT 314) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 315?",
+    "context": "",
+    "response": "The course MAT 315 is titled 'Complex Analysis'."
+  },
+  {
+    "instruction": "How many credits is Complex Analysis (MAT 315)?",
+    "context": "",
+    "response": "The course Complex Analysis (MAT 315) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Complex Analysis (MAT 315)?",
+    "context": "",
+    "response": "The prerequisites for Complex Analysis (MAT 315) are: MAT 214."
+  },
+  {
+    "instruction": "Which category does Complex Analysis (MAT 315) belong to?",
+    "context": "",
+    "response": "Complex Analysis (MAT 315) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 316?",
+    "context": "",
+    "response": "The course MAT 316 is titled 'Discrete Mathematics'."
+  },
+  {
+    "instruction": "How many credits is Discrete Mathematics (MAT 316)?",
+    "context": "",
+    "response": "The course Discrete Mathematics (MAT 316) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Discrete Mathematics (MAT 316)?",
+    "context": "",
+    "response": "The prerequisites for Discrete Mathematics (MAT 316) are: MAT 111."
+  },
+  {
+    "instruction": "Which category does Discrete Mathematics (MAT 316) belong to?",
+    "context": "",
+    "response": "Discrete Mathematics (MAT 316) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 317?",
+    "context": "",
+    "response": "The course MAT 317 is titled 'Numerical Analysis I'."
+  },
+  {
+    "instruction": "How many credits is Numerical Analysis I (MAT 317)?",
+    "context": "",
+    "response": "The course Numerical Analysis I (MAT 317) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Numerical Analysis I (MAT 317)?",
+    "context": "",
+    "response": "The prerequisites for Numerical Analysis I (MAT 317) are: MAT 213, MAT 117."
+  },
+  {
+    "instruction": "Which category does Numerical Analysis I (MAT 317) belong to?",
+    "context": "",
+    "response": "Numerical Analysis I (MAT 317) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 318?",
+    "context": "",
+    "response": "The course MAT 318 is titled 'Theory of Numbers'."
+  },
+  {
+    "instruction": "How many credits is Theory of Numbers (MAT 318)?",
+    "context": "",
+    "response": "The course Theory of Numbers (MAT 318) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Theory of Numbers (MAT 318)?",
+    "context": "",
+    "response": "The prerequisites for Theory of Numbers (MAT 318) are: MAT 215."
+  },
+  {
+    "instruction": "Which category does Theory of Numbers (MAT 318) belong to?",
+    "context": "",
+    "response": "Theory of Numbers (MAT 318) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 319?",
+    "context": "",
+    "response": "The course MAT 319 is titled 'Operations Research'."
+  },
+  {
+    "instruction": "How many credits is Operations Research (MAT 319)?",
+    "context": "",
+    "response": "The course Operations Research (MAT 319) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Operations Research (MAT 319)?",
+    "context": "",
+    "response": "The prerequisites for Operations Research (MAT 319) are: MAT 213."
+  },
+  {
+    "instruction": "Which category does Operations Research (MAT 319) belong to?",
+    "context": "",
+    "response": "Operations Research (MAT 319) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 411?",
+    "context": "",
+    "response": "The course MAT 411 is titled 'Numerical Analysis II'."
+  },
+  {
+    "instruction": "How many credits is Numerical Analysis II (MAT 411)?",
+    "context": "",
+    "response": "The course Numerical Analysis II (MAT 411) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Numerical Analysis II (MAT 411)?",
+    "context": "",
+    "response": "The prerequisites for Numerical Analysis II (MAT 411) are: MAT 317."
+  },
+  {
+    "instruction": "Which category does Numerical Analysis II (MAT 411) belong to?",
+    "context": "",
+    "response": "Numerical Analysis II (MAT 411) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 412?",
+    "context": "",
+    "response": "The course MAT 412 is titled 'Tensor Analysis'."
+  },
+  {
+    "instruction": "How many credits is Tensor Analysis (MAT 412)?",
+    "context": "",
+    "response": "The course Tensor Analysis (MAT 412) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Tensor Analysis (MAT 412)?",
+    "context": "",
+    "response": "The prerequisites for Tensor Analysis (MAT 412) are: MAT 213, MAT 314."
+  },
+  {
+    "instruction": "Which category does Tensor Analysis (MAT 412) belong to?",
+    "context": "",
+    "response": "Tensor Analysis (MAT 412) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 414?",
+    "context": "",
+    "response": "The course MAT 414 is titled 'Differential Geometry'."
+  },
+  {
+    "instruction": "How many credits is Differential Geometry (MAT 414)?",
+    "context": "",
+    "response": "The course Differential Geometry (MAT 414) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Differential Geometry (MAT 414)?",
+    "context": "",
+    "response": "The prerequisites for Differential Geometry (MAT 414) are: MAT 214, MAT 314."
+  },
+  {
+    "instruction": "Which category does Differential Geometry (MAT 414) belong to?",
+    "context": "",
+    "response": "Differential Geometry (MAT 414) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 415?",
+    "context": "",
+    "response": "The course MAT 415 is titled 'Fluid Mechanics'."
+  },
+  {
+    "instruction": "How many credits is Fluid Mechanics (MAT 415)?",
+    "context": "",
+    "response": "The course Fluid Mechanics (MAT 415) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Fluid Mechanics (MAT 415)?",
+    "context": "",
+    "response": "The prerequisites for Fluid Mechanics (MAT 415) are: MAT 314."
+  },
+  {
+    "instruction": "Which category does Fluid Mechanics (MAT 415) belong to?",
+    "context": "",
+    "response": "Fluid Mechanics (MAT 415) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 416?",
+    "context": "",
+    "response": "The course MAT 416 is titled 'Industrial Mathematics'."
+  },
+  {
+    "instruction": "How many credits is Industrial Mathematics (MAT 416)?",
+    "context": "",
+    "response": "The course Industrial Mathematics (MAT 416) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Industrial Mathematics (MAT 416)?",
+    "context": "",
+    "response": "The prerequisites for Industrial Mathematics (MAT 416) are: MAT 319."
+  },
+  {
+    "instruction": "Which category does Industrial Mathematics (MAT 416) belong to?",
+    "context": "",
+    "response": "Industrial Mathematics (MAT 416) falls under the 'Mathematics Core' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 499?",
+    "context": "",
+    "response": "The course MAT 499 is titled 'Research Project'."
+  },
+  {
+    "instruction": "How many credits is Research Project (MAT 499)?",
+    "context": "",
+    "response": "The course Research Project (MAT 499) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Research Project (MAT 499)?",
+    "context": "",
+    "response": "The prerequisites for Research Project (MAT 499) are: Senior Standing."
+  },
+  {
+    "instruction": "Which category does Research Project (MAT 499) belong to?",
+    "context": "",
+    "response": "Research Project (MAT 499) falls under the 'Capstone' category."
+  }
+]

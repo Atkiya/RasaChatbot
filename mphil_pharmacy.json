@@ -1,0 +1,72 @@
+[
+  {
+    "instruction": "Can you give me an overview of the M.Phil in Pharmacy program at EWU?",
+    "context": "",
+    "response": "The M.Phil in Pharmacy program at EWU is structured over three semesters with a total of 30 credits. Each semester combines core and optional courses, and the program includes a research thesis in the third semester. The first two semesters have 9 credits each, while the third semester has 12 credits."
+  },
+  {
+    "instruction": "What courses do I take in the first semester of M.Phil Pharmacy?",
+    "context": "",
+    "response": "In the first semester, you will take two core courses: 1) PHRM 510: Advanced Clinical Pharmacy (3 credits) and 2) PHRM 511: Advanced Pharmacology-I (3 credits). Additionally, you can choose one optional course: PHRM 512: Neuropharmacology or PHRM 513: Immunopharmacology, each worth 3 credits."
+  },
+  {
+    "instruction": "How many credits are required for the second semester?",
+    "context": "",
+    "response": "The second semester requires a total of 9 credits. This includes two core courses—PHRM 520: Advanced Pharmacology-II and PHRM 521: Molecular Biology and Biotechnology—each worth 3 credits. You can also select one optional course: PHRM 522: Bioinformatics or PHRM 523: Biostatistics."
+  },
+  {
+    "instruction": "Are there any prerequisites for courses in the second semester?",
+    "context": "",
+    "response": "Yes, PHRM 520: Advanced Pharmacology-II requires PHRM 511: Advanced Pharmacology-I as a prerequisite. Similarly, PHRM 521: Molecular Biology and Biotechnology requires PHRM 510: Advanced Clinical Pharmacy as a prerequisite."
+  },
+  {
+    "instruction": "What is included in the third semester of the M.Phil Pharmacy program?",
+    "context": "",
+    "response": "The third semester has 12 credits, including two core courses: PHRM 530: Clinical Toxicology (3 credits), which requires PHRM 510 and PHRM 511 as prerequisites, and PHRM 531: Research (Thesis) (6 credits). Optional courses include PHRM 532: Pathophysiology and Pharmacotherapy, PHRM 533: Community Pharmacy, and PHRM 534: Drug Use Management, each worth 3 credits."
+  },
+  {
+    "instruction": "Which optional courses can I choose in the first semester?",
+    "context": "",
+    "response": "You can choose between PHRM 512: Neuropharmacology or PHRM 513: Immunopharmacology. Each course carries 3 credits."
+  },
+  {
+    "instruction": "Do I need to complete all optional courses in the program?",
+    "context": "",
+    "response": "No, you only need to select one optional course per semester. The program is designed so that you complete the core courses along with a choice of optional courses each semester."
+  },
+  {
+    "instruction": "Which core course in the second semester requires PHRM 511 as a prerequisite?",
+    "context": "",
+    "response": "PHRM 520: Advanced Pharmacology-II requires PHRM 511: Advanced Pharmacology-I as a prerequisite."
+  },
+  {
+    "instruction": "How many credits is the research thesis in the third semester?",
+    "context": "",
+    "response": "The research thesis, PHRM 531, is worth 6 credits in the third semester."
+  },
+  {
+    "instruction": "Can you list all optional courses in the third semester?",
+    "context": "",
+    "response": "The optional courses in the third semester are: 1) PHRM 532: Pathophysiology and Pharmacotherapy, 2) PHRM 533: Community Pharmacy, and 3) PHRM 534: Drug Use Management. Each carries 3 credits."
+  },
+  {
+    "instruction": "Is there a prerequisite for PHRM 530 Clinical Toxicology?",
+    "context": "",
+    "response": "Yes, PHRM 530: Clinical Toxicology requires both PHRM 511: Advanced Pharmacology-I and PHRM 510: Advanced Clinical Pharmacy as prerequisites."
+  },
+  {
+    "instruction": "How is the credit distribution across the three semesters?",
+    "context": "",
+    "response": "The first semester has 9 credits, the second semester also has 9 credits, and the third semester has 12 credits, making a total of 30 credits for the entire M.Phil in Pharmacy program."
+  },
+  {
+    "instruction": "Which courses focus on pharmacology in the M.Phil Pharmacy program?",
+    "context": "",
+    "response": "The pharmacology-focused courses include PHRM 511: Advanced Pharmacology-I (first semester), PHRM 520: Advanced Pharmacology-II (second semester), and PHRM 530: Clinical Toxicology (third semester)."
+  },
+  {
+    "instruction": "Do I need to take both core courses in the first semester?",
+    "context": "",
+    "response": "Yes, both PHRM 510: Advanced Clinical Pharmacy and PHRM 511: Advanced Pharmacology-I are mandatory core courses in the first semester."
+  }
+]

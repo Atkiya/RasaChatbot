@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "What is the total credit requirement for the Master of Science in Data Science & Analytics program at EWU?",
+    "context": "",
+    "response": "The Master of Science in Data Science & Analytics program at East West University requires a total of 40 credits to graduate. This includes 28 credits from core courses and 12 credits from elective courses."
+  },
+  {
+    "instruction": "How many core courses are required in the MSc in Data Science & Analytics program?",
+    "context": "",
+    "response": "Students must complete 8 core courses totaling 28 credits. These include Statistical Methods and Probability, Programming for Data Science, Database Management Systems, Regression Analysis, Multivariate Statistical Analysis, Machine Learning, Big Data & Cloud Computing, and a 7-credit Research Project."
+  },
+  {
+    "instruction": "When can I register for the research project in the Data Science MSc program?",
+    "context": "",
+    "response": "You can register for the Research Project (DSA5099) after successfully completing 22 credits of core courses. The project is compulsory and typically spans one or two semesters, allowing you to apply your coursework knowledge to a practical research problem."
+  },
+  {
+    "instruction": "How many elective courses do I need to take in the MSc Data Science program?",
+    "context": "",
+    "response": "You must choose and complete any 4 elective courses from a list of 13 options, totaling 12 credits. Electives cover diverse areas such as AI & Deep Learning, Time Series Analysis, Bioinformatics, Financial Analytics, and Environmental Data Analysis."
+  },
+  {
+    "instruction": "What are some elective courses available in the Data Science & Analytics master's program?",
+    "context": "",
+    "response": "The program offers 13 elective courses, including AI & Deep Learning, Time Series Analysis & Forecasting, Applied Econometrics, Business Process Analytics, Machine Learning for Finance, Data Analytics for Finance, Environmental Data Analysis and Climate Change, Bioinformatics, Biostatistics & Epidemiology, Generalized Linear Models, Categorical Data Analysis, Design of Experiment, and Actuarial Data Analysis."
+  },
+  {
+    "instruction": "Is the Research Project mandatory in the MSc in Data Science & Analytics?",
+    "context": "",
+    "response": "Yes, the Research Project (course code DSA5099) is compulsory and carries 7 credits. It must be undertaken after completing 22 credits of core coursework and serves as a capstone experience to apply your learning to a real-world problem."
+  },
+  {
+    "instruction": "What topics are covered in the Machine Learning core course?",
+    "context": "",
+    "response": "The Machine Learning course (DSA5006) covers supervised, unsupervised, and reinforcement learning; algorithms like SVM, decision trees, random forests, k-NN, and Naïve Bayes; neural networks including CNNs; deep learning basics; and applications in natural language processing, text, and image recognition."
+  },
+  {
+    "instruction": "Does the Data Science master's program include programming training?",
+    "context": "",
+    "response": "Yes, the core course 'Programming for Data Science' (DSA5002) teaches Python and R/RStudio, covering data types, structures, data manipulation, statistical calculations, and data visualization using both low-level and high-level plotting techniques."
+  },
+  {
+    "instruction": "Can I specialize in finance-related analytics in the MSc Data Science program?",
+    "context": "",
+    "response": "Yes, you can focus on finance by selecting electives like 'Machine Learning for Finance' and 'Data Analytics for Finance,' which cover financial data analysis, fraud detection, trading strategies, risk management, ESG investing, and model evaluation using real-world financial datasets."
+  },
+  {
+    "instruction": "Are there courses related to health or biology in the Data Science master's program?",
+    "context": "",
+    "response": "Yes, the program offers several health- and biology-related electives: 'Bioinformatics' covers DNA sequencing, genomic databases, and sequence alignment; 'Biostatistics & Epidemiology' focuses on disease studies, clinical trials, and survival analysis; and 'Actuarial Data Analysis' applies statistical methods to insurance and life tables."
+  },
+  {
+    "instruction": "What statistical methods are taught in the core curriculum?",
+    "context": "",
+    "response": "Core statistics training includes 'Statistical Methods and Probability' (covering descriptive/inferential stats, probability distributions, hypothesis testing) and advanced courses like 'Regression Analysis,' 'Multivariate Statistical Analysis,' and electives such as 'Generalized Linear Models' and 'Categorical Data Analysis.'"
+  },
+  {
+    "instruction": "Is big data covered in the MSc Data Science program?",
+    "context": "",
+    "response": "Yes, the core course 'Big Data & Cloud Computing' (DSA5007) explores big data characteristics, cloud computing, distributed storage, MapReduce, distributed algorithms, data mining tools, and applications like social network clustering and sentiment analysis."
+  },
+  {
+    "instruction": "What is the credit distribution between core and elective courses?",
+    "context": "",
+    "response": "The program requires 28 credits from core courses (8 courses, including a 7-credit Research Project) and 12 credits from elective courses (any 4 out of 13 available electives). Together, they total the 40-credit requirement for graduation."
+  },
+  {
+    "instruction": "Can I take courses in environmental data analysis?",
+    "context": "",
+    "response": "Yes, the elective 'Environmental Data Analysis and Climate Change' (DSA5061) covers pollution modeling, climate change, environmental standards, statistical methods for air/water quality, machine learning in climate prediction, and economic valuation of environmental resources."
+  },
+  {
+    "instruction": "What is the focus of the 'Database Management Systems' course?",
+    "context": "",
+    "response": "The 'Database Management Systems' course (DSA5003) covers relational models, SQL, database design and normalization, indexing (B/B+ trees), query processing, transaction handling, and system design principles—providing foundational skills for managing structured data in analytics."
+  },
+  {
+    "instruction": "Are there courses on experimental design or causal inference?",
+    "context": "",
+    "response": "Yes, the elective 'Design of Experiment' (DSA5075) teaches principles of experimental design, ANOVA for balanced and unbalanced data, fixed/random/mixed effects models, repeated measures, and multilevel modeling—essential for rigorous data-driven decision-making."
+  },
+  {
+    "instruction": "How does the program prepare students for real-world data challenges?",
+    "context": "",
+    "response": "Through hands-on core courses in programming, statistics, machine learning, and big data, plus a mandatory research project, the program emphasizes practical application. Electives allow specialization in finance, health, environment, or business, ensuring graduates can tackle domain-specific data problems."
+  },
+  {
+    "instruction": "What programming languages are used in the Data Science MSc program?",
+    "context": "",
+    "response": "The program primarily uses Python and R, as taught in the 'Programming for Data Science' core course. These languages are applied throughout the curriculum for data manipulation, statistical modeling, machine learning, and visualization."
+  },
+  {
+    "instruction": "Is there a course on time series and forecasting?",
+    "context": "",
+    "response": "Yes, 'Time Series Analysis & Forecasting' (DSA5021) is an elective that covers ARIMA, SARIMA, exponential smoothing, VAR models, cointegration, spectral analysis, and state-space models with applications in economics, engineering, and biomedical fields."
+  },
+  {
+    "instruction": "Can I pursue AI and deep learning in this program?",
+    "context": "",
+    "response": "Absolutely. The elective 'AI & Deep Learning' (DSA5011) covers knowledge representation, search algorithms, neural networks, CNNs, RNNs, GANs, NLP, and computer vision, giving you strong foundations in modern artificial intelligence techniques."
+  },
+  {
+    "instruction": "What is the minimum number of credits I need to complete before starting my research project?",
+    "context": "",
+    "response": "You must successfully complete 22 credits of core courses before you are eligible to register for the Research Project (DSA5099). This ensures you have sufficient foundational knowledge to undertake independent research."
+  },
+  {
+    "instruction": "Are all core courses mandatory in the MSc Data Science program?",
+    "context": "",
+    "response": "Yes, all 8 core courses are mandatory. The program requires students to take every listed core course, which together total 28 credits, including the 7-credit Research Project."
+  },
+  {
+    "instruction": "How many total courses do I need to complete in the entire MSc Data Science & Analytics program?",
+    "context": "",
+    "response": "You need to complete a total of 12 courses: 8 core courses (including the Research Project) and 4 elective courses chosen from a list of 13 options."
+  },
+  {
+    "instruction": "Can I take more than 4 elective courses?",
+    "context": "",
+    "response": "The program requires exactly 12 credits from electives, which equals 4 courses (since each elective is 3 credits). While you may be allowed to take additional courses as extra credits, only 4 electives count toward the degree requirements."
+  },
+  {
+    "instruction": "What is covered in the 'Applied Econometrics' elective?",
+    "context": "",
+    "response": "The 'Applied Econometrics' course (DSA5041) covers heteroscedasticity, multicollinearity, autocorrelation, model specification, nonlinear models like Cobb-Douglas, simultaneous equation models (using 2SLS), panel data (fixed and random effects), and dynamic econometric models including lag structures."
+  },
+  {
+    "instruction": "Does the program include training in business process modeling?",
+    "context": "",
+    "response": "Yes, the elective 'Business Process Analytics' (DSA5043) teaches ARIS methodology, Event-Driven Process Chains (EPC), process modeling, object libraries, process hierarchy, and basic process analysis using tools like zAdmin and database queries."
+  },
+  {
+    "instruction": "What kind of data sources are discussed in the Big Data course?",
+    "context": "",
+    "response": "The 'Big Data & Cloud Computing' course explores diverse data sources including enterprise data, IoT data, internet data, and biomedical data. It also covers data collection, transportation, and preprocessing techniques for massive datasets."
+  },
+  {
+    "instruction": "Is there a course that combines machine learning with biological data?",
+    "context": "",
+    "response": "Yes, the 'Bioinformatics' elective (DSA5063) integrates machine learning techniques—such as genetic algorithms, support vector machines, and neural networks—with biological data analysis, including DNA/RNA sequencing, genomic databases, and sequence alignment methods."
+  },
+  {
+    "instruction": "What statistical models are taught for categorical outcomes?",
+    "context": "",
+    "response": "The 'Categorical Data Analysis' elective (DSA5073) covers logistic regression, baseline-category logit models for nominal responses, cumulative logit models for ordinal data, loglinear models for contingency tables, and multinomial logit models for discrete choice."
+  },
+  {
+    "instruction": "How does the program address data ethics?",
+    "context": "",
+    "response": "Data ethics is explicitly covered in the 'Data Analytics for Finance' elective (DSA5047), which includes a dedicated module on ethical considerations in financial data usage, ensuring students understand responsible data handling in sensitive domains."
+  },
+  {
+    "instruction": "What is the focus of the 'Actuarial Data Analysis' course?",
+    "context": "",
+    "response": "The 'Actuarial Data Analysis' course (DSA5077) covers life tables, life annuities, life insurance pricing, reserves, continuous payment models, multiple-life contracts, and spreadsheet-based actuarial calculations—preparing students for roles in insurance and risk management."
+  },
+  {
+    "instruction": "Are there courses that deal with incomplete or sparse data?",
+    "context": "",
+    "response": "Yes, several courses address this. 'Categorical Data Analysis' discusses empty cells and sparseness in contingency tables, while 'Regression Analysis' covers robust methods like M-estimation for datasets with outliers, and 'Statistical Methods' includes nonparametric techniques."
+  },
+  {
+    "instruction": "Can I learn about climate prediction using machine learning?",
+    "context": "",
+    "response": "Yes, the 'Environmental Data Analysis and Climate Change' elective (DSA5061) includes a module on machine learning applications in climate data, including weather prediction, climate modeling, and analysis of weather maps using data-driven approaches."
+  },
+  {
+    "instruction": "What software or tools are used in the Programming for Data Science course?",
+    "context": "",
+    "response": "The course uses Python and R, along with RStudio, for data manipulation, statistical computation, and visualization. Students learn to import data, perform subsetting, conduct basic statistical analyses, and create both low-level and high-level plots."
+  },
+  {
+    "instruction": "Does the curriculum include cloud computing technologies?",
+    "context": "",
+    "response": "Yes, cloud computing is a key component of the 'Big Data & Cloud Computing' core course (DSA5007), which examines the relationship between cloud platforms and big data processing, including distributed storage and computing paradigms like MapReduce."
+  },
+  {
+    "instruction": "What is the role of the Research Project in the program?",
+    "context": "",
+    "response": "The Research Project (DSA5099) is the capstone experience where students apply knowledge from their coursework to solve a practical problem. It provides firsthand research experience and spans one or two semesters after completing 22 core credits."
+  },
+  {
+    "instruction": "Are there any courses focused on model evaluation and validation?",
+    "context": "",
+    "response": "Yes, 'Data Analytics for Finance' (DSA5047) covers model evaluation using hold-out test sets, ROC curves, and confusion matrices. Additionally, 'Machine Learning for Finance' discusses cross-validation, hyperparameter tuning, and performance metrics."
+  },
+  {
+    "instruction": "What multivariate techniques are taught in the program?",
+    "context": "",
+    "response": "The 'Multivariate Statistical Analysis' core course (DSA5005) covers principal component analysis, factor analysis, cluster analysis (hierarchical and non-hierarchical), Hotelling’s T² tests, MANOVA, classification, and profile analysis for repeated measures."
+  },
+  {
+    "instruction": "Is reinforcement learning part of the curriculum?",
+    "context": "",
+    "response": "Yes, reinforcement learning is introduced in both the core 'Machine Learning' course (DSA5006) and the elective 'AI & Deep Learning' (DSA5011), as well as in 'Machine Learning for Finance' (DSA5045), where it's applied to asset management and trading strategies."
+  },
+  {
+    "instruction": "Can I study survival analysis or time-to-event data in this program?",
+    "context": "",
+    "response": "Yes, the 'Biostatistics & Epidemiology' elective (DSA5065) covers survival analysis concepts including survivor and hazard functions, censoring types, life table and Kaplan-Meier (product-limit) estimation, and exponential regression models for time-to-event data."
+  }
+]

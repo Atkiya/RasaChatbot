@@ -1,0 +1,212 @@
+[
+  {
+    "instruction": "What courses are offered in the Pharmacy department at EWU?",
+    "context": "",
+    "response": "The Pharmacy department at EWU offers a wide range of courses covering core pharmaceutical sciences and electives. Core courses include Physical Chemistry for Pharmacy, Human Anatomy, Organic Chemistry I & II, Human Physiology I & II, Basic Microbiology, Pharmaceutical Analysis I-III, Pharmaceutics I & II, Pharmacology I-III, Medicinal Chemistry I-III, Pharmaceutical Technology I & II, Pharmacognosy I & II, Pharmaceutical Microbiology, Toxicology, Clinical & Hospital Pharmacy, Pharmaceutical Management and Marketing, Drug Design and Development, Pharmacy Quality Assurance, Biopharmaceutics & Pharmacokinetics, Pharmaceutical Biotechnology, Pharmaceutical Research, Pharmacy Law and Ethics, and Pharmaceutical Engineering. Elective courses include Cosmetology."
+  },
+  {
+    "instruction": "Do I need any prerequisites for Pharmacy courses at EWU?",
+    "context": "",
+    "response": "All Pharmacy courses listed by EWU, including core and elective courses, have no prerequisites. You can enroll in any course directly without prior course requirements."
+  },
+  {
+    "instruction": "Can you explain what PHRM 101 covers?",
+    "context": "",
+    "response": "PHRM 101 is 'Physical Chemistry for Pharmacy.' It is a core course designed to introduce the principles of physical chemistry as they apply to pharmaceutical sciences. The course helps students understand chemical reactions, thermodynamics, and molecular behavior relevant to pharmacy applications."
+  },
+  {
+    "instruction": "Which courses focus on human biology in the Pharmacy program?",
+    "context": "",
+    "response": "Courses focusing on human biology in the Pharmacy program include Human Anatomy (PHRM 102), Human Physiology I (PHRM 201), Human Physiology II (PHRM 208), and Biochemistry (PHRM 206). These courses provide a foundational understanding of the human body, essential for pharmacy practice and research."
+  },
+  {
+    "instruction": "What are the core chemistry courses in the Pharmacy department?",
+    "context": "",
+    "response": "Core chemistry courses in the Pharmacy department include Physical Chemistry for Pharmacy (PHRM 101), Organic Chemistry I (PHRM 103), Organic Pharmacy II (PHRM 211), Inorganic Pharmaceutical Chemistry (PHRM 205), and Medicinal Chemistry I-III (PHRM 302, PHRM 304, PHRM 412). These courses focus on chemical principles relevant to pharmaceuticals and drug design."
+  },
+  {
+    "instruction": "Does EWU Pharmacy offer courses in microbiology?",
+    "context": "",
+    "response": "Yes, EWU Pharmacy offers microbiology-focused courses including Basic Microbiology (PHRM 202) and Pharmaceutical Microbiology (PHRM 305). These courses cover microorganisms, their behavior, and their impact on pharmaceutical products."
+  },
+  {
+    "instruction": "Are there courses on pharmacology in the Pharmacy program?",
+    "context": "",
+    "response": "Yes, EWU Pharmacy provides a series of pharmacology courses: Pharmacology I (PHRM 301), Pharmacology II (PHRM 306), and Pharmacology III (PHRM 413). These courses cover drug action, mechanisms, therapeutic uses, and safety considerations."
+  },
+  {
+    "instruction": "Which courses deal with pharmaceutics and pharmaceutical technology?",
+    "context": "",
+    "response": "Courses dealing with pharmaceutics and pharmaceutical technology include Pharmaceutics I & II (PHRM 210, PHRM 308), Pharmaceutical Technology I & II (PHRM 307, PHRM 402), Pharmaceutical Engineering (PHRM 414), and Biopharmaceutics & Pharmacokinetics (PHRM 406). These courses focus on drug formulation, delivery, and production processes."
+  },
+  {
+    "instruction": "Is there a course on drug analysis in EWU Pharmacy?",
+    "context": "",
+    "response": "Yes, the Pharmacy department offers Pharmaceutical Analysis I-III (PHRM 203, PHRM 309, PHRM 312) and Advanced Pharmaceutical Analysis (PHRM 409). These courses teach analytical techniques for testing drug composition, quality, and efficacy."
+  },
+  {
+    "instruction": "Does EWU Pharmacy include management or marketing courses?",
+    "context": "",
+    "response": "Yes, Pharmaceutical Management and Marketing (PHRM 401) is a core course that teaches management principles, marketing strategies, and business practices relevant to the pharmaceutical industry."
+  },
+  {
+    "instruction": "Are there any elective courses in the Pharmacy program?",
+    "context": "",
+    "response": "Currently, the Pharmacy program offers one elective course: Cosmetology (PHRM 411). This course explores cosmetic formulations, product development, and applications in pharmacy-related industries."
+  },
+  {
+    "instruction": "What courses cover drug design and research?",
+    "context": "",
+    "response": "EWU Pharmacy offers courses such as Drug Design and Development (PHRM 403), Pharmaceutical Research (PHRM 404), and Medicinal Chemistry I-III (PHRM 302, PHRM 304, PHRM 412). These courses focus on designing, testing, and developing new pharmaceuticals."
+  },
+  {
+    "instruction": "Is there a course on pharmacy law and ethics?",
+    "context": "",
+    "response": "Yes, Pharmacy Law and Ethics (PHRM 410) is a core course that covers legal regulations, professional responsibilities, and ethical considerations in pharmacy practice."
+  },
+  {
+    "instruction": "Which courses cover toxicology and safety in pharmacy?",
+    "context": "",
+    "response": "Toxicology (PHRM 310) is a core course that teaches the study of harmful effects of chemicals and drugs, safety evaluation, and risk assessment, ensuring safe pharmaceutical practices."
+  },
+  {
+    "instruction": "Can you list the sequence of physiology courses in the Pharmacy program?",
+    "context": "",
+    "response": "The Pharmacy program includes Human Physiology I (PHRM 201) followed by Human Physiology II (PHRM 208). These courses build on each other to give a complete understanding of human physiological systems."
+  },
+  {
+    "instruction": "What will I learn in PHRM 204 Physical Pharmacy II?",
+    "context": "",
+    "response": "PHRM 204, Physical Pharmacy II, is a core course that explores advanced physical chemistry principles applied to pharmaceuticals, including drug solubility, stability, and formulation properties essential for effective drug development."
+  },
+  {
+    "instruction": "Can you explain what PHRM 205 Inorganic Pharmaceutical Chemistry covers?",
+    "context": "",
+    "response": "PHRM 205, Inorganic Pharmaceutical Chemistry, teaches the properties, reactions, and pharmaceutical applications of inorganic compounds used in drug formulation, supplements, and medicinal products."
+  },
+  {
+    "instruction": "What topics are included in PHRM 207 Pharmacognosy I?",
+    "context": "",
+    "response": "PHRM 207, Pharmacognosy I, introduces natural products, medicinal plants, and their extraction, identification, and usage in pharmacy. It provides foundational knowledge for understanding plant-based medicines."
+  },
+  {
+    "instruction": "What is studied in PHRM 209 Statistics for Pharmaceutical Sciences?",
+    "context": "",
+    "response": "PHRM 209 focuses on applying statistical methods to pharmaceutical research, including data analysis, probability, hypothesis testing, and interpretation of experimental results in pharmacy studies."
+  },
+  {
+    "instruction": "What does PHRM 211 Organic Pharmacy II involve?",
+    "context": "",
+    "response": "PHRM 211, Organic Pharmacy II, covers advanced organic chemistry topics with a focus on drug synthesis, reaction mechanisms, and chemical properties relevant to pharmaceutical development."
+  },
+  {
+    "instruction": "What do I learn in PHRM 301 Pharmacology I?",
+    "context": "",
+    "response": "PHRM 301, Pharmacology I, introduces the basic principles of drug action, pharmacodynamics, and pharmacokinetics, helping students understand how drugs interact with the human body."
+  },
+  {
+    "instruction": "What is covered in PHRM 302 Medicinal Chemistry I?",
+    "context": "",
+    "response": "PHRM 302, Medicinal Chemistry I, focuses on the chemical properties, structure-activity relationships, and design of pharmaceutical drugs to understand their therapeutic effects."
+  },
+  {
+    "instruction": "Can you tell me about PHRM 303 Pharmacognosy II?",
+    "context": "",
+    "response": "PHRM 303, Pharmacognosy II, continues the study of natural medicines, emphasizing identification, standardization, and quality control of plant-derived and other natural pharmaceutical products."
+  },
+  {
+    "instruction": "What does PHRM 304 Medicinal Chemistry II teach?",
+    "context": "",
+    "response": "PHRM 304, Medicinal Chemistry II, builds on Medicinal Chemistry I, exploring advanced drug design, chemical modifications, and the synthesis of therapeutic agents with specific pharmacological activities."
+  },
+  {
+    "instruction": "What is studied in PHRM 305 Pharmaceutical Microbiology?",
+    "context": "",
+    "response": "PHRM 305, Pharmaceutical Microbiology, focuses on microorganisms in pharmaceutical products, microbial contamination, sterilization methods, and quality control to ensure safe and effective drugs."
+  },
+  {
+    "instruction": "What will I learn in PHRM 306 Pharmacology II?",
+    "context": "",
+    "response": "PHRM 306, Pharmacology II, continues the study of drugs and their effects, covering more complex drug interactions, therapeutic applications, and mechanisms in treating diseases."
+  },
+  {
+    "instruction": "What does PHRM 307 Pharmaceutical Technology I cover?",
+    "context": "",
+    "response": "PHRM 307, Pharmaceutical Technology I, teaches the principles of drug formulation, dosage forms, and the techniques for preparing tablets, capsules, and other pharmaceutical products."
+  },
+  {
+    "instruction": "What topics are included in PHRM 308 Pharmaceutics II?",
+    "context": "",
+    "response": "PHRM 308, Pharmaceutics II, covers advanced dosage forms, drug delivery systems, formulation design, and the evaluation of pharmaceutical products for quality and effectiveness."
+  },
+  {
+    "instruction": "What is taught in PHRM 309 Pharmaceutical Analysis II?",
+    "context": "",
+    "response": "PHRM 309, Pharmaceutical Analysis II, focuses on analytical techniques for identifying and quantifying drug substances, quality control, and testing methods for pharmaceutical formulations."
+  },
+  {
+    "instruction": "What does PHRM 311 Clinical & Hospital Pharmacy include?",
+    "context": "",
+    "response": "PHRM 311, Clinical & Hospital Pharmacy, introduces the role of pharmacists in clinical settings, patient care, medication management, and hospital pharmacy practices."
+  },
+  {
+    "instruction": "What will I learn in PHRM 312 Pharmaceutical Analysis III?",
+    "context": "",
+    "response": "PHRM 312, Pharmaceutical Analysis III, teaches advanced analytical methods and instrumentation used for the detection, quantification, and quality assessment of pharmaceutical products."
+  },
+  {
+    "instruction": "What is PHRM 402 Pharmaceutical Technology II about?",
+    "context": "",
+    "response": "PHRM 402, Pharmaceutical Technology II, builds on the first technology course, focusing on advanced formulation techniques, industrial scale production, and modern drug delivery systems."
+  },
+  {
+    "instruction": "What topics are covered in PHRM 403 Drug Design and Development?",
+    "context": "",
+    "response": "PHRM 403, Drug Design and Development, teaches the principles and processes of designing new drugs, optimizing chemical structures, and taking compounds from lab research to practical therapeutic use."
+  },
+  {
+    "instruction": "What does PHRM 404 Pharmaceutical Research involve?",
+    "context": "",
+    "response": "PHRM 404, Pharmaceutical Research, covers methodologies for conducting pharmaceutical experiments, data collection, analysis, reporting, and developing evidence-based conclusions in drug studies."
+  },
+  {
+    "instruction": "What is studied in PHRM 405 Pharmacy Quality Assurance?",
+    "context": "",
+    "response": "PHRM 405, Pharmacy Quality Assurance, teaches principles of quality management, good manufacturing practices, regulatory compliance, and ensuring safety and efficacy of pharmaceutical products."
+  },
+  {
+    "instruction": "What does PHRM 406 Biopharmaceutics & Pharmacokinetics cover?",
+    "context": "",
+    "response": "PHRM 406, Biopharmaceutics & Pharmacokinetics, focuses on drug absorption, distribution, metabolism, and excretion in the body, helping students understand drug action and dosing strategies."
+  },
+  {
+    "instruction": "What will I learn in PHRM 407 Pharmaceutical Biotechnology?",
+    "context": "",
+    "response": "PHRM 407, Pharmaceutical Biotechnology, explores the use of biological systems, organisms, and biotechnological techniques for drug development, including vaccines, enzymes, and therapeutic proteins."
+  },
+  {
+    "instruction": "What is taught in PHRM 409 Advanced Pharmaceutical Analysis?",
+    "context": "",
+    "response": "PHRM 409, Advanced Pharmaceutical Analysis, teaches sophisticated analytical methods, instrumentation, and problem-solving techniques for detailed evaluation and quality assurance of pharmaceutical products."
+  },
+  {
+    "instruction": "Can you explain PHRM 410 Pharmacy Law and Ethics?",
+    "context": "",
+    "response": "PHRM 410, Pharmacy Law and Ethics, covers legal regulations, professional responsibilities, ethical dilemmas, and compliance in pharmacy practice, ensuring students understand the legal framework of the profession."
+  },
+  {
+    "instruction": "What is studied in PHRM 412 Medicinal Chemistry III?",
+    "context": "",
+    "response": "PHRM 412, Medicinal Chemistry III, is an advanced course exploring complex drug molecules, structure-activity relationships, optimization of drug properties, and modern strategies for drug discovery."
+  },
+  {
+    "instruction": "What will I learn in PHRM 413 Pharmacology III?",
+    "context": "",
+    "response": "PHRM 413, Pharmacology III, covers specialized topics in pharmacology, including advanced mechanisms of drug action, clinical pharmacology, toxicology, and therapeutic applications for various diseases."
+  },
+  {
+    "instruction": "What does PHRM 414 Pharmaceutical Engineering include?",
+    "context": "",
+    "response": "PHRM 414, Pharmaceutical Engineering, teaches engineering principles applied to pharmaceutical manufacturing, process optimization, equipment design, and large-scale production of drugs."
+  }
+]

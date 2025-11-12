@@ -1,0 +1,1247 @@
+[
+  {
+    "instruction": "What is the name of the course ENG 101?",
+    "context": "",
+    "response": "The course ENG 101 is titled 'Basic English'."
+  },
+  {
+    "instruction": "How many credits is Basic English (ENG 101)?",
+    "context": "",
+    "response": "The course Basic English (ENG 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Basic English (ENG 101)?",
+    "context": "",
+    "response": "The prerequisites for Basic English (ENG 101) are: None."
+  },
+  {
+    "instruction": "Which category does Basic English (ENG 101) belong to?",
+    "context": "",
+    "response": "Basic English (ENG 101) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course ENG 102?",
+    "context": "",
+    "response": "The course ENG 102 is titled 'Composition and Communication Skills'."
+  },
+  {
+    "instruction": "How many credits is Composition and Communication Skills (ENG 102)?",
+    "context": "",
+    "response": "The course Composition and Communication Skills (ENG 102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Composition and Communication Skills (ENG 102)?",
+    "context": "",
+    "response": "The prerequisites for Composition and Communication Skills (ENG 102) are: None."
+  },
+  {
+    "instruction": "Which category does Composition and Communication Skills (ENG 102) belong to?",
+    "context": "",
+    "response": "Composition and Communication Skills (ENG 102) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course GEN 226?",
+    "context": "",
+    "response": "The course GEN 226 is titled 'Emergence of Bangladesh'."
+  },
+  {
+    "instruction": "How many credits is Emergence of Bangladesh (GEN 226)?",
+    "context": "",
+    "response": "The course Emergence of Bangladesh (GEN 226) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Emergence of Bangladesh (GEN 226)?",
+    "context": "",
+    "response": "The prerequisites for Emergence of Bangladesh (GEN 226) are: None."
+  },
+  {
+    "instruction": "Which category does Emergence of Bangladesh (GEN 226) belong to?",
+    "context": "",
+    "response": "Emergence of Bangladesh (GEN 226) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 399?",
+    "context": "",
+    "response": "The course EEE 399 is titled 'Engineering Project Management'."
+  },
+  {
+    "instruction": "How many credits is Engineering Project Management (EEE 399)?",
+    "context": "",
+    "response": "The course Engineering Project Management (EEE 399) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Engineering Project Management (EEE 399)?",
+    "context": "",
+    "response": "The prerequisites for Engineering Project Management (EEE 399) are: None."
+  },
+  {
+    "instruction": "Which category does Engineering Project Management (EEE 399) belong to?",
+    "context": "",
+    "response": "Engineering Project Management (EEE 399) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course Optional General Education I?",
+    "context": "",
+    "response": "The course Optional General Education I is titled 'Approved General Education Course'."
+  },
+  {
+    "instruction": "How many credits is Approved General Education Course (Optional General Education I)?",
+    "context": "",
+    "response": "The course Approved General Education Course (Optional General Education I) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Approved General Education Course (Optional General Education I)?",
+    "context": "",
+    "response": "The prerequisites for Approved General Education Course (Optional General Education I) are: None."
+  },
+  {
+    "instruction": "Which category does Approved General Education Course (Optional General Education I) belong to?",
+    "context": "",
+    "response": "Approved General Education Course (Optional General Education I) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course Optional General Education II?",
+    "context": "",
+    "response": "The course Optional General Education II is titled 'Approved General Education Course'."
+  },
+  {
+    "instruction": "How many credits is Approved General Education Course (Optional General Education II)?",
+    "context": "",
+    "response": "The course Approved General Education Course (Optional General Education II) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Approved General Education Course (Optional General Education II)?",
+    "context": "",
+    "response": "The prerequisites for Approved General Education Course (Optional General Education II) are: None."
+  },
+  {
+    "instruction": "Which category does Approved General Education Course (Optional General Education II) belong to?",
+    "context": "",
+    "response": "Approved General Education Course (Optional General Education II) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course Optional Non-Engineering?",
+    "context": "",
+    "response": "The course Optional Non-Engineering is titled 'Approved Non-Engineering Course'."
+  },
+  {
+    "instruction": "How many credits is Approved Non-Engineering Course (Optional Non-Engineering)?",
+    "context": "",
+    "response": "The course Approved Non-Engineering Course (Optional Non-Engineering) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Approved Non-Engineering Course (Optional Non-Engineering)?",
+    "context": "",
+    "response": "The prerequisites for Approved Non-Engineering Course (Optional Non-Engineering) are: None."
+  },
+  {
+    "instruction": "Which category does Approved Non-Engineering Course (Optional Non-Engineering) belong to?",
+    "context": "",
+    "response": "Approved Non-Engineering Course (Optional Non-Engineering) falls under the 'General Education' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 101?",
+    "context": "",
+    "response": "The course EEE 101 is titled 'Electrical Circuits I'."
+  },
+  {
+    "instruction": "How many credits is Electrical Circuits I (EEE 101)?",
+    "context": "",
+    "response": "The course Electrical Circuits I (EEE 101) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electrical Circuits I (EEE 101)?",
+    "context": "",
+    "response": "The prerequisites for Electrical Circuits I (EEE 101) are: None."
+  },
+  {
+    "instruction": "Which category does Electrical Circuits I (EEE 101) belong to?",
+    "context": "",
+    "response": "Electrical Circuits I (EEE 101) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 102?",
+    "context": "",
+    "response": "The course EEE 102 is titled 'Electronic Circuits I'."
+  },
+  {
+    "instruction": "How many credits is Electronic Circuits I (EEE 102)?",
+    "context": "",
+    "response": "The course Electronic Circuits I (EEE 102) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electronic Circuits I (EEE 102)?",
+    "context": "",
+    "response": "The prerequisites for Electronic Circuits I (EEE 102) are: None."
+  },
+  {
+    "instruction": "Which category does Electronic Circuits I (EEE 102) belong to?",
+    "context": "",
+    "response": "Electronic Circuits I (EEE 102) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 105?",
+    "context": "",
+    "response": "The course EEE 105 is titled 'Computer Programming'."
+  },
+  {
+    "instruction": "How many credits is Computer Programming (EEE 105)?",
+    "context": "",
+    "response": "The course Computer Programming (EEE 105) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Computer Programming (EEE 105)?",
+    "context": "",
+    "response": "The prerequisites for Computer Programming (EEE 105) are: None."
+  },
+  {
+    "instruction": "Which category does Computer Programming (EEE 105) belong to?",
+    "context": "",
+    "response": "Computer Programming (EEE 105) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 201?",
+    "context": "",
+    "response": "The course EEE 201 is titled 'Electrical Circuits II'."
+  },
+  {
+    "instruction": "How many credits is Electrical Circuits II (EEE 201)?",
+    "context": "",
+    "response": "The course Electrical Circuits II (EEE 201) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electrical Circuits II (EEE 201)?",
+    "context": "",
+    "response": "The prerequisites for Electrical Circuits II (EEE 201) are: EEE 101."
+  },
+  {
+    "instruction": "Which category does Electrical Circuits II (EEE 201) belong to?",
+    "context": "",
+    "response": "Electrical Circuits II (EEE 201) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 202?",
+    "context": "",
+    "response": "The course EEE 202 is titled 'Electronic Circuits II'."
+  },
+  {
+    "instruction": "How many credits is Electronic Circuits II (EEE 202)?",
+    "context": "",
+    "response": "The course Electronic Circuits II (EEE 202) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electronic Circuits II (EEE 202)?",
+    "context": "",
+    "response": "The prerequisites for Electronic Circuits II (EEE 202) are: EEE 102."
+  },
+  {
+    "instruction": "Which category does Electronic Circuits II (EEE 202) belong to?",
+    "context": "",
+    "response": "Electronic Circuits II (EEE 202) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 204?",
+    "context": "",
+    "response": "The course EEE 204 is titled 'Numerical Analysis for Electrical Engineering'."
+  },
+  {
+    "instruction": "How many credits is Numerical Analysis for Electrical Engineering (EEE 204)?",
+    "context": "",
+    "response": "The course Numerical Analysis for Electrical Engineering (EEE 204) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Numerical Analysis for Electrical Engineering (EEE 204)?",
+    "context": "",
+    "response": "The prerequisites for Numerical Analysis for Electrical Engineering (EEE 204) are: MAT 102."
+  },
+  {
+    "instruction": "Which category does Numerical Analysis for Electrical Engineering (EEE 204) belong to?",
+    "context": "",
+    "response": "Numerical Analysis for Electrical Engineering (EEE 204) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 205?",
+    "context": "",
+    "response": "The course EEE 205 is titled 'Digital Logic Design'."
+  },
+  {
+    "instruction": "How many credits is Digital Logic Design (EEE 205)?",
+    "context": "",
+    "response": "The course Digital Logic Design (EEE 205) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Digital Logic Design (EEE 205)?",
+    "context": "",
+    "response": "The prerequisites for Digital Logic Design (EEE 205) are: EEE 102."
+  },
+  {
+    "instruction": "Which category does Digital Logic Design (EEE 205) belong to?",
+    "context": "",
+    "response": "Digital Logic Design (EEE 205) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 300?",
+    "context": "",
+    "response": "The course EEE 300 is titled 'Electrical Services Design'."
+  },
+  {
+    "instruction": "How many credits is Electrical Services Design (EEE 300)?",
+    "context": "",
+    "response": "The course Electrical Services Design (EEE 300) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electrical Services Design (EEE 300)?",
+    "context": "",
+    "response": "The prerequisites for Electrical Services Design (EEE 300) are: EEE 201."
+  },
+  {
+    "instruction": "Which category does Electrical Services Design (EEE 300) belong to?",
+    "context": "",
+    "response": "Electrical Services Design (EEE 300) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 301?",
+    "context": "",
+    "response": "The course EEE 301 is titled 'Electrical Machines'."
+  },
+  {
+    "instruction": "How many credits is Electrical Machines (EEE 301)?",
+    "context": "",
+    "response": "The course Electrical Machines (EEE 301) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electrical Machines (EEE 301)?",
+    "context": "",
+    "response": "The prerequisites for Electrical Machines (EEE 301) are: EEE 201."
+  },
+  {
+    "instruction": "Which category does Electrical Machines (EEE 301) belong to?",
+    "context": "",
+    "response": "Electrical Machines (EEE 301) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 303?",
+    "context": "",
+    "response": "The course EEE 303 is titled 'Signals and Linear Systems'."
+  },
+  {
+    "instruction": "How many credits is Signals and Linear Systems (EEE 303)?",
+    "context": "",
+    "response": "The course Signals and Linear Systems (EEE 303) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Signals and Linear Systems (EEE 303)?",
+    "context": "",
+    "response": "The prerequisites for Signals and Linear Systems (EEE 303) are: MAT 205, EEE 201."
+  },
+  {
+    "instruction": "Which category does Signals and Linear Systems (EEE 303) belong to?",
+    "context": "",
+    "response": "Signals and Linear Systems (EEE 303) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 304?",
+    "context": "",
+    "response": "The course EEE 304 is titled 'Electrical Power Systems'."
+  },
+  {
+    "instruction": "How many credits is Electrical Power Systems (EEE 304)?",
+    "context": "",
+    "response": "The course Electrical Power Systems (EEE 304) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electrical Power Systems (EEE 304)?",
+    "context": "",
+    "response": "The prerequisites for Electrical Power Systems (EEE 304) are: EEE 201."
+  },
+  {
+    "instruction": "Which category does Electrical Power Systems (EEE 304) belong to?",
+    "context": "",
+    "response": "Electrical Power Systems (EEE 304) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 305?",
+    "context": "",
+    "response": "The course EEE 305 is titled 'Electromagnetic Fields and Waves'."
+  },
+  {
+    "instruction": "How many credits is Electromagnetic Fields and Waves (EEE 305)?",
+    "context": "",
+    "response": "The course Electromagnetic Fields and Waves (EEE 305) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electromagnetic Fields and Waves (EEE 305)?",
+    "context": "",
+    "response": "The prerequisites for Electromagnetic Fields and Waves (EEE 305) are: PHY 109, MAT 104."
+  },
+  {
+    "instruction": "Which category does Electromagnetic Fields and Waves (EEE 305) belong to?",
+    "context": "",
+    "response": "Electromagnetic Fields and Waves (EEE 305) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 306?",
+    "context": "",
+    "response": "The course EEE 306 is titled 'Fundamentals of Embedded Systems'."
+  },
+  {
+    "instruction": "How many credits is Fundamentals of Embedded Systems (EEE 306)?",
+    "context": "",
+    "response": "The course Fundamentals of Embedded Systems (EEE 306) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Fundamentals of Embedded Systems (EEE 306)?",
+    "context": "",
+    "response": "The prerequisites for Fundamentals of Embedded Systems (EEE 306) are: EEE 205."
+  },
+  {
+    "instruction": "Which category does Fundamentals of Embedded Systems (EEE 306) belong to?",
+    "context": "",
+    "response": "Fundamentals of Embedded Systems (EEE 306) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 307?",
+    "context": "",
+    "response": "The course EEE 307 is titled 'Telecommunication Engineering'."
+  },
+  {
+    "instruction": "How many credits is Telecommunication Engineering (EEE 307)?",
+    "context": "",
+    "response": "The course Telecommunication Engineering (EEE 307) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Telecommunication Engineering (EEE 307)?",
+    "context": "",
+    "response": "The prerequisites for Telecommunication Engineering (EEE 307) are: EEE 303."
+  },
+  {
+    "instruction": "Which category does Telecommunication Engineering (EEE 307) belong to?",
+    "context": "",
+    "response": "Telecommunication Engineering (EEE 307) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 308?",
+    "context": "",
+    "response": "The course EEE 308 is titled 'Electronic Properties of Materials'."
+  },
+  {
+    "instruction": "How many credits is Electronic Properties of Materials (EEE 308)?",
+    "context": "",
+    "response": "The course Electronic Properties of Materials (EEE 308) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Electronic Properties of Materials (EEE 308)?",
+    "context": "",
+    "response": "The prerequisites for Electronic Properties of Materials (EEE 308) are: PHY 209."
+  },
+  {
+    "instruction": "Which category does Electronic Properties of Materials (EEE 308) belong to?",
+    "context": "",
+    "response": "Electronic Properties of Materials (EEE 308) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 309?",
+    "context": "",
+    "response": "The course EEE 309 is titled 'Digital Signal Processing'."
+  },
+  {
+    "instruction": "How many credits is Digital Signal Processing (EEE 309)?",
+    "context": "",
+    "response": "The course Digital Signal Processing (EEE 309) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Digital Signal Processing (EEE 309)?",
+    "context": "",
+    "response": "The prerequisites for Digital Signal Processing (EEE 309) are: EEE 303."
+  },
+  {
+    "instruction": "Which category does Digital Signal Processing (EEE 309) belong to?",
+    "context": "",
+    "response": "Digital Signal Processing (EEE 309) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 402?",
+    "context": "",
+    "response": "The course EEE 402 is titled 'Control Systems'."
+  },
+  {
+    "instruction": "How many credits is Control Systems (EEE 402)?",
+    "context": "",
+    "response": "The course Control Systems (EEE 402) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Control Systems (EEE 402)?",
+    "context": "",
+    "response": "The prerequisites for Control Systems (EEE 402) are: EEE 303."
+  },
+  {
+    "instruction": "Which category does Control Systems (EEE 402) belong to?",
+    "context": "",
+    "response": "Control Systems (EEE 402) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 403?",
+    "context": "",
+    "response": "The course EEE 403 is titled 'Engineer and Society'."
+  },
+  {
+    "instruction": "How many credits is Engineer and Society (EEE 403)?",
+    "context": "",
+    "response": "The course Engineer and Society (EEE 403) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Engineer and Society (EEE 403)?",
+    "context": "",
+    "response": "The prerequisites for Engineer and Society (EEE 403) are: None."
+  },
+  {
+    "instruction": "Which category does Engineer and Society (EEE 403) belong to?",
+    "context": "",
+    "response": "Engineer and Society (EEE 403) falls under the 'Core' category."
+  },
+  {
+    "instruction": "What is the name of the course CHE 101?",
+    "context": "",
+    "response": "The course CHE 101 is titled 'Introduction to Chemistry'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Chemistry (CHE 101)?",
+    "context": "",
+    "response": "The course Introduction to Chemistry (CHE 101) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Chemistry (CHE 101)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Chemistry (CHE 101) are: None."
+  },
+  {
+    "instruction": "Which category does Introduction to Chemistry (CHE 101) belong to?",
+    "context": "",
+    "response": "Introduction to Chemistry (CHE 101) falls under the 'Natural Science' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 101?",
+    "context": "",
+    "response": "The course MAT 101 is titled 'Differential and Integral Calculus'."
+  },
+  {
+    "instruction": "How many credits is Differential and Integral Calculus (MAT 101)?",
+    "context": "",
+    "response": "The course Differential and Integral Calculus (MAT 101) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Differential and Integral Calculus (MAT 101)?",
+    "context": "",
+    "response": "The prerequisites for Differential and Integral Calculus (MAT 101) are: None."
+  },
+  {
+    "instruction": "Which category does Differential and Integral Calculus (MAT 101) belong to?",
+    "context": "",
+    "response": "Differential and Integral Calculus (MAT 101) falls under the 'Mathematics' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 102?",
+    "context": "",
+    "response": "The course MAT 102 is titled 'Differential Equations and Special Functions'."
+  },
+  {
+    "instruction": "How many credits is Differential Equations and Special Functions (MAT 102)?",
+    "context": "",
+    "response": "The course Differential Equations and Special Functions (MAT 102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Differential Equations and Special Functions (MAT 102)?",
+    "context": "",
+    "response": "The prerequisites for Differential Equations and Special Functions (MAT 102) are: MAT 101."
+  },
+  {
+    "instruction": "Which category does Differential Equations and Special Functions (MAT 102) belong to?",
+    "context": "",
+    "response": "Differential Equations and Special Functions (MAT 102) falls under the 'Mathematics' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 104?",
+    "context": "",
+    "response": "The course MAT 104 is titled 'Co-ordinate Geometry and Vector Analysis'."
+  },
+  {
+    "instruction": "How many credits is Co-ordinate Geometry and Vector Analysis (MAT 104)?",
+    "context": "",
+    "response": "The course Co-ordinate Geometry and Vector Analysis (MAT 104) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Co-ordinate Geometry and Vector Analysis (MAT 104)?",
+    "context": "",
+    "response": "The prerequisites for Co-ordinate Geometry and Vector Analysis (MAT 104) are: MAT 101."
+  },
+  {
+    "instruction": "Which category does Co-ordinate Geometry and Vector Analysis (MAT 104) belong to?",
+    "context": "",
+    "response": "Co-ordinate Geometry and Vector Analysis (MAT 104) falls under the 'Mathematics' category."
+  },
+  {
+    "instruction": "What is the name of the course MAT 205?",
+    "context": "",
+    "response": "The course MAT 205 is titled 'Linear Algebra and Complex Variables'."
+  },
+  {
+    "instruction": "How many credits is Linear Algebra and Complex Variables (MAT 205)?",
+    "context": "",
+    "response": "The course Linear Algebra and Complex Variables (MAT 205) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Linear Algebra and Complex Variables (MAT 205)?",
+    "context": "",
+    "response": "The prerequisites for Linear Algebra and Complex Variables (MAT 205) are: MAT 102."
+  },
+  {
+    "instruction": "Which category does Linear Algebra and Complex Variables (MAT 205) belong to?",
+    "context": "",
+    "response": "Linear Algebra and Complex Variables (MAT 205) falls under the 'Mathematics' category."
+  },
+  {
+    "instruction": "What is the name of the course PHY 109?",
+    "context": "",
+    "response": "The course PHY 109 is titled 'Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics)'."
+  },
+  {
+    "instruction": "How many credits is Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109)?",
+    "context": "",
+    "response": "The course Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109)?",
+    "context": "",
+    "response": "The prerequisites for Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109) are: MAT 101."
+  },
+  {
+    "instruction": "Which category does Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109) belong to?",
+    "context": "",
+    "response": "Engineering Physics \u00e2\u20ac\u201c I (Introductory Classical Physics) (PHY 109) falls under the 'Natural Science' category."
+  },
+  {
+    "instruction": "What is the name of the course PHY 209?",
+    "context": "",
+    "response": "The course PHY 209 is titled 'Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics)'."
+  },
+  {
+    "instruction": "How many credits is Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209)?",
+    "context": "",
+    "response": "The course Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209)?",
+    "context": "",
+    "response": "The prerequisites for Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209) are: PHY 109."
+  },
+  {
+    "instruction": "Which category does Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209) belong to?",
+    "context": "",
+    "response": "Engineering Physics \u00e2\u20ac\u201c II (Introductory Quantum Physics) (PHY 209) falls under the 'Natural Science' category."
+  },
+  {
+    "instruction": "What is the name of the course STA 102?",
+    "context": "",
+    "response": "The course STA 102 is titled 'Statistics and Probability'."
+  },
+  {
+    "instruction": "How many credits is Statistics and Probability (STA 102)?",
+    "context": "",
+    "response": "The course Statistics and Probability (STA 102) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Statistics and Probability (STA 102)?",
+    "context": "",
+    "response": "The prerequisites for Statistics and Probability (STA 102) are: MAT 101."
+  },
+  {
+    "instruction": "Which category does Statistics and Probability (STA 102) belong to?",
+    "context": "",
+    "response": "Statistics and Probability (STA 102) falls under the 'Mathematics' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 413?",
+    "context": "",
+    "response": "The course EEE 413 is titled 'Fundamentals of Nanotechnology'."
+  },
+  {
+    "instruction": "How many credits is Fundamentals of Nanotechnology (EEE 413)?",
+    "context": "",
+    "response": "The course Fundamentals of Nanotechnology (EEE 413) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Fundamentals of Nanotechnology (EEE 413)?",
+    "context": "",
+    "response": "The prerequisites for Fundamentals of Nanotechnology (EEE 413) are: EEE 308."
+  },
+  {
+    "instruction": "Which category does Fundamentals of Nanotechnology (EEE 413) belong to?",
+    "context": "",
+    "response": "Fundamentals of Nanotechnology (EEE 413) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 414?",
+    "context": "",
+    "response": "The course EEE 414 is titled 'Optoelectronics'."
+  },
+  {
+    "instruction": "How many credits is Optoelectronics (EEE 414)?",
+    "context": "",
+    "response": "The course Optoelectronics (EEE 414) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Optoelectronics (EEE 414)?",
+    "context": "",
+    "response": "The prerequisites for Optoelectronics (EEE 414) are: EEE 308."
+  },
+  {
+    "instruction": "Which category does Optoelectronics (EEE 414) belong to?",
+    "context": "",
+    "response": "Optoelectronics (EEE 414) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 415?",
+    "context": "",
+    "response": "The course EEE 415 is titled 'Semiconductor Processing and Fabrication'."
+  },
+  {
+    "instruction": "How many credits is Semiconductor Processing and Fabrication (EEE 415)?",
+    "context": "",
+    "response": "The course Semiconductor Processing and Fabrication (EEE 415) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Semiconductor Processing and Fabrication (EEE 415)?",
+    "context": "",
+    "response": "The prerequisites for Semiconductor Processing and Fabrication (EEE 415) are: EEE 308."
+  },
+  {
+    "instruction": "Which category does Semiconductor Processing and Fabrication (EEE 415) belong to?",
+    "context": "",
+    "response": "Semiconductor Processing and Fabrication (EEE 415) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 416?",
+    "context": "",
+    "response": "The course EEE 416 is titled 'VLSI Circuits and Systems'."
+  },
+  {
+    "instruction": "How many credits is VLSI Circuits and Systems (EEE 416)?",
+    "context": "",
+    "response": "The course VLSI Circuits and Systems (EEE 416) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for VLSI Circuits and Systems (EEE 416)?",
+    "context": "",
+    "response": "The prerequisites for VLSI Circuits and Systems (EEE 416) are: EEE 205."
+  },
+  {
+    "instruction": "Which category does VLSI Circuits and Systems (EEE 416) belong to?",
+    "context": "",
+    "response": "VLSI Circuits and Systems (EEE 416) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 417?",
+    "context": "",
+    "response": "The course EEE 417 is titled 'Semiconductor Devices'."
+  },
+  {
+    "instruction": "How many credits is Semiconductor Devices (EEE 417)?",
+    "context": "",
+    "response": "The course Semiconductor Devices (EEE 417) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Semiconductor Devices (EEE 417)?",
+    "context": "",
+    "response": "The prerequisites for Semiconductor Devices (EEE 417) are: EEE 308."
+  },
+  {
+    "instruction": "Which category does Semiconductor Devices (EEE 417) belong to?",
+    "context": "",
+    "response": "Semiconductor Devices (EEE 417) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 418?",
+    "context": "",
+    "response": "The course EEE 418 is titled 'Analog Integrated Circuits'."
+  },
+  {
+    "instruction": "How many credits is Analog Integrated Circuits (EEE 418)?",
+    "context": "",
+    "response": "The course Analog Integrated Circuits (EEE 418) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Analog Integrated Circuits (EEE 418)?",
+    "context": "",
+    "response": "The prerequisites for Analog Integrated Circuits (EEE 418) are: EEE 202."
+  },
+  {
+    "instruction": "Which category does Analog Integrated Circuits (EEE 418) belong to?",
+    "context": "",
+    "response": "Analog Integrated Circuits (EEE 418) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 419?",
+    "context": "",
+    "response": "The course EEE 419 is titled 'Biomedical Electronics'."
+  },
+  {
+    "instruction": "How many credits is Biomedical Electronics (EEE 419)?",
+    "context": "",
+    "response": "The course Biomedical Electronics (EEE 419) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Biomedical Electronics (EEE 419)?",
+    "context": "",
+    "response": "The prerequisites for Biomedical Electronics (EEE 419) are: EEE 202."
+  },
+  {
+    "instruction": "Which category does Biomedical Electronics (EEE 419) belong to?",
+    "context": "",
+    "response": "Biomedical Electronics (EEE 419) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 421?",
+    "context": "",
+    "response": "The course EEE 421 is titled 'RF and Microwave Engineering'."
+  },
+  {
+    "instruction": "How many credits is RF and Microwave Engineering (EEE 421)?",
+    "context": "",
+    "response": "The course RF and Microwave Engineering (EEE 421) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for RF and Microwave Engineering (EEE 421)?",
+    "context": "",
+    "response": "The prerequisites for RF and Microwave Engineering (EEE 421) are: EEE 305."
+  },
+  {
+    "instruction": "Which category does RF and Microwave Engineering (EEE 421) belong to?",
+    "context": "",
+    "response": "RF and Microwave Engineering (EEE 421) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 422?",
+    "context": "",
+    "response": "The course EEE 422 is titled 'Digital Communications'."
+  },
+  {
+    "instruction": "How many credits is Digital Communications (EEE 422)?",
+    "context": "",
+    "response": "The course Digital Communications (EEE 422) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Digital Communications (EEE 422)?",
+    "context": "",
+    "response": "The prerequisites for Digital Communications (EEE 422) are: EEE 307."
+  },
+  {
+    "instruction": "Which category does Digital Communications (EEE 422) belong to?",
+    "context": "",
+    "response": "Digital Communications (EEE 422) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 423?",
+    "context": "",
+    "response": "The course EEE 423 is titled 'Wireless and Mobile Communications'."
+  },
+  {
+    "instruction": "How many credits is Wireless and Mobile Communications (EEE 423)?",
+    "context": "",
+    "response": "The course Wireless and Mobile Communications (EEE 423) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Wireless and Mobile Communications (EEE 423)?",
+    "context": "",
+    "response": "The prerequisites for Wireless and Mobile Communications (EEE 423) are: EEE 307."
+  },
+  {
+    "instruction": "Which category does Wireless and Mobile Communications (EEE 423) belong to?",
+    "context": "",
+    "response": "Wireless and Mobile Communications (EEE 423) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 425?",
+    "context": "",
+    "response": "The course EEE 425 is titled 'Digital Image Processing'."
+  },
+  {
+    "instruction": "How many credits is Digital Image Processing (EEE 425)?",
+    "context": "",
+    "response": "The course Digital Image Processing (EEE 425) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Digital Image Processing (EEE 425)?",
+    "context": "",
+    "response": "The prerequisites for Digital Image Processing (EEE 425) are: EEE 309."
+  },
+  {
+    "instruction": "Which category does Digital Image Processing (EEE 425) belong to?",
+    "context": "",
+    "response": "Digital Image Processing (EEE 425) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 426?",
+    "context": "",
+    "response": "The course EEE 426 is titled 'Advanced Telecommunication Engineering'."
+  },
+  {
+    "instruction": "How many credits is Advanced Telecommunication Engineering (EEE 426)?",
+    "context": "",
+    "response": "The course Advanced Telecommunication Engineering (EEE 426) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Advanced Telecommunication Engineering (EEE 426)?",
+    "context": "",
+    "response": "The prerequisites for Advanced Telecommunication Engineering (EEE 426) are: EEE 307."
+  },
+  {
+    "instruction": "Which category does Advanced Telecommunication Engineering (EEE 426) belong to?",
+    "context": "",
+    "response": "Advanced Telecommunication Engineering (EEE 426) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 433?",
+    "context": "",
+    "response": "The course EEE 433 is titled 'Computer Networks'."
+  },
+  {
+    "instruction": "How many credits is Computer Networks (EEE 433)?",
+    "context": "",
+    "response": "The course Computer Networks (EEE 433) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Computer Networks (EEE 433)?",
+    "context": "",
+    "response": "The prerequisites for Computer Networks (EEE 433) are: EEE 205."
+  },
+  {
+    "instruction": "Which category does Computer Networks (EEE 433) belong to?",
+    "context": "",
+    "response": "Computer Networks (EEE 433) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 434?",
+    "context": "",
+    "response": "The course EEE 434 is titled 'Computer Architecture'."
+  },
+  {
+    "instruction": "How many credits is Computer Architecture (EEE 434)?",
+    "context": "",
+    "response": "The course Computer Architecture (EEE 434) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Computer Architecture (EEE 434)?",
+    "context": "",
+    "response": "The prerequisites for Computer Architecture (EEE 434) are: EEE 205."
+  },
+  {
+    "instruction": "Which category does Computer Architecture (EEE 434) belong to?",
+    "context": "",
+    "response": "Computer Architecture (EEE 434) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 435?",
+    "context": "",
+    "response": "The course EEE 435 is titled 'Embedded Systems'."
+  },
+  {
+    "instruction": "How many credits is Embedded Systems (EEE 435)?",
+    "context": "",
+    "response": "The course Embedded Systems (EEE 435) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Embedded Systems (EEE 435)?",
+    "context": "",
+    "response": "The prerequisites for Embedded Systems (EEE 435) are: EEE 306."
+  },
+  {
+    "instruction": "Which category does Embedded Systems (EEE 435) belong to?",
+    "context": "",
+    "response": "Embedded Systems (EEE 435) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 436?",
+    "context": "",
+    "response": "The course EEE 436 is titled 'Introduction to Machine Learning'."
+  },
+  {
+    "instruction": "How many credits is Introduction to Machine Learning (EEE 436)?",
+    "context": "",
+    "response": "The course Introduction to Machine Learning (EEE 436) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Introduction to Machine Learning (EEE 436)?",
+    "context": "",
+    "response": "The prerequisites for Introduction to Machine Learning (EEE 436) are: STA 102."
+  },
+  {
+    "instruction": "Which category does Introduction to Machine Learning (EEE 436) belong to?",
+    "context": "",
+    "response": "Introduction to Machine Learning (EEE 436) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 441?",
+    "context": "",
+    "response": "The course EEE 441 is titled 'Power Stations'."
+  },
+  {
+    "instruction": "How many credits is Power Stations (EEE 441)?",
+    "context": "",
+    "response": "The course Power Stations (EEE 441) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Power Stations (EEE 441)?",
+    "context": "",
+    "response": "The prerequisites for Power Stations (EEE 441) are: EEE 304."
+  },
+  {
+    "instruction": "Which category does Power Stations (EEE 441) belong to?",
+    "context": "",
+    "response": "Power Stations (EEE 441) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 442?",
+    "context": "",
+    "response": "The course EEE 442 is titled 'Switchgear and Protective Relays'."
+  },
+  {
+    "instruction": "How many credits is Switchgear and Protective Relays (EEE 442)?",
+    "context": "",
+    "response": "The course Switchgear and Protective Relays (EEE 442) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Switchgear and Protective Relays (EEE 442)?",
+    "context": "",
+    "response": "The prerequisites for Switchgear and Protective Relays (EEE 442) are: EEE 304."
+  },
+  {
+    "instruction": "Which category does Switchgear and Protective Relays (EEE 442) belong to?",
+    "context": "",
+    "response": "Switchgear and Protective Relays (EEE 442) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 444?",
+    "context": "",
+    "response": "The course EEE 444 is titled 'High Voltage Engineering'."
+  },
+  {
+    "instruction": "How many credits is High Voltage Engineering (EEE 444)?",
+    "context": "",
+    "response": "The course High Voltage Engineering (EEE 444) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for High Voltage Engineering (EEE 444)?",
+    "context": "",
+    "response": "The prerequisites for High Voltage Engineering (EEE 444) are: EEE 304."
+  },
+  {
+    "instruction": "Which category does High Voltage Engineering (EEE 444) belong to?",
+    "context": "",
+    "response": "High Voltage Engineering (EEE 444) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 445?",
+    "context": "",
+    "response": "The course EEE 445 is titled 'Renewable Energy'."
+  },
+  {
+    "instruction": "How many credits is Renewable Energy (EEE 445)?",
+    "context": "",
+    "response": "The course Renewable Energy (EEE 445) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Renewable Energy (EEE 445)?",
+    "context": "",
+    "response": "The prerequisites for Renewable Energy (EEE 445) are: EEE 304."
+  },
+  {
+    "instruction": "Which category does Renewable Energy (EEE 445) belong to?",
+    "context": "",
+    "response": "Renewable Energy (EEE 445) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 446?",
+    "context": "",
+    "response": "The course EEE 446 is titled 'Power System Operation and Reliability'."
+  },
+  {
+    "instruction": "How many credits is Power System Operation and Reliability (EEE 446)?",
+    "context": "",
+    "response": "The course Power System Operation and Reliability (EEE 446) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Power System Operation and Reliability (EEE 446)?",
+    "context": "",
+    "response": "The prerequisites for Power System Operation and Reliability (EEE 446) are: EEE 304."
+  },
+  {
+    "instruction": "Which category does Power System Operation and Reliability (EEE 446) belong to?",
+    "context": "",
+    "response": "Power System Operation and Reliability (EEE 446) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 447?",
+    "context": "",
+    "response": "The course EEE 447 is titled 'Power Electronics'."
+  },
+  {
+    "instruction": "How many credits is Power Electronics (EEE 447)?",
+    "context": "",
+    "response": "The course Power Electronics (EEE 447) is worth 4 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Power Electronics (EEE 447)?",
+    "context": "",
+    "response": "The prerequisites for Power Electronics (EEE 447) are: EEE 202."
+  },
+  {
+    "instruction": "Which category does Power Electronics (EEE 447) belong to?",
+    "context": "",
+    "response": "Power Electronics (EEE 447) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 450?",
+    "context": "",
+    "response": "The course EEE 450 is titled 'Special Topic in Electrical and Electronic Engineering'."
+  },
+  {
+    "instruction": "How many credits is Special Topic in Electrical and Electronic Engineering (EEE 450)?",
+    "context": "",
+    "response": "The course Special Topic in Electrical and Electronic Engineering (EEE 450) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Special Topic in Electrical and Electronic Engineering (EEE 450)?",
+    "context": "",
+    "response": "The prerequisites for Special Topic in Electrical and Electronic Engineering (EEE 450) are: Instructor Consent."
+  },
+  {
+    "instruction": "Which category does Special Topic in Electrical and Electronic Engineering (EEE 450) belong to?",
+    "context": "",
+    "response": "Special Topic in Electrical and Electronic Engineering (EEE 450) falls under the 'Elective' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 490?",
+    "context": "",
+    "response": "The course EEE 490 is titled 'Research Project'."
+  },
+  {
+    "instruction": "How many credits is Research Project (EEE 490)?",
+    "context": "",
+    "response": "The course Research Project (EEE 490) is worth 6 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Research Project (EEE 490)?",
+    "context": "",
+    "response": "The prerequisites for Research Project (EEE 490) are: Senior Standing."
+  },
+  {
+    "instruction": "Which category does Research Project (EEE 490) belong to?",
+    "context": "",
+    "response": "Research Project (EEE 490) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 400A?",
+    "context": "",
+    "response": "The course EEE 400A is titled 'Final Year Design Project (part 1 of 3)'."
+  },
+  {
+    "instruction": "How many credits is Final Year Design Project (part 1 of 3) (EEE 400A)?",
+    "context": "",
+    "response": "The course Final Year Design Project (part 1 of 3) (EEE 400A) is worth 1 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Final Year Design Project (part 1 of 3) (EEE 400A)?",
+    "context": "",
+    "response": "The prerequisites for Final Year Design Project (part 1 of 3) (EEE 400A) are: Senior Standing."
+  },
+  {
+    "instruction": "Which category does Final Year Design Project (part 1 of 3) (EEE 400A) belong to?",
+    "context": "",
+    "response": "Final Year Design Project (part 1 of 3) (EEE 400A) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 400B?",
+    "context": "",
+    "response": "The course EEE 400B is titled 'Final Year Design Project (part 2 of 3)'."
+  },
+  {
+    "instruction": "How many credits is Final Year Design Project (part 2 of 3) (EEE 400B)?",
+    "context": "",
+    "response": "The course Final Year Design Project (part 2 of 3) (EEE 400B) is worth 2 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Final Year Design Project (part 2 of 3) (EEE 400B)?",
+    "context": "",
+    "response": "The prerequisites for Final Year Design Project (part 2 of 3) (EEE 400B) are: EEE 400A."
+  },
+  {
+    "instruction": "Which category does Final Year Design Project (part 2 of 3) (EEE 400B) belong to?",
+    "context": "",
+    "response": "Final Year Design Project (part 2 of 3) (EEE 400B) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "What is the name of the course EEE 400C?",
+    "context": "",
+    "response": "The course EEE 400C is titled 'Final Year Design Project (part 3 of 3)'."
+  },
+  {
+    "instruction": "How many credits is Final Year Design Project (part 3 of 3) (EEE 400C)?",
+    "context": "",
+    "response": "The course Final Year Design Project (part 3 of 3) (EEE 400C) is worth 3 credits."
+  },
+  {
+    "instruction": "What are the prerequisites for Final Year Design Project (part 3 of 3) (EEE 400C)?",
+    "context": "",
+    "response": "The prerequisites for Final Year Design Project (part 3 of 3) (EEE 400C) are: EEE 400B."
+  },
+  {
+    "instruction": "Which category does Final Year Design Project (part 3 of 3) (EEE 400C) belong to?",
+    "context": "",
+    "response": "Final Year Design Project (part 3 of 3) (EEE 400C) falls under the 'Capstone' category."
+  },
+  {
+    "instruction": "What program does the EEE department offer at EWU?",
+    "context": "",
+    "response": "The Electrical and Electronic Engineering (EEE) department offers a Bachelor of Science (B.Sc.) degree in EEE. The program is designed to provide a solid foundation in electrical and electronic engineering concepts along with practical applications."
+  },
+  {
+    "instruction": "How many total credits are required to complete the B.Sc. in EEE?",
+    "context": "",
+    "response": "To graduate with a B.Sc. in Electrical and Electronic Engineering, students must complete a total of 140 credits, which include general education courses, core courses, electives, and the final year design project."
+  },
+  {
+    "instruction": "How many credits are dedicated to general education in the EEE program?",
+    "context": "",
+    "response": "The B.Sc. in EEE program requires 21 credits of general education courses, which provide a broad foundation in essential subjects outside the core engineering curriculum."
+  },
+  {
+    "instruction": "What is the credit distribution for core courses in the EEE program?",
+    "context": "",
+    "response": "The core requirement for the B.Sc. in EEE is 93 credits. These courses cover fundamental and advanced topics in electrical and electronic engineering, forming the backbone of the program."
+  },
+  {
+    "instruction": "How many elective credits are needed in the EEE program?",
+    "context": "",
+    "response": "Students in the B.Sc. in EEE program must complete 20 credits of elective courses. These electives allow students to explore areas of interest and specialize in specific fields within electrical and electronic engineering."
+  },
+  {
+    "instruction": "What is the credit value of the final year design project in EEE?",
+    "context": "",
+    "response": "The final year design project in the B.Sc. in EEE program carries 6 credits. This project provides hands-on experience, allowing students to apply their knowledge to real-world engineering problems."
+  },
+  {
+    "instruction": "Can you explain the structure of the B.Sc. in EEE program?",
+    "context": "",
+    "response": "The B.Sc. in EEE program at EWU is structured into four main components: 1) 21 credits of general education courses, 2) 93 credits of core electrical and electronic engineering courses, 3) 20 credits of electives for specialization and interest, and 4) a 6-credit final year design project to apply practical knowledge. The total program requires 140 credits to graduate."
+  },
+  {
+    "instruction": "What is the purpose of the final year design project in the EEE program?",
+    "context": "",
+    "response": "The final year design project in the B.Sc. in EEE program is intended to provide students with practical, hands-on experience. It allows them to apply theoretical knowledge from their coursework to real-world engineering challenges and develop problem-solving and project management skills."
+  },
+  {
+    "instruction": "Are electives optional in the B.Sc. in EEE program at EWU?",
+    "context": "",
+    "response": "While students have flexibility in choosing electives, completing 20 credits of elective courses is a mandatory requirement for graduation. Electives help students tailor their learning to specific interests within the field of electrical and electronic engineering."
+  }
+]

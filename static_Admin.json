@@ -1,0 +1,1317 @@
+{
+    "Admin Office": {
+    "Office of the Chairperson, BoT": [
+      {
+        "name": "Professor Dr. Mohammed Farashuddin",
+        "title": "Chairperson, Board of Trustees, EWU",
+        "phd": "Boston University",
+        "ma": "Boston University, University of Dhaka",
+        "ext": "09666775577"
+      },
+      {
+        "name": "A.K.M. Saiful Azad",
+        "title": "Secretary to the Board of Trustees, EWU",
+        "ext": "205",
+        "email": "azad@ewubd.edu"
+      },
+      {
+        "name": "Md. Shahriar Hasan Khan",
+        "title": "PS to Chairperson, Board of Trustees",
+        "ext": "251",
+        "room_no": "611",
+        "email": "shahriar_hasan@ewubd.edu"
+      }
+    ],
+    "Office of the Vice Chancellor": [
+      {
+        "name": "Professor Shams Rahman",
+        "title": "Vice Chancellor",
+        "ext": "09666775577",
+        "email": "vc@ewubd.edu"
+      },
+      {
+        "name": "Rozina Parvin",
+        "title": "Joint Chief, Admin & Logistics (PS to Vice Chancellor)",
+        "ext": "250",
+        "email": "rozina@ewubd.edu"
+      },
+      {
+        "name": "Md. Mohiuddin",
+        "title": "Public Relations Officer",
+        "ext": "223",
+        "email": "pro@ewubd.edu"
+      },
+      {
+        "name": "Sumaita Shaira Hasan",
+        "title": "Administrative Executive",
+        "ext": "601",
+        "room_no": "510",
+        "email": "sumaita.hasan@ewubd.edu"
+      }
+    ],
+    "Office of the Pro Vice Chancellor": [
+      {
+        "name": "Professor Dr. Mohammad Ashik Mosaddik",
+        "title": "Pro-Vice Chancellor",
+        "room_no": "512",
+        "email": "pro-vc@ewubd.edu"
+      },
+      {
+        "name": "Shahla Sharmin",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "215",
+        "room_no": "511",
+        "email": "shahla@ewubd.edu"
+      }
+    ],
+    "Office of the Treasurer": [
+      {
+        "name": "Air Cdre (Retd) Ishfaq Ilahi Choudhury",
+        "title": "Treasurer",
+        "ext": "09666775577, 113",
+        "email": "treasurer@ewubd.edu"
+      },
+      {
+        "name": "Nazmun Akhtar Sultana",
+        "title": "PS to Treasurer (Deputy Registrar)",
+        "ext": "332",
+        "email": "nazmun@ewubd.edu"
+      }
+    ],
+    "Dean's Office": [
+      {
+        "name": "Dr. Anup Chowdhury",
+        "title": "Dean, Faculty of Business and Economics",
+        "ext": "326",
+        "room_no": "425, Main Building",
+        "email": "anup@ewubd.edu"
+      },
+      {
+        "name": "Dr. Farzana Akhter",
+        "title": "Dean, Faculty of Liberal Arts and Social Sciences",
+        "ext": "335/134",
+        "room_no": "120/233",
+        "email": "farzana@ewubd.edu"
+      },
+      {
+        "name": "Dr. Ahmed Wasif Reza",
+        "title": "Dean, FSE and Additional Director, Quality Assurance, IQAC",
+        "ext": "394",
+        "room_no": "646",
+        "email": "wasif@ewubd.edu"
+      },
+      {
+        "name": "Ms. Farzana Haque",
+        "title": "Assistant Procurement Officer",
+        "ext": "401",
+        "email": "farzana.haque@ewubd.edu"
+      }
+    ],
+    "Office of the Registrar": [
+      {
+        "name": "Mashfiqur Rahman",
+        "title": "Registrar",
+        "ext": "242",
+        "email": "registrar@ewubd.edu"
+      },
+      {
+        "name": "Dil Afroze",
+        "title": "Joint Registrar",
+        "ext": "281",
+        "email": "dilafroze@ewubd.edu"
+      },
+      {
+        "name": "Md. Nurul Islam",
+        "title": "Joint Registrar, Admission",
+        "ext": "234",
+        "email": "nislam@ewubd.edu"
+      },
+      {
+        "name": "Md. Hafijur Rahman",
+        "title": "Joint Registrar, Registration",
+        "ext": "230",
+        "email": "hafiz@ewubd.edu"
+      },
+      {
+        "name": "Md. Sanaul Kabir",
+        "title": "Deputy Registrar",
+        "ext": "192",
+        "email": "sanaul@ewubd.edu"
+      },
+      {
+        "name": "Saiful Islam",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "155",
+        "email": "saiful@ewubd.edu"
+      },
+      {
+        "name": "Mohi Uddin",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "305",
+        "email": "mohiuddin@ewubd.edu"
+      },
+      {
+        "name": "Habibur Rahman",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "506",
+        "email": "habib@ewubd.edu"
+      },
+      {
+        "name": "Nasiba Afrin",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "236",
+        "email": "nasiba@ewubd.edu"
+      },
+      {
+        "name": "Md. Abdur Rashid",
+        "title": "Departmental Officer",
+        "ext": "312",
+        "email": "rashid@ewubd.edu"
+      },
+      {
+        "name": "Ms. Farzana Alam Nupur",
+        "title": "Departmental Officer",
+        "ext": "380",
+        "room_no": "410",
+        "email": "farzana.nupur@ewubd.edu"
+      },
+      {
+        "name": "Hasibur Rahman",
+        "title": "Departmental Officer (Registration)",
+        "ext": "263",
+        "room_no": "410",
+        "email": "hasib.sau@ewubd.edu"
+      }
+    ],
+    "Office of the Proctor": [
+      {
+        "name": "Dr. Anisur Rahman",
+        "title": "Proctor, EWU",
+        "position": "Associate Professor",
+        "department": "Department of Computer Science & Engineering",
+        "ext": "256",
+        "room_no": "629",
+        "email": "anis@ewubd.edu"
+      },
+      {
+        "name": "Dr. Salma Akter",
+        "title": "Assistant Proctor, EWU",
+        "position": "Associate Professor, Dept. of BA",
+        "ext": "158",
+        "room_no": "522",
+        "email": "drsalma@ewubd.edu"
+      },
+      {
+        "name": "Dr. Shawkat Md Aminul Islam",
+        "title": "Assistant Proctor, EWU",
+        "position": "Asstt. Professor, Dept. of Pharm.",
+        "ext": "373",
+        "room_no": "722",
+        "email": "dsislam@ewubd.edu"
+      },
+      {
+        "name": "Dr. Farzana Sharmin Pamela Islam",
+        "title": "Asstt. Proctor, EWU",
+        "position": "Associate Professor, Dept. of English",
+        "ext": "304",
+        "room_no": "245",
+        "email": "farzanasp@ewubd.edu"
+      },
+      {
+        "name": "Dr. Rasel Hussain",
+        "title": "Assistant Proctor, EWU",
+        "position": "Assistant Professor, Dept. of Sociology",
+        "ext": "313",
+        "room_no": "703",
+        "email": "raseldu1971@ewubd.edu"
+      },
+      {
+        "name": "Bushra Humyra Esha",
+        "title": "Assistant Proctor, EWU",
+        "position": "Senior Lecturer, Dept. of BA",
+        "ext": "300",
+        "room_no": "516",
+        "email": "esha_bushra@ewubd.edu"
+      },
+      {
+        "name": "Hasibur Rahman",
+        "title": "Departmental Officer",
+        "ext": "404",
+        "room_no": "362",
+        "email": "hasibur.rahman@ewubd.edu"
+      }
+    ],
+    "Library Personnel": [
+      {
+        "name": "Professor Dr. Dilara Begum",
+        "title": "Chairperson, Department of Information Studies & Librarian (In-Charge)",
+        "ext": "235",
+        "email": "dilara.lab@gmail.com"
+      },
+      {
+        "name": "Mohammed Motiur Rahman",
+        "title": "Deputy Librarian",
+        "ext": "265",
+        "email": "rahman@ewubd.edu"
+      },
+      {
+        "name": "Ms. Shahin Akhtar",
+        "title": "Deputy Registrar",
+        "ext": "187",
+        "email": "shahin@ewubd.edu"
+      },
+      {
+        "name": "Md. Shawkat Ali",
+        "title": "Senior Assistant Librarian",
+        "ext": "485",
+        "email": "shawkat@ewubd.edu"
+      },
+      {
+        "name": "Shaharima Parvin",
+        "title": "Senior Assistant Librarian",
+        "ext": "353",
+        "email": "shaharima@ewubd.edu"
+      },
+      {
+        "name": "M. Abdul Gani",
+        "title": "Senior Assistant Librarian",
+        "ext": "210",
+        "email": "gani@ewubd.edu"
+      },
+      {
+        "name": "Afrin Sultana",
+        "title": "Senior Assistant Librarian",
+        "ext": "269",
+        "email": "afrin@ewubd.edu"
+      },
+      {
+        "name": "Md. Sagar Shahanawaz",
+        "title": "Senior Assistant Librarian",
+        "ext": "210",
+        "email": "sagar@ewubd.edu"
+      },
+      {
+        "name": "Ms. Saifun Momota",
+        "title": "Senior Assistant Librarian",
+        "ext": "210",
+        "email": "saifun@ewubd.edu"
+      },
+      {
+        "name": "Md. Abdul Latif",
+        "title": "Assistant Librarian",
+        "ext": "210",
+        "email": "latif.ru@ewubd.edu"
+      },
+      {
+        "name": "Nur Mohammed Golam Newaz",
+        "title": "Assistant Librarian",
+        "ext": "210",
+        "email": "newaz@ewubd.edu"
+      },
+      {
+        "name": "Md. Sariful Islam",
+        "title": "Library Circulation Officer",
+        "ext": "210",
+        "email": "sariful@ewubd.edu"
+      },
+      {
+        "name": "Md. Muktadir Rahman",
+        "title": "Library Circulation Officer",
+        "ext": "210",
+        "email": "muktadir.rahman@ewubd.edu"
+      },
+      {
+        "name": "Jannatul Islam Muna",
+        "title": "Library Circulation Officer",
+        "ext": "210",
+        "email": "jannatul.muna@ewubd.edu"
+      }
+    ],
+    "Office of the Director of Finance": [
+      {
+        "name": "Md. Touhidul Islam, FCA",
+        "title": "Director of Finance",
+        "ext": "231",
+        "room_no": "314",
+        "email": "touhid@ewubd.edu"
+      },
+      {
+        "name": "S. M. Mearaj Hossain",
+        "title": "Deputy Finance Controller",
+        "ext": "122",
+        "email": "meraj@ewubd.edu"
+      },
+      {
+        "name": "A.K.M. Abul Basher Khan",
+        "title": "Accounts Manager",
+        "ext": "232",
+        "email": "basher@ewubd.edu"
+      },
+      {
+        "name": "Md. Jahangir Alam",
+        "title": "Assistant Accounts Manager",
+        "ext": "118",
+        "email": "jahangir@ewubd.edu"
+      },
+      {
+        "name": "Md. Abdul Kadir",
+        "title": "Assistant Accounts Manager",
+        "ext": "224",
+        "email": "kadir@ewubd.edu"
+      },
+      {
+        "name": "Shamima Yesmin",
+        "title": "Assistant Accounts Manager",
+        "ext": "603",
+        "room_no": "202",
+        "email": "shamima.yesmin@ewubd.edu"
+      },
+      {
+        "name": "Nasir Uddin",
+        "title": "Senior Accounts Officer",
+        "ext": "366",
+        "email": "nasir@ewubd.edu"
+      },
+      {
+        "name": "Sampa Talukder",
+        "title": "Senior Accounts Officer",
+        "ext": "130",
+        "email": "sampa@ewubd.edu"
+      },
+      {
+        "name": "Nasrin Umme Ferdous",
+        "title": "Accounts Officer",
+        "ext": "365",
+        "room_no": "202",
+        "email": "ferdous@ewubd.edu"
+      }
+    ],
+    "Office of the Controller of Examination": [
+      {
+        "name": "Farida Yasmin",
+        "title": "Controller of Examinations",
+        "ext": "341",
+        "email": "fyasmin@ewubd.edu"
+      },
+      {
+        "name": "Mohammad Mamun Miah",
+        "title": "Senior Assistant Controller of the Examinations",
+        "ext": "368",
+        "email": "mamunmia@ewubd.edu"
+      },
+      {
+        "name": "A.K.M. Mahbub-Ul Islam",
+        "title": "Assistant Registrar",
+        "ext": "369",
+        "email": "mahbub@ewubd.edu"
+      },
+      {
+        "name": "Jamal Hossain",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "418",
+        "email": "jamal@ewubd.edu"
+      },
+      {
+        "name": "Md. Habib Ullah",
+        "title": "Examinations Officer",
+        "ext": "507",
+        "room_no": "309",
+        "email": "habib.limon@ewubd.edu"
+      }
+    ],
+    "Office of the HR and Logistics": [
+      {
+        "name": "Md. Jahangir Alam Khan",
+        "title": "Chief, HR & Logistics",
+        "ext": "203",
+        "room_no": "502",
+        "email": "jakhan@ewubd.edu"
+      },
+      {
+        "name": "Md. Abidur Rahman Khan",
+        "title": "Joint Chief of Admin, Logistics & Protocol",
+        "ext": "243",
+        "email": "abid@ewubd.edu"
+      },
+      {
+        "name": "Md. Shafiqul Islam",
+        "title": "Joint Registrar, HR & Admin",
+        "ext": "202",
+        "email": "shafiq@ewubd.edu"
+      },
+      {
+        "name": "S.M.Rahat Shahan Shah",
+        "title": "Deputy Chief, Admin & Logistics",
+        "ext": "233",
+        "email": "shahan@ewubd.edu"
+      },
+      {
+        "name": "Md. Zahidul Islam",
+        "title": "Asst. Chief, Admin & Logistic",
+        "ext": "238",
+        "email": "zisajol@ewubd.edu"
+      },
+      {
+        "name": "Md. Rashidul Hasan Khan",
+        "title": "Assistant Chief, Admin & Logistics (S & HK)",
+        "ext": "393",
+        "room_no": "264",
+        "email": "rashed@ewubd.edu"
+      },
+      {
+        "name": "Mohammad Fariduzzaman",
+        "title": "Assistant Chief, Admin & Logistics",
+        "ext": "273",
+        "email": "farid@ewubd.edu"
+      },
+      {
+        "name": "Jubair Alam",
+        "title": "Assistant Chief, Admin & Logistics (Junior)",
+        "ext": "129",
+        "email": "jubair@ewubd.edu"
+      },
+      {
+        "name": "Patit Paban Seal",
+        "title": "Assistant Chief (Junior), Admin & Logistics",
+        "ext": "227",
+        "email": "paban@ewubd.edu"
+      },
+      {
+        "name": "Mahzabeen Iqbal",
+        "title": "Assistant Chief (Junior), Admin & Logistics",
+        "ext": "271",
+        "email": "mahzabeen@ewubd.edu"
+      },
+      {
+        "name": "Ahmed Rassel",
+        "title": "Assistant Registrar (Junior)",
+        "ext": "500",
+        "room_no": "Front Desk Office",
+        "email": "ahmedrassel@ewubd.edu"
+      },
+      {
+        "name": "Tahmina Rahman",
+        "title": "Senior Departmental Officer",
+        "ext": "334",
+        "email": "trahman@ewubd.edu"
+      },
+      {
+        "name": "Ranjan Banik",
+        "title": "Senior Departmental Officer",
+        "ext": "289",
+        "email": "rnjnbanik@ewubd.edu"
+      },
+      {
+        "name": "Sarawat Mahgabin Shetu",
+        "title": "Administrative Officer",
+        "ext": "379",
+        "email": "sarawat@ewubd.edu"
+      },
+      {
+        "name": "Abul Kalam Azad",
+        "title": "Administrative Officer",
+        "ext": "539",
+        "email": "akazad@ewubd.edu"
+      },
+      {
+        "name": "Nasir Uddin Nipu",
+        "title": "Departmental Officer",
+        "ext": "103",
+        "room_no": "507",
+        "email": "nasiru.nipu@ewubd.edu"
+      },
+      {
+        "name": "Yeasmin Akter",
+        "title": "Assistant Front Desk Officer",
+        "ext": "400",
+        "email": "shanta@ewubd.edu"
+      }
+    ],
+    "Information and Communication Services": [
+      {
+        "name": "Fahima Khanam",
+        "title": "Deputy Chief Technology Officer (DCTO) and Head, Dept. of Information and Communication Services",
+        "ext": "222",
+        "room_no": "401",
+        "email": "fahima.khanam@ewubd.edu"
+      },
+      {
+        "name": "Md. Abdul Motin",
+        "title": "Senior Software Engineer",
+        "ext": "287",
+        "room_no": "403",
+        "email": "amotin@ewubd.edu"
+      },
+      {
+        "name": "Md. Abu Musa",
+        "title": "Deputy Systems Manager",
+        "ext": "102",
+        "room_no": "403",
+        "email": "musa@ewubd.edu"
+      },
+      {
+        "name": "Md. Amirul Islam Masum",
+        "title": "Deputy Systems Manager",
+        "ext": "150",
+        "room_no": "404",
+        "email": "masum@ewubd.edu"
+      },
+      {
+        "name": "Md. Moshiur Rahman Joarder",
+        "title": "Deputy Systems Manager",
+        "ext": "278",
+        "room_no": "530",
+        "email": "moshiur@ewubd.edu"
+      },
+      {
+        "name": "Mohammad Masum Billah",
+        "title": "Deputy Systems Manager",
+        "ext": "111",
+        "room_no": "404",
+        "email": "mbillah@ewubd.edu"
+      },
+      {
+        "name": "Saber Ahmed",
+        "title": "Deputy Systems Manager",
+        "ext": "272",
+        "email": "saber@ewubd.edu"
+      },
+      {
+        "name": "Md. Safiqul Islam",
+        "title": "Assistant Systems Manager",
+        "ext": "121",
+        "room_no": "404",
+        "email": "safi@ewubd.edu"
+      },
+      {
+        "name": "Md. Mohsin Hossain",
+        "title": "Assistant Systems Manager",
+        "ext": "333",
+        "room_no": "402",
+        "email": "mohsin@ewubd.edu"
+      },
+      {
+        "name": "Md. Mahfuz Alam",
+        "title": "Assistant Systems Manager",
+        "ext": "109",
+        "room_no": "402",
+        "email": "mahfuz@ewubd.edu"
+      },
+      {
+        "name": "A.H. Bazluzzaman",
+        "title": "Assistant Systems Manager",
+        "ext": "244",
+        "room_no": "FUB - 704",
+        "email": "bazlu@ewubd.edu"
+      },
+      {
+        "name": "Md. Jabid Iqbal",
+        "title": "Assistant Systems Manager (Junior)",
+        "ext": "139",
+        "room_no": "402",
+        "email": "jabid@ewubd.edu"
+      },
+      {
+        "name": "Md. Reazul Hasan",
+        "title": "Programmer",
+        "ext": "201",
+        "room_no": "365",
+        "email": "reazul.hasan@ewubd.edu"
+      },
+      {
+        "name": "Ms. Rafia Rahman Sumi",
+        "title": "Senior ICS Officer",
+        "ext": "280",
+        "room_no": "616",
+        "email": "rafia@ewubd.edu"
+      },
+      {
+        "name": "Md. Humayun Kabir Mia",
+        "title": "Senior ICS Officer",
+        "ext": "170",
+        "room_no": "402",
+        "email": "humayun_2050@ewubd.edu"
+      },
+      {
+        "name": "Md. Tareque Musa",
+        "title": "Senior ICS Officer",
+        "ext": "108",
+        "room_no": "534",
+        "email": "tareque@ewubd.edu"
+      },
+      {
+        "name": "Md. Shohidul Islam",
+        "title": "Senior ICS Officer",
+        "ext": "123",
+        "room_no": "616",
+        "email": "shohidul@ewubd.edu"
+      },
+      {
+        "name": "Md Ragib Shahriar",
+        "title": "Assistant Programmer",
+        "ext": "239",
+        "room_no": "365",
+        "email": "ragib.shahriar@ewubd.edu"
+      },
+      {
+        "name": "Md. Khaled Musharof",
+        "title": "ICS Officer",
+        "ext": "177",
+        "room_no": "616",
+        "email": "net.musha@ewubd.edu"
+      },
+      {
+        "name": "Md. Adnan Shahriar",
+        "title": "Business Analyst cum Software Quality Analyst",
+        "ext": "128",
+        "room_no": "365",
+        "email": "adnan@ewubd.edu"
+      },
+      {
+        "name": "Sureya Akter",
+        "title": "ICS Officer",
+        "ext": "555",
+        "room_no": "616",
+        "email": "sureya.akter@ewubd.edu"
+      }
+    ],
+    "Office of the Internal Auditor": [
+      {
+        "name": "Dipak Kumar Roy",
+        "title": "Chief of Internal Audit Unit (CIAU)",
+        "ext": "138",
+        "email": "dipak.roy@ewubd.edu"
+      }
+    ],
+    "Engineering and Maintenance Department (EMD)": [
+      {
+        "name": "A K M Maniruzzaman",
+        "title": "Chief Engineer",
+        "ext": "347",
+        "room_no": "203",
+        "email": "maniruzzaman@ewubd.edu"
+      },
+      {
+        "name": "Md. Sahab Ali",
+        "title": "University Engineer (Mechanical)",
+        "email": "sahab.ali@ewubd.edu"
+      },
+      {
+        "name": "Md. Anisur Rahman",
+        "title": "Senior Assistant Engineer (Mechanical)",
+        "ext": "247",
+        "room_no": "EMD#03",
+        "email": "ar@ewubd.edu"
+      },
+      {
+        "name": "Md. Rafiqul Islam",
+        "title": "Senior Assistant Engineer (Electrical)",
+        "ext": "248",
+        "room_no": "EMD#06",
+        "email": "rafique@ewubd.edu"
+      },
+      {
+        "name": "Shoriful Islam",
+        "title": "Assistant Engineer (Civil)",
+        "ext": "479",
+        "room_no": "EMD# 04",
+        "email": "shoriful.islam@ewubd.edu"
+      },
+      {
+        "name": "Mamunur Rashid",
+        "title": "Sub Assistant Engineer (Mechanical)",
+        "ext": "378",
+        "room_no": "LB 1",
+        "email": "mrmamun@ewubd.edu"
+      },
+      {
+        "name": "Md. Rakib Hassan",
+        "title": "Sub-Assistant Engineer (Electrical)",
+        "ext": "375",
+        "room_no": "FUB-102",
+        "email": "rakib.hassan@ewubd.edu"
+      },
+      {
+        "name": "Tushar Haldar",
+        "title": "Sub-Assistant Engineer (Civil)",
+        "ext": "306",
+        "room_no": "371",
+        "email": "tushar.haldar@ewubd.edu"
+      },
+      {
+        "name": "Md. Arif Hossain",
+        "title": "Sub-Assistant Engineer (Civil)",
+        "room_no": "371",
+        "email": "arif.hossain@ewubd.edu"
+      },
+      {
+        "name": "Md. Towkir Ahmed Tuser",
+        "title": "Sub-Assistant Engineer (Video & Audio)",
+        "ext": "583/420",
+        "room_no": "FUB-102",
+        "email": "towkir.tuser@ewubd.edu"
+      }
+    ],
+    "EWU Medical Centre": [
+      {
+        "name": "Dr. Mohammad Azam Khan",
+        "title": "Senior Medical Officer",
+        "email": "azam.khan@ewubd.edu"
+      },
+      {
+        "name": "Dr.Farida Begum",
+        "title": "Sr. Medical Officer",
+        "ext": "285",
+        "email": "dr.farida@ewubd.edu"
+      },
+      {
+        "name": "Champa Perera",
+        "title": "Sr. Staff Nurse",
+        "ext": "285",
+        "email": "champa@ewubd.edu"
+      }
+    ],
+    "Office of the Student’s Welfare": [
+      {
+        "name": "Ismat Shereen",
+        "title": "Advisor, Students’ Welfare and Head, Career Counseling Center",
+        "ext": "220",
+        "room_no": "301",
+        "email": "ishereen@ewubd.edu"
+      },
+      {
+        "name": "Tonima Hamid",
+        "title": "Deputy Head, Career Counselling Center and Co-Ordinator, Emergence of Bangladesh Program",
+        "ext": "554",
+        "room_no": "304",
+        "email": "tonima.hamid@ewubd.edu"
+      },
+      {
+        "name": "Md. Abu Syeed",
+        "title": "Joint Registrar",
+        "ext": "110",
+        "email": "syeed@ewubd.edu"
+      },
+      {
+        "name": "Mirza Ahsanul Hossain",
+        "title": "Deputy Director",
+        "ext": "246",
+        "room_no": "301",
+        "email": "mirza.hossain@ewubd.edu"
+      },
+      {
+        "name": "Farhana Rahman",
+        "title": "Assistant Registrar",
+        "ext": "292",
+        "email": "swd@ewubd.edu"
+      }
+    ],
+    "Department of Media Communications and International Affairs": [
+      {
+        "name": "Mohammad Moniruzzaman",
+        "title": "Content Manager",
+        "ext": "598",
+        "room_no": "415",
+        "email": "m.zaman@ewubd.edu"
+      }
+    ]
+  },
+  "Department Administrative official": {
+    "Faculty of Sciences and Engineering": {
+      "CSE Administrative Officials": [
+        {
+          "name": "Sk. Habibur Rahman",
+          "title": "Assistant Registrar (Junior)",
+          "ext": "206",
+          "email": "habib27@ewubd.edu"
+        },
+        {
+          "name": "Monirul Islam",
+          "title": "Senior Lab Officer (Software Engineering Lab)",
+          "ext": "259",
+          "email": "kochi@ewubd.edu"
+        },
+        {
+          "name": "Md. Ali Asgar",
+          "title": "Senior Lab Officer",
+          "ext": "145",
+          "email": "ali.asgar@ewubd.edu"
+        },
+        {
+          "name": "Md. Ishtiak Chowdhury",
+          "title": "Senior Lab Officer (A.I. Lab)",
+          "ext": "594",
+          "email": "ishtiak.cse@ewubd.edu"
+        },
+        {
+          "name": "Md. Sohel Rana",
+          "title": "Lab Officer (Database Lab)",
+          "ext": "492",
+          "email": "sohelcse@ewubd.edu"
+        },
+        {
+          "name": "Md. Shaif Anam",
+          "title": "Lab Officer (Digital Systems Lab)",
+          "ext": "266",
+          "email": "shaif.anam@ewubd.edu"
+        },
+        {
+          "name": "Md. Hasan Mahmud",
+          "title": "Lab Officer (Big Data Analytics Lab)",
+          "ext": "502",
+          "email": "mdhasan.mahmud@ewubd.edu"
+        },
+        {
+          "name": "Abu Sayem Arman",
+          "title": "Lab Officer (Cyber Security Lab)",
+          "ext": "498",
+          "email": "sayem.arman@ewubd.edu"
+        },
+        {
+          "name": "Abir Mridha",
+          "title": "Lab Officer (Virtual Reality and Augmented Reality Lab)",
+          "email": "abir.mridha@ewubd.edu"
+        },
+        {
+          "name": "Ahsan Ahmed",
+          "title": "Departmental Officer",
+          "ext": "219",
+          "email": "ahsan.ahmed@ewubd.edu"
+        },
+        {
+          "name": "Shitol Chandro Sarker",
+          "title": "Lab Officer",
+          "ext": "595",
+          "email": "shitol.sarker@ewubd.edu"
+        },
+        {
+          "name": "Md. Imran Hossain",
+          "title": "Lab Officer",
+          "ext": "597",
+          "email": "imran.hossain@ewubd.edu"
+        }
+      ],
+      "EEE Administrative Officials": [
+        {
+          "name": "Md. Anamul Hoque",
+          "title": "Deputy Registrar",
+          "ext": "228",
+          "email": "anam@ewubd.edu"
+        },
+        {
+          "name": "Md. Moinur Rahman",
+          "title": "Senior Lab Officer",
+          "ext": "245",
+          "email": "moin@ewubd.edu"
+        },
+        {
+          "name": "Md. Anwarul Kabir",
+          "title": "Senior Lab Officer",
+          "ext": "148",
+          "email": "kabir@ewubd.edu"
+        },
+        {
+          "name": "Md. Uzzal Hossain",
+          "title": "Senior Lab Officer",
+          "ext": "199",
+          "email": "muzzal@ewubd.edu"
+        },
+        {
+          "name": "Md. Mostafizar Rahman",
+          "title": "Lab Officer",
+          "ext": "463",
+          "email": "mdmostafizar.rahman@ewubd.edu"
+        }
+      ],
+      "GEB Administrative Officials": [
+        {
+          "name": "Proteeti Purna",
+          "title": "Senior Departmental Officer",
+          "ext": "359",
+          "email": "proteeti@ewubd.edu"
+        },
+        {
+          "name": "Prashanta Chakraborty",
+          "title": "Lab Officer (GEB Lab)",
+          "email": "prashanta.chakraborty@ewubd.edu"
+        },
+        {
+          "name": "Musharrat Jahan Prima",
+          "title": "Lab Officer (GEB Lab)",
+          "ext": "464",
+          "email": "musharrat.prima@ewubd.edu"
+        }
+      ],
+      "Pharmacy Administrative Officials": [
+        {
+          "name": "Razia Sultana",
+          "title": "Assistant Manager (Lab.)",
+          "ext": "344",
+          "email": "razia@ewubd.edu"
+        },
+        {
+          "name": "Ajoy Roy",
+          "title": "Assistant Manager (Lab.)",
+          "ext": "343",
+          "email": "ajoyroy@ewubd.edu"
+        },
+        {
+          "name": "Sipra Biswas",
+          "title": "Assistant Manager (Lab.)",
+          "ext": "356",
+          "email": "sipra@ewubd.edu"
+        },
+        {
+          "name": "Mohammad Emtiaz Hasan",
+          "title": "Lab Officer",
+          "ext": "159",
+          "email": "emtiaz@ewubd.edu"
+        },
+        {
+          "name": "Saraf Anjum",
+          "title": "Departmental Officer",
+          "ext": "212",
+          "email": "saraf.anjum@ewubd.edu"
+        },
+        {
+          "name": "Shoheba Akter",
+          "title": "Lab Officer",
+          "ext": "345",
+          "email": "shoheba.akter@ewubd.edu"
+        },
+        {
+          "name": "Md. Abdul Hamim",
+          "title": "Lab Officer",
+          "ext": "346",
+          "email": "abdul.hamim@ewubd.edu"
+        },
+        {
+          "name": "Sukonna Das",
+          "title": "Lab Officer",
+          "ext": "470",
+          "email": "sukonna.das@ewubd.edu"
+        }
+      ],
+      "Civil Administrative Officials": [
+        {
+          "name": "Sadia Afrin",
+          "title": "Departmental Officer",
+          "ext": "431",
+          "email": "sadia.cu@ewubd.edu"
+        },
+        {
+          "name": "Engr. Khondaker Azizul Hakim",
+          "title": "Lab Officer",
+          "ext": "520",
+          "email": "khondaker.hakim@ewubd.edu"
+        },
+        {
+          "name": "Chandra Shekhor Mondal",
+          "title": "Lab Officer",
+          "ext": "523",
+          "email": "chandra.mondol@ewubd.edu"
+        },
+        {
+          "name": "Md. Arafatuzzaman",
+          "title": "Lab Officer",
+          "ext": "521",
+          "email": "md.arafatuzzaman@ewubd.edu"
+        },
+        {
+          "name": "Md. Mustafizur Rahman",
+          "title": "Lab Officer",
+          "ext": "486",
+          "email": "mdmustafizur.rahman@ewubd.edu"
+        }
+      ],
+      "Mathematical and Physical Sciences Administrative Officials": [
+        {
+          "name": "Md. Nazrul Islam",
+          "title": "Joint Registrar",
+          "ext": "422",
+          "email": "nazrul@ewubd.edu"
+        }
+      ]
+    },
+    "Faculty of Liberal Arts and Social Sciences": {
+      "English Department Administrative Officials": [
+        {
+          "name": "Md. Jasim Uddin",
+          "title": "Assistant Registrar",
+          "ext": "207",
+          "email": "jasimds@ewubd.edu"
+        },
+        {
+          "name": "Md. Akul Sheikh",
+          "title": "Departmental Officer",
+          "ext": "316",
+          "email": "akul.sheikh@ewubd.edu"
+        }
+      ],
+      "Law Department Administrative Officials": [
+        {
+          "name": "Md. Taj Al Rahit",
+          "title": "Departmental Officer",
+          "ext": "425",
+          "email": "taj.rahit@ewubd.edu"
+        }
+      ],
+      "Social Relations Administrative Officials": [
+        {
+          "name": "Md. Jakaria Habib",
+          "title": "Deputy Registrar",
+          "ext": "153",
+          "email": "jhabib@ewubd.edu"
+        },
+        {
+          "name": "Fariha Binte Anwar",
+          "title": "Departmental Officer",
+          "email": "fariha.anwar@ewubd.edu"
+        }
+      ],
+      "Information Studies and Library Management Administrative Officials": [
+        {
+          "name": "Md. Kazal Hossain",
+          "title": "Lab Officer",
+          "ext": "441",
+          "email": "kazal.hossain@ewubd.edu"
+        },
+        {
+          "name": "Nusrat Jahan Muna",
+          "title": "Departmental Officer",
+          "ext": "426",
+          "email": "nusrat.muna@ewubd.edu"
+        }
+      ],
+      "Sociology Administrative Officials": [
+        {
+          "name": "Fatema Tanzina Tarin",
+          "title": "Departmental Officer",
+          "ext": "468",
+          "email": "fatema.tarin@ewubd.edu"
+        }
+      ]
+    },
+    "Faculty of Business and Economics": {
+      "Business Administration Administrative Officials": [
+        {
+          "name": "S.M. Rashad Iqbal Shovon",
+          "title": "Senior Departmental Officer",
+          "ext": "213",
+          "email": "shovon@ewubd.edu"
+        },
+        {
+          "name": "Khadiza Khatun",
+          "title": "Senior Departmental Officer",
+          "ext": "132",
+          "email": "k.khatun@ewubd.edu"
+        }
+      ],
+      "Economics Administrative Officials": [
+        {
+          "name": "Md. Tasim Uddin (Shamim)",
+          "title": "Deputy Registrar",
+          "ext": "209",
+          "email": "shamim@ewubd.edu"
+        }
+      ],
+      "MBA Administrative Officials": [
+        {
+          "name": "Asaduzzaman Asad",
+          "title": "Departmental Officer",
+          "ext": "240",
+          "email": "asaduzzaman.asad@ewubd.edu"
+        },
+        {
+          "name": "Anis Rahim Choudhury",
+          "title": "Registration Officer",
+          "ext": "361",
+          "email": "anisr.choudhury@ewubd.edu"
+        }
+      ]
+    }
+  },
+  "Center for Research and Training": [
+    {
+      "name": "Dr. Rafiqul Huda Chaudhury",
+      "title": "Chairperson",
+      "ext": "387",
+      "email": "rhchaudhury@ewubd.edu"
+    },
+    {
+      "name": "Dr. Md. Sohel Rana",
+      "title": "Executive Director",
+      "ext": "342",
+      "room_no": "207",
+      "email": "srana@ewubd.edu"
+    },
+    {
+      "name": "Aynun Nahar",
+      "title": "Senior Research Officer",
+      "ext": "164",
+      "email": "aynun@ewubd.edu"
+    },
+    {
+      "name": "Syeda Farzana Ahmed",
+      "title": "Deputy Registrar",
+      "ext": "387",
+      "room_no": "209",
+      "email": "s.farzana@ewubd.edu"
+    },
+    {
+      "name": "Riyad Khandaker",
+      "title": "Senior Lab Officer",
+      "ext": "452",
+      "room_no": "615",
+      "email": "riyad@ewubd.edu"
+    },
+    {
+      "name": "Saraf Wamia Ahmed",
+      "title": "Research Assistant",
+      "room_no": "207",
+      "email": "saraf.wamia@ewubd.edu"
+    }
+  ],
+  "Office of The IQAC": [
+    {
+      "name": "Dr. Ahmed Wasif Reza",
+      "title": "Dean, FSE and Additional Director, Quality Assurance, IQAC",
+      "ext": "394",
+      "room_no": "646",
+      "email": "wasif@ewubd.edu"
+    },
+    {
+      "name": "Dr. Basanta Kumar Barmon",
+      "title": "Additional Director, IQAC",
+      "ext": "112",
+      "room_no": "261",
+      "email": "bkbarmon@ewubd.edu"
+    },
+    {
+      "name": "Ummay Salma",
+      "title": "Assistant Chief (Junior), Admin & Logistics",
+      "ext": "391",
+      "room_no": "203",
+      "email": "u.salma@ewubd.edu"
+    },
+    {
+      "name": "Aminul Islam",
+      "title": "Accounts Officer",
+      "room_no": "203",
+      "email": "iaminul@ewubd.edu"
+    }
+  ],
+  "Authority": {
+    "Board of Trustees": {
+      "Chairperson": {
+        "name": "Professor Dr. Mohammed Farashuddin",
+        "title": "Chairperson, Board of Trustees, EWU",
+        "education": "Ph.D Boston University, MA(Double) Boston University, MA University of Dhaka",
+        "former_positions": [
+          "Founder President & Founder Vice Chancellor.",
+          "Chairperson, Department of Economics.",
+          "Former Governor, Bangladesh Bank.",
+          "Former Member, International Civil Service Commission."
+        ]
+      },
+      "Members": [
+        {
+          "name": "Mrs. Najma Ahmed",
+          "title": "Member, Board of Trustees, EWU"
+        },
+        {
+          "name": "Mr. Nowshad Shamsul Arefin",
+          "title": "Member, Board of Trustees, EWU"
+        },
+        {
+          "name": "Mr. Farooque B. Chaudhury",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "President, 99 Realty Company, LLC, Newyork, USA"
+        },
+        {
+          "name": "Dr. Rafiqul Huda Chaudhury",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Honorary Professor in Population Studies, Tribhuvan University, Nepal. Former UNFPA/ILO Regional Advisor and Research Director, Bangladesh Institute of Development Studies"
+        },
+        {
+          "name": "Ms. Kona Lasker Haque",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "MSc, London School of Economics, Head of Research at ED&F Man, UK. (Former Senior Commodities Economist at the Economist Intelligence Unit)"
+        },
+        {
+          "name": "Ms. Fariheen Haque, Pharm.D.",
+          "title": "Member, Board of Trustees, EWU"
+        },
+        {
+          "name": "Dr. Muhammad A. Mannan",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Former Director, South East Asia Department, Asian Development Bank Manila, The Philippines"
+        },
+        {
+          "name": "Ms. Munize Manzur",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Principal, Sunbeams"
+        },
+        {
+          "name": "Mr. Shelley A. Mubdi",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "99 Realty Co. LLC. 150-24, 86 Avenue, Briarwood N.Y. 11432-3308, USA"
+        },
+        {
+          "name": "Mr. Mansoor Mumin",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Proprietor, B Plastic Industries and Director, Surma Securities Holding Co. Ltd."
+        },
+        {
+          "name": "Mrs. Nurun Nahar Rahman",
+          "title": "Member, Board of Trustees, EWU"
+        },
+        {
+          "name": "Mr. Shareq Rahman",
+          "title": "Member, Board of Trustees, EWU"
+        },
+        {
+          "name": "Dr. Joy Samad",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Associate Professor of Social Sciences, American University of Iraq, Sulaimani (AUIS)"
+        },
+        {
+          "name": "Mr. Md. Nasser Shahrear Zahedee",
+          "title": "Member, Board of Trustees, EWU",
+          "additional_info": "Chairman, Radiant Pharmaceuticals Ltd."
+        }
+      ]
+    },
+    "Vice Chancellor": {
+      "name": "Professor Shams Rahman",
+      "title": "Vice Chancellor",
+      "address": "A/2, Jahurul Islam Avenue Jahurul Islam City | Aftabnagar Dhaka-1212 | Bangladesh",
+      "contact": "9666775577",
+      "email": "vc@ewubd.edu",
+      "message": "Welcome to East West University (EWU), where excellence is nurtured, pursued, and celebrated. I am proud to have become the Vice-chancellor of this university. From its establishment in 1996, over the years, EWU has increased many folds in every respect but there is no limit to improvements and advancement. As a Vice-Chancellor my foremost tasks is to find weaknesses we have as an institution and identify the challenges facing us. Once we shall identify those we can strive to overcome them and mark our place as the best academic institution in the country in the coming years. We really want to transform EWU into a university that will engage in making EWU as a lavish garden of knowledge, producing outstanding graduates and undertaking relevant research recognized nationally and internationally. I hope we shall be able to work on this journey of excellence, placing EWU among top-ranked universities. Our 9,000-plus students are engaged in more than 11 bachelor’s degree programs and 12 masters programs which foster curiosity, critical thinking, innovation, and professional skills. EWU’s academic and career opportunities are balanced with a campus lifestyle that is second-to-none among private universities in Bangladesh. EWU houses various sports, cultural, and social clubs to cater to the extra-curricular activities of the students. All of these elements – outstanding teaching, scholarships, support, flexibility and choice in programs and extra-curricular benefits – come together to create the EWU advantage. Whether you join us from across the campus, or from the other side of the world, I am proud to welcome you to our EWU Family. Never mind how many times you fail. Try Try again."
+    },
+    "Pro-Vice Chancellor": {
+      "name": "Professor Dr. Mohammad Ashik Mosaddik",
+      "title": "Pro-Vice Chancellor",
+      "address": "A/2, Jahurul Islam Avenue Jahurul Islam City | Aftabnagar Dhaka-1212 | Bangladesh",
+      "contact": "9666775577",
+      "email": "pro-vc@ewubd.edu",
+      "message": "Assalamu Alaikum. I am delighted and proud to be a part of the East West University family as its 8th Pro-Vice Chancellor. On behalf of East West University, I extend my heartfelt greetings to each and every member of our prestigious institute. I take this opportunity of welcoming all students to join the Permanent Sanad Holder East West University, a renowned university which has always been committed to providing a world-class education that nurtures creativity, critical thinking and holistic development. Our goal is to empower our students to become leaders and change-makers in their respective fields through research and active citizenship. In terms of credentials, the university has a history of achievements of about 27 years. As one the leading and top ranking university in Bangladesh by the Times Higher Education ranking system, EWU believe in the power of knowledge, diversity, and inclusivity. We encourage you to actively engage in the various extracurricular activities, clubs and organizations that our university offers. Embrace the opportunities to expand your horizons, make lifelong friendships, and develop essential soft skills that will shape our students future. The EWU has a dedicated team of qualified faculty and an equally sincere non-teaching staff caters to the requirements of the students. The academic atmosphere of the university generates a cordial and ambient feeling. This university also provides an e-learning and e-connect environment, along with document management system as well as virtual class rooms. Further, our Welfare and carrier counseling center, iconic Shahid Minar, modern auditorium and cafeteria, IQAC, Centre for research and training with state of art of labs fulfills the academic needs of the students. We undertake to provide financial assistance on merit and on the basis of needs so that middle class family can also able to afford at EWU. As scholarship, in every year EWU spend around 12 core taka for students. We are keen to attract talented, motivated students specially who care about society, ethics and the environment. Our commitment to research, technology, and community engagement ensures that our university remains at the forefront of academic and social progress in shaa Allah. Therefore, I invite you to explore our vibrant academic community, where curiosity knows no bounds, and where every individual is empowered to reach their full potential. Together, let us continue to build a legacy of excellence at East West University. We believe that we have the power to shape the future, for the better. Thank you for being a part of our exciting journey. Warm regards, Professor Dr. Mohammad Ashik Mosaddik"
+    },
+    "Treasurer": {
+      "name": "Air Cdre (Retd) Ishfaq Ilahi Choudhury",
+      "title": "Treasurer",
+      "address": "A/2, Jahurul Islam Avenue Jahurul Islam City | Aftabnagar Dhaka-1212 | Bangladesh",
+      "contact": "9666775577, ext-113",
+      "email": "treasurer@ewubd.edu",
+      "message": "East West University is a top ranking private university of Bangladesh in terms of quality of education and research and one of the few having approval of the Government to permanently establish and operate the university. EWU always strives to maintain high quality in teaching and research. The university is committed to providing an atmosphere conducive for productive learning and innovative thinking. We are proud to be a member of the EWU family. We warmly welcome support from every individual in our endeavor to make East West University a unique hub of excellence in education, research, training, and human advancement"
+    },
+    "Registrar": {
+      "name": "Mashfiqur Rahman",
+      "title": "Registrar",
+      "address": "A/2, Jahurul Islam Avenue Jahurul Islam City | Aftabnagar Dhaka-1212 | Bangladesh",
+      "contact": "9666775577, ext-242",
+      "email": "registrar@ewubd.edu"
+    }
+  }
+}
