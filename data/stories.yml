@@ -2,6 +2,10 @@ version: "3.1"
 
 stories:
 
+# ========================================
+# BASIC CONVERSATIONS
+# ========================================
+
 - story: happy path
   steps:
   - intent: greet
@@ -9,7 +13,7 @@ stories:
   - intent: mood_great
   - action: utter_happy
 
-- story: sad path 1
+- story: sad path - affirm
   steps:
   - intent: greet
   - action: utter_greet
@@ -17,9 +21,9 @@ stories:
   - action: utter_cheer_up
   - action: utter_did_that_help
   - intent: affirm
-  - action: utter_happy
+  - action: utter_great
 
-- story: sad path 2
+- story: sad path - deny
   steps:
   - intent: greet
   - action: utter_greet
@@ -27,76 +31,12 @@ stories:
   - action: utter_cheer_up
   - action: utter_did_that_help
   - intent: deny
-  - action: utter_default
-
-# Alternative story if you want the conversation to end after denial
-- story: sad path end conversation
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
-  - action: utter_default
+  - action: utter_sorry
   - intent: goodbye
   - action: utter_goodbye
-
-# Additional stories for better training coverage
-- story: direct question about location
-  steps:
-  - intent: location
-  - action: utter_location
-
-- story: direct question about tuition
-  steps:
-  - intent: tuition
-  - action: utter_tuition
-
-- story: ask about specific department
-  steps:
-  - intent: tuition_cse
-  - action: utter_tuition_cse
-
-- story: admission inquiry
-  steps:
-  - intent: admission
-  - action: utter_admission
-
-- story: scholarship inquiry
-  steps:
-  - intent: scholarship
-  - action: utter_scholarships
-
-- story: greet then ask tuition
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: tuition
-  - action: utter_tuition
-
-- story: greet then ask about cse
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: cse
-  - action: utter_cse
-
-- story: ask multiple questions
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: location
-  - action: utter_location
-  - intent: contact
-  - action: utter_contact
 
 - story: bot challenge
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
 
-- story: fallback handling
-  steps:
-  - intent: fallback
-  - action: utter_default
