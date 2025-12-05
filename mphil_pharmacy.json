@@ -1,0 +1,110 @@
+{
+  "program": "M.Phil in Pharmacy",
+  "semesters": [
+    {
+      "semester": "First Semester",
+      "total_credits": 9,
+      "courses": {
+        "core_courses": [
+          {
+            "course_code": "PHRM 510",
+            "course_title": "Advanced Clinical Pharmacy",
+            "credits": 3
+          },
+          {
+            "course_code": "PHRM 511",
+            "course_title": "Advanced Pharmacology-I",
+            "credits": 3
+          }
+        ],
+        "optional_courses": [
+          {
+            "course_code": "PHRM 512",
+            "course_title": "Neuropharmacology",
+            "credits": 3
+          },
+          {
+            "course_code": "PHRM 513",
+            "course_title": "Immunopharmacology",
+            "credits": 3
+          }
+        ]
+      }
+    },
+    {
+      "semester": "Second Semester",
+      "total_credits": 9,
+      "courses": {
+        "core_courses": [
+          {
+            "course_code": "PHRM 520",
+            "course_title": "Advanced Pharmacology-II",
+            "credits": 3,
+            "prerequisites": [
+              "PHRM 511: Advanced Pharmacology-I"
+            ]
+          },
+          {
+            "course_code": "PHRM 521",
+            "course_title": "Molecular Biology and Biotechnology",
+            "credits": 3,
+            "prerequisites": [
+              "PHRM 510: Advanced Clinical Pharmacy"
+            ]
+          }
+        ],
+        "optional_courses": [
+          {
+            "course_code": "PHRM 522",
+            "course_title": "Bioinformatics",
+            "credits": 3
+          },
+          {
+            "course_code": "PHRM 523",
+            "course_title": "Biostatistics",
+            "credits": 3
+          }
+        ]
+      }
+    },
+    {
+      "semester": "Third Semester",
+      "total_credits": 12,
+      "courses": {
+        "core_courses": [
+          {
+            "course_code": "PHRM 530",
+            "course_title": "Clinical Toxicology",
+            "credits": 3,
+            "prerequisites": [
+              "PHRM 511: Advanced Pharmacology-I",
+              "PHRM 510: Advanced Clinical Pharmacy"
+            ]
+          },
+          {
+            "course_code": "PHRM 531",
+            "course_title": "Research (Thesis)",
+            "credits": 6
+          }
+        ],
+        "optional_courses": [
+          {
+            "course_code": "PHRM 532",
+            "course_title": "Pathophysiology and Pharmacotherape",
+            "credits": 3
+          },
+          {
+            "course_code": "PHRM 533",
+            "course_title": "Community Pharmacy",
+            "credits": 3
+          },
+          {
+            "course_code": "PHRM 534",
+            "course_title": "Drug Use Management",
+            "credits": 3
+          }
+        ]
+      }
+    }
+  ]
+}

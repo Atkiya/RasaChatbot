@@ -1,0 +1,465 @@
+{
+  "department_info": {
+    "program_name": "Bachelor of Social Science (BSS) in Sociology",
+    "minimum_credits_required": 123
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "compulsory_general_courses": 18,
+    "compulsory_foundation_courses": 9,
+    "required_core_courses": 57,
+    "elective_courses": 33,
+    "individual_research_practicum_internship": 6
+  },
+  "courses": [
+    {
+      "code": "ENG100",
+      "name": "Spoken English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "CSE101",
+      "name": "Introduction to Computer",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "GEN226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "GEN224",
+      "name": "Bangla Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General"
+    },
+    {
+      "code": "SOC101",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "SOC102",
+      "name": "Introduction to Anthropology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "SOC106",
+      "name": "Historical Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "SOC104",
+      "name": "Social Problems",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC107",
+      "name": "Social Problem and Analysis",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC201",
+      "name": "Sociology of Family and Marriage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC202",
+      "name": "Social Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC205",
+      "name": "Rural Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC206",
+      "name": "Statistics for Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC210",
+      "name": "Community, Communication, and Culture",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC218",
+      "name": "Sociology of Gender",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC220",
+      "name": "Quantitative Research Methodology",
+      "credits": 3,
+      "prerequisites": "SOC206",
+      "category": "Core"
+    },
+    {
+      "code": "SOC301",
+      "name": "Qualitative Research Methodology",
+      "credits": 3,
+      "prerequisites": "SOC220",
+      "category": "Core"
+    },
+    {
+      "code": "SOC302",
+      "name": "Social Structure of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC303",
+      "name": "Urban Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC304",
+      "name": "Sociology of Environment",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC305",
+      "name": "Medical Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC306",
+      "name": "Social Problem Analysis",
+      "credits": 3,
+      "prerequisites": "SOC107",
+      "category": "Core"
+    },
+    {
+      "code": "SOC309",
+      "name": "Sociology of Education",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC312",
+      "name": "Social Demography",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC319",
+      "name": "Early Social Thought",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC401",
+      "name": "Classical Sociological Theories",
+      "credits": 3,
+      "prerequisites": "SOC319",
+      "category": "Core"
+    },
+    {
+      "code": "SOC406",
+      "name": "Sociology of Development",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "SOC407",
+      "name": "Contemporary Sociological Theories",
+      "credits": 3,
+      "prerequisites": "SOC401",
+      "category": "Core"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "elective_courses",
+      "courses": [
+        {
+          "code": "SOC105",
+          "name": "Peasant Societies",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC203",
+          "name": "Social Group and Social Development",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC208",
+          "name": "Social Stratification and Inequality",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC209",
+          "name": "Industrial Sociology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC211",
+          "name": "Social History and World Civilization",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC217",
+          "name": "Religion, Ethnicity, Culture and Development in South Asia",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC219",
+          "name": "Sociology of Race and Ethnicity",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC307",
+          "name": "Bangladesh Society and Culture",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC308",
+          "name": "Social Services in Bangladesh",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC310",
+          "name": "Sociology of Organization",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC311",
+          "name": "Feminist Thought",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC313",
+          "name": "Criminology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC314",
+          "name": "Sociology of Aging",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC315",
+          "name": "Principles of Economic Sociology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC316",
+          "name": "Globalization, Migration, Development and Refugee Issues",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC317",
+          "name": "Sociology of Science and Technology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC318",
+          "name": "Sociology of Religion",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC320",
+          "name": "Sociology of Gerontology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC402",
+          "name": "Sociology of Poverty",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC403",
+          "name": "Political Sociology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC404",
+          "name": "Marxist Sociology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC405",
+          "name": "Social Forestry",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC408",
+          "name": "Sociology of Gender Planning and Development",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC409",
+          "name": "Sociology of Mass Communication",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC410",
+          "name": "Community Development Organizations and Social Change",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC411",
+          "name": "Human Rights and Social Justice",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC412",
+          "name": "Social Interventions and Practice",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC415",
+          "name": "Women, Society and Development",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        },
+        {
+          "code": "SOC416",
+          "name": "Social Changes in Bangladesh",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Elective"
+        }
+      ]
+    },
+    {
+      "type": "capstone_requirement",
+      "description": "All undergraduates of the BSS in Sociology program will be required to undergo viva-voce examination for Research Project /Monograph or Practicum/Internship. The defense of Research Project or Practicum/Internship is worth 30% of the total marks. A Total of 123 Credits are required to complete the bachelor degree in Sociology. Choose either one from Individual Research/ Practicum/Internship."
+    },
+    {
+      "type": "capstone_courses",
+      "courses": [
+        {
+          "code": "SOC413",
+          "name": "Research Project/Monograph",
+          "credits": 6,
+          "prerequisites": "Senior Standing",
+          "category": "Research Practicum"
+        },
+        {
+          "code": "SOC414",
+          "name": "Practicum and Internship",
+          "credits": 6,
+          "prerequisites": "Senior Standing",
+          "category": "Research Practicum"
+        }
+      ]
+    }
+  ]
+}

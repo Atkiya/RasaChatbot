@@ -1,0 +1,83 @@
+{
+  "program": "Master in Development Studies / Social Enterprise",
+  "total_credits": 39,
+  "sections": {
+    "foundation_courses": {
+      "total_courses": 3,
+      "total_credits": 9,
+      "requirement": "Choose any 3 courses from the list below.",
+      "courses": [
+        { "code": "MDS501", "title": "Economics for Development" },
+        { "code": "MDS502", "title": "Issues in Development Economics" },
+        { "code": "MDS503", "title": "Sociology & Social Anthropology of Development" },
+        { "code": "MDS504", "title": "Basic Statistics for Development Research" }
+      ]
+    },
+    "core_courses": {
+      "total_courses": 6,
+      "total_credits": 18,
+      "courses": [
+        { "code": "MDS510", "title": "Sustainable Development: Policies and Tools" },
+        { "code": "MDS511", "title": "Philosophy and Forms of Development and Governance" },
+        { "code": "MDS521", "title": "Development Organization and Management" },
+        { "code": "MDS530", "title": "Program and Project Analysis and Design" },
+        { "code": "MDS531", "title": "Project Management and Implementation" },
+        { "code": "MDS550", "title": "Micro finance: Theory, Principles and Performance" },
+        { "code": "MED505", "title": "Fundamentals of Social Enterprise" },
+        { "code": "MED540", "title": "Research and Development in Social Enterprise" },
+        { "code": "MED601", "title": "Social Enterprise and Legal Issues" }
+      ],
+      "note": "Students must complete any 6 of the above 9 listed courses to fulfill the 18-credit core requirement."
+    },
+    "specialization_courses": {
+      "requirement": "Complete 3 courses (9 credits) from one of the following concentrations.",
+      "areas": {
+        "Enterprise_Development": [
+          { "code": "MED606", "title": "Monitoring, Evaluation and Impact Assessment" },
+          { "code": "MED612", "title": "Economics Sociology" },
+          { "code": "MED626", "title": "Vocational Education and Management" },
+          { "code": "MED634", "title": "Professional Ethics" },
+          { "code": "MED652", "title": "Issues in Gerontology" },
+          { "code": "MED674", "title": "Economics for Sustainable Business" },
+          { "code": "MED678", "title": "Sustainable Communities" },
+          { "code": "MED682", "title": "Women and Entrepreneurship" },
+          { "code": "MED687", "title": "Strategic Management" },
+          { "code": "MDS660", "title": "Leadership Development" },
+          { "code": "MDS677", "title": "Management of Small Credits" },
+          { "code": "MDS688", "title": "Management of Micro and Small Enterprises" }
+        ],
+        "Entrepreneurship_Development": [
+          { "code": "MED613/MBA513", "title": "Entrepreneurship" },
+          { "code": "MED626", "title": "Vocational Education and Management" },
+          { "code": "MED629/ENT525", "title": "Business Planning" },
+          { "code": "MED674", "title": "Economics for Sustainable Business" },
+          { "code": "MED687", "title": "Strategic Management" },
+          { "code": "MDS623/MBM623", "title": "Banking for Small Enterprises" },
+          { "code": "MDS660", "title": "Leadership Development" },
+          { "code": "MDS671", "title": "Management of Campaigns" },
+          { "code": "MDS677", "title": "Management of Small Credits" },
+          { "code": "MDS688", "title": "Management of Micro and Small Enterprises" },
+          { "code": "MDS689", "title": "Management of Educational Services" },
+          { "code": "MDS690", "title": "Research Methodology and Tools for Development" }
+        ],
+        "Climate_Change_and_Sustainable_Development": [
+          { "code": "MDS622", "title": "Governance and Development Management" },
+          { "code": "MDS640", "title": "Environmental Impact Assessment" },
+          { "code": "MDS672", "title": "Environment Policy" },
+          { "code": "MDS682", "title": "Gender and Development" },
+          { "code": "MDS686", "title": "Disaster Management" },
+          { "code": "MDS690", "title": "Research Methodology and Tools for Development" },
+          { "code": "MED645", "title": "Community-Based Health Service" },
+          { "code": "MED652", "title": "Issues in Gerontology" },
+          { "code": "MED656", "title": "Rehabilitation and Disability Management" },
+          { "code": "MED662", "title": "Environmental Management in Practice" }
+        ]
+      }
+    },
+    "additional_requirement": {
+      "total_courses": 1,
+      "total_credits": 3,
+      "note": "Additional 3-credit requirement (details not specified in input; may be thesis, internship, or elective)."
+    }
+  }
+}

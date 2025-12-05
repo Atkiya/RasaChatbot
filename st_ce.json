@@ -1,0 +1,501 @@
+{
+  "department_info": {
+    "department_name": "Civil Engineering",
+    "total_credits": 145
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "general_education_courses": 48,
+    "mathematics_courses": 12,
+    "allied_engineering_courses": 7,
+    "core_civil_engineering_courses": 83
+  },
+  "courses": [
+    {
+      "code": "CE7103",
+      "name": "Surveying and Introduction to GIS",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7201",
+      "name": "Engineering Mechanics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7203",
+      "name": "Strength of Materials",
+      "credits": 3,
+      "prerequisites": "CE7201",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7205",
+      "name": "Fluid Mechanics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7207",
+      "name": "Engineering Geology",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7209",
+      "name": "Building Materials and Construction",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7211",
+      "name": "Structural Analysis",
+      "credits": 3,
+      "prerequisites": "CE7203",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7213",
+      "name": "Hydraulics",
+      "credits": 3,
+      "prerequisites": "CE7205",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7215",
+      "name": "Geotechnical Engineering I",
+      "credits": 3,
+      "prerequisites": "CE7203",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7217",
+      "name": "Transportation Engineering",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7219",
+      "name": "Environmental Engineering I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7221",
+      "name": "Concrete Technology",
+      "credits": 3,
+      "prerequisites": "CE7209",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7223",
+      "name": "Design of Concrete Structures",
+      "credits": 3,
+      "prerequisites": "CE7211",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7225",
+      "name": "Hydrology",
+      "credits": 3,
+      "prerequisites": "CE7213",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7227",
+      "name": "Engineering Economics",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "Allied Engineering"
+    },
+    {
+      "code": "CE7229",
+      "name": "Construction Management",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7301",
+      "name": "Design of Steel Structures",
+      "credits": 3,
+      "prerequisites": "CE7211",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7303",
+      "name": "Geotechnical Engineering II",
+      "credits": 3,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7305",
+      "name": "Environmental Engineering II",
+      "credits": 3,
+      "prerequisites": "CE7219",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7307",
+      "name": "Highway Engineering",
+      "credits": 3,
+      "prerequisites": "CE7217",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7309",
+      "name": "Irrigation Engineering",
+      "credits": 3,
+      "prerequisites": "CE7225",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7311",
+      "name": "Structural Dynamics",
+      "credits": 3,
+      "prerequisites": "CE7211",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7313",
+      "name": "Foundation Engineering",
+      "credits": 3,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7315",
+      "name": "Water Resources Engineering",
+      "credits": 3,
+      "prerequisites": "CE7225",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7317",
+      "name": "Project Planning and Control",
+      "credits": 2,
+      "prerequisites": "CE7229",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7319",
+      "name": "Professional Practice and Ethics",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "CE7321",
+      "name": "Earthquake Engineering",
+      "credits": 3,
+      "prerequisites": "CE7311",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7323",
+      "name": "Coastal and Ocean Engineering",
+      "credits": 3,
+      "prerequisites": "CE7213",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7325",
+      "name": "Advanced Structural Analysis",
+      "credits": 3,
+      "prerequisites": "CE7211",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7327",
+      "name": "Prestressed Concrete",
+      "credits": 3,
+      "prerequisites": "CE7223",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7329",
+      "name": "Traffic Engineering",
+      "credits": 3,
+      "prerequisites": "CE7217",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7331",
+      "name": "Solid Waste Management",
+      "credits": 3,
+      "prerequisites": "CE7219",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7333",
+      "name": "Air Pollution Control",
+      "credits": 3,
+      "prerequisites": "CE7219",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7335",
+      "name": "Remote Sensing and GIS Applications",
+      "credits": 3,
+      "prerequisites": "CE7103",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7337",
+      "name": "Finite Element Method",
+      "credits": 3,
+      "prerequisites": "CE7211",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7339",
+      "name": "Bridge Engineering",
+      "credits": 3,
+      "prerequisites": "CE7223",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7341",
+      "name": "Tunnel Engineering",
+      "credits": 3,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7343",
+      "name": "Dams and Hydraulic Structures",
+      "credits": 3,
+      "prerequisites": "CE7213",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7345",
+      "name": "Urban Drainage",
+      "credits": 3,
+      "prerequisites": "CE7213",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7401",
+      "name": "Advanced Foundation Engineering",
+      "credits": 3,
+      "prerequisites": "CE7313",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7403",
+      "name": "Soil Dynamics and Machine Foundations",
+      "credits": 3,
+      "prerequisites": "CE7303",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7405",
+      "name": "Ground Improvement Techniques",
+      "credits": 3,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7407",
+      "name": "Rock Mechanics",
+      "credits": 3,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7409",
+      "name": "Advanced Structural Design",
+      "credits": 3,
+      "prerequisites": "CE7325",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7411",
+      "name": "Finite Element Analysis in Structural Engineering",
+      "credits": 3,
+      "prerequisites": "CE7337",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7413",
+      "name": "Advanced Concrete Technology",
+      "credits": 3,
+      "prerequisites": "CE7221",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7415",
+      "name": "Structural Health Monitoring",
+      "credits": 3,
+      "prerequisites": "CE7311",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7417",
+      "name": "Advanced Transportation Planning",
+      "credits": 3,
+      "prerequisites": "CE7217",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7419",
+      "name": "Intelligent Transportation Systems",
+      "credits": 3,
+      "prerequisites": "CE7329",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7421",
+      "name": "Advanced Water Treatment",
+      "credits": 3,
+      "prerequisites": "CE7305",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7423",
+      "name": "Wastewater Treatment and Reuse",
+      "credits": 3,
+      "prerequisites": "CE7305",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7425",
+      "name": "Environmental Impact Assessment",
+      "credits": 3,
+      "prerequisites": "CE7305",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7427",
+      "name": "Hazardous Waste Management",
+      "credits": 3,
+      "prerequisites": "CE7331",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7429",
+      "name": "Coastal Zone Management",
+      "credits": 3,
+      "prerequisites": "CE7323",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7431",
+      "name": "Offshore Structures",
+      "credits": 3,
+      "prerequisites": "CE7323",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7433",
+      "name": "River Engineering",
+      "credits": 3,
+      "prerequisites": "CE7225",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7435",
+      "name": "Flood Control and Drainage Engineering",
+      "credits": 3,
+      "prerequisites": "CE7225",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7437",
+      "name": "Advanced Hydrology",
+      "credits": 3,
+      "prerequisites": "CE7225",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7439",
+      "name": "Water Resources Systems Analysis",
+      "credits": 3,
+      "prerequisites": "CE7315",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7441",
+      "name": "Advanced Construction Management",
+      "credits": 3,
+      "prerequisites": "CE7229",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7443",
+      "name": "Earth Retaining Structures",
+      "credits": 2,
+      "prerequisites": "CE7313",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7445",
+      "name": "Slope Stability and Landslides",
+      "credits": 2,
+      "prerequisites": "CE7215",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7447",
+      "name": "Pavement Design and Management",
+      "credits": 2,
+      "prerequisites": "CE7307",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7449",
+      "name": "Traffic Safety Engineering",
+      "credits": 2,
+      "prerequisites": "CE7329",
+      "category": "Core Civil Engineering"
+    },
+    {
+      "code": "CE7451",
+      "name": "Environmental and Sustainable Management",
+      "credits": 2,
+      "prerequisites": "CE7305",
+      "category": "General Education"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "grading_scale",
+      "scale": [
+        { "grade": "A+", "min": 80, "max": 100, "gpa": 4.0 },
+        { "grade": "A", "min": 75, "max": 79.99, "gpa": 3.75 },
+        { "grade": "A-", "min": 70, "max": 74.99, "gpa": 3.50 },
+        { "grade": "B+", "min": 65, "max": 69.99, "gpa": 3.25 },
+        { "grade": "B", "min": 60, "max": 64.99, "gpa": 3.00 },
+        { "grade": "B-", "min": 55, "max": 59.99, "gpa": 2.75 },
+        { "grade": "C+", "min": 50, "max": 54.99, "gpa": 2.50 },
+        { "grade": "C", "min": 45, "max": 49.99, "gpa": 2.25 },
+        { "grade": "D", "min": 40, "max": 44.99, "gpa": 2.00 },
+        { "grade": "F", "min": 0, "max": 39.99, "gpa": 0.00 }
+      ]
+    },
+    {
+      "type": "academic_policy",
+      "probation": "A student whose CGPA falls below 2.25 after any semester will be placed on probation for the next two semesters. Students on probation are not allowed to drop a semester or take leave of absence."
+    },
+    {
+      "type": "academic_policy",
+      "dismissal": "A student will be dismissed if their CGPA falls below 1.0 after any semester, or if they fail to raise their CGPA to at least 2.25 after the probation period."
+    }
+  ]
+}

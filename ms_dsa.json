@@ -1,0 +1,144 @@
+{
+  "program": "Master of Science in Data Science & Analytics",
+  "total_credits": 40,
+  "sections": {
+    "core_courses": {
+      "total_credits": 28,
+      "requirement": "Students must take all 8 courses listed below.",
+      "courses": [
+        {
+          "code": "DSA5001",
+          "title": "Statistical Methods and Probability",
+          "credits": 3,
+          "description": "Descriptive and Inferential Statistics; Variables and Types of Data; Sampling; Frequency distributions; Histograms; Other types of charts and graphs; Scatter plots; Measures of central tendency; Measures of variation; Basic probability; Conditional probability, multiplication rule; Probability distributions; Expected value and variance; Binomial distribution; Normal distribution; Applications of the normal distribution; Central Limit Theorem. Collecting, summarizing and visualizing data; Distribution of sampling statistics; Point estimation and confidence intervals; Hypothesis testing; Inference with two populations; Maximum likelihood; Nonparametric methods."
+        },
+        {
+          "code": "DSA5002",
+          "title": "Programming for Data Science",
+          "credits": 3,
+          "description": "Understand and utilize Python/R/RStudio; Understand basic data types and data structures in Python/R. Introductory concepts of Python/R, Getting data into Python/R (Familiarize and load data files into Python/R, basic data manipulation; Sub-setting, Basic statistical calculations; Visualize datasets using low-level and high-level plots in Python/R. Concept of Array and matrix, Inference, random sampling; Regression, Programming with R; Writing R functions, Control structures."
+        },
+        {
+          "code": "DSA5003",
+          "title": "Database Management Systems",
+          "credits": 3,
+          "description": "Database System- concepts and architecture; The Relational Model; Conceptual Modeling Data Definition Languages and SQL; Relational Algebra and SQL; Database Design and Normalization; Triggers and Active Databases; Physical Data Organization and Indexing; Dynamic Multi-level indexing using B Trees and B+ Trees, Query Processing; Transaction Processing; Design Coding and Testing."
+        },
+        {
+          "code": "DSA5004",
+          "title": "Regression Analysis",
+          "credits": 3,
+          "description": "Simple and multiple regression model and their estimation, assumptions, residual analysis, Interaction in regression models, Reduced and full models, F test for general linear hypothesis; Dummy variables and interpretation of model parameters; Multicollinearity: sources, diagnostic measures, remedy measures, ridge regression; Influence Measures: Detection of outliers by residual analysis, influence statistics- Cook’s D, Cov Ratio etc. Resistant fitting techniques such as M Estimate, MM-Estimate for data sets with outliers; Model Selection, All possible regression, forward selection, backward elimination, and stepwise algorithm; Polynomial Regression Models; Non-linear Regression, kernel estimator."
+        },
+        {
+          "code": "DSA5005",
+          "title": "Multivariate Statistical Analysis",
+          "credits": 3,
+          "description": "Applications of multivariate techniques, Organization of data, Distance; Basics of linear algebra including matrices, singular value decomposition, Random vectors and matrices, Mean vectors and Covariance matrices; The multivariate normal density and its properties; Hotelling T² and likelihood ratio tests, confidence regions and simultaneous comparisons of component means. Large sample inference about a population mean vector; Comparisons of several multivariate means; Introduction and concepts of principal components and its application; Factor analysis and methods of estimation, applications; Cluster analysis, Hierarchical and Non-Hierarchical Methods; separation and classification for two populations; profiles analysis, repeated measures designs and growth curves."
+        },
+        {
+          "code": "DSA5006",
+          "title": "Machine Learning",
+          "credits": 3,
+          "description": "Basic concepts. Supervised, unsupervised and reinforcement learning. Support vector machine; Decision tree; random forest. K-NN, Kernel based regression. Bagging and boosting. Naïve Bayes, Bayesian network. Artificial neural network, Convolutional neural network. Basic idea of Deep Learning; Natural language processing; Text and image recognition."
+        },
+        {
+          "code": "DSA5007",
+          "title": "Big Data & Cloud Computing",
+          "credits": 3,
+          "description": "Definition and Features of Big Data, Challenges of Big Data; Cloud Computing, Relationship between Cloud Computing and IoT; Types of Data Sources, Sampling, Types of Data Elements, Big Data Generation, Enterprise Data, IoT Data, Internet Data, Bio-Medical Data, Data Collection, Data Transportation, Data Pre-Processing, Visual Data Exploration and Exploratory Statistical Analysis; Storage System for Massive Data, Distributed Storage System, Storage Mechanism for Big Data, Database Technology, Design Factors, Database Programming; Multi-Core Versus Distributed Systems, Distributed Algorithms, Distributed Hash Tables, Bulk Synchronous Parallel (BSP), MapReduce Paradigm; Big Data Search and Retrieval, K-Means Clustering, Social Network Clustering—Topology Discovery, Clustering Algorithm to find Network Topologies, Social Network Condensation, Text Sentiment Mining, Big Data Mining and Analysis Tools."
+        },
+        {
+          "code": "DSA5099",
+          "title": "Research Project",
+          "credits": 7,
+          "description": "After successful completion of 22 credits of the core courses, a student shall have to register for a research project, which is compulsory and will continue for the remaining one or two semesters. The primary purpose of this research project is to apply the knowledge that the student gained during her/his coursework to a practical problem and to gain firsthand experience in doing research."
+        }
+      ]
+    },
+    "elective_courses": {
+      "total_credits": 12,
+      "requirement": "Students must choose any 4 courses from the following list.",
+      "courses": [
+        {
+          "code": "DSA5011",
+          "title": "AI & Deep Learning",
+          "credits": 3,
+          "description": "An introduction to the basic principles, techniques, and applications of Artificial Intelligence; Coverage includes knowledge representation, logic, inference, problem solving, search algorithms, game theory, perception, learning, planning, and agent design; Programming in AI language tools; Potential areas of further exploration include expert systems, neural networks, fuzzy logic, robotics, natural language processing, and computer vision; Artificial Neural Network. Deep feedforward, convolutional, recurrent, and graph neural networks; generative adversarial networks. Learning from data, performance evaluation and network visualization. Handling sequential and relational data. Representations and analysis for images, text and structured data."
+        },
+        {
+          "code": "DSA5021",
+          "title": "Time Series Analysis & Forecasting",
+          "credits": 3,
+          "description": "Descriptive techniques, trend, seasonality, the correlogram. White noise (WN), Transformation to stationarity, Stationary Time series with practical examples; Probability models for time series: stationarity. Moving average (MA), Autoregressive (AR), ARMA, ARIMA, SARIMA models with applications to economics, engineering and biomedical sciences; Estimating the autocorrelation function and fitting ARIMA models; Forecasting: Exponential smoothing, Forecasting from ARIMA models; Stationary multivariate models: Stationary multivariate models with application to real life data. Dynamic simultaneous equations models, Vector autoregression (VAR) models, Granger causality, Impulse response functions, Variance decompositions, Structural VAR models; Nonstationary Multivariate models: Nonstationary Multivariate models with examples. Spurious regression, Cointegration, Granger representation theorem, Vector error correction models (VECMs), Structural VAR models with cointegration, testing for cointegration, estimating the cointegrating rank, estimating cointegrating vectors; Stationary processes in the frequency domain: The spectral density function, the periodogram, spectral analysis with Empirical aspects of spectral analysis State-space models: Dynamic linear models and the Kalman filter with applications of filter. Regression for Rates; Empty Cells and Sparseness in Modeling Contingency Tables."
+        },
+        {
+          "code": "DSA5041",
+          "title": "Applied Econometrics",
+          "credits": 3,
+          "description": "Types, nature and sources of Econometrics data, Methodology of Econometrics; Heteroscedasticity, Multicollinearity and Autocorrelation: Concept and nature, Sources and consequences, Detection and Remedial Measures; Model Specification: Consequences of under and over specification, model selection criteria; Non-linear models: Estimation and application of Cobb-Doglas production function and other nonlinear functions of econometric data; Simultaneous equation models: Simultaneity bias, Inconsistency of OLS estimations, Types and rules of identification, Estimation methods: Indirect Least Squares (ILS) and Two Stage Least Squares (2SLS); Panel Data Models: Fixed Effects and Random Effects models in econometrics; Dynamic Econometric Model: Lag Models, Meaning of Dynamic model, Autoregressive and distributed lag models and estimation."
+        },
+        {
+          "code": "DSA5043",
+          "title": "Business Process Analytics",
+          "credits": 3,
+          "description": "Introduction to ARIS: BPM methodology and ARIS; Models, objects, occurrences and relationship. Before modeling a process…create the object libraries: The ARIS metamodel and the object libraries (organizational chart and application portfolio); Object Properties. Model a process: Fundamentals of process modeling; EPC (Event-Driven-Process-Chain) methodology; Process flow rules; Detailed process design; Process hierarchy and Model’s assignment; Connecting processes together - process interfaces; Top-Down approach; End to End process navigation. Basic Process Analysis: zAdmin/Configuration; Analysis; Find and report; Database Queries."
+        },
+        {
+          "code": "DSA5045",
+          "title": "Machine Learning for Finance",
+          "credits": 3,
+          "description": "Introduction: History, Comparisons, Definitions, Applications in Finance, Linear regression, Ensemble Models, Time Series, Classification Models, overfitting, regularisation, loss functions, feature engineering, exploratory data analysis, data munging; Preprocessing: mismatch processing (type, length, missing, frequency, dimension), data augmentation (transforming, interacting, mapping, synthesising, extracting), feature selection (linear, non-linear, causal, conditional); Model Development: specification (handcrafted, supervised, unsupervised, reinforcement learning, hybrid model), optimisation (hyperparameter tuning, cross validation), results (accuracy, robustness, performance); Explanations: importance (permutation, conditional, relative), examples (prototypical, counterfactual, contrastive), visualisations (partial dependence, individual expectations, accumulated effects); Unsupervised Learning: clustering and dimensionality reduction; Deep learning: classification, regression, and generative models; Natural Language Processing; Reinforcement Learning; Asset Management: trading strategies (asset pricing, ranking), weight optimisation (ESG investing, unsupervised methods), risk management (recession prediction, regime switching, bet sizing)."
+        },
+        {
+          "code": "DSA5047",
+          "title": "Data Analytics for Finance",
+          "credits": 3,
+          "description": "Strategic Data Management in Finance: Challenges in Human Decision Making, Data Analytics Processes, Financial Big Data for Competitive Advantage; Exploratory Data Analysis: Data Preparation, Sampling, Descriptive Statistics, Missing Values, Outliers, Data Distributions hypothesis tests and Confidence Intervals, Interpret outputs from statistical software to analyze patterns in financial data for signaling unexpected fluctuations e.g. Fraud Analysis, detecting anomaly transactions etc., Factor Analysis; Principal Component Analysis (PCA); Cluster Analysis, Regression and Big Data; Time Series analysis: Forecasting Revenue/Margin, Predicting Going Concern status, What-if analysis etc.; Machine Learning methods and their applications in Finance data; Evaluate ML techniques for analysis of high-volume financial data - Classifying fraud risk factors in financial transactions - Profiling customer buying and payment performance based on known or unknown attributes - Clustering financial data for internal control procedure; Model Evaluation: Misclassification Rate on a Hold-out Test Set, ROC Curves, Confusion Matrix; Data Ethics in Finance."
+        },
+        {
+          "code": "DSA5061",
+          "title": "Environmental Data Analysis and Climate Change",
+          "credits": 3,
+          "description": "Pollution and its Importance, Why does Pollution happen, Pollutant Sources, Detail Study of Air and Water Pollution, Global Climate Change; Concept of Environmental Standards, Statistically Verifiable Ideal Standard (SVIS), Guard Point Standards, Standards along Cause-Effect Chain; Applications of Bernoulli, Poisson and Normal Process to Environmental problems; Environmental Sampling methods; Diversity: Measurement of diversity, Different diversity indices; Diffusion and Dispersion of Pollutants, Wedge Machine, Particle Frame Machine, Plume Model; Dilution of Pollutants, Deterministic Dilution, Theory of Successive Random Dilution (SRD), Application of SRD to Environmental Phenomena: Air Quality, Indoor Air Quality, Water Quality, Concentrations of Pollutants in Soils, Plants and Animals, Concentration in Food and Human Tissue; Statistical Theory of Rollback: Predicting concentrations after Source Control, Correlation, Previous Rollback Concepts, Environmental Transport Models in Air and Water; Environment and economics: Theory of Environmental Externalities, Coase Theorem, Environmental Welfare analysis, Trade and Environmental policy, Resource allocation over time, valuing the environment, Cost-benefit analysis, Allocation of resources, Renewable and Non-renewable resources; Machine Learning in Climate data, Prediction of weather and climate, Modeling the weather- Weather analysis-gathering data and analysing weather maps."
+        },
+        {
+          "code": "DSA5063",
+          "title": "Bioinformatics",
+          "credits": 3,
+          "description": "Basic Cell Architecture, the Structure, Content and Scale of Deoxyribonucleic Acid (DNA), History of the Human Genome, Genes and Proteins. Knowledge of Various Databases and Bioinformatics Tools Available at these Resources, the Major Content of the Databases, Nucleic Acid Sequence Databases (Genbank, EMBL, DDBJ), Protein Sequence Databases(SWISS-PROT, Trembl, PIR, PDB), Genome Databases (NCBI, EBI, TIGR, SANGER); Genome Sequencing: DNA sequencing, RNA sequencing, Whole genome sequencing, Basic methods of Sequencing, High-throughput sequencing (HTS) methods, Genome assembly, Next Generation Sequencing (NGS) and application areas; Sequence Analysis: Various File Formats for Bio-Molecular Sequences: Genbank, Fasta, Gcg, Msf, Nbrf-Pir Etc., Basic Concepts of Sequence Similarity, Identity and Homology, BLAST and FASTA Algorithms, Various Versions of Basic BLAST and FASTA, Pairwise and Multiple Sequence Alignments-Concepts of Sequence Alignment, Needleman and Wuncsh, Smith and Waterman Algorithms for Pairwise Alignments, Progressive and Hierarchical Algorithms for MSA; Machine Learning in Bioinformatics: Introduction to Various Machine Learning Techniques and their Applications in Bioinformatics. Genetic Algorithms, Support Vector Machine, Neural Networks."
+        },
+        {
+          "code": "DSA5065",
+          "title": "Biostatistics & Epidemiology",
+          "credits": 3,
+          "description": "Basic Concepts: Definition, Scope of Epidemiology, uses of Epidemiology; Types of Epidemiologic Studies: Cross Sectional, Cohort, Case-Control, Retrospective and Prospective, Clinical Trials, Community Intervention and Cluster Randomized Trials; Measures of Disease Frequency: Incidence and Prevalence Rates, Relation between Incidence and Prevalence, Case Fatality Rate, Risk Ratio, Rate Ratio, Risk Difference, Rate Difference, Mortality Measures, Standardized Mortality Ratio; Measures of Association between Disease and Risk Factor: Relative Risk, Attributable Risk, Odds Ratio; Screening, Properties of Screening Test: Sensitivity, Specificity, Negative and Positive Predictive Values; Biostatistics Scope of Biostatistics: Survivor Function, Hazard Function, their Inter Relationships; Censoring and Truncation; Type I, Type II and Random Censoring; Non-Parametric Methods of Estimating Survivor Functions: Life Table Method, Product Limit Method, Variance Estimates, Cumulative Hazard Function, Plots Involving Estimated Survivor and Hazard Functions; Inference Procedures for Exponential Distributions: One Parameter Exponential Distribution with Type I and Type II Censored Data, Comparison of Exponential Distributions; Exponential Regression Model: Method of Estimation, Tests of Hypothesis."
+        },
+        {
+          "code": "DSA5071",
+          "title": "Generalized Linear Models",
+          "credits": 3,
+          "description": "Introduction to the Concepts of Modeling; Model Fitting, Exponential Family and Generalized Linear Models (Bernoulli, Binomial, Poisson, Exponential, Gamma, Normal, etc.); Properties of distributions in the exponential family, Random, Systematic and Link Functions, Poisson Regression; Maximum Likelihood Identity Link, Logit Link, Log Link, Parameter Estimation; Score Function and Information Matrix, Estimation, Residuals analysis for GLM, Quasi Likelihood Estimating Equations, Generalized Estimating Equations for Repeated Measures Data, Comparison between Likelihood and Quasi Likelihood Methods, Mixed Effect Models."
+        },
+        {
+          "code": "DSA5073",
+          "title": "Categorical Data Analysis",
+          "credits": 3,
+          "description": "Contingency table, Inference of contingency table, GLM for binary and count data, Inference of logistic regression; Nominal Responses: Baseline-Category Logit Models; Ordinal Responses: Cumulative Logit and link Models; Alternative Models for Ordinal Responses; Testing Conditional Independence in I×J×K Tables; Discrete-Choice Multinomial Logit Models; Loglinear Models for Two-Way Tables; Loglinear Models for Independence and Interaction in Three-Way Tables; Inference for Loglinear Models; Loglinear Models for Higher Dimensions; The Loglinear/Logit Model Connection; Modeling Ordinal Associations; Association Models; Association Models, Correlation Models, and Correspondence Analysis; Poisson Regression for Rates; Empty Cells and Sparseness in Modeling Contingency Tables."
+        },
+        {
+          "code": "DSA5075",
+          "title": "Design of Experiment",
+          "credits": 3,
+          "description": "Basic concept, Principles of experimental design, Analysis of Variance for Unbalanced Data, Estimates, Confidence Intervals, Inference about Difference between Treatment Means, Multiple Comparisons, Effects and Tests of Departures from Assumptions Underlying the Analysis of Variance Model, Two Way Crossed Classification without Interaction, Model, Assumptions, Mean Squares and Expected Mean Squares, Fixed Effects, Random Effects, Mixed Effects, Tests, Two Way Crossed Classification with Interaction. Model, Assumption, Partition of SS, Mean Squares and Expectations, Fixed Effect, Random Effect and Mixed Effects, Tests, Models for Unbalanced Data. Two Way Nested (Hierarchical) Classification, Model, Assumptions, Fixed Effects, Random Effects and Mixed Effects, Estimation and Tests, Multivariate Analysis of Variance, Repeated Measures Data and ANOVA, Multilevel Models."
+        },
+        {
+          "code": "DSA5077",
+          "title": "Actuarial Data Analysis",
+          "credits": 3,
+          "description": "The meaning and scope of actuarial science; role of actuaries in insurance, business and Economy; The basic deterministic model, Cashflows, Discount functions, Interest and discount rates, Balances and reserves, Change of discount function, Internal rates of return, Forward prices and term structure, Spreadsheet calculations; The life table: Basic definitions, Probabilities related to life table, Constructing the life table from the values of qx, Life expectancy, Choice of life tables; Life annuities: Calculating annuity premiums, The interest and survivorship discount function, Guaranteed payments, Deferred annuities with annual premiums, Gross premiums, Gender aspects, Spreadsheet calculations; Life insurance: Calculating life insurance premiums, Types of life insurance, Combined insurance–annuity benefits, Insurances viewed as annuities, Spreadsheet applications; Insurance and annuity reserves: Definition, The general pattern of reserves, Interest and mortality bases for reserves, Nonforfeiture values, Policies involving a ‘return of the reserve’, Premium difference and paid-up formulas, Universal life and variable annuities, Spreadsheet applications; Continuous payments: Introduction to continuous annuities, The force of discount, The constant interest case, Continuous life annuities, The force of mortality, Insurances payable at the moment of death, Premiums and reserves, The general insurance–annuity identity in the continuous case, Differential equations for reserves; Multiple-life contracts: Joint-life annuities and insurances, Moment of death insurances, The general two-life annuity contract, The general two-life insurance contract, Contingent insurances, Duration problem, Applications to annuity credit risk. Spreadsheet applications."
+        }
+      ]
+    }
+  }
+}

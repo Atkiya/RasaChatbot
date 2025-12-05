@@ -1,0 +1,1055 @@
+{
+  "department_info": {
+    "vision": "To be internationally renowned in Computer Science and Engineering and to exalt excellence in education, research, industrial profession, and entrepreneurship for sustainable transformation of the society.",
+    "mission": [
+      "To advance knowledge and learning of evolving challenges in Computer Science and Engineering through quality education and research towards the development of the society.",
+      "To sustain an outstanding hub dedicated to excellence in education, research & development, and entrepreneurship; and to become internationally recognized to meet national and international needs.",
+      "To enhance the quality of students with advanced knowledge and skills of Computer Science and Engineering and related disciplines to meet contemporary needs in the areas of education, research & development, leadership, and entrepreneurship."
+    ]
+  },
+  "program_educational_objectives": [
+    "Graduates will establish themselves as leading computational professionals and/or entrepreneurs; and continue to learn and address evolving challenges in Computer Science and Engineering.",
+    "Graduates will engage themselves in lifelong pursuit of knowledge and interdisciplinary learning for industrial, research, and academic careers and/or leadership and entrepreneurship development.",
+    "Graduates will contribute to sustainable development and the well-being of the society through the use of Computer Science and Engineering principles, practices and tools in an ethical and responsible manner."
+  ],
+  "program_outcomes": [
+    {
+      "outcome": "Apply knowledge of mathematics, natural sciences, engineering fundamentals and an engineering specialization as specified in K1 to K4 respectively to the solution of complex computer science and engineering problems (EP1 to EP7).",
+      "maps_to_peos": ["PEO1"]
+    },
+    {
+      "outcome": "Identify, formulate, research literature and analyze complex computer science and engineering problems (EP1 to EP7) reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences. (K1 to K4)",
+      "maps_to_peos": ["PEO1"]
+    },
+    {
+      "outcome": "Design solutions for complex computer science and engineering problems (EP1 to EP7) and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations. (K5)",
+      "maps_to_peos": ["PEO1"]
+    },
+    {
+      "outcome": "Conduct investigations of complex computer science and engineering problems (EP1 to EP7) using research-based knowledge (K8) and research methods including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.",
+      "maps_to_peos": ["PEO2"]
+    },
+    {
+      "outcome": "Create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex computer science and engineering problems (EP1 to EP7), with an understanding of the limitations. (K6)",
+      "maps_to_peos": ["PEO2"]
+    },
+    {
+      "outcome": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional computer science and engineering practice and solutions to complex computer science and engineering problems (EP1 to EP7). (K7)",
+      "maps_to_peos": ["PEO3"]
+    },
+    {
+      "outcome": "Understand and evaluate the sustainability and impact of professional computer science and engineering work in the solution of complex computer science and engineering problems (EP1 to EP7) in societal and environmental contexts. (K7)",
+      "maps_to_peos": ["PEO3"]
+    },
+    {
+      "outcome": "Apply ethical principles and commit to professional ethics and responsibilities and norms of computer science and engineering practice. (K7)",
+      "maps_to_peos": ["PEO3"]
+    },
+    {
+      "outcome": "Function effectively as an individual, and as a member or leader in diverse teams and in multi-disciplinary settings.",
+      "maps_to_peos": ["PEO3"]
+    },
+    {
+      "outcome": "Communicate effectively on complex computer science and engineering activities (EA1 to EA5) with the computer science and engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+      "maps_to_peos": ["PEO1"]
+    },
+    {
+      "outcome": "Demonstrate knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+      "maps_to_peos": ["PEO2"]
+    },
+    {
+      "outcome": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.",
+      "maps_to_peos": ["PEO2"]
+    }
+  ],
+  "knowledge_profiles": [
+    {
+      "code": "K1",
+      "description": "A systematic, theory-based understanding of the natural sciences applicable to the discipline"
+    },
+    {
+      "code": "K2",
+      "description": "Conceptually based mathematics, numerical analysis, statistics and the formal aspects of computer and information science to support analysis and modeling applicable to the discipline"
+    },
+    {
+      "code": "K3",
+      "description": "A systematic, theory-based formulation of engineering fundamentals required in the engineering discipline"
+    },
+    {
+      "code": "K4",
+      "description": "Engineering specialist knowledge that provides theoretical frameworks and bodies of knowledge for the accepted practice areas in the engineering discipline; much is at the forefront of the discipline"
+    },
+    {
+      "code": "K5",
+      "description": "Knowledge that supports engineering design in a practice area"
+    },
+    {
+      "code": "K6",
+      "description": "Knowledge of engineering practice (technology) in the practice areas in the engineering discipline"
+    },
+    {
+      "code": "K7",
+      "description": "Comprehension of the role of engineering in society and identified issues in engineering practice in the discipline: ethics and the engineer’s professional responsibility to public safety; the impacts of engineering activity; economic, social, cultural, environmental and sustainability"
+    },
+    {
+      "code": "K8",
+      "description": "Engagement with selected knowledge in the research literature of the discipline"
+    }
+  ],
+  "engineering_problems": [
+    {
+      "code": "EP1",
+      "description": "Cannot be resolved without in-depth engineering knowledge at the level of one or more of K3, K4, K5, K6, or K8 which allows a fundamental-based, first principles analytical approach"
+    },
+    {
+      "code": "EP2",
+      "description": "Involve wide-ranging or conflicting technical, engineering and other issues"
+    },
+    {
+      "code": "EP3",
+      "description": "Have no obvious solution and require abstract thinking, originality in analysis to formulate suitable models"
+    },
+    {
+      "code": "EP4",
+      "description": "Involve infrequently encountered issues"
+    },
+    {
+      "code": "EP5",
+      "description": "Are outside problems encompassed by standards and codes of practice for professional engineering"
+    },
+    {
+      "code": "EP6",
+      "description": "Involve diverse groups of stakeholders with widely varying needs"
+    },
+    {
+      "code": "EP7",
+      "description": "Are high level problems including many component parts or sub-problems"
+    }
+  ],
+  "engineering_activities": [
+    {
+      "code": "EA1",
+      "description": "Involve the use of diverse resources (for this purpose, resources include people, money, equipment, materials, information and technologies)"
+    },
+    {
+      "code": "EA2",
+      "description": "Require resolution of significant problems arising from interactions between wide-ranging or conflicting technical, engineering or other issues"
+    },
+    {
+      "code": "EA3",
+      "description": "Involve creative use of engineering principles and research-based knowledge in novel ways"
+    },
+    {
+      "code": "EA4",
+      "description": "Have significant consequences in a range of contexts, characterized by difficulty of prediction and mitigation"
+    },
+    {
+      "code": "EA5",
+      "description": "Can extend beyond previous experiences by applying principle-based approaches"
+    }
+  ],
+  "course_summaries": {
+    "compulsory_language_and_general_education": 9,
+    "elective_general_education": 9,
+    "compulsory_natural_science": 11,
+    "compulsory_mathematics_and_statistics": 15,
+    "core_computer_science_and_engineering": 62,
+    "core_capstone_project": 6,
+    "major_compulsory_and_elective_computer_science_and_engineering": 20,
+    "non_major_elective_computer_science_and_engineering": 8,
+    "total": 140
+  },
+  "courses": [
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Language and General Education"
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Language and General Education"
+    },
+    {
+      "code": "GEN226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "General Education"
+    },
+    {
+      "code": "ECO101",
+      "name": "Principle of Microeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN203",
+      "name": "Ecological System and Environment",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN214",
+      "name": "Development Studies",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "General Education"
+    },
+    {
+      "code": "SOC317",
+      "name": "Sociology of Science and Technology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN201",
+      "name": "Bangladesh Studies",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN204",
+      "name": "Western Thought",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN210",
+      "name": "International Relation",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "General Education"
+    },
+    {
+      "code": "SOC211",
+      "name": "Eastern Culture and Heritage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "SOC217",
+      "name": "Religion, Ethnicity, Culture and Development in South Asia",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "General Education"
+    },
+    {
+      "code": "ACT101",
+      "name": "Financial Accounting",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business"
+    },
+    {
+      "code": "BUS321",
+      "name": "Business for Engineering and Technology",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Business"
+    },
+    {
+      "code": "BUS231",
+      "name": "Business Communication",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Business"
+    },
+    {
+      "code": "MGT321",
+      "name": "Industrial Management",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Business"
+    },
+    {
+      "code": "MGT337",
+      "name": "Production Operations Management",
+      "credits": 3,
+      "prerequisites": "STA102",
+      "category": "Business"
+    },
+    {
+      "code": "FIN101",
+      "name": "Principle of Finance",
+      "credits": 3,
+      "prerequisites": "STA102",
+      "category": "Business"
+    },
+    {
+      "code": "MKT101",
+      "name": "Principle of Marketing",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business"
+    },
+    {
+      "code": "PHY109",
+      "name": "Engineering Physics-I (Introductory Classical Physics)",
+      "credits": 4,
+      "prerequisites": "MAT102",
+      "category": "Natural Science"
+    },
+    {
+      "code": "PHY209",
+      "name": "Engineering Physics-II (Introductory Quantum Physics)",
+      "credits": 3,
+      "prerequisites": "MAT205",
+      "category": "Natural Science"
+    },
+    {
+      "code": "CHE109",
+      "name": "Engineering Chemistry",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Natural Science"
+    },
+    {
+      "code": "MAT101",
+      "name": "Differential and Integral Calculus",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Mathematics and Statistics"
+    },
+    {
+      "code": "MAT102",
+      "name": "Differential Equations and Special Functions",
+      "credits": 3,
+      "prerequisites": "MAT101",
+      "category": "Mathematics and Statistics"
+    },
+    {
+      "code": "MAT104",
+      "name": "Coordinate Geometry and Vector Analysis",
+      "credits": 3,
+      "prerequisites": "MAT101",
+      "category": "Mathematics and Statistics"
+    },
+    {
+      "code": "MAT205",
+      "name": "Linear Algebra and Complex Variable",
+      "credits": 3,
+      "prerequisites": "MAT102",
+      "category": "Mathematics and Statistics"
+    },
+    {
+      "code": "STA102",
+      "name": "Statistics and Probability",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Mathematics and Statistics"
+    },
+    {
+      "code": "CSE103",
+      "name": "Structured Programming",
+      "credits": 4.5,
+      "prerequisites": "None",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE106",
+      "name": "Discrete Mathematics",
+      "credits": 3,
+      "prerequisites": "CSE103",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE110",
+      "name": "Object Oriented Programming",
+      "credits": 4.5,
+      "prerequisites": "CSE106",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE200",
+      "name": "Computer-Aided Engineering Drawing",
+      "credits": 1,
+      "prerequisites": "None",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE209",
+      "name": "Electrical Circuits",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE207",
+      "name": "Data Structures",
+      "credits": 4,
+      "prerequisites": "CSE110",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE251",
+      "name": "Electronic Circuits",
+      "credits": 4,
+      "prerequisites": "CSE209",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE246",
+      "name": "Algorithms",
+      "credits": 4.5,
+      "prerequisites": "CSE207",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE302",
+      "name": "Database Systems",
+      "credits": 4.5,
+      "prerequisites": "CSE106",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE325",
+      "name": "Operating Systems",
+      "credits": 4,
+      "prerequisites": "CSE207",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE345",
+      "name": "Digital Logic Design",
+      "credits": 4,
+      "prerequisites": "CSE251",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE347",
+      "name": "Information System Analysis and Design",
+      "credits": 4,
+      "prerequisites": "CSE302",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE360",
+      "name": "Computer Architecture",
+      "credits": 3,
+      "prerequisites": "CSE325",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE405",
+      "name": "Computer Networks",
+      "credits": 4,
+      "prerequisites": "CSE246",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE407",
+      "name": "Green Computing",
+      "credits": 3,
+      "prerequisites": "CSE405",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE487",
+      "name": "Cyber Security, Ethics and Law",
+      "credits": 3,
+      "prerequisites": "CSE405",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE495",
+      "name": "IT Project Management and Entrepreneurship",
+      "credits": 3,
+      "prerequisites": "CSE347",
+      "category": "Core CSE"
+    },
+    {
+      "code": "CSE400",
+      "name": "Capstone Project",
+      "credits": 6,
+      "prerequisites": "Completed at least 105 credit hours",
+      "category": "Capstone"
+    },
+    {
+      "code": "CSE225",
+      "name": "Numerical Methods",
+      "credits": 4,
+      "prerequisites": "CSE103",
+      "category": "Elective CSE"
+    },
+    {
+      "code": "CSE313",
+      "name": "Theory of Computations",
+      "credits": 3,
+      "prerequisites": "CSE246",
+      "category": "Elective CSE"
+    },
+    {
+      "code": "CSE460",
+      "name": "Cryptography",
+      "credits": 3,
+      "prerequisites": "CSE246",
+      "category": "Elective CSE"
+    },
+    {
+      "code": "CSE471",
+      "name": "Compiler Design",
+      "credits": 4,
+      "prerequisites": "CSE246",
+      "category": "Elective CSE"
+    },
+    {
+      "code": "CSE483",
+      "name": "Graph Theory",
+      "credits": 3,
+      "prerequisites": "CSE246",
+      "category": "Elective CSE"
+    },
+    {
+      "code": "CSE484",
+      "name": "Computational Geometry",
+      "credits": 3,
+      "prerequisites": "CSE246",
+      "category": "Elective CSE"
+    }
+  ],
+  "majors": {
+    "Intelligent Systems and Data Science": {
+      "compulsory_courses": [
+        {
+          "code": "CSE303",
+          "name": "Statistics for Data Science",
+          "credits": 4,
+          "prerequisites": "STA102"
+        },
+        {
+          "code": "CSE366",
+          "name": "Artificial Intelligence",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "CSE420",
+          "name": "Computer Graphics",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE438",
+          "name": "Digital Image Processing",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE445",
+          "name": "Computer Vision",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE452",
+          "name": "Distributed Systems and Algorithms",
+          "credits": 4,
+          "prerequisites": "CSE325"
+        },
+        {
+          "code": "CSE474",
+          "name": "Pattern Recognition",
+          "credits": 4,
+          "prerequisites": "CSE366"
+        },
+        {
+          "code": "CSE475",
+          "name": "Machine Learning",
+          "credits": 4,
+          "prerequisites": "CSE366"
+        },
+        {
+          "code": "CSE477",
+          "name": "Data Mining",
+          "credits": 4,
+          "prerequisites": "CSE366"
+        },
+        {
+          "code": "CSE481",
+          "name": "Nature-Inspired Computing",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE486",
+          "name": "Bioinformatics Algorithms",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE488",
+          "name": "Big Data Analytics",
+          "credits": 4,
+          "prerequisites": "CSE302"
+        }
+      ]
+    },
+    "Software Engineering": {
+      "compulsory_courses": [
+        {
+          "code": "CSE412",
+          "name": "Software Engineering",
+          "credits": 4,
+          "prerequisites": "CSE347"
+        },
+        {
+          "code": "CSE430",
+          "name": "Software Testing and Quality Assurance",
+          "credits": 4,
+          "prerequisites": "CSE412"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "CSE422",
+          "name": "Simulation and Modeling",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        },
+        {
+          "code": "CSE423",
+          "name": "Software Architecture",
+          "credits": 4,
+          "prerequisites": "CSE412"
+        },
+        {
+          "code": "CSE428",
+          "name": "Human Computer Interactions",
+          "credits": 4,
+          "prerequisites": "CSE412"
+        },
+        {
+          "code": "CSE452",
+          "name": "Distributed Systems and Algorithms",
+          "credits": 4,
+          "prerequisites": "CSE325"
+        },
+        {
+          "code": "CSE464",
+          "name": "Advanced Database System",
+          "credits": 4,
+          "prerequisites": "CSE302"
+        },
+        {
+          "code": "CSE479",
+          "name": "Web Programming",
+          "credits": 4,
+          "prerequisites": "CSE302"
+        },
+        {
+          "code": "CSE489",
+          "name": "Mobile Programming",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        }
+      ]
+    },
+    "Communications and Networking": {
+      "compulsory_courses": [
+        {
+          "code": "CSE350",
+          "name": "Data Communications",
+          "credits": 4,
+          "prerequisites": "CSE251"
+        },
+        {
+          "code": "CSE432",
+          "name": "Digital Signal Processing",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "CSE452",
+          "name": "Distributed Systems and Algorithms",
+          "credits": 4,
+          "prerequisites": "CSE325"
+        },
+        {
+          "code": "CSE453",
+          "name": "Wireless Networks",
+          "credits": 4,
+          "prerequisites": "CSE405"
+        },
+        {
+          "code": "CSE457",
+          "name": "Cellular Networks",
+          "credits": 4,
+          "prerequisites": "CSE405"
+        },
+        {
+          "code": "CSE472",
+          "name": "Advanced Network Services and Management",
+          "credits": 4,
+          "prerequisites": "CSE405"
+        },
+        {
+          "code": "CSE473",
+          "name": "Network Security and Systems",
+          "credits": 4,
+          "prerequisites": "CSE405"
+        },
+        {
+          "code": "CSE489",
+          "name": "Mobile Programming",
+          "credits": 4,
+          "prerequisites": "CSE246"
+        }
+      ]
+    },
+    "Hardware Engineering": {
+      "compulsory_courses": [
+        {
+          "code": "CSE355",
+          "name": "Digital System Design",
+          "credits": 4,
+          "prerequisites": "CSE345"
+        },
+        {
+          "code": "CSE442",
+          "name": "Microprocessors and Microcontrollers",
+          "credits": 4,
+          "prerequisites": "CSE360"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "CSE406",
+          "name": "Internet of Things",
+          "credits": 4,
+          "prerequisites": "CSE405"
+        },
+        {
+          "code": "CSE446",
+          "name": "ASIC Design Using FPGA",
+          "credits": 4,
+          "prerequisites": "CSE345"
+        },
+        {
+          "code": "CSE491",
+          "name": "VLSI Design",
+          "credits": 4,
+          "prerequisites": "CSE345"
+        },
+        {
+          "code": "CSE492",
+          "name": "Robotics",
+          "credits": 4,
+          "prerequisites": "CSE366"
+        },
+        {
+          "code": "CSE494",
+          "name": "Embedded Systems",
+          "credits": 4,
+          "prerequisites": "CSE442"
+        }
+      ]
+    }
+  },
+  "semester_plan": [
+    {
+      "year": "1st Year",
+      "semester": "1st Semester",
+      "courses": [
+        {
+          "code": "ENG101",
+          "name": "Basic English",
+          "credits": 3
+        },
+        {
+          "code": "MAT101",
+          "name": "Differential and Integral Calculus",
+          "credits": 3
+        },
+        {
+          "code": "CSE103",
+          "name": "Structured Programming",
+          "credits": 4.5
+        }
+      ],
+      "total_credits": 10.5
+    },
+    {
+      "year": "1st Year",
+      "semester": "2nd Semester",
+      "courses": [
+        {
+          "code": "ENG102",
+          "name": "Composition And Communication Skills",
+          "credits": 3
+        },
+        {
+          "code": "MAT102",
+          "name": "Differential Equations and Special Functions",
+          "credits": 3
+        },
+        {
+          "code": "CSE106",
+          "name": "Discrete Mathematics",
+          "credits": 3
+        },
+        {
+          "code": "CHE109",
+          "name": "Engineering Chemistry",
+          "credits": 4
+        }
+      ],
+      "total_credits": 13
+    },
+    {
+      "year": "1st Year",
+      "semester": "3rd Semester",
+      "courses": [
+        {
+          "code": "PHY109",
+          "name": "Engineering Physics-I",
+          "credits": 4
+        },
+        {
+          "code": "MAT104",
+          "name": "Coordinate Geometry and Vector Analysis",
+          "credits": 3
+        },
+        {
+          "code": "CSE110",
+          "name": "Object Oriented Programming",
+          "credits": 4.5
+        }
+      ],
+      "total_credits": 11.5
+    },
+    {
+      "year": "2nd Year",
+      "semester": "1st Semester",
+      "courses": [
+        {
+          "code": "GEN226",
+          "name": "Emergence of Bangladesh",
+          "credits": 3
+        },
+        {
+          "code": "STA102",
+          "name": "Statistics and Probability",
+          "credits": 3
+        },
+        {
+          "code": "CSE200",
+          "name": "Computer-Aided Engineering Drawing",
+          "credits": 1
+        },
+        {
+          "code": "CSE209",
+          "name": "Electrical Circuits",
+          "credits": 4
+        }
+      ],
+      "total_credits": 11
+    },
+    {
+      "year": "2nd Year",
+      "semester": "2nd Semester",
+      "courses": [
+        {
+          "code": "Elective General Education-I",
+          "name": "Elective General Education-I",
+          "credits": 3
+        },
+        {
+          "code": "MAT205",
+          "name": "Linear Algebra and Complex Variables",
+          "credits": 3
+        },
+        {
+          "code": "CSE207",
+          "name": "Data Structures",
+          "credits": 4
+        },
+        {
+          "code": "CSE251",
+          "name": "Electronic Circuits",
+          "credits": 4
+        }
+      ],
+      "total_credits": 14
+    },
+    {
+      "year": "2nd Year",
+      "semester": "3rd Semester",
+      "courses": [
+        {
+          "code": "Elective General Education-II",
+          "name": "Elective General Education-II",
+          "credits": 3
+        },
+        {
+          "code": "PHY209",
+          "name": "Engineering Physics-II",
+          "credits": 3
+        },
+        {
+          "code": "CSE325",
+          "name": "Operating Systems",
+          "credits": 4
+        }
+      ],
+      "total_credits": 10
+    },
+    {
+      "year": "3rd Year",
+      "semester": "1st Semester",
+      "courses": [
+        {
+          "code": "Elective General Education-III",
+          "name": "Elective General Education-III",
+          "credits": 3
+        },
+        {
+          "code": "CSE246",
+          "name": "Algorithms",
+          "credits": 4.5
+        },
+        {
+          "code": "CSE302",
+          "name": "Database Systems",
+          "credits": 4.5
+        }
+      ],
+      "total_credits": 12
+    },
+    {
+      "year": "3rd Year",
+      "semester": "2nd Semester",
+      "courses": [
+        {
+          "code": "CSE345",
+          "name": "Digital Logic Design",
+          "credits": 4
+        },
+        {
+          "code": "CSE347",
+          "name": "Information System Analysis and Design",
+          "credits": 4
+        },
+        {
+          "code": "Compulsory Major-I",
+          "name": "Compulsory Major-I",
+          "credits": 4
+        }
+      ],
+      "total_credits": 12
+    },
+    {
+      "year": "3rd Year",
+      "semester": "3rd Semester",
+      "courses": [
+        {
+          "code": "CSE360",
+          "name": "Computer Architecture",
+          "credits": 3
+        },
+        {
+          "code": "CSE405",
+          "name": "Computer Networks",
+          "credits": 4
+        },
+        {
+          "code": "Compulsory Major-II",
+          "name": "Compulsory Major-II",
+          "credits": 4
+        }
+      ],
+      "total_credits": 11
+    },
+    {
+      "year": "4th Year",
+      "semester": "1st Semester",
+      "courses": [
+        {
+          "code": "CSE400",
+          "name": "Capstone Project-I",
+          "credits": 1
+        },
+        {
+          "code": "CSE407",
+          "name": "Green Computing",
+          "credits": 3
+        },
+        {
+          "code": "Elective Major-I",
+          "name": "Elective Major-I",
+          "credits": 4
+        },
+        {
+          "code": "Elective Non-Major-I",
+          "name": "Elective Non-Major-I",
+          "credits": 4
+        }
+      ],
+      "total_credits": 12
+    },
+    {
+      "year": "4th Year",
+      "semester": "2nd Semester",
+      "courses": [
+        {
+          "code": "CSE400",
+          "name": "Capstone Project-II",
+          "credits": 2
+        },
+        {
+          "code": "CSE487",
+          "name": "Cyber Security, Ethics and Law",
+          "credits": 3
+        },
+        {
+          "code": "Elective Major-II",
+          "name": "Elective Major-II",
+          "credits": 4
+        },
+        {
+          "code": "Elective Non-Major-II",
+          "name": "Elective Non-Major-II",
+          "credits": 4
+        }
+      ],
+      "total_credits": 13
+    },
+    {
+      "year": "4th Year",
+      "semester": "3rd Semester",
+      "courses": [
+        {
+          "code": "CSE400",
+          "name": "Capstone Project-III",
+          "credits": 3
+        },
+        {
+          "code": "CSE495",
+          "name": "IT Project Management and Entrepreneurship",
+          "credits": 3
+        },
+        {
+          "code": "Elective Major-III",
+          "name": "Elective Major-III",
+          "credits": 4
+        }
+      ],
+      "total_credits": 10
+    }
+  ],
+  "miscellaneous": []
+}

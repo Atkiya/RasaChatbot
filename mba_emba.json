@@ -1,0 +1,449 @@
+{
+  "program": "MBA",
+  "total_credits": 60,
+  "sections": {
+    "foundation_courses": {
+      "total_courses": 10,
+      "total_credits": 30,
+      "waiver_policy": "Maximum of 5 courses (15 credits) may be waived under EWU authority.",
+      "courses": [
+        { "code": "MBA-9501", "title": "Financial Accounting", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9502", "title": "Business Mathematics", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9503", "title": "Organization & Management", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9504", "title": "Business Statistics", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9506", "title": "Business Communication", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9508", "title": "Management Accounting", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9511", "title": "Business Research", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9512", "title": "Managerial Economics", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9513", "title": "Entrepreneurship", "description": "Not provided in uploaded text." },
+        { "code": "MBA-9514", "title": "Legal Environment of Business", "description": "Not provided in uploaded text." }
+      ]
+    },
+    "core_courses": {
+      "total_courses": 5,
+      "total_credits": 15,
+      "courses": [
+        {
+          "code": "FIN9501",
+          "title": "Financial Management",
+          "description": "This course is primarily designed to focus on the mechanism of short-term and long-term financing along with the investment and dividend decisions of a business firm. This course teaches the tools and techniques that are required by a prudent financial manager to capture the proven ability to adapt to change, raise funds, invest in assets, and manage wisely which would eventually contribute to the success of the business firm as well as the growth of the economy as a whole. Additionally, the course would facilitate the students to undertake a sensitivity analysis of the investment decisions in the event of handling uncertainties and challenges cropping up around the globe."
+        },
+        {
+          "code": "HRM9501",
+          "title": "Human Resource Management",
+          "description": "This course provides understanding of personnel and human resource management. It introduces the best practices for attracting, developing, motivating and retaining a workforce. It considers human resource issues such as recruitment and selection, diversity, performance evaluation, compensation and reward systems, teams, worker participation programs."
+        },
+        {
+          "code": "MIS9501",
+          "title": "Management Information System",
+          "description": "This course will provide a managerial prospective on the use, design, and evaluation of information systems. It presents an organizational view of how to use information technology to support planning and decision making. Topics include hardware, software, databases, telecommunication systems, the strategic use of information systems, the development of information systems, and social and ethical issues involved in information systems."
+        },
+        {
+          "code": "MKT9501",
+          "title": "Marketing Management",
+          "description": "This course presents a structured approach to understanding and managing marketing function. Topics include market segmentation, targeting and positioning, market research, product decisions, pricing, placing, sales management, advertising, new product development, and marketing budgets."
+        },
+        {
+          "code": "OPM9501",
+          "title": "Operations Management",
+          "description": "Operations Management is one of the three major functions of business including; Marketing, Operations, and Finance/Accounting. This introductory course introduces the student to Operations Management; how products and services are created and delivered to the customer. Topics include, Productivity, Project Management, Forecasting. Types of Process, Layout, MRP, Inventory."
+        }
+      ]
+    },
+    "concentration_courses": {
+      "requirement": "Complete 4 courses (at least 3 from one concentration).",
+      "areas": {
+        "Accounting": [
+          {
+            "code": "ACT9521",
+            "title": "Accounting Information Systems",
+            "description": "Accounting is a system of providing information to different stakeholders. With the advent of computer, the nature of generating and providing information changes dramatically. This course will cover the basics of accounting information systems, vouching, flow diagrams, internal control system, risk exposures in various transaction cycles, application of computers in processing accounting information and use of accounting packages in practice. The course targets to make the participants confident in designing accounting information system independently."
+          },
+          {
+            "code": "ACT9522",
+            "title": "Advanced Financial Accounting",
+            "description": "This course targets to fulfill the basic requirements of accounting students in financial accounting stream with some advanced needs. The course will broadly cover accounting for banks, insurance companies, leasing, investments, income taxes, stockholders’ equity, earnings per share (basic and diluted) and other related topics. Students are expected to make a link between accounting standards and practices successfully upon the completion of the course."
+          },
+          {
+            "code": "ACT9523",
+            "title": "Corporate Tax Planning",
+            "description": "This course targets to cater the specific need of a student who like to position himself as a tax planner or tax management expert. As tax is mandatory, management of tax is a requirement in corporate world through proper planning. This course is designed with different tax planning issues, methodologies, corporate tax fundamentals, parties involved in the process, expectation of management with related cases and other related topics. It is expected that the participants can plan corporate taxes more effectively and efficiently then before once they join for the course."
+          },
+          {
+            "code": "ACT9524",
+            "title": "Corporate Financial Reporting",
+            "description": "This course is designed for accounting students to make them divergent with the interface between management and other stakeholders. The course covers the corporate financial reporting philosophy, different stakeholders, possible conflictions, emerging issues coming out from corporate failures, accountants’ role as a mediator, corporate governance codes and other reporting issues. Successful completion of the course ensures that the participants understand the basics of financial reporting issues and they can successfully handle any emergency arises in financial reporting."
+          },
+          {
+            "code": "ACT9525",
+            "title": "Audit and Assurance",
+            "description": "This course is very important for accounting students where they will learn international auditing standards with different issues like audit planning, audit program, auditors’ independence, different types of audits, materiality and risk management, internal control, audit evidence, vouching and balance sheet audit, audit report and other related issues. This course will be a very important course for the advanced learners, and it targets to equip students to face the external auditor while working for a company."
+          },
+          {
+            "code": "ACT9526",
+            "title": "Strategic Cost and Management Accounting",
+            "description": "This course caters the specific need of accounting students in manufacturing environment. It aims to equip students with advanced management accounting techniques like activity-based costing/management, cost of quality, international transfer pricing, balanced scorecard, decision making in uncertainty with some basic issues like material planning, overhead control, labor costing, job order and process costing. Upon the successful completion of the course, students are expected to handle the manufacturers’ accounts independently and do the pricing more accurately."
+          },
+          {
+            "code": "ACT9527",
+            "title": "Accounting for Management Control",
+            "description": "The aim of this course is to impart knowledge about management control systems using the accounting tools and techniques. In this course, a wide range of related theoretical and conceptual issues will be identified and their probable application in the real-world situation will be explored. After completing the course, the students are expected to learn about the control functions of management, control system costs, designing and evaluating management control systems, financial results control systems, financial responsibility centers, planning and budgeting, incentive systems, performance measures and their effects, combinations of measures and other remedies to the myopia problem, using financial results control in the presence of uncontrollable factors, corporate governance, import control-related roles, and ethics etc."
+          },
+          {
+            "code": "ACT9528",
+            "title": "Forensic Accounting",
+            "description": "This course is a recent development in accounting in response to successive corporate failures like Enron, WorldCom, Tyco and others. Accountants have been empowered further to work as a forensic accountant at the time of dispute settlements. This course will enrich the understanding of accounting students with the revised role as forensic accountant, power and duties, scope, types, methodologies, certification, challenges that a forensic accountant face, differentiating factors, status, money laundering, accounting crime and frauds, litigation services, business valuations, relevant cases and other related issues. The course targets to make the students confident with the job of forensic accountant so that they can practice the same within the organization."
+          }
+        ],
+        "Bank Management": [
+          {
+            "code": "BMG9521",
+            "title": "Banking Theory and Practice",
+            "description": "The course is designed to provide an exposure to the theories of banking and familiarize the students with the tools and techniques applied in various banking operations. It will cover the various theories of banking such as unit, branch and chain banking, liquidity-profitability combination, etc., general banking, operational procedures viz. accepting deposits under different types of deposit accounts, providing credit in the form of cash credit (pledge and hypothecation), overdraft and loans, remittances facilities, various types of ancillary services, banker-customer relationships, relationships and transactional banking, retail and wholesale banking, internet banking, central banking, comparative banking system and Islamic banking."
+          },
+          {
+            "code": "BMG9522",
+            "title": "Management of Commercial Banks",
+            "description": "This course is designed to provide the students with tools and techniques to manage commercial banks. The content of the course includes performance evaluation of a bank, asset-liability management, management of various kinds of risks, such as interest rate risks credit risk, liquidity risk and also fund management and investment management."
+          },
+          {
+            "code": "BMG9523",
+            "title": "Credit Management in Banks",
+            "description": "This is an applied course dealing with the credit planning in the overall context of bank management. It also covers discussion on various tools and techniques of credit appraisal, credit rating, cross checking of information, selection of borrowers and criteria of credit disbursement, supervision, monitoring and follow-up of credit, re-disbursement."
+          },
+          {
+            "code": "BMG9524",
+            "title": "Central Banking",
+            "description": "The course is designed to help students understand both the monitoring and controlling authority of the central bank as well as the management operation of the central bank of Bangladesh."
+          },
+          {
+            "code": "BMG9525",
+            "title": "International Finance and Banking",
+            "description": "The aim of this course is to impart knowledge regarding techniques, laws, principles, documents and procedures followed in international payments and different foreign exchange market operations, such as forward, swap, arbitrage, covered interest arbitrage, etc., exchange rate policy, managing foreign exchange risks and foreign exchange products like futures, options, etc. Various types of international banking activities are also covered in the course."
+          }
+        ],
+        "Finance": [
+          {
+            "code": "FIN9521",
+            "title": "Advanced Financial Management",
+            "description": "The course is designed to orientate students with tools and techniques that managers use for efficient running of the finance department of a corporation. After completing the course, the students are expected to learn how to manage working capital, cash & marketable securities and inventory of a corporation. The students will also learn about managing of short term financing, financial planning & control, capital structure, merger, common stock financing & investment banking."
+          },
+          {
+            "code": "FIN9522",
+            "title": "Corporate Finance",
+            "description": "This course explores the creative decisions facing financial managers in the modern corporate environment. It deals with the role financial decisions play in optimizing industry performance. Topics include making strategic acquisition, structuring of financial contracts, evaluation of merger candidates, leveraged buyouts, competitive bidding, corporate restructuring and other methods of shareholder value enhancement. The course also discusses issues related to corporate capital structure, dividend policy and leasing."
+          },
+          {
+            "code": "FIN9523",
+            "title": "Financial Institutions & Markets",
+            "description": "An overview of Bangladeshi and US financial systems and the role of the various markets and institutions is presented. Topics include introduction to various financial systems, supply of and demand for loan-able funds, levels and structures of interest rates, government and corporate securities and obligations, and transmission of macro financial policy actions to various sectors of the economy."
+          },
+          {
+            "code": "FIN9524",
+            "title": "International Financial Management",
+            "description": "This course is designed to acquaint students with tools and techniques used to manage the finance function of a multinational corporation (MNC). Topics included in this course are financial environment in which an MNC operates, exchange rate determination, measurement and management of various exchange rate exposure, international capital budgeting, management of short-term assets and liabilities of an MNC."
+          },
+          {
+            "code": "FIN9525",
+            "title": "Investment Banking",
+            "description": "Investment in financial assets (securities) is the focus of this course. Investment decisions require thorough analysis of risk and return. An understanding of the tradeoff between risk and return is at the heart of investment decision making process. Topics that will be covered in this course include bond valuation, equity valuation, portfolio diversification, market efficiency and its implications, and Capital Asset Pricing Model (CAPM)."
+          },
+          {
+            "code": "FIN9526",
+            "title": "Financial Derivatives",
+            "description": "The course focuses on derivative securities, such as, options, futures and swaps. Topics included in this course are an introduction to various types of derivative securities, an understanding of the markets in which derivative securities are traded, different pricing models of options and futures, and the use derivative securities in managing portfolio risk."
+          }
+        ],
+        "Human Resources Management": [
+          {
+            "code": "HRM9521",
+            "title": "Human Resource Planning",
+            "description": "This course is designed to equip the students with the techniques of developing personnel policy and implementation. It includes a detailed study of environmental trend analysis, manpower planning models, manpower needs and personnel information system to forecast manpower needs and considerations of some indicators of manpower effectiveness. Policy issues considered include work force composition, wage and salary administration in the context of developing countries."
+          },
+          {
+            "code": "HRM9522",
+            "title": "Performance Management",
+            "description": "This course deals with evaluating employee performance and managing a compensation system. Course topics include job analysis and job evaluation; competency modeling; developing and administering an effective performance appraisal system; linking performance with reward; motivating employees through rewards; legal issues in performance appraisal and compensation administration, developing and implementing a formal compensation system, incentives and benefits and the inter-relation among all of these considerations."
+          },
+          {
+            "code": "HRM9523",
+            "title": "Training and Development",
+            "description": "Training and development function; Strategy and training; Organizations of the training department; Training needs assessment; Learning and behavior; Designing of training programs; Evaluation of training programs; Training techniques; Technical training; Training and development of managers; Training in organization development; Theory and practice of career development; Developing career structures; Identifying organizational needs; Institutionalizing the career development system; Evaluating the system."
+          },
+          {
+            "code": "HRM9524",
+            "title": "Industrial Relations",
+            "description": "The course deals with worker-employer conflicts, origin of the development of trade union, trade unionism in the subcontinent, theories of union, process of collective bargaining, industrial dispute, grievance handling, strike and lockout, arbitration and labor laws. These are discussed in the context of socio-political and economic situation of Bangladesh. Labor laws of Bangladesh are to be studied in the course."
+          },
+          {
+            "code": "HRM9527",
+            "title": "Conflict Management",
+            "description": "This course will explore organizational grievance mechanism and conflict management aspects that are an inevitable part of the employment relationship. Students will study the existing public policy and develop and understanding on how to manage conflict and promote sound labour relations. In the policy arena, minimum wage laws, occupational health and safety standards, international and local labor standards, and other employment and labor laws and public policies will be parts of the course content."
+          }
+        ],
+        "Information Technology": [
+          {
+            "code": "MIS9521",
+            "title": "Structural Programming",
+            "description": "The course introduces students to basic programming concepts. Topics include structure programming, pseudo-code, flowcharts, data type, expression, variable& reserve word, memory variable address, print function, input, array & Boolean expression, if statement, If else statement, repletion structure (looping), function & procedure: definition, argument/ parameter, call by value/ call by reference, string operation, pointer. The course includes lab work based on theory taught."
+          },
+          {
+            "code": "MIS9522",
+            "title": "Electronic Commerce",
+            "description": "The course aims at providing students with an understanding of on-line business in the context of today’s global business environment. As most businesses compete in a global environment today, a sound business strategy for on-line business is essential to facilitate this. The course will cover key areas of on-line business, including business to business, business to consumer, Internet commerce, EDI, standards, regulation and policy, principles and practices of on-line business security and social and economic issues."
+          },
+          {
+            "code": "MIS9523",
+            "title": "Computer Networking",
+            "description": "The main focus of this course is on the logical and physical design and implementation of computer networks. Topics Include – Introduction to network and data communication concepts, Protocol concepts and functionality, Network Architectures-OSI Model and TCP/ IP Model; Physical Layer: Signals, Analog and Digital Signals, Data Rate Limits, Transmission impairments; Transmission Media: Guided Media, Wireless media; Digital Transmission: Line Coding, Block Coding, Sampling Transmission Mode, Analog Transmission: Modulation of digital data, Telephone modems, Modulation of analog signals. Multiplexing: FDM, WDM, TDNM; High Speed Digital Access: DSl, Cable Modems, and SONET; Data Link Layer: Error Detection and Correction, Data Link Control and Protocols; Point-to-point Access; PPP, Multiple Access; Local Area Networks, Wireless LAN: IEEE 802.11, Bluetooth; Internetworking devices, Frame Relay, ATM"
+          },
+          {
+            "code": "MIS9524",
+            "title": "Networking and Operating System",
+            "description": "This course focuses on the logical and physical design and implementation of computer network. The framework of layered architecture, different protocols, cable types and connectors, network naming and security, wide area networks, network trouble shooting, file systems of Microsoft NT, installing, fault tolerance, WINNT resources, remote Access, performance monitor, file systems of UNIX, basic commands, editors and shell scripts are studied in this course."
+          },
+          {
+            "code": "MIS9525",
+            "title": "Systems Analysis and Design",
+            "description": "The course is designed to train the students in the methodology and techniques of system analysis including critical path methods, search techniques, waiting lines, linear programming, dynamic programming and Simulation."
+          },
+          {
+            "code": "MIS9526",
+            "title": "Relational Database Systems",
+            "description": "The main objective of this course is to provide theoretical and practical guidelines on how to design, implement, and use of database management systems in business. Upon successful completion of this course, student will have the skills to analyze business requirements and produce a viable model and implementation of a database to meet such requirements. This course focuses on Basic Concept of Relational Database – Database Design & E-R Model, use of Structured Query Language (SQL), Data Mining & Information Retrieval and also gives a guideline to prepare a Practical DBM Project."
+          },
+          {
+            "code": "MIS9527",
+            "title": "Decision Support system",
+            "description": "This is a specialized course in information systems and information technology (IS/IT) for undergraduate MIS majors. This course will examine the design, development and implementation of information technology based systems that support managerial and professional work, including Communications-Driven and Group Decision Support Systems (GDSS), Data-Driven DSS, Model-Driven DSS, Document-Driven DSS, and Knowledge-Driven DSS. The course will also explore the role of DSS in supporting organization goals and the impact of information systems on organizations. Topics include Decision Support Systems and Business Intelligence, Computerized Decision Support, Decision Support Systems Concepts, Methodologies, and Technologies, Modeling and Analysis, Data Warehousing, Knowledge Management, Implementing Decision Support Systems."
+          }
+        ],
+        "Management": [
+          {
+            "code": "MGT9521",
+            "title": "Organization Design",
+            "description": "This course is intended to provide theoretical foundations of organizations, nature and purpose of organizations, and how and why organization design impacts. This subject includes broad areas like organizational purpose, organization design and its effectiveness, structural alternatives, power and politics, environmental interactions with design approaches, and relating performance with design. Contemporary issues faced by managers in the area of ethics and social responsibility and its impact on organizational development will also be emphasized. This course is useful for students interested in management and organization consulting."
+          },
+          {
+            "code": "MGT9522",
+            "title": "Management of Innovation and Change",
+            "description": "Innovation is necessary ingredient for today’s enterprises. Despite the paradox of stability and change, organizations must constantly change from within to build viable processes and structures that can sustain success. This course delivers the knowledge and skills necessary for leading the practice of change and harnessing innovation. The board areas of this course include foundation and degrees of innovation, organizational structure and culture of innovation, managing innovation in strategic projects, political and institutional perspectives on change management, leading and instituting change. The course will equip a student to perform the likely roles of change management consultant, project leader or entrepreneur."
+          },
+          {
+            "code": "MGT9523",
+            "title": "Leadership Theory and Practice",
+            "description": "This course presents a comprehensive, integrative, and practical focus on leadership and management. It is based upon a framework that analyzes leadership and management at individual, team, and organizational levels. The course presents leadership and management theories/concepts that have emerged over the past several decades. It provides students the opportunity to apply these theories through case analysis and to enhance personal skill development through self-assessment exercises. Included in the course are identification of current leaders and leadership as well as contemporary perspectives on ethics, networking, coaching, organizational culture, diversity, learning organizations, strategic leadership, and crisis leadership."
+          },
+          {
+            "code": "MGT9524",
+            "title": "Comparative Management",
+            "description": "Comparative management seeks to determine the applicability of mainstream management know-how to other contexts. For instance, continuing elevation of some Asian nations to global powerhouse status, the unprecedented transformation of societies through the adoption of market culture, and the economic integration in Europe and other parts of the world, and current tensions between the Islamic world and the West have made it an imperative to explore alternative management approaches to standard theories. In addition, global operations of MNCs allow managers to blend established management theories (western and eastern) to divergent local cultures. The broad aim of this course is to examine and understand some of the major business and management systems around the world, considering for comparative purpose, variations in those systems in terms of ideologies, culture and religion."
+          }
+        ],
+        "Marketing": [
+          {
+            "code": "MKT9521",
+            "title": "Consumer Behavior",
+            "description": "This course examines consumer behavior processes using cross-cultural, social and psychological theories and concepts. Questions regarding how consumers are motivated in their consumption and decisions are examined using practical examples and models of behavior. Also addressed are mass communication effects and the role of media and institutions in influencing consumer behavior."
+          },
+          {
+            "code": "MKT9523",
+            "title": "Brand Management",
+            "description": "The course is designed to help student design and develop new products and to be able to address the issue of branding. The course deal with the overall product mix including packaging and stresses more the issue of branding and its position in the overall product mix."
+          },
+          {
+            "code": "MKT9524",
+            "title": "Services Marketing",
+            "description": "Examines how services organizations differ in many important respects from other business requiring a distinctive approach to marketing strategy, development, and execution. Considers private, public, and not for profit service organizations in Bangladeshi context."
+          },
+          {
+            "code": "MKT9525",
+            "title": "Integrated Marketing Communication",
+            "description": "The main focus of this course is the integration of various marketing communication options to build a strong brand. It also covers the 360 degree marketing communication approach which includes advertising, public relation, direct marketing, event, ambient media, internet, interactive media etc."
+          },
+          {
+            "code": "MKT9527",
+            "title": "International Marketing",
+            "description": "This course provides an understanding of the problems and perspectives of marketing across national boundaries and develops the analytical ability for structuring and controlling marketing programs related to overseas business. It focuses on study and analysis of global market and its influence on domestic as well as international marketing."
+          },
+          {
+            "code": "MKT9529",
+            "title": "Retail Marketing",
+            "description": "Retail format: food, Retail format: Nonfood, cash studies on care four 4 new competition, Growth strategies, Internationalization of retailing, Retail branding and positioning, Store location, Merchandise and category management, Customer relationship management, buying – strategy and concepts, Logistics: Physical distribution, Logistics: Supply chain management, Financial Management and controlling."
+          },
+          {
+            "code": "MKT9530",
+            "title": "Digital Marketing",
+            "description": "The challenges and prospects of digital marketing. The digital technological environment. Infrastructure for E – Business. Strategic Uncertainty and the Future of Electronic Consumer. Economic perspective on Digital Marketing. Digital Marketing and the Exchange of Knowledge. Consumer Behavior in Digital environment, The Internet Buyer, Rethinking Market Research, Data Mining Digital Customers. Technology – Driven Demand Generation, New Offering Realization in the Networked Digital Environment, Digital Marketing Communication, Pricing Opportunities in the Digital Age, Cash Studies."
+          }
+        ],
+        "Operations Management": [
+          {
+            "code": "OPM9521",
+            "title": "Management Science",
+            "description": "To introduce students to the subject of Management Science, and a variety of management science models, methods and computational procedures that is helpful in solving management problems in different management areas. Topics include Management science approach, Linear Programming, Graphical Solution, Linear Programming Applications, formulation of Transportation, Transshipment and Assignment problem, Decision Analysis, Queuing Analysis"
+          },
+          {
+            "code": "OPM9522",
+            "title": "Supply Chain and Logistics Management",
+            "description": "Supply chain management is unique and, to some degree, represents a paradox because it is concerned with both one of the oldest activities of business: logistics, and the most newly discovered business paradigm: Supply Chain Management. Topics include Operations Management & Strategy, Demand Management & Forecasting, Capacity Management, Process Design, Lean Thinking, Dimensions of Logistics, Inventory & Resource Planning, Supply Chain Performance measurement, Network Design and Facility Location."
+          },
+          {
+            "code": "OPM9523",
+            "title": "Total Quality Management",
+            "description": "The course provides students with a set of quality concepts and tools and the knowledge required for their application in quality planning quality improvement and quality control. Topics include: Dimension of quality, Quality Planning, Quality Costs, Principles of TQM, TQM Principles, TQM tools, Statistical Process Control, Quality Systems."
+          },
+          {
+            "code": "OPM9524",
+            "title": "Project Management",
+            "description": "This course aims to provide students with the basic tools and techniques of project management, to demonstrate the importance of project management knowledge by means of experiential learning and lecture-based methodologies. Topics Include: Project Life Cycle, Work Breakdown Structure (WBS), Linear Programming, Crashing a project, Simulation of crashing Overview of Risk and its mitigation, Quality Management in Project Management."
+          },
+          {
+            "code": "OPM9525",
+            "title": "Management of Technology and Innovation",
+            "description": "One of the characteristics of contemporary society has been the increasing rate of technological change and its impact on the world of work. This course examines those significant mileposts in the recent history of technology, which have shaped the modern workplace. From this historical basis the possible impact on workers and the society of current and projected technological changes is assessed."
+          },
+          {
+            "code": "OPM9526",
+            "title": "Inventory Management",
+            "description": "The course teaches the students to manage inventories in the most efficient manner. The raw material, work in process, and the finished goods inventory management in entirety are dealt with. The course is designed to teach the students the science and arts of efficient and cost-effective inventory management."
+          }
+        ],
+        "Risk Management and Insurance": [
+          {
+            "code": "INS9521",
+            "title": "Risk Management & Insurance",
+            "description": "To provide an understanding and an appreciation of the principles and practices of risk management in order to enable production of the optimum strategy for the handling of risk in an organization. Also, to develop a sound appreciation of the nature of risk, its assessment and management, to acquire a knowledge of the nature and function of insurance and a knowledge of basic statistical concepts relating to the insurance environment."
+          },
+          {
+            "code": "INS9522",
+            "title": "Non-Life Insurance",
+            "description": "The course seeks to provide acknowledge and understanding of liability insurance practice, particularly relating to risk assessment and control, policy coverage, underwriting and statutory regulation and to enable candidates to construct solutions to practical problems. The course will also cover. Basic Principles of Insurance of the Person, Common Forms of Life assurance contract, Personal Accident and Health Insurance, Claims Procedure."
+          },
+          {
+            "code": "INS9523",
+            "title": "Reinsurance and Application",
+            "description": "To provide a knowledge and understanding of the principles of reinsurance, their general application to the different methods of reinsurance, the law relating to reinsurance, and the contract wordings in current use."
+          },
+          {
+            "code": "INS9524",
+            "title": "Underwriting Management",
+            "description": "This course will provide and understanding of and the ability to apply the requirements for managing a general insurance underwriting account through, selection of class of business and design of products, setting the underwriting policy for those products, establishing the price, management of exposures, the implementation of operational controls, budgeting and monitoring results."
+          },
+          {
+            "code": "INS9525",
+            "title": "Claims Management",
+            "description": "This course provides an understanding of the development off claims philosophies, the implementation of claims systems, the management of the claims services and the application of claims practice to transacting insurance business on an industry wide basis."
+          },
+          {
+            "code": "INS9526",
+            "title": "Life Assurance",
+            "description": "The course will also cover. Basic Principles of Insurance of the Person, Common Forms of Life assurance contract, Personal Accident and Health Insurance, Claims Procedure."
+          }
+        ],
+        "Textile and Garments Merchandising": [
+          {
+            "code": "TGM9521",
+            "title": "Global RMG Business",
+            "description": "The purpose of this course is to provide the students the introductory knowledge about the RMG business. WTO regulations, RMG manufacturers in the world, RMG related industries, knowledge of garments analysis, various processes of manufacturing apparels, different types of production, line balancing, line layout, plant layout, and factory or business house visits etc."
+          },
+          {
+            "code": "TGM9522",
+            "title": "Apparel Merchandising",
+            "description": "This course is designed to provide the students the essential knowledge and skill of merchandising, art of negotiation, determining of pricing, consumption, time calculation, order placement, order fulfillment, negotiation, sourcing etc."
+          },
+          {
+            "code": "TGM9523",
+            "title": "Pattern Process and CAD/CAM",
+            "description": "This course is designed to provide the students the basic understanding of pattern, pattern grading and CAD/CAM (Computer Aided Design/Computer Aided Manufacturing) functions, grading techniques, selection of garments model, shrinkages, patent measuring techniques, marker making techniques, pattern creation, pattern shaping, stretching line, blinding, assembling, lines, cuts, notches."
+          },
+          {
+            "code": "TGM9524",
+            "title": "Quality Control and Compliance",
+            "description": "This course provides the students the knowledge about the quality of material and products, quality evaluation system, determination of defects, AQL, label inspection, quality checking, control tools, classification of tools, compliance."
+          },
+          {
+            "code": "TGM9525",
+            "title": "Sourcing and Negotiation Techniques",
+            "description": "The purpose of this course is to provide the students with the knowledge of sourcing of RMG materials; comparative price, advantage and disadvantage of source materials and the rules of negotiation and negotiation practices."
+          }
+        ],
+        "Entrepreneurship": [
+          {
+            "code": "ENT9521",
+            "title": "New Venture Planning",
+            "description": "No Content"
+          },
+          {
+            "code": "ENT9522",
+            "title": "New Venture Formation",
+            "description": "No Content"
+          },
+          {
+            "code": "ENT9523",
+            "title": "Social Entrepreneurship",
+            "description": "No Content"
+          },
+          {
+            "code": "ENT9524",
+            "title": "Small Business Management",
+            "description": "No Content"
+          },
+          {
+            "code": "ENT9525",
+            "title": "Business Planning",
+            "description": "No Content"
+          }
+        ],
+        "Supply Chain and Management": [
+          {
+            "code": "SCM9521",
+            "title": "Strategic Supply Chain Management",
+            "description": "This course is designed to help students understand the importance of supply chain metrics, primary tradeoffs in making supply chain decisions, and day-to-day procurement and management of resources in the areas of service and manufacturing. This course discusses basic tools for effective and efficient supply chain management; production planning and inventory control; order fulfillment; and supply chain coordination. This course helps to identify various strategies and basic tools for effective and efficient supply chain management related to demand, procurement, planning, and the overall processes of the supply chain. This course is designed to help students learn about global supply chain design, logistics, and outsourcing, as well as several other recent supply chain innovations. Develop relationships between all suppliers and customers related to an organization."
+          },
+          {
+            "code": "SCM9522",
+            "title": "Transportation and Logistics Management",
+            "description": "This course is designed to understand the dynamics of supply chain logistics and transportation management principles, concepts, and techniques and identify the critical link in the entire supply chain. This course helps you to know how to apply the methods, theoretical concepts, and logistics strategies in real-life scenarios to improve efficiency through minimizing cost and gaining competitive advantage. After completing this course, students will know how to critically analyse and evaluate multiple methods and tools used by today’s supply chain managers in transportation and logistics systems and make optimal decisions for the improvement of these systems."
+          },
+          {
+            "code": "SCM9523",
+            "title": "Procurement and Supply Management / Strategic Sourcing & Procurement",
+            "description": "This course is designed to understand the dynamics of supply chain logistics and transportation management principles, concepts, and techniques and identify the critical link in the entire supply chain. This course helps you to know how to apply the methods, theoretical concepts, and logistics strategies in real-life scenarios to improve efficiency through minimizing cost and gaining competitive advantage. After completing this course, students will know how to critically analyze and evaluate multiple methods and tools used by today’s supply chain managers in transportation and logistics systems and make optimal decisions for the improvement of these systems."
+          },
+          {
+            "code": "SCM9524",
+            "title": "Supply Chain Analytics",
+            "description": "Fundamental concepts of Optimization, Operations Research Techniques for Analytics. Analytical tools and techniques within optimization and apply in designing and managing supply chains to improve efficiency of business operation. Implementation of analytics in supply chain strategies related to forecasting, supply planning, transportation etc. and critically evaluate a variety of business constraints and inputs in Supply Planning and supply chain system to aid decision making and to improve the logistics and supply chain performance."
+          },
+          {
+            "code": "SCM9525",
+            "title": "Warehousing and Distribution Management",
+            "description": "This course designed to help students understand the fundamental concepts, principles, and the role of warehousing in the supply chain and develop analytical and critical understanding of warehouse strategies, procedures, and practices. Teach how to efficiently apply theoretical concepts and warehouse strategies, procedures, and practices in real-life scenarios redefining value chain of firms while thinking logically in industry and service improvement for and maximizing customer value. After completing this course, students will know how to critically analyse and evaluate the components of a warehousing and logistics organization and propose plans and create strategies that may be considered in complex warehousing and logistics issues facing organizations."
+          },
+          {
+            "code": "SCM9526",
+            "title": "Advanced Project Management",
+            "description": "This course designed to help students to understand the concepts of Project Management for planning and organization project execution. Student will learn different project management tools and methodologies such as WBS, CPM, PERT, GANTT CHARTS etc. To know about the concepts of organizational forms, conflict resolution, and issues related to leadership and task management in a project environment. Apply project management principals and tools in most of the project work they may encounter in the future."
+          },
+          {
+            "code": "SCM9527",
+            "title": "Risk Management in Global Supply Chains",
+            "description": "This course is designed to help students understand risk and risk management within the supply chain and know the key benefits of a robust risk management framework and effective implementation. Students will learn about the various risk categories and how to assess risk. They understand how to analyse risk using Six Sigma (suppliers, inputs, processes, outputs, and customers), plan for a resilient supply chain, and implement this using Probabilistic Models, Big Data, and Analytics to Manage Risk. This course helps them to understand the future of global supply chain management and emerging risk management tools."
+          }
+        ]
+      }
+    },
+    "capstone_course": {
+      "total_courses": 1,
+      "total_credits": 3,
+      "courses": [
+        {
+          "code": "MGT9600",
+          "title": "Strategic Management",
+          "description": "This is a capstone course for the MBA/EMBA Program. This course discusses functions and responsibilities of senior management, the critical problems that affect success in the total enterprise, and the decisions that determine the direction of the organization and shape its future. The approach of the course is practical and problem oriented. A major part of the course involves applying concepts, frameworks, analytical techniques, and managerial insights to the strategic issues which real world companies face. Cases will be discussed and analyzed from various perspectives. Strategy is the unifying theme in case discussions."
+        }
+      ]
+    }
+  }
+}

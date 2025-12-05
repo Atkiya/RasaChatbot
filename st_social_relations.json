@@ -1,0 +1,726 @@
+{
+  "department_info": {
+    "program_name": "Bachelor of Social Science (BSS) in Population and Public Health Sciences (PPHS)",
+    "minimum_credits_required": 123,
+    "total_credits_offered": 130.0,
+    "tuition_fees": 601500,
+    "lab_fees": 36800,
+    "admission_fee": 20000,
+    "grand_total": 658300,
+    "duration_years": 4,
+    "max_extension_years": 7,
+    "credit_transfer_limit_percent": 50,
+    "teaching_methods": [
+      "Lecture",
+      "Conversation",
+      "Group discussion",
+      "Debate",
+      "Demonstration",
+      "Problem-solving",
+      "Group exercise",
+      "Case-study",
+      "Brainstorming",
+      "Cube method",
+      "Mosaic method",
+      "Graphic visualization (e.g., conceptual map, Venn diagram, bunch method)",
+      "Computer lab for data analysis",
+      "Multimedia",
+      "Field trips",
+      "Individual research projects/reports"
+    ],
+    "collaboration": "Partnership and exchange cooperation through memorandum of understanding (MoU) would be established with renowned universities and institutions worldwide having similar Bachelor programs to ensure academic excellence."
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "compulsory_general_education": 9,
+    "compulsory_foundation_courses": 18,
+    "core_courses": 27,
+    "major_stream_courses": 39,
+    "elective_courses_from_other_majors": 18,
+    "optional_courses": 6,
+    "individual_research_project": 4,
+    "field_trip": 2
+  },
+  "courses": [
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "GEN226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "PPHS101",
+      "name": "Introduction to Population Sciences",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS102",
+      "name": "Introduction to Public Health Sciences",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS103",
+      "name": "Introduction to Environmental Health",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS104",
+      "name": "Introduction to Biostatistics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS105",
+      "name": "Introduction to Epidemiology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS106",
+      "name": "Introduction to Social and Behavioral Sciences",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Foundation"
+    },
+    {
+      "code": "PPHS201",
+      "name": "Ecological System and Environment",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS202",
+      "name": "Behavioral Change Communication and Health Promotion",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS203",
+      "name": "Inferential and Applied Statistics",
+      "credits": 3,
+      "prerequisites": "PPHS104",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS204",
+      "name": "Quantitative Research Methodology",
+      "credits": 3,
+      "prerequisites": "PPHS104",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS205",
+      "name": "Quantitative Data Analysis Using Software and Report Writing",
+      "credits": 3,
+      "prerequisites": "PPHS203",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS206",
+      "name": "Advanced Epidemiology",
+      "credits": 3,
+      "prerequisites": "PPHS105",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS207",
+      "name": "Qualitative Research Methodology",
+      "credits": 3,
+      "prerequisites": "PPHS106",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS208",
+      "name": "Qualitative Data Analysis using Software and Report Writing",
+      "credits": 3,
+      "prerequisites": "PPHS207",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS209",
+      "name": "Project Management, Monitoring and Evaluation",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PPHS310",
+      "name": "Community Health Assessment",
+      "credits": 3,
+      "prerequisites": "PPHS206",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS311",
+      "name": "Community Health and Medicine",
+      "credits": 3,
+      "prerequisites": "PPHS102",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS312",
+      "name": "Hospital Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS313",
+      "name": "Sociology of Health and Illness",
+      "credits": 3,
+      "prerequisites": "PPHS106",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS314",
+      "name": "Media Awareness in Public Health",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS315",
+      "name": "Media Applications for Public Health",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS316",
+      "name": "Business Demography",
+      "credits": 3,
+      "prerequisites": "PPHS101",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS317",
+      "name": "Public Health Ethics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS318",
+      "name": "System Thinking in Environmental Health",
+      "credits": 3,
+      "prerequisites": "PPHS103",
+      "category": "Elective from Other Majors"
+    },
+    {
+      "code": "PPHS495",
+      "name": "Individual Research Project",
+      "credits": 4,
+      "prerequisites": "Senior Standing",
+      "category": "Research Project"
+    },
+    {
+      "code": "PPHS496",
+      "name": "Field Trip",
+      "credits": 2,
+      "prerequisites": "None",
+      "category": "Field Trip"
+    },
+    {
+      "code": "ENG100",
+      "name": "Improving Oral Communication Skills*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "CSE101",
+      "name": "Introduction to Computer Science*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "PPHS107",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "PPHS108",
+      "name": "Introduction to Anthropology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "PPHS109",
+      "name": "Introduction to Development Economics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN201",
+      "name": "Bangladesh Studies*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN202",
+      "name": "Eastern Culture and Heritage*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN204",
+      "name": "Western Thought*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN205",
+      "name": "Introduction to Psychology*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN207",
+      "name": "Industrial Psychology*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN208",
+      "name": "Introduction to Philosophy*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN209",
+      "name": "Introduction to Social Psychology*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN210",
+      "name": "International Relations*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN211",
+      "name": "Concepts of Journalism and Media Studies*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN212",
+      "name": "Women in Development*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN213",
+      "name": "Introduction to German Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN214",
+      "name": "Introduction to Development studies*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN215",
+      "name": "Introduction to French Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN216",
+      "name": "Introduction to Spanish Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN217",
+      "name": "Introduction to Chinese Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN218",
+      "name": "Introduction to Arabic Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN220",
+      "name": "Principles of Public Relations*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN221",
+      "name": "Globalization, Development and Change*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN224",
+      "name": "Bangla Language*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    },
+    {
+      "code": "GEN239",
+      "name": "Professional Ethics*",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional"
+    }
+  ],
+  "majors": {
+    "Population Sciences": {
+      "courses": [
+        {
+          "code": "PS301",
+          "name": "Fertility and Reproductive Behaviour",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS302",
+          "name": "Morbidity and Mortality",
+          "credits": 3,
+          "prerequisites": "PPHS105",
+          "category": "Major"
+        },
+        {
+          "code": "PS303",
+          "name": "Urbanization, Internal Migration and Mobility",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS304",
+          "name": "Techniques of Population Analysis",
+          "credits": 3,
+          "prerequisites": "PPHS104",
+          "category": "Major"
+        },
+        {
+          "code": "PS305",
+          "name": "International Migration and Development",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS306",
+          "name": "Nutrition and Food Security",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "PS307",
+          "name": "Population Health",
+          "credits": 3,
+          "prerequisites": "PPHS102",
+          "category": "Major"
+        },
+        {
+          "code": "PS401",
+          "name": "Population, Poverty and Development",
+          "credits": 3,
+          "prerequisites": "PPHS109",
+          "category": "Major"
+        },
+        {
+          "code": "PS402",
+          "name": "Family, Marriage and Population",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS403",
+          "name": "Population Aging",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS404",
+          "name": "Population Planning and Human Resource Development",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS405",
+          "name": "Population Dynamics of Bangladesh",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        },
+        {
+          "code": "PS406",
+          "name": "Population Policy and Programs in Bangladesh",
+          "credits": 3,
+          "prerequisites": "PPHS101",
+          "category": "Major"
+        }
+      ]
+    },
+    "Public Health": {
+      "courses": [
+        {
+          "code": "PH301",
+          "name": "Social Determinants of Health and Well-being",
+          "credits": 3,
+          "prerequisites": "PPHS106",
+          "category": "Major"
+        },
+        {
+          "code": "PH302",
+          "name": "Epidemiology of Communicable and Neglected Tropical Diseases",
+          "credits": 3,
+          "prerequisites": "PPHS105",
+          "category": "Major"
+        },
+        {
+          "code": "PH303",
+          "name": "Urban Health",
+          "credits": 3,
+          "prerequisites": "PPHS201",
+          "category": "Major"
+        },
+        {
+          "code": "PH304",
+          "name": "Sexual and Reproductive Health and Rights",
+          "credits": 3,
+          "prerequisites": "PPHS105",
+          "category": "Major"
+        },
+        {
+          "code": "PH305",
+          "name": "Epidemiology of Non-communicable Diseases and Injuries",
+          "credits": 3,
+          "prerequisites": "PPHS206",
+          "category": "Major"
+        },
+        {
+          "code": "PH306",
+          "name": "Global Health",
+          "credits": 3,
+          "prerequisites": "PPHS102",
+          "category": "Major"
+        },
+        {
+          "code": "PH307",
+          "name": "Occupational Health",
+          "credits": 3,
+          "prerequisites": "PPHS102",
+          "category": "Major"
+        },
+        {
+          "code": "PH401",
+          "name": "Health Systems and Administration in Bangladesh",
+          "credits": 3,
+          "prerequisites": "PPHS209",
+          "category": "Major"
+        },
+        {
+          "code": "PH402",
+          "name": "Health Policy and Process",
+          "credits": 3,
+          "prerequisites": "PPHS209",
+          "category": "Major"
+        },
+        {
+          "code": "PH403",
+          "name": "Health Economics and Healthcare Financing",
+          "credits": 3,
+          "prerequisites": "PPHS109",
+          "category": "Major"
+        },
+        {
+          "code": "PH404",
+          "name": "Health informatics",
+          "credits": 3,
+          "prerequisites": "CSE101",
+          "category": "Major"
+        },
+        {
+          "code": "PH405",
+          "name": "Modern Health Technologies",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Major"
+        },
+        {
+          "code": "PH406",
+          "name": "Public Health in Emergencies",
+          "credits": 3,
+          "prerequisites": "PPHS102",
+          "category": "Major"
+        }
+      ]
+    },
+    "Environmental Health": {
+      "courses": [
+        {
+          "code": "EH301",
+          "name": "Global Environmental Challenges",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH302",
+          "name": "Environmental Health",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH303",
+          "name": "Disaster Risk Reduction and Climate Change Adaptation in Bangladesh",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH304",
+          "name": "Environment and Development",
+          "credits": 3,
+          "prerequisites": "PPHS109",
+          "category": "Major"
+        },
+        {
+          "code": "EH305",
+          "name": "Gender and Environment",
+          "credits": 3,
+          "prerequisites": "PPHS106",
+          "category": "Major"
+        },
+        {
+          "code": "EH306",
+          "name": "Climate Change and Human Health",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH307",
+          "name": "Environmental Pollution and Human Health",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH401",
+          "name": "Environmental Health in Emergencies",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH402",
+          "name": "Urbanization and Sustainable Cities",
+          "credits": 3,
+          "prerequisites": "PPHS201",
+          "category": "Major"
+        },
+        {
+          "code": "EH403",
+          "name": "Food Security, Public Health and the Environment",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH404",
+          "name": "Environmental Epidemiology",
+          "credits": 3,
+          "prerequisites": "PPHS206",
+          "category": "Major"
+        },
+        {
+          "code": "EH405",
+          "name": "Public Health Toxicology",
+          "credits": 3,
+          "prerequisites": "PPHS103",
+          "category": "Major"
+        },
+        {
+          "code": "EH406",
+          "name": "Spatial Analysis of Population, Health and Development",
+          "credits": 3,
+          "prerequisites": "PPHS205",
+          "category": "Major"
+        }
+      ]
+    }
+  },
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "policy",
+      "description": "ELECTIVE_OTHER_MAJORS: In addition to completing 13 courses of one of three major streams, each student has to take 6 elective courses from other two major streams. For example, if a student aims to get specialization in the Public Health Stream, he/she will take six elective courses from the remaining 26 courses mentioned in Population Sciences and Environmental Health streams. Similarly, students aiming to get major in Population Sciences will take 6 courses from Public Health and Environmental Health streams. These courses are much more relevant for the PPHS program than optional courses. These courses will be offered in the 3rd and 4th year of the program."
+    },
+    {
+      "type": "admission_requirements",
+      "description": "Minimum qualifications for admission to the Bachelor program are as follows: 1. Minimum GPA of 3.00 in both SSC and HSC Examinations or 2. Candidates must have passed University of London and Cambridge GCE ‘O’ Level in at least five subjects and ‘A’ Level in at least two subjects. Only the best five subjects in ‘O’ Level and best two subjects in ‘A’ Level will be considered. Out of these seven subjects, a candidate must have at least 4B’s or GPA of 4.00 in the four subjects and 3 C’s or GPA of 3.5 in the remaining three subjects. (in the scale of A=5, B=4, C=3, D=2 and E=1 or 3. American High School Diploma; and 4. Acceptable EWU Admission Test Score. 5. Total GPA of 5.00 in both SSC and HSC Examinations for the children of Freedom Fighter. 6. The final selection of candidates for admission in the Bachelor Programs at EWU will be based on the Admission Test scores obtained with 75% from admission test, 10% from SSC/O-level and 15% from HSC/A-level. Admission Requirements for Foreign Students: For foreign Students particularly who come from other systems such as US High School Diploma, Indian/Nepalese system etc. (not from SSC/HSC or O/A Level system), the admission eligibility will be as follows: 1. Must have 12 years of schooling. 2. Pass with at least upper 50% marks/grade of their own education system. 3. Foreign students fulfilling EWU admission eligibility may not need to appear at the Admission Test. However, an equivalence committee will assess and recommend for satisfactory grade for the applicants who seek admission in EWU. A committee will assess and recommend for waiver of Admission Test, Scholarship etc. (if applicable) for foreign students and the students from other systems."
+    }
+  ]
+}

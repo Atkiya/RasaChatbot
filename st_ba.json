@@ -1,0 +1,1361 @@
+{
+  "department_info": {
+    "program_name": "Bachelor of Business Administration",
+    "minimum_credits_required": 123
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "compulsory_general_education_credits": 24,
+    "optional_general_education_credits": 9,
+    "core_credits": 60,
+    "open_elective_credits": 9,
+    "intern_project_credits": 3,
+    "major_credits": 18
+  },
+  "courses": [
+    {
+      "code": "BUS101",
+      "name": "Introduction to Business",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "CSE101",
+      "name": "Introduction to Computers I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO104",
+      "name": "Statistics for Business and Economics I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ENG100",
+      "name": "Improving Oral Communication Skills",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "GEN226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "MAT110",
+      "name": "Mathematics for Business and Economics I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "BUS301",
+      "name": "Business Ethics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "CSE102",
+      "name": "Introduction to Computers II",
+      "credits": 3,
+      "prerequisites": "CSE101",
+      "category": "Core"
+    },
+    {
+      "code": "ECO200",
+      "name": "Agricultural Economics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ECO220",
+      "name": "Behavioral Economics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ECO260",
+      "name": "Environmental & Natural Resource Economics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEB101",
+      "name": "Basic Biology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEB103",
+      "name": "Cell Biology-I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN201",
+      "name": "Bangladesh Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN202",
+      "name": "Eastern Culture and Heritage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN203",
+      "name": "Ecological System and Environment",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN204",
+      "name": "Western Thought",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN205",
+      "name": "Introduction to Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN206",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN207",
+      "name": "Industrial Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN208",
+      "name": "Introduction to Philosophy",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN209",
+      "name": "Introduction to Social Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN210",
+      "name": "International Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN211",
+      "name": "Concepts of Journalism & Media Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN212",
+      "name": "Women in Development",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN213",
+      "name": "Introduction to German Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN214",
+      "name": "Introduction to Development Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN215",
+      "name": "Introduction to French Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN216",
+      "name": "Introduction to Spanish Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN217",
+      "name": "Introduction to Chinese Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN218",
+      "name": "Introduction to Arabic Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN220",
+      "name": "Principles of Public Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN221",
+      "name": "Globalization, Development and Change",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN223",
+      "name": "Contemporary Security Studies in Asia-Pacific",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN224",
+      "name": "Bangla Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN225",
+      "name": "Demography and Economic Statistics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN239",
+      "name": "Professional Ethics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN301",
+      "name": "Principles of Public Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN302",
+      "name": "Development Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN303",
+      "name": "Globalization and Social Identity",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ISL101",
+      "name": "Introduction to Information Studies and Library Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ISL103",
+      "name": "Information and Society",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW101",
+      "name": "Law of Contract I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW102",
+      "name": "Muslim Law I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW103",
+      "name": "Law of Contract II",
+      "credits": 3,
+      "prerequisites": "LAW101",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW104",
+      "name": "Muslim Law II",
+      "credits": 3,
+      "prerequisites": "LAW102",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW105",
+      "name": "Interpretation of Statutes and English for Law",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW106",
+      "name": "Constitutional Law I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW107",
+      "name": "Legal System of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "LAW108",
+      "name": "Administrative Law",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MAT100",
+      "name": "College Mathematics (Compulsory for those students who have no mathematics in HSC or equivalent level)",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Remedial"
+    },
+    {
+      "code": "MAT101",
+      "name": "Differential & Integral Calculus",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MAT102",
+      "name": "Differential Equations & Special Functions",
+      "credits": 3,
+      "prerequisites": "MAT101",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MGT321",
+      "name": "Industrial Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "PHY100",
+      "name": "Introductory Physics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "POP201",
+      "name": "Health Challenges of Adolescents and Youths",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "POP202",
+      "name": "Introduction to Public Health",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "POP203",
+      "name": "Introduction to Population Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC101",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC102",
+      "name": "Introduction to Anthropology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC105",
+      "name": "Peasant Societies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC106",
+      "name": "Historical Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC107",
+      "name": "Social Problem and Analysis",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC201",
+      "name": "Sociology of Family and Marriage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC202",
+      "name": "Social Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC203",
+      "name": "Social Group and Social Development",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC205",
+      "name": "Rural Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC206",
+      "name": "Statistics for Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC208",
+      "name": "Social (Stratification and) Inequality",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC209",
+      "name": "Industrial Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC210",
+      "name": "Community, Communication and Culture",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC211",
+      "name": "Eastern Culture and Heritage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC212",
+      "name": "Social Ecology, Environment and Society",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC213",
+      "name": "Women in Development",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC214",
+      "name": "Introduction to Development Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC215",
+      "name": "Principles of Social and Public Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC216",
+      "name": "Globalization and Social Identity",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC217",
+      "name": "Religion, Ethnicity, Culture and Development in South Asia",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC218",
+      "name": "Sociology of Gender",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC219",
+      "name": "Sociology of Race and Ethnicity",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC220",
+      "name": "Quantitative Research Methodology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC221",
+      "name": "Social History and World Civilization",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "SOC310",
+      "name": "Sociology of Organization",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ACT101",
+      "name": "Financial Accounting",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ACT201",
+      "name": "Management Accounting",
+      "credits": 3,
+      "prerequisites": "ACT101",
+      "category": "Core"
+    },
+    {
+      "code": "BUS231",
+      "name": "Business Communication",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Core"
+    },
+    {
+      "code": "BUS361",
+      "name": "Legal Environment of Business",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO101",
+      "name": "Principles of Microeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO102",
+      "name": "Introduction to Macroeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO204",
+      "name": "Statistics for Business and Economics II",
+      "credits": 3,
+      "prerequisites": "ECO104",
+      "category": "Core"
+    },
+    {
+      "code": "FIN101",
+      "name": "Principles of Finance",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "FIN201",
+      "name": "Business Finance",
+      "credits": 3,
+      "prerequisites": "FIN101",
+      "category": "Core"
+    },
+    {
+      "code": "HRM301",
+      "name": "Human Resource Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ITB301",
+      "name": "International Business",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "MAT211",
+      "name": "Mathematics for Business and Economics II",
+      "credits": 3,
+      "prerequisites": "MAT110",
+      "category": "Core"
+    },
+    {
+      "code": "MGT101",
+      "name": "Principles of Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "MGT251",
+      "name": "Organizational Behavior",
+      "credits": 3,
+      "prerequisites": "MGT101",
+      "category": "Core"
+    },
+    {
+      "code": "MGT337",
+      "name": "Production Operations Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "MGT480",
+      "name": "Strategic Management",
+      "credits": 3,
+      "prerequisites": "Senior Standing",
+      "category": "Core"
+    },
+    {
+      "code": "MIS101",
+      "name": "Introduction to Management Information System",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "MIS305",
+      "name": "Enterprise Information System",
+      "credits": 3,
+      "prerequisites": "MIS101",
+      "category": "Core"
+    },
+    {
+      "code": "MKT101",
+      "name": "Principles of Marketing",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "MKT201",
+      "name": "Marketing Management",
+      "credits": 3,
+      "prerequisites": "MKT101",
+      "category": "Core"
+    },
+    {
+      "code": "BUS498 / BUS499",
+      "name": "Project Work / Internship",
+      "credits": 3,
+      "prerequisites": "Senior Standing",
+      "category": "Intern/Project"
+    }
+  ],
+  "majors": {
+    "Accounting": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "ACT311",
+          "name": "Taxation",
+          "credits": 3,
+          "prerequisites": "ACT101",
+          "category": "Major Required"
+        },
+        {
+          "code": "ACT411",
+          "name": "Intermediate Accounting I",
+          "credits": 3,
+          "prerequisites": "ACT201",
+          "category": "Major Required"
+        },
+        {
+          "code": "ACT421",
+          "name": "Intermediate Accounting II",
+          "credits": 3,
+          "prerequisites": "ACT411",
+          "category": "Major Required"
+        },
+        {
+          "code": "ACT441",
+          "name": "Cost Accounting",
+          "credits": 3,
+          "prerequisites": "ACT201",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "ACT427",
+          "name": "Auditing",
+          "credits": 3,
+          "prerequisites": "ACT411",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ACT430",
+          "name": "Accounting Information System",
+          "credits": 3,
+          "prerequisites": "MIS101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ACT456",
+          "name": "Accounting Theory",
+          "credits": 3,
+          "prerequisites": "ACT411",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ACT478",
+          "name": "Advanced Accounting",
+          "credits": 3,
+          "prerequisites": "ACT421",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "Finance": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "FIN425",
+          "name": "Investment Analysis and Management",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Required"
+        },
+        {
+          "code": "FIN435",
+          "name": "Managerial Finance",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Required"
+        },
+        {
+          "code": "FIN465",
+          "name": "International Financial Management",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "ACT311",
+          "name": "Taxation",
+          "credits": 3,
+          "prerequisites": "ACT101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN335",
+          "name": "Financial Institutions and Markets",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN350",
+          "name": "Real Estate Finance",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN380",
+          "name": "Management of Commercial Banks",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN408",
+          "name": "Financial Analysis and Control",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN410",
+          "name": "Risk Management and Insurance",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN450",
+          "name": "Cases in Financial Management",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "FIN475",
+          "name": "Option and Future",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "International Business": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "ITB401",
+          "name": "International Operations",
+          "credits": 3,
+          "prerequisites": "ITB301",
+          "category": "Major Required"
+        },
+        {
+          "code": "ITB428",
+          "name": "International Economics",
+          "credits": 3,
+          "prerequisites": "ECO102",
+          "category": "Major Required"
+        },
+        {
+          "code": "ITB465",
+          "name": "International Financial Management",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "ITB408",
+          "name": "International Marketing",
+          "credits": 3,
+          "prerequisites": "MKT101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ITB445",
+          "name": "International Financial Institution",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ITB450",
+          "name": "International Business Negotiations",
+          "credits": 3,
+          "prerequisites": "ITB301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ITB455",
+          "name": "Country Risk Analysis",
+          "credits": 3,
+          "prerequisites": "ITB301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "ITB460",
+          "name": "International Competitiveness",
+          "credits": 3,
+          "prerequisites": "ITB301",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "Management": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "MGT402",
+          "name": "Management Science",
+          "credits": 3,
+          "prerequisites": "MGT101, MAT211",
+          "category": "Major Required"
+        },
+        {
+          "code": "MGT421",
+          "name": "Entrepreneurship Development",
+          "credits": 3,
+          "prerequisites": "MGT101",
+          "category": "Major Required"
+        },
+        {
+          "code": "MGT465",
+          "name": "Leadership Management",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "MGT405",
+          "name": "Organizational Development and Change",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MGT410",
+          "name": "International Labor Management",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MGT425",
+          "name": "Total Quality Management",
+          "credits": 3,
+          "prerequisites": "MGT337",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MGT437",
+          "name": "Small Business Management",
+          "credits": 3,
+          "prerequisites": "MGT101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MGT448",
+          "name": "Managing Globalization",
+          "credits": 3,
+          "prerequisites": "ITB301",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "MIS": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "MIS401",
+          "name": "Structural Programming",
+          "credits": 3,
+          "prerequisites": "CSE102",
+          "category": "Major Required"
+        },
+        {
+          "code": "MIS402",
+          "name": "System Analysis and Design",
+          "credits": 3,
+          "prerequisites": "MIS101",
+          "category": "Major Required"
+        },
+        {
+          "code": "MIS404",
+          "name": "Networking and Operating System",
+          "credits": 3,
+          "prerequisites": "CSE102",
+          "category": "Major Required"
+        },
+        {
+          "code": "MIS406",
+          "name": "Relational Database Management Systems",
+          "credits": 3,
+          "prerequisites": "MIS101",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "MIS403",
+          "name": "Object Oriented Programming",
+          "credits": 3,
+          "prerequisites": "MIS401",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS407",
+          "name": "System Integration & Security and Internet",
+          "credits": 3,
+          "prerequisites": "MIS402, MIS404",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS408",
+          "name": "Internetworking with TCP/IP and Implementing Exchange Server",
+          "credits": 3,
+          "prerequisites": "MIS404",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS409",
+          "name": "Client/Server Administration",
+          "credits": 3,
+          "prerequisites": "MIS404",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS410",
+          "name": "Database Systems",
+          "credits": 3,
+          "prerequisites": "MIS406",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS415",
+          "name": "Decision Support Systems",
+          "credits": 3,
+          "prerequisites": "MIS305",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MIS419",
+          "name": "E-Commerce and Web Programming",
+          "credits": 3,
+          "prerequisites": "MIS401",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "Marketing": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "MKT410",
+          "name": "Consumer Behavior",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Required"
+        },
+        {
+          "code": "MKT414",
+          "name": "Marketing Research",
+          "credits": 3,
+          "prerequisites": "MKT201, ECO204",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "MKT401",
+          "name": "Sales Management",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT402",
+          "name": "Integrated Marketing Communication",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT408",
+          "name": "International Marketing",
+          "credits": 3,
+          "prerequisites": "MKT201, ITB301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT411",
+          "name": "Export-Import Management",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT412",
+          "name": "Service Marketing",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT416",
+          "name": "Brand Management",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT418",
+          "name": "Supply Chain Management",
+          "credits": 3,
+          "prerequisites": "MGT337",
+          "category": "Major Elective"
+        },
+        {
+          "code": "MKT430",
+          "name": "Strategic Marketing",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Major Elective"
+        }
+      ]
+    },
+    "HRM": {
+      "total_credits": 18,
+      "required_courses": [
+        {
+          "code": "HRM411",
+          "name": "Human Resource Planning",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Required"
+        },
+        {
+          "code": "HRM412",
+          "name": "Compensation Management",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Required"
+        },
+        {
+          "code": "HRM413",
+          "name": "Industrial Relations and Labour Law",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Required"
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "HRM415",
+          "name": "Training and Development",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM416",
+          "name": "Strategic Human Resource Management",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM417",
+          "name": "Human Resource Information System",
+          "credits": 3,
+          "prerequisites": "MIS101",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM418",
+          "name": "Job Analysis and Performance Appraisal",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM419",
+          "name": "Leadership, Power and Influence",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM420",
+          "name": "Organizational Development",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Major Elective"
+        },
+        {
+          "code": "HRM421",
+          "name": "International Human Resource Management",
+          "credits": 3,
+          "prerequisites": "HRM301, ITB301",
+          "category": "Major Elective"
+        }
+      ]
+    }
+  },
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "policy",
+      "description": "OPEN: Students must take three 300/400 level courses as open electives to qualify for the B.B.A. degree. They can choose any 300/400 level course from BA, and/or CSE, and/or ICE, and/or ENG, and/or ECO department. Students will not be allowed to take the following two courses as open elective course: ICE 301 (Network Technology) and ICE 403 (Local Area Network). Students must complete relevant prerequisite courses to qualify for enrollment into these open elective courses. Students willing to enroll into open elective courses of other departments must consult with the chairpersons and course instructors concerned."
+    },
+    {
+      "type": "second_major",
+      "description": "Second Major Non-BBA: Total Credits Required: 51",
+      "core_credits": 33,
+      "compulsory_courses": [
+        {
+          "code": "MAT110",
+          "name": "Mathematics for Business and Economics I",
+          "credits": 3
+        },
+        {
+          "code": "ECO104",
+          "name": "Statistics for Business and Economics I",
+          "credits": 3
+        },
+        {
+          "code": "ECO101",
+          "name": "Principles of Microeconomics",
+          "credits": 3
+        },
+        {
+          "code": "ECO102",
+          "name": "Introduction to Macroeconomics",
+          "credits": 3
+        },
+        {
+          "code": "MAT211",
+          "name": "Mathematics for Business and Economics II",
+          "credits": 3
+        },
+        {
+          "code": "ECO204",
+          "name": "Statistics for Business and Economics II",
+          "credits": 3
+        },
+        {
+          "code": "ACT101",
+          "name": "Financial Accounting",
+          "credits": 3
+        },
+        {
+          "code": "FIN101",
+          "name": "Principles of Finance",
+          "credits": 3
+        },
+        {
+          "code": "MGT101",
+          "name": "Principles of Management",
+          "credits": 3
+        },
+        {
+          "code": "MKT101",
+          "name": "Principles of Marketing",
+          "credits": 3
+        },
+        {
+          "code": "BUS231",
+          "name": "Business Communication",
+          "credits": 3
+        }
+      ],
+      "one_course_options": [
+        "ACT201",
+        "FIN201",
+        "MKT201",
+        "MGT251"
+      ],
+      "major_courses_credits": 15,
+      "major_areas": [
+        "ACT",
+        "FIN",
+        "ITB",
+        "MGT",
+        "MIS",
+        "MKT",
+        "HRM"
+      ]
+    }
+  ]
+}

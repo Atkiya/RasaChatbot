@@ -1,0 +1,152 @@
+{
+  "program": "Master of Science in Computer Science and Engineering (MS in CSE)",
+  "total_credits_required": 33,
+  "maximum_duration_semesters": 15,
+  "standard_duration_semesters": 3,
+  "major_areas": [
+    "Data Science",
+    "Software Engineering",
+    "Networking",
+    "Systems Engineering"
+  ],
+  "study_tracks": {
+    "Thesis Track": {
+      "compulsory_courses_all_majors": {
+        "courses": [
+          { "code": "CSE504", "title": "Algorithms", "credits": 3 },
+          { "code": "CSE505", "title": "Database Systems", "credits": 3 },
+          { "code": "CSE596", "title": "IT Project Management and Entrepreneurship", "credits": 3 }
+        ],
+        "total_credits": 9
+      },
+      "compulsory_courses_major": {
+        "count": 2,
+        "credits": 6
+      },
+      "elective_courses_major": {
+        "count": 3,
+        "credits": 9
+      },
+      "thesis": {
+        "code": "CSE599",
+        "title": "Master Thesis",
+        "credits": 9
+      },
+      "total_credits": 33
+    },
+    "Project Track": {
+      "compulsory_courses_all_majors": {
+        "courses": [
+          { "code": "CSE504", "title": "Algorithms", "credits": 3 },
+          { "code": "CSE505", "title": "Database Systems", "credits": 3 },
+          { "code": "CSE596", "title": "IT Project Management and Entrepreneurship", "credits": 3 }
+        ],
+        "total_credits": 9
+      },
+      "compulsory_courses_major": {
+        "count": 2,
+        "credits": 6
+      },
+      "elective_courses_major": {
+        "count": 5,
+        "credits": 15
+      },
+      "project": {
+        "code": "CSE597",
+        "title": "Master Project",
+        "credits": 3
+      },
+      "total_credits": 33
+    }
+  },
+  "prerequisite_courses": {
+    "note": "Non-credit prerequisite courses (Pass/Fail) required only if not covered in the Bachelor's degree."
+  },
+  "majors": {
+    "Data Science": {
+      "prerequisite_course": { "code": "CSE506", "title": "Artificial Intelligence", "credits": 0, "grading": "Pass/Fail" },
+      "compulsory_courses": [
+        { "code": "CSE520", "title": "Statistics for Data Science", "credits": 3 },
+        { "code": "CSE521", "title": "Machine Learning", "credits": 3 }
+      ],
+      "elective_courses": [
+        { "code": "CSE522", "title": "Data Mining", "credits": 3 },
+        { "code": "CSE523", "title": "Digital Image Processing", "credits": 3 },
+        { "code": "CSE524", "title": "Computer Vision", "credits": 3 },
+        { "code": "CSE525", "title": "Pattern Recognition", "credits": 3 },
+        { "code": "CSE526", "title": "Bioinformatics Algorithms", "credits": 3 },
+        { "code": "CSE527", "title": "Big Data Analytics", "credits": 3 },
+        { "code": "CSE560", "title": "Distributed Systems and Algorithms", "credits": 3 }
+      ]
+    },
+    "Software Engineering": {
+      "prerequisite_course": { "code": "CSE507", "title": "Information System Analysis and Design", "credits": 0, "grading": "Pass/Fail" },
+      "compulsory_courses": [
+        { "code": "CSE550", "title": "Software Engineering", "credits": 3 },
+        { "code": "CSE551", "title": "Software Testing and Quality Assurance", "credits": 3 }
+      ],
+      "elective_courses": [
+        { "code": "CSE552", "title": "Simulation and Modeling", "credits": 3 },
+        { "code": "CSE553", "title": "Software Architecture", "credits": 3 },
+        { "code": "CSE554", "title": "Human Computer Interactions", "credits": 3 },
+        { "code": "CSE555", "title": "Advanced Database System", "credits": 3 },
+        { "code": "CSE556", "title": "Web Programming", "credits": 3 },
+        { "code": "CSE560", "title": "Distributed Systems and Algorithms", "credits": 3 },
+        { "code": "CSE565", "title": "Mobile Programming", "credits": 3 },
+        { "code": "CSE521", "title": "Machine Learning", "credits": 3 },
+        { "code": "CSE522", "title": "Data Mining", "credits": 3 },
+        { "code": "CSE526", "title": "Bioinformatics Algorithms", "credits": 3 },
+        { "code": "CSE527", "title": "Big Data Analytics", "credits": 3 }
+      ]
+    },
+    "Networking": {
+      "prerequisite_course": { "code": "CSE508", "title": "Computer Networks", "credits": 0, "grading": "Pass/Fail" },
+      "compulsory_courses": [
+        { "code": "CSE560", "title": "Distributed Systems and Algorithms", "credits": 3 },
+        { "code": "CSE561", "title": "Advanced Network Services and Management", "credits": 3 }
+      ],
+      "elective_courses": [
+        { "code": "CSE562", "title": "Wireless Networks", "credits": 3 },
+        { "code": "CSE563", "title": "Cellular Networks", "credits": 3 },
+        { "code": "CSE564", "title": "Network Security and Systems", "credits": 3 },
+        { "code": "CSE565", "title": "Mobile Programming", "credits": 3 },
+        { "code": "CSE521", "title": "Machine Learning", "credits": 3 },
+        { "code": "CSE522", "title": "Data Mining", "credits": 3 },
+        { "code": "CSE527", "title": "Big Data Analytics", "credits": 3 }
+      ]
+    },
+    "Systems Engineering": {
+      "prerequisite_course": { "code": "CSE509", "title": "Digital Logic Design", "credits": 0, "grading": "Pass/Fail" },
+      "compulsory_courses": [
+        { "code": "CSE570", "title": "Internet of Things", "credits": 3 },
+        { "code": "CSE571", "title": "Microprocessors and Microcontrollers", "credits": 3 }
+      ],
+      "elective_courses": [
+        { "code": "CSE572", "title": "ASIC Design Using FPGA", "credits": 3 },
+        { "code": "CSE573", "title": "VLSI Design", "credits": 3 },
+        { "code": "CSE574", "title": "Robotics", "credits": 3 },
+        { "code": "CSE575", "title": "Embedded Systems", "credits": 3 },
+        { "code": "CSE521", "title": "Machine Learning", "credits": 3 },
+        { "code": "CSE522", "title": "Data Mining", "credits": 3 },
+        { "code": "CSE527", "title": "Big Data Analytics", "credits": 3 },
+        { "code": "CSE560", "title": "Distributed Systems and Algorithms", "credits": 3 },
+        { "code": "CSE561", "title": "Advanced Network Services and Management", "credits": 3 }
+      ]
+    }
+  },
+  "admission_requirements": {
+    "academic_background": [
+      "4-year Bachelor’s degree in CSE, CS, CE, SE, ICE, or equivalent with min CGPA 2.5/4.0",
+      "OR any Engineering/Science discipline with coursework in calculus, statistics, and programming (prerequisites may apply)"
+    ],
+    "secondary_education": "Must have passed HSC or equivalent from Science group",
+    "minimum_gpa": "2.50 in both SSC and HSC",
+    "alternative_qualification": "GCE O-Level (5 subjects) and A-Level (2 subjects) with at least 4 B’s and 3 C’s (A=5, B=4, C=3)",
+    "admission_test": "Must pass university-administered admission test"
+  },
+  "notes": [
+    "Students must declare major area at enrollment; change allowed before 2nd semester with Chairperson’s permission.",
+    "Study track (Thesis/Project) must be declared at enrollment; change allowed later with Chairperson’s permission.",
+    "Total program cost: BDT 269,060 (40 credits @ BDT 6,000/credit + fees)."
+  ]
+}

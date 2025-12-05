@@ -1,0 +1,936 @@
+{
+  "department_info": {
+    "program_name": "Bachelor of Social Science (BSS) in Economics",
+    "minimum_credits_required": 123
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "compulsory_general_education": 24,
+    "optional_general_education_and_sociology": 9,
+    "core_courses": 54,
+    "open_elective_courses": 36
+  },
+  "courses": [
+    {
+      "code": "BUS101",
+      "name": "Introduction to Business",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "CSE101",
+      "name": "Introduction to Computers I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG100",
+      "name": "Spoken English/ Improving Oral Communication Skills",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "ECO104",
+      "name": "Statistics for Business and Economics I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "GEN226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "MAT110",
+      "name": "Mathematics For Business and Economics I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Compulsory General Education"
+    },
+    {
+      "code": "CSE102",
+      "name": "Introduction to Computers II",
+      "credits": 3,
+      "prerequisites": "CSE101",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN204",
+      "name": "Western Thought",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN201",
+      "name": "Bangladesh Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN205",
+      "name": "Introduction to Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN207",
+      "name": "Industrial Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN210",
+      "name": "International Relation",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN211",
+      "name": "Concepts of Journalism & Media Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "GEN213",
+      "name": "Introduction to German Language",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ACT101",
+      "name": "Financial Accounting",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ENG145",
+      "name": "Introduction to Linguistic",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "ETE101",
+      "name": "Introduction to Telecommunication Engineering",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "FIN101",
+      "name": "Principles of Finance",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MAT101",
+      "name": "Differential and Integral Calculus",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MAT102",
+      "name": "Differential Equation and Special Function",
+      "credits": 3,
+      "prerequisites": "MAT101",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MGT101",
+      "name": "Principles of Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MIS101",
+      "name": "Introduction to Management Information System",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MKT101",
+      "name": "Principles of Marketing",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Optional General Education"
+    },
+    {
+      "code": "MAT100",
+      "name": "College Mathematics (* MAT 100 for those who have no Mathematics in HSC or equivalent Level)",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Remedial"
+    },
+    {
+      "code": "SOC101",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Sociology Elective"
+    },
+    {
+      "code": "SOC102",
+      "name": "Introduction to Anthropology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Sociology Elective"
+    },
+    {
+      "code": "SOC211",
+      "name": "Eastern Culture and Heritage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Sociology Elective"
+    },
+    {
+      "code": "SOC212",
+      "name": "Social Ecology, Environment & Society",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Sociology Elective"
+    },
+    {
+      "code": "SOC215",
+      "name": "Principles of Social & Public Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Sociology Elective"
+    },
+    {
+      "code": "ECO101",
+      "name": "Principles of Microeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO102",
+      "name": "Introduction to Macroeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ECO260",
+      "name": "Environmental & Natural Resource Economics",
+      "credits": 3,
+      "prerequisites": "ECO101",
+      "category": "Core"
+    },
+    {
+      "code": "ECO301",
+      "name": "Intermediate Microeconomic Theory I",
+      "credits": 3,
+      "prerequisites": "ECO101, MAT110",
+      "category": "Core"
+    },
+    {
+      "code": "ECO302",
+      "name": "Intermediate Macroeconomic Theory I",
+      "credits": 3,
+      "prerequisites": "ECO102, MAT110",
+      "category": "Core"
+    },
+    {
+      "code": "ECO310",
+      "name": "Money and Banking",
+      "credits": 3,
+      "prerequisites": "ECO102",
+      "category": "Core"
+    },
+    {
+      "code": "ECO315",
+      "name": "Public Finance",
+      "credits": 3,
+      "prerequisites": "ECO101",
+      "category": "Core"
+    },
+    {
+      "code": "ECO328",
+      "name": "International Trade and Finance",
+      "credits": 3,
+      "prerequisites": "ECO101, ECO102",
+      "category": "Core"
+    },
+    {
+      "code": "ECO349",
+      "name": "Economics of Development",
+      "credits": 3,
+      "prerequisites": "ECO101, ECO102",
+      "category": "Core"
+    },
+    {
+      "code": "ECO360",
+      "name": "Socio-Economic Profiles of Bangladesh",
+      "credits": 3,
+      "prerequisites": "ECO101, ECO102",
+      "category": "Core"
+    },
+    {
+      "code": "ECO465",
+      "name": "Basic Econometrics",
+      "credits": 3,
+      "prerequisites": "ECO104, ECO204, MAT211",
+      "category": "Core"
+    },
+    {
+      "code": "ECO467",
+      "name": "Intermediate Microeconomic Theory II",
+      "credits": 3,
+      "prerequisites": "ECO301",
+      "category": "Core"
+    },
+    {
+      "code": "ECO475",
+      "name": "History of Economic Thought",
+      "credits": 3,
+      "prerequisites": "ECO101, ECO102",
+      "category": "Core"
+    },
+    {
+      "code": "ECO477",
+      "name": "Intermediate Macroeconomic Theory II",
+      "credits": 3,
+      "prerequisites": "ECO302",
+      "category": "Core"
+    },
+    {
+      "code": "ECO490",
+      "name": "Research Methodology",
+      "credits": 3,
+      "prerequisites": "ECO465",
+      "category": "Core"
+    },
+    {
+      "code": "ECO495",
+      "name": "Supervised Research Paper",
+      "credits": 3,
+      "prerequisites": "ECO490",
+      "category": "Core"
+    },
+    {
+      "code": "MAT211",
+      "name": "Mathematics for Business and Economics II",
+      "credits": 3,
+      "prerequisites": "MAT110",
+      "category": "Core"
+    },
+    {
+      "code": "ECO204",
+      "name": "Statistics For Business & Economics II",
+      "credits": 3,
+      "prerequisites": "ECO104",
+      "category": "Core"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "open_elective_policy",
+      "description": "Students must complete 36 credits from the pool of Open Elective courses. Out of these 36 credits at least 15 credits must be from Economics courses. The other 18 credits can be from any other disciplines. At least 06 credits must be from 2xx level [including BUS 231]. At least 12 credits must be from 3xx level. At least 18 credits must be from 4xx level. Any courses from the respective levels (3 credits) that fulfill the prerequisites and are not listed can also be advised as Open Elective courses."
+    },
+    {
+      "type": "open_elective_2xx",
+      "courses": [
+        {
+          "code": "ACT201",
+          "name": "Management Accounting",
+          "credits": 3,
+          "prerequisites": "ACT101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "BUS231",
+          "name": "Business Communication",
+          "credits": 3,
+          "prerequisites": "ENG102",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "CSE205",
+          "name": "Discrete Mathematics",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "ECO200",
+          "name": "Agricultural Economics",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "ECO220",
+          "name": "Behavioral Economics",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "ENG200",
+          "name": "Advanced Verbal Communication Skills",
+          "credits": 3,
+          "prerequisites": "ENG100",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "FIN201",
+          "name": "Business Finance",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "MAT201",
+          "name": "Linear Algebra",
+          "credits": 3,
+          "prerequisites": "MAT101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "MGT251",
+          "name": "Organizational Behavior",
+          "credits": 3,
+          "prerequisites": "MGT101",
+          "category": "Open Elective 2xx"
+        },
+        {
+          "code": "MKT201",
+          "name": "Marketing Management",
+          "credits": 3,
+          "prerequisites": "MKT101",
+          "category": "Open Elective 2xx"
+        }
+      ]
+    },
+    {
+      "type": "open_elective_3xx",
+      "courses": [
+        {
+          "code": "ECO304",
+          "name": "Economics of Health",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO312",
+          "name": "Industrial Organization",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO314",
+          "name": "Public Sector Economics",
+          "credits": 3,
+          "prerequisites": "ECO315",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO329",
+          "name": "Contemporary Issues in International Economics",
+          "credits": 3,
+          "prerequisites": "ECO328",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO353",
+          "name": "Economics of Development in South Asia",
+          "credits": 3,
+          "prerequisites": "ECO349",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO354",
+          "name": "Environmental & Natural Resource Economics-II",
+          "credits": 3,
+          "prerequisites": "ECO260",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO355",
+          "name": "Blue Economics",
+          "credits": 3,
+          "prerequisites": "ECO260",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO357",
+          "name": "Mathematical Economics",
+          "credits": 3,
+          "prerequisites": "MAT211, ECO301",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO375",
+          "name": "Foundations in Financial Economics",
+          "credits": 3,
+          "prerequisites": "ECO101, FIN101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ECO382",
+          "name": "Economic Valuation of Environment",
+          "credits": 3,
+          "prerequisites": "ECO260",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "BUS361",
+          "name": "Legal Environment of Business",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "ENG313",
+          "name": "English for the Media",
+          "credits": 3,
+          "prerequisites": "ENG102",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "FIN335",
+          "name": "Financial Institution and Market",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "FIN350",
+          "name": "Real State Finance",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "FIN380",
+          "name": "Management of Commercial Bank",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "HRM301",
+          "name": "Human Resource Management",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Open Elective 3xx"
+        },
+        {
+          "code": "MGT337",
+          "name": "Production Operation Management",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Open Elective 3xx"
+        }
+      ]
+    },
+    {
+      "type": "open_elective_4xx",
+      "courses": [
+        {
+          "code": "ECO406",
+          "name": "International Economic Theory",
+          "credits": 3,
+          "prerequisites": "ECO328",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO414",
+          "name": "Trade Policy Analysis",
+          "credits": 3,
+          "prerequisites": "ECO328",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO433",
+          "name": "Gender and Development",
+          "credits": 3,
+          "prerequisites": "ECO349",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO443",
+          "name": "Social Mobilization, Rural Banking & Community Organization",
+          "credits": 3,
+          "prerequisites": "ECO349",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO447",
+          "name": "Applied Economics",
+          "credits": 3,
+          "prerequisites": "ECO465",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO449",
+          "name": "Economics of Information",
+          "credits": 3,
+          "prerequisites": "ECO301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO450",
+          "name": "Labor Economics",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO453",
+          "name": "Game Theory and Applications",
+          "credits": 3,
+          "prerequisites": "ECO301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO455",
+          "name": "Asian and Emerging Economies",
+          "credits": 3,
+          "prerequisites": "ECO328",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO460",
+          "name": "Managerial Economics",
+          "credits": 3,
+          "prerequisites": "ECO301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO461",
+          "name": "Competition Law and Economics",
+          "credits": 3,
+          "prerequisites": "ECO312",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO474",
+          "name": "Mathematical Economics II",
+          "credits": 3,
+          "prerequisites": "ECO357",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO480",
+          "name": "Urban Economics",
+          "credits": 3,
+          "prerequisites": "ECO101",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO484",
+          "name": "Project Analysis and Evaluation",
+          "credits": 3,
+          "prerequisites": "ECO465",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO485",
+          "name": "Cost Benefit Analysis",
+          "credits": 3,
+          "prerequisites": "ECO465",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO486",
+          "name": "Energy Economics and Policy",
+          "credits": 3,
+          "prerequisites": "ECO260",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO487",
+          "name": "Applied Econometrics",
+          "credits": 3,
+          "prerequisites": "ECO465",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO489",
+          "name": "Forecasting Methods in Business and Economics",
+          "credits": 3,
+          "prerequisites": "ECO465",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO491",
+          "name": "Welfare Economics",
+          "credits": 3,
+          "prerequisites": "ECO301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "ECO492",
+          "name": "Law and Economics",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MAT407",
+          "name": "Advanced Calculus",
+          "credits": 3,
+          "prerequisites": "MAT102",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MAT470",
+          "name": "Real Analysis",
+          "credits": 3,
+          "prerequisites": "MAT211",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "STA427",
+          "name": "Mathematical Statistics",
+          "credits": 3,
+          "prerequisites": "ECO204",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN408",
+          "name": "Financial Analysis and Control",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN410",
+          "name": "Risk Management and Insurance",
+          "credits": 3,
+          "prerequisites": "FIN101",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN425",
+          "name": "Investment Analysis and Management",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN435",
+          "name": "Managerial Finance",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN450",
+          "name": "Cases in Financial Management",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "FIN475",
+          "name": "Option and Future",
+          "credits": 3,
+          "prerequisites": "FIN201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "HRM411",
+          "name": "Human Resource Planning",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "HRM414",
+          "name": "Industrial Relations",
+          "credits": 3,
+          "prerequisites": "HRM301",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "HRM419",
+          "name": "Leadership Power and Influence",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "HRM420",
+          "name": "Organization Development",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MGT402",
+          "name": "Management Science",
+          "credits": 3,
+          "prerequisites": "MAT211",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MGT405",
+          "name": "Organizational Development and Change",
+          "credits": 3,
+          "prerequisites": "MGT251",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MGT410",
+          "name": "International Labor Market",
+          "credits": 3,
+          "prerequisites": "ECO102",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MKT410",
+          "name": "Consumer Behavior",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MKT411",
+          "name": "Export Import Management",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MKT412",
+          "name": "Service Marketing",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MKT414",
+          "name": "Marketing Research",
+          "credits": 3,
+          "prerequisites": "MKT201, ECO204",
+          "category": "Open Elective 4xx"
+        },
+        {
+          "code": "MKT406",
+          "name": "Brand Management",
+          "credits": 3,
+          "prerequisites": "MKT201",
+          "category": "Open Elective 4xx"
+        }
+      ]
+    },
+    {
+      "type": "second_major",
+      "description": "A second major in Economics is open to all undergraduate students at EWU who are not enrolled in BSS in Economics. Once a student earns a second major his/her degree will have a suffix Economics, like BBA (Marketing and Economics), etc.",
+      "total_credits_required": 45,
+      "compulsory_credits": 39,
+      "elective_credits": 6,
+      "elective_description": "Any two from ECO three or four hundred level courses",
+      "compulsory_courses": [
+        {
+          "code": "ECO101",
+          "name": "Principles of Microeconomics",
+          "credits": 3
+        },
+        {
+          "code": "ECO102",
+          "name": "Principles of Macroeconomics",
+          "credits": 3
+        },
+        {
+          "code": "ECO260",
+          "name": "Environmental & Natural Resource Economics",
+          "credits": 3
+        },
+        {
+          "code": "ECO315",
+          "name": "Public Finance",
+          "credits": 3
+        },
+        {
+          "code": "MAT110",
+          "name": "Mathematics for Business & Economics I",
+          "credits": 3
+        },
+        {
+          "code": "ECO104",
+          "name": "Statistics for Business and Economics I",
+          "credits": 3
+        },
+        {
+          "code": "ECO301",
+          "name": "Intermediate Microeconomic Theory I",
+          "credits": 3
+        },
+        {
+          "code": "ECO302",
+          "name": "Intermediate Macroeconomic Theory I",
+          "credits": 3
+        },
+        {
+          "code": "ECO465",
+          "name": "Basic Econometrics",
+          "credits": 3
+        },
+        {
+          "code": "ECO467",
+          "name": "Intermediate Microeconomic Theory II",
+          "credits": 3
+        },
+        {
+          "code": "ECO477",
+          "name": "Intermediate Macroeconomic Theory II",
+          "credits": 3
+        },
+        {
+          "code": "MAT211",
+          "name": "Mathematics for Business & Economics II",
+          "credits": 3
+        },
+        {
+          "code": "ECO204",
+          "name": "Statistics for Business & Economics II",
+          "credits": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "program": "Master of Social Sciences (MSS) in Economics",
+  "total_credits": 36,
+  "sections": {
+    "core_courses": {
+      "total_courses": 4,
+      "total_credits": 12,
+      "courses": [
+        { "code": "ECO501", "title": "Advanced Microeconomics" },
+        { "code": "ECO502", "title": "Advanced Macroeconomics" },
+        { "code": "ECO511", "title": "Mathematical Economics" },
+        { "code": "ECO565", "title": "Advanced Econometrics" }
+      ]
+    },
+    "elective_core_courses": {
+      "total_courses": 3,
+      "total_credits": 9,
+      "courses": [
+        { "code": "ECO525", "title": "Public Economics" },
+        { "code": "ECO528", "title": "International Trade" },
+        { "code": "ECO529", "title": "International Financial Economics" },
+        { "code": "ECO532", "title": "Economics of Development", "cross_listed": "MDS501" },
+        { "code": "ECO533", "title": "Monetary Theory" },
+        { "code": "ECO575", "title": "History of Economic Thought" },
+        { "code": "ECO584", "title": "Project Evaluation and Analysis" },
+        { "code": "ECO585", "title": "Applied Cost Benefit Analysis" },
+        { "code": "ECO590", "title": "Quantitative Modeling" },
+        { "code": "ECO592", "title": "Advanced Mathematical Economics" },
+        { "code": "ECO593", "title": "Advanced Health Economics" }
+      ],
+      "note": "Students must select any 3 courses (9 credits) from this pool."
+    },
+    "general_track": {
+      "description": "For students pursuing a general MSS without specialization.",
+      "requirements": [
+        {
+          "type": "additional_electives",
+          "credits": 9,
+          "courses": [
+            {
+              "level": "5xx",
+              "credits": 6,
+              "count": 2,
+              "source": "Section B or Section D"
+            },
+            {
+              "level": "6xx",
+              "credits": 3,
+              "count": 1,
+              "source": "Section D (must meet prerequisites)"
+            }
+          ]
+        }
+      ]
+    },
+    "specialization_track": {
+      "description": "Students must choose one specialization field and complete its required courses.",
+      "structure": "Each specialization requires 1 compulsory 500-level course + 2 elective 600-level courses from the same field.",
+      "specializations": {
+        "Agricultural_Economics": {
+          "compulsory_500_level": { "code": "ECO517", "title": "Agricultural Economics" },
+          "elective_600_level": [
+            { "code": "ECO607", "title": "Agricultural Production Economics" },
+            { "code": "ECO627", "title": "Agricultural Business" },
+            { "code": "ECO677", "title": "Climate Change and Development" },
+            { "code": "ECO687", "title": "Readings in Agricultural Economics" }
+          ]
+        },
+        "Environmental_and_Natural_Resource_Economics": {
+          "compulsory_500_level": { "code": "ECO542", "title": "Environmental Economics" },
+          "elective_600_level": [
+            { "code": "ECO622", "title": "Valuation of Environmental Resources" },
+            { "code": "ECO632", "title": "Economics of Non-Renewable Resources" },
+            { "code": "ECO642", "title": "Economics of Renewable Resources" },
+            { "code": "ECO682", "title": "Readings in Environmental and Natural Resource Economics" }
+          ]
+        },
+        "Labor_Economics": {
+          "compulsory_500_level": { "code": "ECO550", "title": "Advanced Labor Economics: Theory and Evidence" },
+          "elective_600_level": [
+            { "code": "ECO650", "title": "Advanced Labor Economics II" },
+            { "code": "ECO670", "title": "Empirical Microeconomics" },
+            { "code": "ECO680", "title": "Readings in Labor Economics" }
+          ]
+        },
+        "Energy_Economics": {
+          "compulsory_500_level": { "code": "ECO564", "title": "Energy Economics" },
+          "elective_600_level": [
+            { "code": "ECO644", "title": "Resources, Development and the Environment" },
+            { "code": "ECO654", "title": "Electricity Policy and Planning" },
+            { "code": "ECO674", "title": "International Perspective on Energy and Environmental Policy" },
+            { "code": "ECO684", "title": "Readings in Energy Economics" }
+          ]
+        },
+        "Econometrics": {
+          "compulsory_500_level": { "code": "ECO595", "title": "Time Series Models and Forecasting" },
+          "elective_600_level": [
+            { "code": "ECO625", "title": "Applied Econometrics" },
+            { "code": "ECO655", "title": "Special Topics in Econometrics" },
+            { "code": "ECO685", "title": "Readings in Econometrics" }
+          ]
+        }
+      }
+    },
+    "thesis_or_coursework": {
+      "options": [
+        {
+          "type": "Thesis",
+          "code": "ECO699",
+          "title": "Thesis",
+          "credits": 6
+        },
+        {
+          "type": "Coursework Alternative",
+          "credits": 6,
+          "courses": [
+            {
+              "level": "5xx",
+              "credits": 3,
+              "source": "Section B or Section D"
+            },
+            {
+              "level": "6xx",
+              "credits": 3,
+              "source": "Section D (must meet prerequisites)"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

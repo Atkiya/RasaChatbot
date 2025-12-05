@@ -1,0 +1,688 @@
+{
+  "department_info": {
+    "department_name": "Electronics and Telecommunication Engineering (ETE) / Interdisciplinary Computer Engineering (ICE)"
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {},
+  "courses": [
+    {
+      "code": "ETE 101",
+      "name": "Introduction to Telecommunication Engineering",
+      "credits": 1,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 105",
+      "name": "Computer Fundamentals & Programming Language",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 107",
+      "name": "Electrical Circuits - I",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 207",
+      "name": "Electrical Circuits - II",
+      "credits": 4,
+      "prerequisites": "ETE 107",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 212",
+      "name": "Electronic Circuits - I",
+      "credits": 4,
+      "prerequisites": "ETE 107",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 214",
+      "name": "Electronic Circuits - II",
+      "credits": 4,
+      "prerequisites": "ETE 212",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 216",
+      "name": "Signals & Systems",
+      "credits": 3,
+      "prerequisites": "MAT 205",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 219",
+      "name": "Electronic Properties of Materials",
+      "credits": 3,
+      "prerequisites": "PHY 209",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 261",
+      "name": "Introduction to Bioengineering",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 281",
+      "name": "Introduction to Environmental Engineering",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 282",
+      "name": "Renewable Energy Technology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 283",
+      "name": "Mechatronics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 302",
+      "name": "Computer Communications & Networks",
+      "credits": 4,
+      "prerequisites": "ETE 105",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 310",
+      "name": "Electromagnetic Theory",
+      "credits": 3,
+      "prerequisites": "PHY 109, MAT 104",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 311",
+      "name": "Digital Electronics",
+      "credits": 4,
+      "prerequisites": "ETE 107",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 312",
+      "name": "Communications Theory",
+      "credits": 3,
+      "prerequisites": "ETE 216",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 314",
+      "name": "Digital Communications",
+      "credits": 4,
+      "prerequisites": "ETE 312",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 316",
+      "name": "Microprocessors & Interfacing",
+      "credits": 4,
+      "prerequisites": "ETE 311",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 322",
+      "name": "Digital Signal Processing",
+      "credits": 4,
+      "prerequisites": "ETE 216",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 350",
+      "name": "Information Theory & Coding",
+      "credits": 3,
+      "prerequisites": "ETE 314",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 399",
+      "name": "Design & Simulation",
+      "credits": 1,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ETE 400",
+      "name": "Semiconductor Devices",
+      "credits": 3,
+      "prerequisites": "ETE 219",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 401",
+      "name": "VLSI Circuit Design",
+      "credits": 4,
+      "prerequisites": "ETE 311",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 403",
+      "name": "Optoelectronics",
+      "credits": 4,
+      "prerequisites": "ETE 219",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 405",
+      "name": "Advanced Digital Logic Design",
+      "credits": 4,
+      "prerequisites": "ETE 311",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 407",
+      "name": "Quantum Theory for Semiconductor Devices",
+      "credits": 3,
+      "prerequisites": "PHY 209",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 409",
+      "name": "Semiconductor Processing and Fabrication",
+      "credits": 3,
+      "prerequisites": "ETE 219",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 411",
+      "name": "Analog Integrated Circuits",
+      "credits": 4,
+      "prerequisites": "ETE 214",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 413",
+      "name": "Introduction to Nanotechnology",
+      "credits": 3,
+      "prerequisites": "ETE 219",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 415",
+      "name": "Power Electronics",
+      "credits": 4,
+      "prerequisites": "ETE 214",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 418",
+      "name": "Introduction to Embedded Systems",
+      "credits": 4,
+      "prerequisites": "ETE 316",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 419",
+      "name": "Biomedical Electronics",
+      "credits": 4,
+      "prerequisites": "ETE 214",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 420",
+      "name": "Introduction to Control Systems",
+      "credits": 4,
+      "prerequisites": "ETE 216",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 430",
+      "name": "RF & Microwave Engineering",
+      "credits": 4,
+      "prerequisites": "ETE 310",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 432",
+      "name": "Antenna Engineering",
+      "credits": 4,
+      "prerequisites": "ETE 310",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 441",
+      "name": "Wireless & Mobile Communications",
+      "credits": 3,
+      "prerequisites": "ETE 314",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 442",
+      "name": "Optical Fiber Communications",
+      "credits": 4,
+      "prerequisites": "ETE 312",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 444",
+      "name": "Telecommunication Networks & Switching",
+      "credits": 3,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 459",
+      "name": "Teletraffic Engineering",
+      "credits": 3,
+      "prerequisites": "ETE 350",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 451",
+      "name": "IP Telephony",
+      "credits": 3,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 456",
+      "name": "Wireless Networks",
+      "credits": 4,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 457",
+      "name": "Telecommunication Network Planning & Optimization",
+      "credits": 3,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 458",
+      "name": "Intelligent Networks",
+      "credits": 4,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 460",
+      "name": "Foundations of TCP/IP",
+      "credits": 4,
+      "prerequisites": "ETE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 461",
+      "name": "Object Oriented Programming",
+      "credits": 4,
+      "prerequisites": "ETE 105",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 463",
+      "name": "Data Structures & Algorithms",
+      "credits": 3,
+      "prerequisites": "ETE 105",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 465",
+      "name": "Database Systems, Software Analysis & Design",
+      "credits": 4,
+      "prerequisites": "ETE 105",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 467",
+      "name": "Computer Organization and Operating Systems",
+      "credits": 3,
+      "prerequisites": "ETE 316",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 470",
+      "name": "Applied Numerical Methods",
+      "credits": 4,
+      "prerequisites": "MAT 102",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 472",
+      "name": "Speech & Image Processing",
+      "credits": 4,
+      "prerequisites": "ETE 322",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 475",
+      "name": "Artificial Intelligence & Expert Systems",
+      "credits": 3,
+      "prerequisites": "ETE 105",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 477",
+      "name": "Neural Networks and Applications",
+      "credits": 3,
+      "prerequisites": "ETE 475",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 479",
+      "name": "Robotic Engineering",
+      "credits": 4,
+      "prerequisites": "ETE 420",
+      "category": "Elective"
+    },
+    {
+      "code": "ETE 498",
+      "name": "Research Project/Industrial Training",
+      "credits": 4,
+      "prerequisites": "Senior Standing",
+      "category": "Capstone"
+    },
+    {
+      "code": "ICE 101",
+      "name": "Introduction to Telecommunication Engineering",
+      "credits": 1,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 105",
+      "name": "Computer Fundamentals & Programming Language",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 107",
+      "name": "Object Oriented Programming",
+      "credits": 4,
+      "prerequisites": "ICE 105",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 109",
+      "name": "Electrical Circuits & Networks",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 207",
+      "name": "Data Structures",
+      "credits": 4,
+      "prerequisites": "ICE 107",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 209",
+      "name": "Signals & Systems",
+      "credits": 3,
+      "prerequisites": "MAT 205",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 245",
+      "name": "Algorithms",
+      "credits": 4,
+      "prerequisites": "ICE 207",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 251",
+      "name": "Electronic Circuits",
+      "credits": 4,
+      "prerequisites": "ICE 109",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 275",
+      "name": "Operating Systems",
+      "credits": 3,
+      "prerequisites": "ICE 207",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 301",
+      "name": "Database Systems, Software Analysis & Design",
+      "credits": 4,
+      "prerequisites": "ICE 207",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 302",
+      "name": "Computer Communications & Networks",
+      "credits": 4,
+      "prerequisites": "ICE 105",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 310",
+      "name": "Electromagnetic Theory",
+      "credits": 3,
+      "prerequisites": "PHY 109, MAT 104",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 311",
+      "name": "Digital Electronics",
+      "credits": 4,
+      "prerequisites": "ICE 109",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 312",
+      "name": "Communications Theory",
+      "credits": 3,
+      "prerequisites": "ICE 209",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 314",
+      "name": "Digital Communications",
+      "credits": 4,
+      "prerequisites": "ICE 312",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 316",
+      "name": "Microprocessors & Interfacing",
+      "credits": 4,
+      "prerequisites": "ICE 311",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 322",
+      "name": "Digital Signal Processing",
+      "credits": 4,
+      "prerequisites": "ICE 209",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 350",
+      "name": "Information Theory & Coding",
+      "credits": 3,
+      "prerequisites": "ICE 314",
+      "category": "Core"
+    },
+    {
+      "code": "ICE 401",
+      "name": "VLSI Circuit Design",
+      "credits": 4,
+      "prerequisites": "ICE 311",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 431",
+      "name": "RF & Microwave Engineering",
+      "credits": 4,
+      "prerequisites": "ICE 310",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 441",
+      "name": "Wireless & Mobile Communications",
+      "credits": 3,
+      "prerequisites": "ICE 314",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 442",
+      "name": "Optical Fiber Communications",
+      "credits": 4,
+      "prerequisites": "ICE 312",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 444",
+      "name": "Telecommunication Networks & Switching",
+      "credits": 3,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 446",
+      "name": "Satellite Communications",
+      "credits": 3,
+      "prerequisites": "ICE 312",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 450",
+      "name": "Communications and Network Security",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 452",
+      "name": "Multimedia Communications",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 454",
+      "name": "Antenna Engineering",
+      "credits": 4,
+      "prerequisites": "ICE 310",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 456",
+      "name": "Wireless Networks",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 457",
+      "name": "Telecommunication Network Planning & Optimization",
+      "credits": 3,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 458",
+      "name": "Intelligent Networks",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 459",
+      "name": "Teletraffic Theory",
+      "credits": 3,
+      "prerequisites": "ICE 350",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 460",
+      "name": "Foundations of TCP/IP",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 469",
+      "name": "Computer Architecture",
+      "credits": 4,
+      "prerequisites": "ICE 316",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 470",
+      "name": "Applied Numerical Methods",
+      "credits": 4,
+      "prerequisites": "MAT 102",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 471",
+      "name": "Network Programming",
+      "credits": 4,
+      "prerequisites": "ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 472",
+      "name": "Speech & Image Processing",
+      "credits": 4,
+      "prerequisites": "ICE 322",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 474",
+      "name": "Computer Graphics & Visualizations",
+      "credits": 4,
+      "prerequisites": "ICE 245",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 475",
+      "name": "Artificial Intelligence & Expert Systems",
+      "credits": 3,
+      "prerequisites": "ICE 245",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 477",
+      "name": "Neural Networks and Applications",
+      "credits": 3,
+      "prerequisites": "ICE 475",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 479",
+      "name": "Robotic Engineering",
+      "credits": 4,
+      "prerequisites": "ICE 420 or equivalent",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 481",
+      "name": "Telecommunications System Design",
+      "credits": 4,
+      "prerequisites": "ICE 314, ICE 302",
+      "category": "Elective"
+    },
+    {
+      "code": "ICE 482",
+      "name": "Design of Real Time Systems",
+      "credits": 4,
+      "prerequisites": "ICE 275",
+      "category": "Elective"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": []
+}

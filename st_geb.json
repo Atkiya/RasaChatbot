@@ -1,0 +1,51 @@
+{
+  "department_info": {
+    "department_name": "Genetic Engineering & Biotechnology (GEB)"
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {},
+  "courses": [
+    {
+      "code": "GEB 201",
+      "name": "Basic Biochemistry",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "GEB 203",
+      "name": "Animal Physiology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "GEB 302",
+      "name": "Fundamentals of Genetic Engineering & Biotechnology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "GEB 408",
+      "name": "GMOs, Biosafety Regulations and Environmental Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "GEB 410",
+      "name": "Current topics in Genetic Engineering and Biotechnology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": []
+}

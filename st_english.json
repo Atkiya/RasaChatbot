@@ -1,0 +1,344 @@
+{
+  "department_info": {
+    "department_name": "English"
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {},
+  "courses": [
+    {
+      "code": "ENG099",
+      "name": "Remedial English",
+      "credits": 0,
+      "prerequisites": "None",
+      "category": "Remedial",
+      "description": "Remedial English is an intensive course for students who need to improve their academic English. Writing lessons will focus on identifying students’ mistakes commonly made in writing and show how to correct them. This will be a helpful revision course in grammar too. Students will improve their ability to write clear sentences using varied structures, and will practice linking these together into more complex sequences and paragraphs. Besides, specific lessons will be dedicated to improving students’ reading skills and the fluency of their spoken English."
+    },
+    {
+      "code": "ENG100",
+      "name": "Improving Oral Communication Skills",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core",
+      "description": "In these classes, students develop their ability to speak with greater confidence, particularly in academic situations. Also, the course is designed to help students to improve their ability to listen to lectures in English. It is useful for students who need to give presentations as part of their course. It looks at common areas of difficulty such as structuring a presentation, designing effective visual materials and questioning techniques. Besides, it will train students for extempore talk, debating, and facing and taking interviews along with a number of notions and functions of essential oral communication skills"
+    },
+    {
+      "code": "ENG101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "ENG099",
+      "category": "Core",
+      "description": "This course is designed students to provide the opportunity for understanding and improving all four skills in English with special emphasis on reading and writing. Lessons are balanced in this way: Grammar and vocabulary lessons to improve the students’ accuracy in real-life settings; speaking and listening lessons to improve their confidence, fluency and presentation skills; and reading and critical thinking lessons to provide integrated language practice involving diverse topical issues. Overall, students’ capacity to organize and present ideas in English is developed."
+    },
+    {
+      "code": "ENG102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Core",
+      "description": "In this composition course, students will study the principles of writing and analyzing non-fiction prose, focusing on argument and academic research strategies. As students, one should be able to write a literate and well-argued essay and should be able to read a literary text with some understanding and sensitivity. For practical purposes, this means that students should be able to write an effectively organized and substantial essay that is generally grammatically and syntactically sound, and acquire the capacity to identify and discuss prose features. In English 102, students will acquire and polish the tools fundamental to effective writing and reading that will help them participate successfully in the discourse systems of the university and beyond."
+    },
+    {
+      "code": "ENG145",
+      "name": "Introduction to Linguistics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core",
+      "description": "The aim of this course is to familiarize students with some basic concepts of linguistics. The course components are aspects of human language, phonetics and phonology, morphology, syntax, semantics, language and society, language change, brain and language etc"
+    },
+    {
+      "code": "ENG154",
+      "name": "English Phonetics and Phonology",
+      "credits": 3,
+      "prerequisites": "ENG145",
+      "category": "Core",
+      "description": "The course introduces central themes relating to sound patterns and pronunciation in languages. Students have the opportunity to acquire knowledge and understanding of the production of sounds, and to acquire the skills necessary to describe, define and transcribe consonants, vowels and certain prosodic features such as stress and rhythm. The course includes the study of variation in sound patterns, such as those which are characteristics of various accents of English. Students are also introduced to the distribution of sounds in languages and to fundamental concepts and analytical techniques related to contrast and meaning in sound structures."
+    },
+    {
+      "code": "ENG155",
+      "name": "Improving Reading and Writing Skills",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Core",
+      "description": "All students need to be able to meet the linguistic demands of a course of study – and this need is critical if they are studying in a second or foreign language. This course focuses on the central problem of written and oral communication in academic contexts, and gives students an opportunity to develop their understanding of the language and teaching issues that are central to studying in English. The course draws on a range of practical insights and tips on preparing for academic demands of different English literature and linguistics courses, test-taking strategies, time management, and guidelines for preparing long assignments."
+    },
+    {
+      "code": "ENG191",
+      "name": "Introduction to Literature: Fiction and Non-Fiction Prose",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core",
+      "description": "This course introduces students to the major genres of literature such as short and long fiction and non-fiction prose with a view to introducing students to the forms and styles of these genres of literature."
+    },
+    {
+      "code": "ENG192",
+      "name": "Introduction to Literature: Poetry and Drama",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core",
+      "description": "This course aims at familiarizing students with two major genres of literature: Poetry and Drama. It covers different elements/aspects of poetry and drama such as language use in poetry, differences between prose and poetry, poetic diction, figures of speech, sound effects in poetry, different types of drama (tragedy, comedy, tragi-comedy, history, melodrama etc), elements of drama ( dialogue, action, conflict, dramatic irony, plot construction etc)."
+    },
+    {
+      "code": "ENG200",
+      "name": "Advanced Verbal Communication Skills",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective",
+      "description": "The ability to deliver effective speeches and presentations is a critical factor in job advancement and success. Preparation, including adopting different oral communication strategies, audience analysis and adaptation, enhances the effectiveness of speaking in public. In this course, students will learn how to develop and deliver messages and how to use supporting materials. Students will also learn how to lessen anxiety and leave a lasting impression on audiences, whether large or small."
+    },
+    {
+      "code": "ENG201",
+      "name": "Theories of Writing",
+      "credits": 3,
+      "prerequisites": "ENG155",
+      "category": "Elective",
+      "description": "The course familiarizes students with current theories of writing. It offers a perspective on the writing profession’s theoretical evolution from process to cohesion to cognition to social construction. Students will be asked to apply the theories learnt to their own writing practices."
+    },
+    {
+      "code": "ENG205",
+      "name": "History of the English Language",
+      "credits": 3,
+      "prerequisites": "ENG145",
+      "category": "Elective",
+      "description": "The purpose of this course is to introduce students to major developments in English language. It includes salient features of Old, Middle and Modern English. It also incorporates a comparison between British and American English, as well as a comparison among some non-native varieties of English such as Indian and African ones."
+    },
+    {
+      "code": "ENG207",
+      "name": "Psycholinguistics",
+      "credits": 3,
+      "prerequisites": "ENG145",
+      "category": "Elective",
+      "description": "This course emphasizes on the psychological aspects of language learning. It incorporates Child Language Acquisition, Sound System, Phonology, Syntax, Semantics, Interlanguage Theory, Universal Grammar Theory and Cognitive Theory."
+    },
+    {
+      "code": "ENG208",
+      "name": "Sociolinguistics",
+      "credits": 3,
+      "prerequisites": "ENG145",
+      "category": "Elective",
+      "description": "This course aims to investigate some of the ways in which linguistic and social variables interact in speech communities. We will examine both multilingual and monolingual speech communities. We consider language as a resource to convey cultural and personal identity, and what it reveals of language attitudes and social structure — and therefore of status and inequality in areas such as social class, gender, age, and ethnicity. We see how social identity illuminates variation in language, and learn about such topics as regional and social dialects, code-switching and bilingualism, pidgin and creole languages, rules of discourse, language rights, and speech in public arenas."
+    },
+    {
+      "code": "ENG209",
+      "name": "Political and Social History of England",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective",
+      "description": "This course introduces students to the major social and political events of England and also of Europe from the Tudor period to the end of 20th Century and the different literary movements during these periods."
+    },
+    {
+      "code": "ENG211",
+      "name": "Representations of Women in Literature",
+      "credits": 0,
+      "prerequisites": "None",
+      "category": "Elective",
+      "description": "The course examines representations of women in canonical literary works by men and women in the light of major issues raised by current feminist criticism. By the end of the semester students will be able to interpret texts using feminist terminology and judge them from a variety of feminist theoretical frameworks."
+    },
+    {
+      "code": "ENG213",
+      "name": "English Satire",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective",
+      "description": "The purpose of this course is to familiarize students with famous Satires in English. Texts include : a) Dryden McFlecknoe b) Swift Gulliver’s Travels A Battle of the Books c) Addison “Sir Roger at Church” Sir Roger at the Assizes” d) Pope Epistle to Dr. Arbuthnot e) Byron Don Juan, Bk, 1 f) Orwell Animal Farm"
+    },
+    {
+      "code": "ENG222",
+      "name": "Introduction to Bangla Literature",
+      "credits": 3,
+      "prerequisites": "ENG101",
+      "category": "Elective",
+      "description": ""
+    },
+    {
+      "code": "ENG226",
+      "name": "Business and Professional Writing",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Elective",
+      "description": "The course is designed to provide students of English with the language and personal skills to help them interact effectively with colleagues in the workplace. It provides information on writing CVs, reports, memos, faxes, meeting minutes, publicity material and proposals. In addition, the course will enable students to understand interviews, discussions, telephone conversations and recorded messages (Listening skills), read business documents to understand their gist and to extract specific information (Reading skills), write effective reports, proposals and email, describe information presented in diagrammatic form (Writing skills), discuss business problems and negotiate agreement, and prepare and deliver a short presentation (Speaking skills)."
+    },
+    {
+      "code": "ENG230",
+      "name": "Nineteenth Century Novel",
+      "credits": 3,
+      "prerequisites": "ENG191",
+      "category": "Elective",
+      "description": "This course includes the major novelists of the period and their representative works. The course usually starts with Jane Austen and then moves chronogically through the century, exploring and examining the nature and development of fiction through representative works of Emily Bronte, Charles Dickens, George Eliot, and Thomas Hardy. Students read the novels closely and discuss the issues raised by them."
+    },
+    {
+      "code": "ENG235",
+      "name": "Teaching Language through Literature",
+      "credits": 3,
+      "prerequisites": "ENG306",
+      "category": "Elective",
+      "description": "The purpose of this course is to familiarize students with some techniques of using literature for language skills training. The course will discuss some of the ideas both for and against the use of literature in language teaching, and consider how literature might prove an effective tool for training listening, speaking, reading and writing skills of English."
+    },
+    {
+      "code": "ENG245",
+      "name": "Romantic Poetry",
+      "credits": 3,
+      "prerequisites": "ENG192",
+      "category": "Elective",
+      "description": "This course is designed to provide students with an overview of the poetry of the Romantic period in English Literature. The course includes the major poets of this period. It examines Romanticism as a literary movement and then relates each individual poet to this movement. The focus will be on close reading of the poems. At the end of the semester students are expected to be able to independently examine and judge individual poems of the Romantic period."
+    },
+    {
+      "code": "ENG255",
+      "name": "Second Language Acquisition (SLA)",
+      "credits": 3,
+      "prerequisites": "ENG145, ENG207",
+      "category": "Elective",
+      "description": "The aim of the course is to look at some major areas related to second language acquisition or learning-mainly from an applied linguistic perspective. It covers the areas in breadth rather than in depth. By the end of the course, student should become familiar with the major theories relating to second language acquisition and gain an understanding of the complex relationship between theory and practice in language education."
+    },
+    {
+      "code": "ENG301",
+      "name": "Elizabethan and Restoration Drama",
+      "credits": 3,
+      "prerequisites": "ENG191, ENG192",
+      "category": "Elective",
+      "description": "In the course students will not only read plays from the two periods but will gain a perspective on the historical, religious and political backgrounds of these periods of English history also. Texts include selections from Thomas Kyd, Christopher Marlowe, William Shakespeare, Ben Jonson, and William Congreve."
+    },
+    {
+      "code": "ENG303",
+      "name": "Syllabus and Material Design",
+      "credits": 3,
+      "prerequisites": "ENG306",
+      "category": "Elective",
+      "description": "The purpose of this course is to introduce students to different types of syllabuses such as grammatical syllabus, structural syllabus, notional-functional syllabus, and communicative syllabus. It considers some of the fundamental considerations of syllabus design such as needs analysis, setting of goals, defining objectives, deciding about pedagogic approaches, selecting, grading and sequencing of items, and recommending testing procedures. The course also focuses on the basic considerations in selecting, adopting, and designing materials. Some of the checklists will be consulted for evaluation and a unit of material will be evaluated. The course will also include lesson planning and task design."
+    },
+    {
+      "code": "ENG305",
+      "name": "Linguistic Theories",
+      "credits": 3,
+      "prerequisites": "ENG145, ENG154",
+      "category": "Elective",
+      "description": "The course discusses the historical developments of Linguistics as a discipline. It incorporates the theories of Saussure, the descriptivists, the Sapir Whorf hypothesis, functional Linguistics of Prague School, Noam Chomsky and generative grammar and London school."
+    },
+    {
+      "code": "ENG306",
+      "name": "Methodology of Language Teaching",
+      "credits": 3,
+      "prerequisites": "ENG145",
+      "category": "Elective",
+      "description": "This course critically reviews different methodologies and their implementation in international English Language Teaching environments. We will consider how different methodologies have emerged out of theories of language learning and language acquisition and examine to what extent they are relevant to different pedagogic cultures."
+    },
+    {
+      "code": "ENG307",
+      "name": "Academic Writing",
+      "credits": 3,
+      "prerequisites": "ENG155, ENG309",
+      "category": "Elective",
+      "description": "This course is designed to help and guide students to write well-developed academic papers for their courses following the processes and conventions of academia. Practice of critical reading and critical thinking will be emphasized. Students will learn how to write a sound academic paper with a good introduction and conclusion through the process of paraphrasing, incorporating and synthesizing ideas, and selecting and using quotations from various primary and secondary sources of their readings. Building self-confidence as an original thinker and avoiding plagiarism will be also a component part of the course. It will acquaint students with current APA and MLA citation practices."
+    },
+    {
+      "code": "ENG309",
+      "name": "Advanced Reading and Writing",
+      "credits": 3,
+      "prerequisites": "ENG155",
+      "category": "Elective",
+      "description": "Students will be required to study selected literary pieces in order to develop an awareness of the linguistic devices an author employs and the effects they produce. They will explore different rhetorical modes including narration, description, process, comparison/contrast, classification, cause and effect. The course will also focus on word choice, sentence variety and organization of ideas. Reading will cover such areas as critical reading, finding explicit and implicit relationships between elements of texts, identifying author’s attitude and feelings, mood and tone, recognizing bias, and interpreting and critically evaluating texts. Writing will focus on styles of writing, introducing point of view, using the writer’s tone, conventions of referencing and quoting."
+    },
+    {
+      "code": "ENG310",
+      "name": "Shakespeare",
+      "credits": 3,
+      "prerequisites": "ENG301",
+      "category": "Elective",
+      "description": "The course aims to familiarize students with Shakespeare’s craft, technique, use of language and with the rudiments of Shakespearean stage structure through the reading of Shakespearean plays and poetry. Texts to be studied include Shakespearean tragedy, comedy, history plays, the problem plays and selected sonnets."
+    },
+    {
+      "code": "ENG313",
+      "name": "English for the Media",
+      "credits": 3,
+      "prerequisites": "ENG102",
+      "category": "Elective",
+      "description": "This course seeks to train students in journalistic writings such as short news reports with interesting captions/headings, subtitling, translating reports obtained from foreign news agencies, preparing long reports for the press or electronic media, writing special features for the media, and editing. It will focus on both objective reporting or distancing the self from the report and subjective reporting or taking a position while reporting. The course will train students to take active parts in press briefing/conferences and prepare reports on the briefings, interview persons, conduct surveys and prepare reports for the media. The course will give training in the art of news-casting with emphasis on pronunciation, stress, intonation, confidence, and naturalness."
+    },
+    {
+      "code": "ENG315",
+      "name": "Seventeenth and Eighteenth Century Poetry",
+      "credits": 3,
+      "prerequisites": "ENG192",
+      "category": "Elective",
+      "description": "This course will survey the major poets of the 17th and 18th century in English literature and will discuss the salient aspects of metaphysical and neo-classical poetry as well as Milton’s poetics. The poets who will be studied in detail include Donne, Marvell, Herbert, Dryden, Pope and Gray."
+    },
+    {
+      "code": "ENG316",
+      "name": "English for Specific Purposes",
+      "credits": 3,
+      "prerequisites": "ENG303, ENG306",
+      "category": "Elective",
+      "description": "This module aims to introduce students to the history, distinguishing features, theoretical foundations and methodological innovations of TESP: the teaching of English for Specific Purposes. It also aims at introducing students to the ideas of English for specific purposes such as English for academic or professional purposes, Engineering, or English for Business."
+    },
+    {
+      "code": "ENG319",
+      "name": "Translation Studies",
+      "credits": 3,
+      "prerequisites": "ENG155, ENG309",
+      "category": "Elective",
+      "description": "The aim of this course is to train students in the art of translation to meet the growing need of translators. It covers recent theoretical developments in the art of translation, and focuses on the use of theoretical insight in the practice of translating literary and non-literary texts from English to Bangla and vice-versa. Students will examine some works of translation and compare translations with original works. They will be required to translate some short stories, poems, or parts of some longer literary and non-literary texts from English to Bangla and vice-versa."
+    },
+    {
+      "code": "ENG320",
+      "name": "Victorian Prose and Poetry",
+      "credits": 3,
+      "prerequisites": "ENG191, ENG2456",
+      "category": "Elective",
+      "description": "This course introduces students to some major Victorian poets and prose writers. It focuses mainly on close analysis of prescribed texts, but it also grapples with the issue of the relation of each poet and writer to his or her Romantic predecessors and to the spirit of the age."
+    },
+    {
+      "code": "ENG330",
+      "name": "English Prose from Bacon to Lamb",
+      "credits": 3,
+      "prerequisites": "ENG191, ENG192",
+      "category": "Elective",
+      "description": "The course consists of prose writings from the Elizabethan to the Nineteenth Century. It includes selected writings of Bacon, Addison and Steele, Swift, Boswell and Lamb"
+    },
+    {
+      "code": "ENG402",
+      "name": "Pragmatics and Discourse Analysis",
+      "credits": 3,
+      "prerequisites": "ENG145, ENG154",
+      "category": "Elective",
+      "description": "This course introduces students to speech act theory, conversational maxims, relevance and implicature, communicative events, modality, cohesion, coherence, frames, presupposition and the pragmatics of politeness, topic change, turn taking, interruptions, conversation structure, clarification, repair, face saving and solidarity. It will also focus on spoken and written discourse analysis, contrastive pragmatics, anthropological perspective and cross-cultural communication. By the end of the course it is expected that students will be able to critically analyze spoken interaction and to evaluate written texts with particular reference to context, cohesive ties, topic framework, illocution and inference."
+    },
+    {
+      "code": "ENG340",
+      "name": "Eighteenth Century Fiction",
+      "credits": 3,
+      "prerequisites": "ENG192",
+      "category": "Elective",
+      "description": "Students will focus on the rise of the novel and discuss the major works of prose fiction of the period. The texts to be studied include Robinson Crusoe, Gulliver’s Travels, Joseph Andrews, Tom Jones and Rasselas"
+    },
+    {
+      "code": "ENG440",
+      "name": "Literary Theory",
+      "credits": 3,
+      "prerequisites": "Completion of at least 10 literature courses",
+      "category": "Elective",
+      "description": "The aim of this course is to familiarize students with different literary theories. The course includes selected works of Freud, Cleanth Brooks, E M Froster, M H Abrams, R Barthes, William Wordsworth, Fish, Said, and Kora Kaplan"
+    },
+    {
+      "code": "ENG507",
+      "name": "Research Methods in (a) English Literature (b) ELT (40 to 50 pages)",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Capstone",
+      "description": "The course aims at introducing students to the approaches and methods of research in linguistics, ELT/Applied Linguistics and literature. It will examine some research papers, articles and dissertation, and find out the approaches and methods employed in those studies. It will cover the different steps such as selecting the title, doing literature review, writing an outline, drafting, editing, data collection, data analysis, presenting results, using reference tools, documentation, and searching the internet."
+    },
+    {
+      "code": "ENG522",
+      "name": "Modernism to Postmodernism",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Elective",
+      "description": "This course is an introduction to the philosophical ideas that have shaped the practice of contemporary art, criticism, and cultural studies in the west. We begin with an examination of some historical problems that have arisen in thinking about art. Then we survey the various systems that constitute Modernist cultural “ theory”, including formalism, phenomenology, Marxism, Structuralism, semiotics and psychoanalysis. These modernist theories are compared to poststructuralist and feminist views of art production and reception. The overall objective of this study is to provide the necessary background for understanding and evaluating theories of contemporary culture. The literary works that will be studied are: Jessica Hagedorn: Dogeaters, or Danger and Beauty, or The Gangster of Love Gabriel Garcia Marquez: One Hundred Years of Solitude or Strange Pilgrims or The Chronicle of Death Foretold Toni Morrison: Paradise Richard Powers: Prisoner’s Dilemma , or Operation Wandering Soul Paul Auster: Blue in the Face,,or Leviathan William Gibson: Virtual Light, or Monalisa Thomas Pynnchon: The Crying of Lot 49"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": []
+}

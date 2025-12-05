@@ -1,0 +1,149 @@
+{
+  "program": "MA in English",
+  "courses": [
+    {
+      "serial_no": 1,
+      "course_code": "ENG 9501",
+      "course_title": "Professional Communications",
+      "course_type": "Core"
+    },
+    {
+      "serial_no": 2,
+      "course_code": "ENG 9502",
+      "course_title": "Modernism to Postmodernism",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 3,
+      "course_code": "ENG 9503",
+      "course_title": "Masterpieces of World Literature",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 4,
+      "course_code": "ENG 9504",
+      "course_title": "Translation: Theory and Practice",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 5,
+      "course_code": "ENG 9505",
+      "course_title": "War and Trauma in Literary Studies",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 6,
+      "course_code": "ENG 9506",
+      "course_title": "Contemporary British Literature",
+      "course_type": "Core"
+    },
+    {
+      "serial_no": 7,
+      "course_code": "ENG 9507",
+      "course_title": "Research Methods in English Literature",
+      "course_type": "Core"
+    },
+    {
+      "serial_no": 8,
+      "course_code": "ENG 9508",
+      "course_title": "South Asian Literature in English",
+      "course_type": "Core"
+    },
+    {
+      "serial_no": 9,
+      "course_code": "ENG 9509",
+      "course_title": "Contemporary American Literature",
+      "course_type": "Core"
+    },
+    {
+      "serial_no": 10,
+      "course_code": "ENG 9510",
+      "course_title": "Advanced Literary Theory",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 11,
+      "course_code": "ENG 9511",
+      "course_title": "Partition Literature",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 12,
+      "course_code": "ENG 9512",
+      "course_title": "Literature and Spirituality",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 13,
+      "course_code": "ENG 9513",
+      "course_title": "Advanced Cultural Studies",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 14,
+      "course_code": "ENG 9514",
+      "course_title": "Gender and Feminism",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 15,
+      "course_code": "ENG 9515",
+      "course_title": "Ecocriticism: Theory and Practice",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 16,
+      "course_code": "ENG 9516",
+      "course_title": "Digital Humanities",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 17,
+      "course_code": "ENG 9517",
+      "course_title": "Children’s Literature",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 18,
+      "course_code": "ENG 9518",
+      "course_title": "Film, Literature and Adaptation",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 19,
+      "course_code": "ENG 9519",
+      "course_title": "Sci-fi and Fantasy Literature",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 20,
+      "course_code": "ENG 9520",
+      "course_title": "Graphic Novels",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 21,
+      "course_code": "ENG 9521",
+      "course_title": "From Media to New Media",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 22,
+      "course_code": "ENG 9545",
+      "course_title": "Practicum",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 23,
+      "course_code": "ENG 9582",
+      "course_title": "Curriculum and Materials Design",
+      "course_type": "Elective"
+    },
+    {
+      "serial_no": 24,
+      "course_code": "ENG 9599",
+      "course_title": "Dissertation",
+      "course_type": "Elective"
+    }
+  ]
+}

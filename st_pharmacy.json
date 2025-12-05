@@ -1,0 +1,289 @@
+{
+  "department_info": {
+    "department_name": "Pharmacy"
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {},
+  "courses": [
+    {
+      "code": "PHRM 101",
+      "name": "Physical Chemistry for Pharmacy",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 102",
+      "name": "Human Anatomy",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 103",
+      "name": "Organic Chemistry I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 201",
+      "name": "Human Physiology I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 202",
+      "name": "Basic Microbiology",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 203",
+      "name": "Pharmaceutical Analysis I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 204",
+      "name": "Physical Pharmacy II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 205",
+      "name": "Inorganic Pharmaceutical Chemistry",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 206",
+      "name": "Biochemistry",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 207",
+      "name": "Pharmacognosy I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 208",
+      "name": "Human Physiology II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 209",
+      "name": "Statistics for Pharmaceutical Sciences",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 210",
+      "name": "Pharmaceutics I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 211",
+      "name": "Organic Pharmacy II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 301",
+      "name": "Pharmacology I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 302",
+      "name": "Medicinal Chemistry I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 303",
+      "name": "Pharmacognosy II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 304",
+      "name": "Medicinal Chemistry II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 305",
+      "name": "Pharmaceutical Microbiology",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 306",
+      "name": "Pharmacology II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 307",
+      "name": "Pharmaceutical Technology I",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 308",
+      "name": "Pharmaceutics II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 309",
+      "name": "Pharmaceutical Analysis II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 310",
+      "name": "Toxicology",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 311",
+      "name": "Clinical & Hospital Pharmacy",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 312",
+      "name": "Pharmaceutical Analysis III",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 401",
+      "name": "Pharmaceutical Management and Marketing",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 402",
+      "name": "Pharmaceutical Technology II",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 403",
+      "name": "Drug Design and Development",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 404",
+      "name": "Pharmaceutical Research",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 405",
+      "name": "Pharmacy Quality Assurance",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 406",
+      "name": "Biopharmaceutics & Pharmacokinetics",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 407",
+      "name": "Pharmaceutical Biotechnology",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 409",
+      "name": "Advanced Pharmaceutical Analysis",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 410",
+      "name": "Pharmacy Law and Ethics",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 411",
+      "name": "Cosmetology",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Elective"
+    },
+    {
+      "code": "PHRM 412",
+      "name": "Medicinal Chemistry III",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 413",
+      "name": "Pharmacology III",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "PHRM 414",
+      "name": "Pharmaceutical Engineering",
+      "credits": null,
+      "prerequisites": "None",
+      "category": "Core"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": []
+}

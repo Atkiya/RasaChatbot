@@ -1,0 +1,93 @@
+{
+  "program": "Master of Arts (MA) in Teaching English to Speakers of Other Languages (TESOL)",
+  "total_credits": {
+    "minimum": 30,
+    "maximum": 36,
+    "note": "Total credits vary based on student's prior academic background."
+  },
+  "sections": {
+    "core_courses": {
+      "total_courses": 8,
+      "total_credits": 24,
+      "courses": [
+        { "code": "ENG_9503", "title": "Methodologies of English Language Teaching" },
+        { "code": "ENG_9507", "title": "Research Methods in ELT" },
+        { "code": "ENG_9512", "title": "Testing and Evaluation" },
+        { "code": "ENG_9535", "title": "Second Language Acquisition: Theory and Practice" },
+        { "code": "ENG_9542", "title": "Second language reading and writing pedagogy" },
+        { "code": "ENG_9543", "title": "Teaching Speaking and Listening Skills" },
+        { "code": "ENG_9545", "title": "Practicum" },
+        { "code": "ENG_9582", "title": "Designing language course, materials" }
+      ]
+    },
+    "elective_courses": {
+      "note": "Number of required electives depends on student’s prior degree.",
+      "tracks": {
+        "BA_English_4_year": {
+          "description": "Students with 4-year BA in English",
+          "options": [
+            { "courses": 2, "plus_dissertation": true, "credits": 12 },
+            { "courses": 4, "plus_dissertation": false, "credits": 12 }
+          ]
+        },
+        "BA_English_3_year": {
+          "description": "Students with 3-year BA in English",
+          "options": [
+            { "courses": 4, "plus_dissertation": true, "credits": 18 },
+            { "courses": 6, "plus_dissertation": false, "credits": 18 }
+          ]
+        },
+        "Non_English_Background": {
+          "description": "Students with non-English background",
+          "options": [
+            { "courses": 6, "plus_dissertation": true, "credits": 24 },
+            { "courses": 8, "plus_dissertation": false, "credits": 24 }
+          ],
+          "mandatory_course": "ENG_9501"
+        }
+      },
+      "course_list": [
+        {
+          "code": "ENG_9501",
+          "title": "Fundamentals of Linguistics",
+          "note": "Required for students with non-English or no linguistics background"
+        },
+        { "code": "ENG_9557", "title": "Teaching English Language Through Literature" },
+        { "code": "ENG_9590", "title": "Teacher Education" },
+        { "code": "ENG_9514", "title": "Social Dynamics of Language Use" },
+        { "code": "ENG_9516", "title": "Teaching English for Specific Purposes" },
+        { "code": "ENG_9526", "title": "Semantics and Pragmatics" },
+        { "code": "ENG_9544", "title": "Critical Discourse Analysis" },
+        { "code": "ENG_9555", "title": "Information Technology for Language Teaching" },
+        { "code": "ENG_9556", "title": "Critical Pedagogy" },
+        { "code": "ENG_9559", "title": "Teaching Young Learners" },
+        { "code": "ENG_9565", "title": "ELT Policies and Language Planning" },
+        { "code": "ENG_9569", "title": "Teaching English for Academic Purposes" },
+        { "code": "ENG_9580", "title": "Psychology of Language Learning" }
+      ]
+    },
+    "thesis_or_additional_electives": {
+      "total_credits": 6,
+      "options": [
+        {
+          "type": "Thesis",
+          "code": "ENG_9599",
+          "title": "Dissertation",
+          "credits": 6
+        },
+        {
+          "type": "Elective Courses",
+          "description": "2 additional elective courses (3 credits each)",
+          "credits": 6
+        }
+      ],
+      "note": "Thesis is optional and replaces 2 elective courses. Required only if chosen in the elective track."
+    }
+  },
+  "prerequisites_and_rules": [
+    "Students with non-English background or no prior linguistics coursework must take ENG_9501.",
+    "ENG_9501 is listed as an elective but is mandatory for certain students.",
+    "The dissertation (ENG_9599) is only required if selected as part of the elective track option.",
+    "Total program credits = 24 (core) + [12/18/24] (electives) – but thesis (6 credits) may replace 2 electives."
+  ]
+}

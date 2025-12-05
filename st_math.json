@@ -1,0 +1,521 @@
+{
+  "department_info": {
+    "department_name": "Mathematical and Physical Sciences",
+    "program_name": "Bachelor of Science in Mathematics",
+    "total_credits": 128
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "language_and_general_education": 21,
+    "physics_and_statistics": 14,
+    "mathematics_core": 81,
+    "mathematics_elective": 12
+  },
+  "courses": [
+    {
+      "code": "ENG 101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Language & General Education"
+    },
+    {
+      "code": "ENG 102",
+      "name": "Composition & Communication Skills",
+      "credits": 3,
+      "prerequisites": "ENG 101",
+      "category": "Language & General Education"
+    },
+    {
+      "code": "GEN 201",
+      "name": "Bangladesh Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Language & General Education"
+    },
+    {
+      "code": "OGEC 001",
+      "name": "Optional General Education Course I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Language & General Education"
+    },
+    {
+      "code": "OGEC 002",
+      "name": "Optional General Education Course II",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Language & General Education"
+    },
+    {
+      "code": "GEN 202",
+      "name": "Eastern Culture & Heritage",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 203",
+      "name": "Ecological System & Environment",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 204",
+      "name": "Western Thought",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 205",
+      "name": "Introduction to Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 206",
+      "name": "Introduction to Sociology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 207",
+      "name": "Industrial Psychology",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 208",
+      "name": "Introduction to Philosophy",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 210",
+      "name": "International Relations",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 211",
+      "name": "Concepts of Journalism & Media Studies",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 239",
+      "name": "Professional Ethics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "GEN 2XX",
+      "name": "Any other GEN course approved by the University",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education Elective"
+    },
+    {
+      "code": "OBE 001",
+      "name": "Optional Business/Economics Course I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "OBE 002",
+      "name": "Optional Business/Economics Course II",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "BUS 101",
+      "name": "Introduction to Business",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "ACT 101",
+      "name": "Financial Accounting",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "ECO 101",
+      "name": "Principles of Microeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "ECO 102",
+      "name": "Introduction to Macroeconomics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "FIN 101",
+      "name": "Principles of Finance",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "MGT 101",
+      "name": "Principles of Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "MKT 101",
+      "name": "Principles of Marketing",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Business/Economics Elective"
+    },
+    {
+      "code": "PHY 112",
+      "name": "Physics I",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Physics and Statistics"
+    },
+    {
+      "code": "PHY 212",
+      "name": "Physics II",
+      "credits": 3,
+      "prerequisites": "PHY 112",
+      "category": "Physics and Statistics"
+    },
+    {
+      "code": "STA 104",
+      "name": "Elements of Statistics & Probability",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Physics and Statistics"
+    },
+    {
+      "code": "STA 204",
+      "name": "Advanced Statistics",
+      "credits": 4,
+      "prerequisites": "STA 104",
+      "category": "Physics and Statistics"
+    },
+    {
+      "code": "MAT 111",
+      "name": "Fundamentals of Mathematics",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 112",
+      "name": "Calculus I",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 114",
+      "name": "Calculus II",
+      "credits": 3,
+      "prerequisites": "MAT 112",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 115",
+      "name": "Analytic and Vector Geometry",
+      "credits": 3,
+      "prerequisites": "MAT 112",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 116",
+      "name": "Differential Equations I",
+      "credits": 3,
+      "prerequisites": "MAT 114",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 117",
+      "name": "Programming Language I",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 212",
+      "name": "Differential Equations II",
+      "credits": 3,
+      "prerequisites": "MAT 116",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 213",
+      "name": "Linear Algebra",
+      "credits": 3,
+      "prerequisites": "MAT 115",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 214",
+      "name": "Real Analysis",
+      "credits": 3,
+      "prerequisites": "MAT 114",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 215",
+      "name": "Abstract Algebra",
+      "credits": 3,
+      "prerequisites": "MAT 111",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 216",
+      "name": "Data Structures and Algorithms",
+      "credits": 4,
+      "prerequisites": "MAT 117",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 312",
+      "name": "Programming Language II",
+      "credits": 3,
+      "prerequisites": "MAT 117",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 313",
+      "name": "Mathematical Methods",
+      "credits": 4,
+      "prerequisites": "MAT 212, MAT 213",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 314",
+      "name": "Mechanics",
+      "credits": 3,
+      "prerequisites": "MAT 212",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 315",
+      "name": "Complex Analysis",
+      "credits": 3,
+      "prerequisites": "MAT 214",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 316",
+      "name": "Discrete Mathematics",
+      "credits": 3,
+      "prerequisites": "MAT 111",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 317",
+      "name": "Numerical Analysis I",
+      "credits": 4,
+      "prerequisites": "MAT 213, MAT 117",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 318",
+      "name": "Theory of Numbers",
+      "credits": 3,
+      "prerequisites": "MAT 215",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 319",
+      "name": "Operations Research",
+      "credits": 3,
+      "prerequisites": "MAT 213",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 411",
+      "name": "Numerical Analysis II",
+      "credits": 4,
+      "prerequisites": "MAT 317",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 412",
+      "name": "Tensor Analysis",
+      "credits": 3,
+      "prerequisites": "MAT 213, MAT 314",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 414",
+      "name": "Differential Geometry",
+      "credits": 3,
+      "prerequisites": "MAT 214, MAT 314",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 415",
+      "name": "Fluid Mechanics",
+      "credits": 3,
+      "prerequisites": "MAT 314",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 416",
+      "name": "Industrial Mathematics",
+      "credits": 3,
+      "prerequisites": "MAT 319",
+      "category": "Mathematics Core"
+    },
+    {
+      "code": "MAT 499",
+      "name": "Research Project",
+      "credits": 4,
+      "prerequisites": "Senior Standing",
+      "category": "Capstone"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": [
+    {
+      "type": "elective_group",
+      "group_name": "Mathematics Elective Courses",
+      "description": "A student has to take four courses (ECM 001 – ECM 004) with a minimum of 12 credit hours from these Elective Modules",
+      "courses": [
+        {
+          "code": "MAT 421",
+          "name": "Mathematical Modeling in Biology",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 422",
+          "name": "Mathematical Modeling in Finance and Business Management",
+          "credits": 3,
+          "prerequisites": "None",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 424",
+          "name": "Applied Analysis",
+          "credits": 3,
+          "prerequisites": "MAT 214",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 425",
+          "name": "Econometrics",
+          "credits": 3,
+          "prerequisites": "STA 204",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 431",
+          "name": "Fuzzy Mathematics",
+          "credits": 3,
+          "prerequisites": "MAT 215",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 432",
+          "name": "Theory of Lattices",
+          "credits": 3,
+          "prerequisites": "MAT 215",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 433",
+          "name": "Integral Equations",
+          "credits": 3,
+          "prerequisites": "MAT 212",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 434",
+          "name": "Asymptotic Analysis and Perturbation Methods",
+          "credits": 3,
+          "prerequisites": "MAT 212",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 451",
+          "name": "Plasma Physics",
+          "credits": 3,
+          "prerequisites": "PHY 212, MAT 314",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 452",
+          "name": "Quantum Mechanics",
+          "credits": 3,
+          "prerequisites": "PHY 212, MAT 314",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 453",
+          "name": "Classical Mechanics and Special Theory of Relativity",
+          "credits": 3,
+          "prerequisites": "MAT 314",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 454",
+          "name": "Thermodynamics",
+          "credits": 3,
+          "prerequisites": "PHY 212",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 461",
+          "name": "Actuarial Mathematics",
+          "credits": 3,
+          "prerequisites": "STA 204",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 462",
+          "name": "Stochastic Calculus",
+          "credits": 3,
+          "prerequisites": "STA 204, MAT 214",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 471",
+          "name": "Theory of Groups",
+          "credits": 3,
+          "prerequisites": "MAT 215",
+          "category": "Mathematics Elective"
+        },
+        {
+          "code": "MAT 472",
+          "name": "Theory of Rings and Modules",
+          "credits": 3,
+          "prerequisites": "MAT 215",
+          "category": "Mathematics Elective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "department_info": {
+    "department_name": "Electrical and Electronic Engineering (EEE)",
+    "program_name": "B.Sc. in EEE",
+    "total_credits": 140
+  },
+  "program_educational_objectives": [],
+  "program_outcomes": [],
+  "knowledge_profiles": [],
+  "engineering_problems": [],
+  "engineering_activities": [],
+  "course_summaries": {
+    "general_education_requirement": 21,
+    "core_requirement": 93,
+    "elective_requirement": 20,
+    "final_year_design_project": 6
+  },
+  "courses": [
+    {
+      "code": "ENG 101",
+      "name": "Basic English",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "ENG 102",
+      "name": "Composition and Communication Skills",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "GEN 226",
+      "name": "Emergence of Bangladesh",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "EEE 399",
+      "name": "Engineering Project Management",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "Optional General Education I",
+      "name": "Approved General Education Course",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "Optional General Education II",
+      "name": "Approved General Education Course",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "Optional Non-Engineering",
+      "name": "Approved Non-Engineering Course",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "General Education"
+    },
+    {
+      "code": "EEE 101",
+      "name": "Electrical Circuits I",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 102",
+      "name": "Electronic Circuits I",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 105",
+      "name": "Computer Programming",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 201",
+      "name": "Electrical Circuits II",
+      "credits": 4,
+      "prerequisites": "EEE 101",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 202",
+      "name": "Electronic Circuits II",
+      "credits": 4,
+      "prerequisites": "EEE 102",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 204",
+      "name": "Numerical Analysis for Electrical Engineering",
+      "credits": 4,
+      "prerequisites": "MAT 102",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 205",
+      "name": "Digital Logic Design",
+      "credits": 4,
+      "prerequisites": "EEE 102",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 300",
+      "name": "Electrical Services Design",
+      "credits": 3,
+      "prerequisites": "EEE 201",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 301",
+      "name": "Electrical Machines",
+      "credits": 4,
+      "prerequisites": "EEE 201",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 303",
+      "name": "Signals and Linear Systems",
+      "credits": 3,
+      "prerequisites": "MAT 205, EEE 201",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 304",
+      "name": "Electrical Power Systems",
+      "credits": 4,
+      "prerequisites": "EEE 201",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 305",
+      "name": "Electromagnetic Fields and Waves",
+      "credits": 3,
+      "prerequisites": "PHY 109, MAT 104",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 306",
+      "name": "Fundamentals of Embedded Systems",
+      "credits": 4,
+      "prerequisites": "EEE 205",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 307",
+      "name": "Telecommunication Engineering",
+      "credits": 4,
+      "prerequisites": "EEE 303",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 308",
+      "name": "Electronic Properties of Materials",
+      "credits": 3,
+      "prerequisites": "PHY 209",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 309",
+      "name": "Digital Signal Processing",
+      "credits": 4,
+      "prerequisites": "EEE 303",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 402",
+      "name": "Control Systems",
+      "credits": 4,
+      "prerequisites": "EEE 303",
+      "category": "Core"
+    },
+    {
+      "code": "EEE 403",
+      "name": "Engineer and Society",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Core"
+    },
+    {
+      "code": "CHE 101",
+      "name": "Introduction to Chemistry",
+      "credits": 4,
+      "prerequisites": "None",
+      "category": "Natural Science"
+    },
+    {
+      "code": "MAT 101",
+      "name": "Differential and Integral Calculus",
+      "credits": 3,
+      "prerequisites": "None",
+      "category": "Mathematics"
+    },
+    {
+      "code": "MAT 102",
+      "name": "Differential Equations and Special Functions",
+      "credits": 3,
+      "prerequisites": "MAT 101",
+      "category": "Mathematics"
+    },
+    {
+      "code": "MAT 104",
+      "name": "Co-ordinate Geometry and Vector Analysis",
+      "credits": 3,
+      "prerequisites": "MAT 101",
+      "category": "Mathematics"
+    },
+    {
+      "code": "MAT 205",
+      "name": "Linear Algebra and Complex Variables",
+      "credits": 3,
+      "prerequisites": "MAT 102",
+      "category": "Mathematics"
+    },
+    {
+      "code": "PHY 109",
+      "name": "Engineering Physics – I (Introductory Classical Physics)",
+      "credits": 4,
+      "prerequisites": "MAT 101",
+      "category": "Natural Science"
+    },
+    {
+      "code": "PHY 209",
+      "name": "Engineering Physics – II (Introductory Quantum Physics)",
+      "credits": 3,
+      "prerequisites": "PHY 109",
+      "category": "Natural Science"
+    },
+    {
+      "code": "STA 102",
+      "name": "Statistics and Probability",
+      "credits": 3,
+      "prerequisites": "MAT 101",
+      "category": "Mathematics"
+    },
+    {
+      "code": "EEE 413",
+      "name": "Fundamentals of Nanotechnology",
+      "credits": 3,
+      "prerequisites": "EEE 308",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 414",
+      "name": "Optoelectronics",
+      "credits": 3,
+      "prerequisites": "EEE 308",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 415",
+      "name": "Semiconductor Processing and Fabrication",
+      "credits": 4,
+      "prerequisites": "EEE 308",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 416",
+      "name": "VLSI Circuits and Systems",
+      "credits": 4,
+      "prerequisites": "EEE 205",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 417",
+      "name": "Semiconductor Devices",
+      "credits": 3,
+      "prerequisites": "EEE 308",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 418",
+      "name": "Analog Integrated Circuits",
+      "credits": 4,
+      "prerequisites": "EEE 202",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 419",
+      "name": "Biomedical Electronics",
+      "credits": 3,
+      "prerequisites": "EEE 202",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 421",
+      "name": "RF and Microwave Engineering",
+      "credits": 4,
+      "prerequisites": "EEE 305",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 422",
+      "name": "Digital Communications",
+      "credits": 4,
+      "prerequisites": "EEE 307",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 423",
+      "name": "Wireless and Mobile Communications",
+      "credits": 4,
+      "prerequisites": "EEE 307",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 425",
+      "name": "Digital Image Processing",
+      "credits": 3,
+      "prerequisites": "EEE 309",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 426",
+      "name": "Advanced Telecommunication Engineering",
+      "credits": 3,
+      "prerequisites": "EEE 307",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 433",
+      "name": "Computer Networks",
+      "credits": 4,
+      "prerequisites": "EEE 205",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 434",
+      "name": "Computer Architecture",
+      "credits": 4,
+      "prerequisites": "EEE 205",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 435",
+      "name": "Embedded Systems",
+      "credits": 4,
+      "prerequisites": "EEE 306",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 436",
+      "name": "Introduction to Machine Learning",
+      "credits": 3,
+      "prerequisites": "STA 102",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 441",
+      "name": "Power Stations",
+      "credits": 3,
+      "prerequisites": "EEE 304",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 442",
+      "name": "Switchgear and Protective Relays",
+      "credits": 4,
+      "prerequisites": "EEE 304",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 444",
+      "name": "High Voltage Engineering",
+      "credits": 3,
+      "prerequisites": "EEE 304",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 445",
+      "name": "Renewable Energy",
+      "credits": 3,
+      "prerequisites": "EEE 304",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 446",
+      "name": "Power System Operation and Reliability",
+      "credits": 3,
+      "prerequisites": "EEE 304",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 447",
+      "name": "Power Electronics",
+      "credits": 4,
+      "prerequisites": "EEE 202",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 450",
+      "name": "Special Topic in Electrical and Electronic Engineering",
+      "credits": 3,
+      "prerequisites": "Instructor Consent",
+      "category": "Elective"
+    },
+    {
+      "code": "EEE 490",
+      "name": "Research Project",
+      "credits": 6,
+      "prerequisites": "Senior Standing",
+      "category": "Capstone"
+    },
+    {
+      "code": "EEE 400A",
+      "name": "Final Year Design Project (part 1 of 3)",
+      "credits": 1,
+      "prerequisites": "Senior Standing",
+      "category": "Capstone"
+    },
+    {
+      "code": "EEE 400B",
+      "name": "Final Year Design Project (part 2 of 3)",
+      "credits": 2,
+      "prerequisites": "EEE 400A",
+      "category": "Capstone"
+    },
+    {
+      "code": "EEE 400C",
+      "name": "Final Year Design Project (part 3 of 3)",
+      "credits": 3,
+      "prerequisites": "EEE 400B",
+      "category": "Capstone"
+    }
+  ],
+  "majors": {},
+  "semester_plan": [],
+  "miscellaneous": []
+}
