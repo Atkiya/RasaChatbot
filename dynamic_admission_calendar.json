@@ -3,172 +3,38 @@
     "title": "Admission Deadlines and Test Dates",
     "institution": "East West University",
     "semester": "Spring 2026",
+    "last_updated": "December 5, 2025",
     "disclaimer": "Dates are subject to change as per university authority announcements"
   },
   "undergraduate_admission": [
-    {
-      "program": "Bachelor of Business Administration (BBA)",
-      "department": "Department of BA",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "BSS in Economics",
-      "department": "Department of Economics",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "BA in English",
-      "department": "Department of English",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "LLB (Hons)",
-      "department": "Department of Law",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "BSS in Sociology",
-      "department": "Department of Sociology",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "BSS in Information Studies",
-      "department": "Department of Information Studies",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "BSS in Population and Public Health Sciences",
-      "department": "Department of Social Relations",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "B.Sc. in CSE",
-      "department": "Department of CSE",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. in ICE",
-      "department": "Department of CSE",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. in EEE",
-      "department": "Department of EEE",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "Bachelor of Pharmacy",
-      "department": "Department of Pharmacy",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. in Genetic Engineering and Biotechnology",
-      "department": "Department of Genetic Engineering and Biotechnology",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. in Civil Engineering",
-      "department": "Department of Civil Engineering",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. (Hons) in Mathematics",
-      "department": "Department of Mathematical & Physical Sciences",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    },
-    {
-      "program": "B.Sc. in Data Science and Analytics",
-      "department": "Department of Mathematical & Physical Sciences",
-      "application_deadline": "December 04 2025",
-      "admission_test": "Sunday, 07 December 2025 at 10:00 AM"
-    }
+    { "program": "Bachelor of Business Administration (BBA)", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "BSS in Economics", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "BA in English", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "LLB (Hons)", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "BSS in Sociology", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "BSS in Information Studies", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "BSS in Population and Public Health Sciences", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 10:00 AM" },
+    { "program": "B.Sc. in CSE", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. in ICE", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. in EEE", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "Bachelor of Pharmacy", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Genetic Engineering and Biotechnology", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Civil Engineering", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. (Hons) in Mathematics", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" },
+    { "program": "B.Sc. in Data Science and Analytics", "application_deadline": "Dec 27, 2025", "admission_test": "Saturday, 28 December 2025 at 02:30 PM" }
   ],
   "graduate_admission": [
-    {
-      "program": "Master of Business Administration (MBA)",
-      "department": "MBA and EMBA Program",
-      "application_deadline": "December 05 2025",
-      "admission_test": "Saturday, 06 December 2025 at 02:30 PM"
-    },
-    {
-      "program": "Master of Business Administration, Executive Program (EMBA)",
-      "department": "MBA and EMBA Program",
-      "application_deadline": "December 09 2025",
-      "admission_test": "Will be notified later"
-    },
-    {
-      "program": "Master of Development Studies (MDS)",
-      "department": "Department of Economics",
-      "application_deadline": "December 22 2025",
-      "admission_test": "Tuesday, 23 December 2025 at 06:00 PM"
-    },
-    {
-      "program": "MSS in Economics",
-      "department": "Department of Economics",
-      "application_deadline": "December 22 2025",
-      "admission_test": "Tuesday, 23 December 2025 at 06:00 PM"
-    },
-    {
-      "program": "MA in English",
-      "department": "Department of English",
-      "application_deadline": "January 05 2026",
-      "admission_test": "Tuesday, 06 January 2026 at 05:00 PM"
-    },
-    {
-      "program": "MA in Teaching English to Speakers of Other Languages",
-      "department": "Department of English",
-      "application_deadline": "January 05 2026",
-      "admission_test": "Tuesday, 06 January 2026 at 05:00 PM"
-    },
-    {
-      "program": "LLM",
-      "department": "Department of Law",
-      "application_deadline": "January 12 2026",
-      "admission_test": "Thursday, 15 January 2026 at 01:00 PM"
-    },
-    {
-      "program": "MS in CSE",
-      "department": "Department of CSE",
-      "application_deadline": "January 06 2026",
-      "admission_test": "Wednesday, 07 January 2026 at 03:00 PM"
-    },
-    {
-      "program": "MS in Data Science and Analytics",
-      "department": "Department of Mathematical & Physical Sciences",
-      "application_deadline": "December 17 2025",
-      "admission_test": "Friday, 19 December 2025 at 09:00 AM"
-    },
-    {
-      "program": "M. Pharm",
-      "department": "Department of Pharmacy",
-      "application_deadline": "December 25 2025",
-      "admission_test": "Will be notified later through website"
-    },
-    {
-      "program": "Post Graduate Diploma in Population, Public Health & Disaster Management (PPDM)",
-      "department": "Department of Social Relations",
-      "application_deadline": "January 07 2026",
-      "admission_test": "Will be notified later"
-    },
-    {
-      "program": "PGD in Entrepreneurship Development Program",
-      "department": "Entrepreneurship Development Centre",
-      "application_deadline": "January 07 2026",
-      "admission_test": "Will be notified later"
-    }
+    { "program": "Master of Business Administration (MBA)", "application_deadline": "Dec 29, 2025", "admission_test": "Monday, 30 December 2025 at 02:30 PM" },
+    { "program": "Executive MBA (EMBA)", "application_deadline": "Jan 15, 2026", "admission_test": "Saturday, 17 January 2026 at 10:00 AM" },
+    { "program": "Master of Development Studies (MDS)", "application_deadline": "Jan 20, 2026", "admission_test": "Wednesday, 21 January 2026 at 06:30 PM" },
+    { "program": "MSS in Economics", "application_deadline": "Jan 20, 2026", "admission_test": "Wednesday, 21 January 2026 at 06:30 PM" },
+    { "program": "MA in English", "application_deadline": "Jan 18, 2026", "admission_test": "Monday, 19 January 2026 at 05:30 PM" },
+    { "program": "MA in TESOL", "application_deadline": "Jan 18, 2026", "admission_test": "Monday, 19 January 2026 at 05:30 PM" },
+    { "program": "MPRHGD", "application_deadline": "Jan 22, 2026", "admission_test": "Friday, 23 January 2026 at 03:00 PM" },
+    { "program": "LLM", "application_deadline": "Jan 10, 2026", "admission_test": "Saturday, 11 January 2026 at 10:00 AM" },
+    { "program": "MS in CSE", "application_deadline": "Jan 18, 2026", "admission_test": "Tuesday, 20 January 2026 at 03:00 PM" },
+    { "program": "M. S. in Data Science and Analytics", "application_deadline": "Jan 15, 2026", "admission_test": "Friday, 16 January 2026 at 09:00 AM" },
+    { "program": "Master of Pharmacy", "application_deadline": "Jan 12, 2026", "admission_test": "Wednesday, 14 January 2026 at 10:00 AM" },
+    { "program": "Post Graduate Diploma in Population, Public Health & Disaster Management (PPDM)", "application_deadline": "Jan 22, 2026", "admission_test": "Friday, 23 January 2026 at 06:30 PM" }
   ]
 }
